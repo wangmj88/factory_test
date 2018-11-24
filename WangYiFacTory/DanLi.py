@@ -21,7 +21,7 @@ class Bus(Singleton):#Bus 继承了Singleton所以Bus就是一个单例模式
         print('Sending Signal Data...',data)
         self.lock.release()#释放锁
 
-#线程对象，为更加说明单例的含义，这里讲Bus对象实例化写在了run里
+#线程对象，为更加说明单例的含义，这里将Bus对象实例化写在了run里
 class VisitEntity(threading.Thread):#多线程访问实体，threading中必须有一个run函数，形成多线程
     my_buy = ""
     name = ""
