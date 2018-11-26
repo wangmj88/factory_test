@@ -1,4 +1,5 @@
 # -*- coding: utf-8 -*-
+#https://www.cnblogs.com/plokmju/p/6445976.html 代码讲解
 
 import time, os
 
@@ -31,17 +32,17 @@ def getWorkConfig():
                 break
     finally:
         f.close()
-        print "config : %s" % config
+        print ("config : %s" % config)
         return config
 
 def installApk(config):
     phoneAddr = config.get("phone")
-    print 'Ready to start installing apk'
+    print ('Ready to start installing apk')
 
     if phoneAddr:
         installPhoneApk = "adb -s %s install -r %s\\apk\\app-inland-debug.apk" % (phoneAddr, WORKSPACE)
         os.popen(installPhoneApk)
-        print "install phone apk done"
+        print ("install phone apk done")
 
 
 def killTestApp():
@@ -59,11 +60,11 @@ def fullmonkey(workconfig):
     os.popen(monkeycmd)
 
 def createBugreport():
-    print "create bugreport file"
+    print ("create bugreport file")
     bugreport = "adb -s %s shell bugreport > %s\\bugreport.txt" % (workConfig.get("phone"), WORKSPACE)
     os.popen(bugreport)
 
-    print "create bugreport file ,done"
+    print ("create bugreport file ,done")
 
     chkbugreport = "java -jar %s\\chkbugreport.jar %s\\bugreport.txt" % (WORKSPACE, WORKSPACE)
     os.popen(chkbugreport)
@@ -74,11 +75,11 @@ forcount = int(workConfig.get("execcount"))
 
 
 for i in range(forcount):
-    print "execute monkey ,loop = %s" % (i + 1)
+    print ("execute monkey ,loop = %s" % (i + 1))
     fullmonkey(workConfig)
     time.sleep(execinterval)
 
 createBugreport()
 
-print "Completion of the current round of testing"
-raw_input("Enter key to close")
+print ("Completion of the current round of testing")
+input("Enter key to close")
