@@ -1,0 +1,58 @@
+Sensor List:
+ACCELEROMETER  | MTK       | version=3 |android.sensor.accelerometer| 0x00000001 | "" | type=1 | continuous | maxDelay=0us |maxRate=100.00Hz | no batching | non-wakeUp | last 50 events = < 1)   0.1,  0.4,  9.6,594400117172 21:44:42 2)   0.1,  0.4,  9.6,594464385711 21:44:42 3)   0.1,  0.4,  9.6,594530389865 21:44:42 4)   0.1,  0.4,  9.6,594596387480 21:44:42 5)   0.1,  0.4,  9.6,594662387942 21:44:42 6)   0.1,  0.4,  9.6,594728398095 21:44:43 7)   0.1,  0.4,  9.6,594794387788 21:44:43 8)   0.1,  0.4,  9.6,594860373249 21:44:43 9)   0.1,  0.4,  9.6,594926394095 21:44:43 10)   0.1,  0.4,  9.6,594992392557 21:44:43 11)   0.1,  0.4,  9.6,595058392942 21:44:43 12)   0.1,  0.4,  9.6,595124389788 21:44:43 13)   0.1,  0.4,  9.6,595190380403 21:44:43 14)   0.1,  0.4,  9.6,595258195634 21:44:43 15)   0.1,  0.4,  9.6,595322396634 21:44:43 16)   0.1,  0.4,  9.6,595400069942 21:44:43 17)   0.1,  0.4,  9.6,595454391788 21:44:43 18)   0.1,  0.4,  9.6,595520382095 21:44:43 19)   0.1,  0.4,  9.6,595586382634 21:44:43 20)   0.1,  0.4,  9.6,595652388326 21:44:43 21)   0.1,  0.4,  9.6,595718396019 21:44:44 22)   0.1,  0.4,  9.6,595784382788 21:44:44 23)   0.1,  0.4,  9.6,595850379865 21:44:44 24)   0.1,  0.4,  9.6,595916392942 21:44:44 25)   0.1,  0.4,  9.6,595982389942 21:44:44 26)   0.1,  0.4,  9.6,596048390172 21:44:44 27)   0.1,  0.4,  9.6,596114397096 21:44:44 28)   0.1,  0.4,  9.6,596180384403 21:44:44 29)   0.1,  0.4,  9.6,596246396711 21:44:44 30)   0.1,  0.4,  9.6,596312387249 21:44:44 31)   0.1,  0.4,  9.6,596378391019 21:44:44 32)   0.1,  0.4,  9.6,596444391172 21:44:44 33)   0.1,  0.4,  9.6,596510387634 21:44:44 34)   0.1,  0.4,  9.6,596576388788 21:44:44 35)   0.1,  0.4,  9.6,596642381096 21:44:44 36)   0.1,  0.4,  9.6,596708377019 21:44:45 37)   0.1,  0.4,  9.6,596774381019 21:44:45 38)   0.1,  0.4,  9.6,596840371403 21:44:45 39)   0.1,  0.4,  9.6,596906394172 21:44:45 40)   0.1,  0.4,  9.6,596973494480 21:44:45 41)   0.1,  0.4,  9.6,597038393403 21:44:45 42)   0.1,  0.4,  9.6,597104373711 21:44:45 43)   0.1,  0.4,  9.6,597170377173 21:44:45 44)   0.1,  0.4,  9.6,597236461480 21:44:45 45)   0.1,  0.4,  9.6,597308714865 21:44:45 46)   0.1,  0.4,  9.6,597368598788 21:44:45 47)   0.1,  0.4,  9.6,597437120403 21:44:45 48)   0.1,  0.4,  9.6,597500388942 21:44:45 49)   0.1,  0.4,  9.6,597566386480 21:44:45 50)   0.1,  0.4,  9.6,597632374403 21:44:45 >
+
+PROXIMITY      | MTK       | version=1 |android.sensor.proximity| 0x00000008 | "" | type=8 | on-change | maxDelay=0us |minDelay=0us |no batching | wakeUp | last 10 events = < 1)   5.0,  0.0,  0.0,283922261769 21:39:32 >
+
+LIGHT          | MTK       | version=1 |android.sensor.light| 0x00000005 | "" | type=5 | on-change | maxDelay=0us |minDelay=0us |no batching | non-wakeUp | last=<> 
+
+GYROSCOPE      | MTK       | version=3 |android.sensor.gyroscope| 0x00000004 | "" | type=4 | continuous | maxDelay=0us |maxRate=100.00Hz | no batching | non-wakeUp | last=<> 
+
+ORIENTATION    | MTK       | version=3 |android.sensor.orientation| 0x00000003 | "" | type=3 | continuous | maxDelay=0us |maxRate=10.00Hz | no batching | non-wakeUp | last=<> 
+
+MAGNETOMETER   | MTK       | version=3 |android.sensor.magnetic_field| 0x00000002 | "" | type=2 | continuous | maxDelay=0us |maxRate=10.00Hz | no batching | non-wakeUp | last=<> 
+
+Gravity Sensor | AOSP      | version=3 |android.sensor.gravity| 0x5f677276 | "" | type=9 | continuous | maxDelay=0us |maxRate=100.00Hz | no batching | non-wakeUp | last=<> 
+
+Linear Acceleration Sensor| AOSP      | version=3 |android.sensor.linear_acceleration| 0x5f6c696e | "" | type=10 | continuous | maxDelay=0us |maxRate=100.00Hz | no batching | non-wakeUp | last=<> 
+
+Corrected Gyroscope Sensor| AOSP      | version=1 |android.sensor.gyroscope| 0x5f636779 | "" | type=4 | continuous | maxDelay=0us |maxRate=100.00Hz | no batching | non-wakeUp | last=<> 
+
+Gyroscope Bias (debug)| AOSP      | version=1 |android.sensor.accelerometer| 0x5f676273 | "" | type=1 | continuous | maxDelay=0us |maxRate=100.00Hz | no batching | non-wakeUp | last=<> 
+
+9-axis fusion disabled (0 clients), gyro-rate= 200.00Hz, q=< 0, 0, 0, 0 > (0), b=< 0, 0, 0 >
+halVersion 0x01000001
+6 h/w sensors:
+handle=0x00000001, active-count=1, batch_period(ms)={ 66.7 }, selected=66.7 ms
+handle=0x00000001, active-count=1, batch_timeout(ms)={  0.0 }, selected= 0.0 ms
+Active sensors:
+ACCELEROMETER (handle=0x00000001, connections=1)
+Socket Buffer size = 39 events
+WakeLock Status: not held 
+Mode : NORMAL
+1 active connections
+Connection Number: 0 
+	Operating Mode: NORMAL
+	 com.android.server.policy.WindowOrientationListener | WakeLockRefCount 0 | uid 1000 | cache size 0 | max cache size 0
+	 ACCELEROMETER 0x00000001 | status: active | pending flush events 0 
+	 events recvd: 484 | sent 484 | cache 0 | dropped 0 | total_acks_needed 0 | total_acks_recvd 0
+Previous Registrations:
+21:44:13 activated package=com.android.server.policy.WindowOrientationListener handle=0x00000001 samplingRate=66667us maxReportLatency=0us
+21:44:13 de-activated package=com.android.server.policy.WindowOrientationListener handle=0x00000001
+21:43:59 activated package=com.android.server.policy.WindowOrientationListener handle=0x00000001 samplingRate=66667us maxReportLatency=0us
+21:43:59 de-activated package=com.android.server.policy.WindowOrientationListener handle=0x00000001
+21:43:45 activated package=com.android.server.policy.WindowOrientationListener handle=0x00000001 samplingRate=66667us maxReportLatency=0us
+21:43:45 de-activated package=com.android.server.policy.WindowOrientationListener handle=0x00000001
+21:42:06 activated package=com.android.server.policy.WindowOrientationListener handle=0x00000001 samplingRate=66667us maxReportLatency=0us
+21:42:05 de-activated package=com.android.server.policy.WindowOrientationListener handle=0x00000001
+21:41:52 activated package=com.android.server.policy.WindowOrientationListener handle=0x00000001 samplingRate=66667us maxReportLatency=0us
+21:41:51 de-activated package=com.android.server.policy.WindowOrientationListener handle=0x00000001
+21:41:37 activated package=com.android.server.policy.WindowOrientationListener handle=0x00000001 samplingRate=66667us maxReportLatency=0us
+21:41:37 de-activated package=com.android.server.policy.WindowOrientationListener handle=0x00000001
+21:41:23 activated package=com.android.server.policy.WindowOrientationListener handle=0x00000001 samplingRate=66667us maxReportLatency=0us
+21:41:23 de-activated package=com.android.server.policy.WindowOrientationListener handle=0x00000001
+21:41:09 activated package=com.android.server.policy.WindowOrientationListener handle=0x00000001 samplingRate=66667us maxReportLatency=0us
+21:41:09 de-activated package=com.android.server.policy.WindowOrientationListener handle=0x00000001
+21:40:55 activated package=com.android.server.policy.WindowOrientationListener handle=0x00000001 samplingRate=66667us maxReportLatency=0us
+21:40:55 de-activated package=com.android.server.policy.WindowOrientationListener handle=0x00000001
+21:40:42 activated package=com.android.server.policy.WindowOrientationListener handle=0x00000001 samplingRate=66667us maxReportLatency=0us
+21:40:42 de-activated package=com.android.server.policy.WindowOrientationListener handle=0x00000001

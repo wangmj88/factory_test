@@ -1,0 +1,337 @@
+data connected: true
+auto sync: u0=true 
+memory low: false
+device idle: false
+accounts: 2
+now: 585952 (2017-02-20 21:44:34)
+offset: 7:38:06 (HH:MM:SS)
+uptime: 09:45 (HH:MM:SS)
+time spent syncing: 00:00 (HH:MM:SS), sync not in progress
+next alarm time: 1097699 (08:31 (HH:MM:SS) from now)
+
+Active Syncs: 0
+
+SyncQueue: 0 operation(s)
+Pending Ops: 0 operation(s)
+
+Sync Status
+Account QQ???¨¨¡ì???¡§ u0 com.tencent.mtt.account.sync
+=======================================================================
+Authority                     Syncable  Enabled  Delay  Loc  Poll  Per  Serv  User  Tot  Time   Last Sync            Periodic  
+---------------------------------------------------------------------------------------------------------------------------------------------------
+com.tencent.mtt.account.sync  1         true            0    0     0    1     0     19   00:02  PERIODIC SUCCESS     [p:1200 s, f: 48 s] Bundle[]  
+                                                                                                2017-02-17 22:00:00  Next sync: 2017-02-20 21:59:35  
+Account ???????¡è???? u0 com.ss.android.article.news
+=======================================================================
+Authority                               Syncable  Enabled  Delay  Loc  Poll  Per  Serv  User  Tot  Time   Last Sync            Periodic  
+-------------------------------------------------------------------------------------------------------------------------------------------------------------
+com.ss.android.account.AccountProvider  1         true            0    0     0    1     0     15   00:02  PERIODIC SUCCESS     [p:900 s, f: 36 s] Bundle[]  
+                                                                                                          2017-02-17 17:30:00  Next sync: 2017-02-20 21:54:35  
+
+Recent Sync History
+  #1  : 2017-02-20 21:39:35 PERIODIC    0.0s            ???????¡è????/com.ss.android.article.news u0    com.ss.android.account.AccountProvider Periodic
+    event=0 upstreamActivity=0 downstreamActivity=0
+  #2  : 2017-02-20 21:39:35 PERIODIC    0.0s            QQ???¨¨¡ì???¡§/com.tencent.mtt.account.sync u0  com.tencent.mtt.account.sync           Periodic
+    event=0 upstreamActivity=0 downstreamActivity=0
+
+Recent Sync History Extras
+
+Sync Statistics
+  Today:  Success (27 for 3.4s avg=0.1s) Failure (0)
+  Week-1: Success (7 for 0.7s avg=0.1s) Failure (0)
+
+Sync adapters for UserInfo{0:??????:13}:
+  ServiceInfo: SyncAdapterType {name=com.android.calendar, type=com.android.exchange, userVisible=true, supportsUploading=true, isAlwaysSyncable=false, allowParallelSyncs=true, settingsActivity=null}, ComponentInfo{com.android.exchange/com.android.exchange.service.CalendarSyncAdapterService}, uid 10051
+  ServiceInfo: SyncAdapterType {name=leextnumlist, type=com.letv, userVisible=true, supportsUploading=false, isAlwaysSyncable=true, allowParallelSyncs=true, settingsActivity=null}, ComponentInfo{com.letv.android.cloudservice/com.letv.android.cloudservice.syncadapter.LeExtNumberListSyncAdapterService}, uid 10063
+  ServiceInfo: SyncAdapterType {name=com.leui.provider.NotePad, type=com.letv, userVisible=true, supportsUploading=true, isAlwaysSyncable=true, allowParallelSyncs=true, settingsActivity=null}, ComponentInfo{com.letv.android.cloudservice/com.letv.android.cloudservice.syncadapter.NotesSyncAdapterService}, uid 10063
+  ServiceInfo: SyncAdapterType {name=com.wandoujia.phoenix2, type=com.wandoujia, userVisible=true, supportsUploading=false, isAlwaysSyncable=true, allowParallelSyncs=false, settingsActivity=null}, ComponentInfo{com.wandoujia.phoenix2/com.wandoujia.p4.account.authenticator.AccountSyncService}, uid 10125
+  ServiceInfo: SyncAdapterType {name=subscribedfeeds, type=com.google, userVisible=false, supportsUploading=true, isAlwaysSyncable=false, allowParallelSyncs=false, settingsActivity=null}, ComponentInfo{com.google.android.gms/com.google.android.gms.subscribedfeeds.SyncService}, uid 10008
+  ServiceInfo: SyncAdapterType {name=com.android.contacts, type=com.tencent.mm.account, userVisible=true, supportsUploading=false, isAlwaysSyncable=false, allowParallelSyncs=false, settingsActivity=null}, ComponentInfo{com.tencent.mm/com.tencent.mm.plugin.accountsync.model.ContactsSyncService}, uid 10149
+  ServiceInfo: SyncAdapterType {name=com.letv.android.powercontroller.PowerControllerProvider, type=com.letv, userVisible=true, supportsUploading=true, isAlwaysSyncable=true, allowParallelSyncs=false, settingsActivity=null}, ComponentInfo{com.letv.android.cloudservice/com.letv.android.cloudservice.syncadapter.PackageSyncService}, uid 10063
+  ServiceInfo: SyncAdapterType {name=com.android.contacts, type=com.android.exchange, userVisible=true, supportsUploading=true, isAlwaysSyncable=false, allowParallelSyncs=true, settingsActivity=null}, ComponentInfo{com.android.exchange/com.android.exchange.service.ContactsSyncAdapterService}, uid 10051
+  ServiceInfo: SyncAdapterType {name=call_log, type=com.letv, userVisible=true, supportsUploading=true, isAlwaysSyncable=false, allowParallelSyncs=true, settingsActivity=null}, ComponentInfo{com.letv.android.cloudservice/com.letv.android.cloudservice.syncadapter.CallLogSyncAdapterService}, uid 10063
+  ServiceInfo: SyncAdapterType {name=com.leui.provider.Wifi, type=com.letv, userVisible=true, supportsUploading=false, isAlwaysSyncable=true, allowParallelSyncs=false, settingsActivity=null}, ComponentInfo{com.letv.android.cloudservice/com.letv.android.cloudservice.syncadapter.WifiSyncAdapterService}, uid 10063
+  ServiceInfo: SyncAdapterType {name=com.sina.weibo.sync.authority, type=com.sina.weibo.account, userVisible=false, supportsUploading=false, isAlwaysSyncable=true, allowParallelSyncs=false, settingsActivity=null}, ComponentInfo{com.sina.weibo/com.sina.weibo.sync.guard.GuardSyncService}, uid 10120
+  ServiceInfo: SyncAdapterType {name=mms-sms-sync, type=com.letv, userVisible=true, supportsUploading=false, isAlwaysSyncable=true, allowParallelSyncs=true, settingsActivity=null}, ComponentInfo{com.letv.android.cloudservice/com.letv.android.cloudservice.syncadapter.MessageSyncAdapterService}, uid 10063
+  ServiceInfo: SyncAdapterType {name=com.android.email.provider, type=com.android.email.pop3, userVisible=true, supportsUploading=true, isAlwaysSyncable=false, allowParallelSyncs=true, settingsActivity=null}, ComponentInfo{com.android.email/com.android.email.service.Pop3SyncAdapterService}, uid 10050
+  ServiceInfo: SyncAdapterType {name=com.letv.music, type=com.letv, userVisible=true, supportsUploading=false, isAlwaysSyncable=true, allowParallelSyncs=true, settingsActivity=null}, ComponentInfo{com.letv.android.cloudservice/com.letv.android.cloudservice.syncadapter.MusicSyncAdapterService}, uid 10063
+  ServiceInfo: SyncAdapterType {name=com.tencent.mtt.account.sync, type=com.tencent.mtt.account.sync, userVisible=true, supportsUploading=false, isAlwaysSyncable=true, allowParallelSyncs=false, settingsActivity=null}, ComponentInfo{com.tencent.mtt/com.tencent.mtt.browser.push.external.account.SyncService}, uid 10129
+  ServiceInfo: SyncAdapterType {name=com.ss.android.account.AccountProvider, type=com.ss.android.article.news, userVisible=true, supportsUploading=false, isAlwaysSyncable=true, allowParallelSyncs=false, settingsActivity=null}, ComponentInfo{com.ss.android.article.news/com.ss.android.account.AccountSyncService}, uid 10150
+  ServiceInfo: SyncAdapterType {name=com.android.calendar, type=com.letv, userVisible=true, supportsUploading=true, isAlwaysSyncable=true, allowParallelSyncs=true, settingsActivity=null}, ComponentInfo{com.letv.android.cloudservice/com.letv.android.cloudservice.syncadapter.CalendarsSyncAdapterService}, uid 10063
+  ServiceInfo: SyncAdapterType {name=com.android.contacts, type=com.letv, userVisible=true, supportsUploading=true, isAlwaysSyncable=false, allowParallelSyncs=true, settingsActivity=null}, ComponentInfo{com.letv.android.cloudservice/com.letv.android.cloudservice.syncadapter.ContactsSyncAdapterService}, uid 10063
+  ServiceInfo: SyncAdapterType {name=com.android.email.provider, type=com.android.email, userVisible=true, supportsUploading=true, isAlwaysSyncable=false, allowParallelSyncs=false, settingsActivity=null}, ComponentInfo{com.android.email/com.android.email.service.LegacyImapSyncAdapterService}, uid 10050
+  ServiceInfo: SyncAdapterType {name=com.android.gallery3d.photo.photosprovider, type=com.letv, userVisible=true, supportsUploading=true, isAlwaysSyncable=true, allowParallelSyncs=true, settingsActivity=null}, ComponentInfo{com.android.gallery3d/com.android.gallery3d.net.syncadapter.SyncService}, uid 10053
+  ServiceInfo: SyncAdapterType {name=com.android.email.provider, type=com.android.exchange, userVisible=true, supportsUploading=false, isAlwaysSyncable=false, allowParallelSyncs=true, settingsActivity=null}, ComponentInfo{com.android.exchange/com.android.exchange.service.EmailSyncAdapterService}, uid 10051
+  ServiceInfo: SyncAdapterType {name=com.android.contacts, type=com.sina.weibo.account, userVisible=true, supportsUploading=false, isAlwaysSyncable=false, allowParallelSyncs=false, settingsActivity=null}, ComponentInfo{com.sina.weibo/com.sina.weibo.sync.contact.ContactsSyncService}, uid 10120
+  ServiceInfo: SyncAdapterType {name=com.android.browser, type=com.letv, userVisible=true, supportsUploading=true, isAlwaysSyncable=true, allowParallelSyncs=true, settingsActivity=null}, ComponentInfo{com.letv.android.cloudservice/com.letv.android.cloudservice.syncadapter.BookmarksSyncAdapterService}, uid 10063
+
+
+Observer tree:
+  settings/secure/long_press_timeout: pid=924 uid=1000 user=0 target=9c1c053
+  settings/secure/show_ime_with_hard_keyboard: pid=924 uid=1000 user=-1 target=34a5d90
+  settings/secure/show_ime_with_hard_keyboard: pid=924 uid=1000 user=0 target=c8be689
+  settings/secure/accessibility_display_inversion_enabled: pid=924 uid=1000 user=-1 target=34a5d90
+  settings/secure/accessibility_display_inversion_enabled: pid=924 uid=1000 user=-1 target=ec5168e
+  settings/secure/incall_power_button_behavior: pid=924 uid=1000 user=-1 target=69e0eaf
+  settings/secure/wake_gesture_enabled: pid=924 uid=1000 user=-1 target=69e0eaf
+  settings/secure/default_input_method: pid=924 uid=1000 user=-1 target=69e0eaf
+  settings/secure/default_input_method: pid=924 uid=1000 user=0 target=c8be689
+  settings/secure/default_input_method: pid=1760 uid=10018 user=0 target=41fc2bc
+  settings/secure/immersive_mode_confirmations: pid=924 uid=1000 user=-1 target=69e0eaf
+  settings/secure/leui_long_press_func_status: pid=924 uid=1000 user=-1 target=8436245
+  settings/secure/enabled_input_methods: pid=924 uid=1000 user=0 target=c8be689
+  settings/secure/selected_input_method_subtype: pid=924 uid=1000 user=0 target=c8be689
+  settings/secure/accessibility_enabled: pid=924 uid=1000 user=-1 target=ec5168e
+  settings/secure/nitracker_accessibility_enabled: pid=924 uid=1000 user=-1 target=ec5168e
+  settings/secure/touch_exploration_enabled: pid=924 uid=1000 user=-1 target=ec5168e
+  settings/secure/accessibility_display_magnification_enabled: pid=924 uid=1000 user=-1 target=ec5168e
+  settings/secure/enabled_accessibility_services: pid=924 uid=1000 user=-1 target=ec5168e
+  settings/secure/enabled_accessibility_services: pid=1760 uid=10018 user=0 target=41fc2bc
+  settings/secure/touch_exploration_granted_accessibility_services: pid=924 uid=1000 user=-1 target=ec5168e
+  settings/secure/accessibility_script_injection: pid=924 uid=1000 user=-1 target=ec5168e
+  settings/secure/accessibility_display_daltonizer_enabled: pid=924 uid=1000 user=-1 target=ec5168e
+  settings/secure/accessibility_display_daltonizer: pid=924 uid=1000 user=-1 target=ec5168e
+  settings/secure/high_text_contrast_enabled: pid=924 uid=1000 user=-1 target=ec5168e
+  settings/secure/interface_throttle_enable: pid=924 uid=1000 user=0 target=3000d9a
+  settings/secure/enabled_notification_listeners: pid=924 uid=1000 user=0 target=a46e6cb
+  settings/secure/enabled_notification_listeners: pid=924 uid=1000 user=-1 target=6844ea8
+  settings/secure/enabled_notification_listeners: pid=924 uid=1000 user=-1 target=43cddc1
+  settings/secure/pubkey_blacklist: pid=924 uid=1000 user=0 target=dc16966
+  settings/secure/serial_blacklist: pid=924 uid=1000 user=0 target=45b24a7
+  settings/secure/enabled_print_services: pid=924 uid=1000 user=-1 target=23ad54
+  settings/secure/user_setup_complete: pid=924 uid=1000 user=-1 target=f894fd
+  settings/secure/user_setup_complete: pid=1346 uid=10032 user=0 target=feab5f2
+  settings/secure/user_setup_complete: pid=1346 uid=10032 user=0 target=58b6443
+  settings/secure/user_setup_complete: pid=1346 uid=10032 user=0 target=feab5f2
+  settings/secure/screensaver_enabled: pid=924 uid=1000 user=-1 target=3b84ac0
+  settings/secure/screensaver_activate_on_sleep: pid=924 uid=1000 user=-1 target=3b84ac0
+  settings/secure/screensaver_activate_on_dock: pid=924 uid=1000 user=-1 target=3b84ac0
+  settings/secure/sleep_timeout: pid=924 uid=1000 user=-1 target=3b84ac0
+  settings/secure/double_tap_to_wake: pid=924 uid=1000 user=-1 target=3b84ac0
+  settings/secure/leui_country_area_region_settings: pid=924 uid=1000 user=-1 target=cbe83f9
+  settings/secure/leui_country_area_region_settings: pid=1346 uid=10032 user=0 target=4ea3f3e
+  settings/secure/leui_country_area_region_settings: pid=2759 uid=10090 user=0 target=ef6019f
+  settings/secure/leui_country_area_region_settings: pid=1760 uid=10018 user=-1 target=33752ec
+  settings/secure/sms_default_application: pid=924 uid=1000 user=-1 target=85a66b5
+  settings/secure/dialer_default_application: pid=924 uid=1000 user=-1 target=85a66b5
+  settings/secure/enabled_condition_providers: pid=924 uid=1000 user=-1 target=ec7114a
+  settings/secure/volume_controller_service_component: pid=924 uid=1000 user=0 target=b4318bb
+  settings/secure/volume_controller_service_component: pid=1346 uid=10032 user=0 target=8bcb1d8
+  settings/secure/volume_controller_service_component: pid=1346 uid=10032 user=-1 target=b97b931
+  settings/secure/voice_interaction_service: pid=924 uid=1000 user=-1 target=6ecf816
+  settings/secure/locationCoarseAccuracy: pid=924 uid=1000 user=0 target=d808597
+  settings/secure/locationPackagePrefixBlacklist: pid=924 uid=1000 user=-1 target=2371384
+  settings/secure/location_providers_allowed: pid=924 uid=1000 user=-1 target=57db76d
+  settings/secure/location_providers_allowed: pid=924 uid=1000 user=-1 target=fb87fa2
+  settings/secure/location_mode: pid=1346 uid=10032 user=0 target=1bde433
+  settings/secure/leui_blue_light_enable: pid=1346 uid=10032 user=0 target=bd3e3f0
+  settings/secure/bar_service_component: pid=1346 uid=10032 user=-1 target=44b5d69
+  settings/secure/lock_screen_show_notifications: pid=1346 uid=10032 user=-1 target=2c2f3ee
+  settings/secure/lock_screen_allow_private_notifications: pid=1346 uid=10032 user=-1 target=b68908f
+  settings/secure/assistant: pid=1346 uid=10032 user=0 target=52b4f1c
+  settings/secure/icon_blacklist: pid=1346 uid=10032 user=0 target=1336725
+  settings/secure/leui_key_timealign_enable: pid=924 uid=1000 user=0 target=7ee60fa
+  settings/secure/LEUI_HOLD_ALARM_ENABLE_KEY: pid=924 uid=1000 user=0 target=d67a6ab
+  settings/system: pid=1346 uid=10032 user=0 target=d2c4108
+  settings/system: pid=1346 uid=10032 user=0 target=bd850a1
+  settings/system: pid=1804 uid=10009 user=0 target=13192c6
+  settings/system: pid=1804 uid=10009 user=0 target=7f80287
+  settings/system: pid=1804 uid=10009 user=0 target=c865b4
+  settings/system: pid=1804 uid=10009 user=0 target=18855dd
+  settings/system/time_12_24: pid=924 uid=1000 user=0 target=9c1c053
+  settings/system/end_button_behavior: pid=924 uid=1000 user=-1 target=69e0eaf
+  settings/system/accelerometer_rotation: pid=924 uid=1000 user=-1 target=69e0eaf
+  settings/system/accelerometer_rotation: pid=1346 uid=10032 user=0 target=7241552
+  settings/system/accelerometer_rotation: pid=1346 uid=10032 user=-1 target=8484023
+  settings/system/user_rotation: pid=924 uid=1000 user=-1 target=69e0eaf
+  settings/system/screen_off_timeout: pid=924 uid=1000 user=-1 target=69e0eaf
+  settings/system/screen_off_timeout: pid=924 uid=1000 user=-1 target=3b84ac0
+  settings/system/pointer_location: pid=924 uid=1000 user=-1 target=69e0eaf
+  settings/system/leui_three_fingers_cap: pid=924 uid=1000 user=-1 target=69e0eaf
+  settings/system/leui_long_press_back_behaviour_settings: pid=924 uid=1000 user=-1 target=8436245
+  settings/system/leui_long_press_home_behaviour_settings: pid=924 uid=1000 user=-1 target=8436245
+  settings/system/leui_long_press_recent_behaviour_settings: pid=924 uid=1000 user=-1 target=8436245
+  settings/system/leui_forbid_virtual_key_settings: pid=924 uid=1000 user=-1 target=8436245
+  settings/system/leui_forbid_virtual_key_settings: pid=1346 uid=10032 user=0 target=8602920
+  settings/system/leui_forbid_virtual_key_settings: pid=1346 uid=10032 user=0 target=c3972d9
+  settings/system/leui_finger_print_navigation_event_up: pid=924 uid=1000 user=-1 target=8436245
+  settings/system/leui_finger_print_navigation_event_down: pid=924 uid=1000 user=-1 target=8436245
+  settings/system/leui_finger_print_navigation_event_left: pid=924 uid=1000 user=-1 target=8436245
+  settings/system/leui_finger_print_navigation_event_right: pid=924 uid=1000 user=-1 target=8436245
+  settings/system/leui_finger_print_navigation_single_click: pid=924 uid=1000 user=-1 target=8436245
+  settings/system/leui_finger_print_navigation_double_click: pid=924 uid=1000 user=-1 target=8436245
+  settings/system/leui_wake_device_behavior: pid=924 uid=1000 user=-1 target=24a349e
+  settings/system/pointer_speed: pid=924 uid=1000 user=-1 target=5d4bb7f
+  settings/system/show_touches: pid=924 uid=1000 user=-1 target=feeb74c
+  settings/system/leui_key_position_policy: pid=924 uid=1000 user=-1 target=5456395
+  settings/system/holzer_switch: pid=924 uid=1000 user=-1 target=d20fcaa
+  settings/system/wifi_hotspot_auto_disable: pid=924 uid=1000 user=0 target=983909b
+  settings/system/mode_ringer_streams_affected: pid=924 uid=1000 user=0 target=5f5fc38
+  settings/system/mutekey_streams_affected: pid=924 uid=1000 user=0 target=7e5a411
+  settings/system/hdmi_enable_status: pid=924 uid=1000 user=-1 target=aea3976
+  settings/system/hdmi_enable_status: pid=924 uid=1000 user=0 target=a809b77
+  settings/system/vibrate_input_devices: pid=924 uid=1000 user=-1 target=d2aa3e4
+  settings/system/leui_global_vibrate_switch: pid=924 uid=1000 user=-1 target=d2aa3e4
+  settings/system/leui_global_vibrate_switch: pid=1346 uid=10032 user=0 target=f6f704d
+  settings/system/screen_brightness: pid=924 uid=1000 user=-1 target=3b84ac0
+  settings/system/screen_brightness: pid=1346 uid=10032 user=-1 target=f387702
+  settings/system/leui_screen_brightness_vr: pid=924 uid=1000 user=-1 target=3b84ac0
+  settings/system/screen_brightness_mode: pid=924 uid=1000 user=-1 target=3b84ac0
+  settings/system/screen_brightness_mode: pid=1346 uid=10032 user=0 target=cd97813
+  settings/system/screen_brightness_mode: pid=1346 uid=10032 user=-1 target=f387702
+  settings/system/screen_auto_brightness_adj: pid=924 uid=1000 user=-1 target=3b84ac0
+  settings/system/screen_auto_brightness_adj: pid=1346 uid=10032 user=-1 target=f387702
+  settings/system/BG_CONTROL_SWITCH: pid=924 uid=1000 user=-1 target=3b84ac0
+  settings/system/BG_CONTROL_SWITCH: pid=924 uid=1000 user=-1 target=ce01a50
+  settings/system/leui_virtual_key_backlight_settings: pid=924 uid=1000 user=-1 target=d4fc449
+  settings/system/leui_wei_xin_double_setting: pid=924 uid=1000 user=0 target=23b014e
+  settings/system/leui_wei_xin_double_setting: pid=924 uid=1000 user=-1 target=dd9826f
+  settings/system/leui_wei_xin_double_setting: pid=1804 uid=10009 user=0 target=c348b7c
+  settings/system/realtime_speed: pid=924 uid=1000 user=0 target=2c75c05
+  settings/system/realtime_speed: pid=1346 uid=10032 user=0 target=dc9e45a
+  settings/system/notification_light_pulse: pid=924 uid=1000 user=-1 target=dd9826f
+  settings/system/choose_network_provider_mode: pid=924 uid=1000 user=-1 target=a25d68b
+  settings/system/network_provider_package: pid=924 uid=1000 user=-1 target=3fce368
+  settings/system/network_provider_package: pid=924 uid=1000 user=-1 target=a66b381
+  settings/system/leui_disturbmode_enabled: pid=1346 uid=10032 user=0 target=f31ec26
+  settings/system/leui_s_soft_mute_key: pid=1346 uid=10032 user=0 target=9995067
+  settings/system/leui_exp_program_enabled: pid=1699 uid=10111 user=0 target=370ce14
+  settings/system/leui_exp_program_enabled: pid=1893 uid=10078 user=0 target=d4a06bd
+  settings/system/leui_exp_program_enabled: pid=1699 uid=10111 user=0 target=9c0a4b2
+  settings/system/leui_exp_program_enabled: pid=2456 uid=10103 user=0 target=ce08c03
+  settings/system/leui_exp_program_enabled: pid=2408 uid=10012 user=0 target=396b780
+  settings/system/leui_exp_program_enabled: pid=2408 uid=10012 user=0 target=1551b9
+  settings/system/leui_exp_program_enabled: pid=4799 uid=10107 user=0 target=61059fe
+  settings/system/multi_sim_data_call: pid=1599 uid=1001 user=0 target=8d5e55f
+  settings/system/multi_sim_data_call: pid=1599 uid=1001 user=0 target=56fcbac
+  settings/system/mobile_data: pid=1599 uid=1001 user=0 target=8d5e55f
+  settings/system/mobile_data: pid=1599 uid=1001 user=0 target=56fcbac
+  settings/system/leui_usb_headset_connected_status: pid=1346 uid=10032 user=0 target=3b05075
+  settings/system/hide_rotation_lock_toggle_for_accessibility: pid=1346 uid=10032 user=-1 target=8484023
+  settings/system/leui_s_mute_key: pid=1346 uid=10032 user=0 target=a14180a
+  settings/system/status_bar_show_battery_percent: pid=1346 uid=10032 user=0 target=b9d787b
+  settings/system/leui_single_hand_unlockscreen: pid=1346 uid=10032 user=0 target=6e3f698
+  settings/system/leui_key_timealign_twilight_enable: pid=924 uid=1000 user=0 target=7ee60fa
+  settings/system/msim_mode_setting: pid=1599 uid=1001 user=0 target=5c27ef1
+  settings/global: pid=924 uid=1000 user=0 target=5e3aad6
+  settings/global/debug_view_attributes: pid=924 uid=1000 user=0 target=9c1c053
+  settings/global/policy_control: pid=924 uid=1000 user=-1 target=69e0eaf
+  settings/global/device_provisioned: pid=924 uid=1000 user=-1 target=8436245
+  settings/global/device_provisioned: pid=924 uid=1000 user=0 target=7812157
+  settings/global/device_provisioned: pid=1346 uid=10032 user=0 target=feab5f2
+  settings/global/device_provisioned: pid=1346 uid=10032 user=0 target=2c2f3ee
+  settings/global/device_provisioned: pid=1346 uid=10032 user=0 target=feab5f2
+  settings/global/ble_scan_always_enabled: pid=924 uid=1000 user=0 target=a6de444
+  settings/global/device_idle_constants: pid=924 uid=1000 user=0 target=cef192d
+  settings/global/wifi_suspend_optimizations_enabled: pid=924 uid=1000 user=0 target=1479e62
+  settings/global/wifi_networks_available_notification_on: pid=924 uid=1000 user=0 target=f8c7bf3
+  settings/global/stay_on_while_plugged_in: pid=924 uid=1000 user=0 target=d8700b0
+  settings/global/stay_on_while_plugged_in: pid=924 uid=1000 user=-1 target=3b84ac0
+  settings/global/wifi_idle_ms: pid=924 uid=1000 user=0 target=cd11b29
+  settings/global/wifi_sleep_policy: pid=924 uid=1000 user=0 target=6053eae
+  settings/global/http_proxy: pid=924 uid=1000 user=0 target=1e8e44f
+  settings/global/mobile_data_always_on: pid=924 uid=1000 user=0 target=1e8e44f
+  settings/global/nsd_on: pid=924 uid=1000 user=0 target=9d377dc
+  settings/global/zen_mode: pid=924 uid=1000 user=0 target=db740e5
+  settings/global/zen_mode: pid=1346 uid=10032 user=0 target=2ea97ba
+  settings/global/zen_mode: pid=1346 uid=10032 user=0 target=bf9766b
+  settings/global/zen_mode: pid=1346 uid=10032 user=0 target=8bcb1d8
+  settings/global/zen_mode: pid=1346 uid=10032 user=0 target=2c2f3ee
+  settings/global/dock_audio_media_enabled: pid=924 uid=1000 user=0 target=5f5fc38
+  settings/global/adb_enabled: pid=924 uid=1000 user=0 target=d0e35c8
+  settings/global/acm_enabled: pid=924 uid=1000 user=0 target=4200661
+  settings/global/sampling_profiler_ms: pid=924 uid=1000 user=0 target=39a7586
+  settings/global/app_idle_constants: pid=924 uid=1000 user=0 target=4370e47
+  settings/global/wifi_scan_always_enabled: pid=924 uid=1000 user=0 target=3b4e674
+  settings/global/wifi_watchdog_poor_network_test_enabled: pid=924 uid=1000 user=0 target=3f5a79d
+  settings/global/wifi_watchdog_on: pid=924 uid=1000 user=0 target=9186412
+  settings/global/leui_anti_inadvertently: pid=924 uid=1000 user=0 target=5cc47e3
+  settings/global/low_power: pid=924 uid=1000 user=-1 target=3b84ac0
+  settings/global/low_power_trigger_level: pid=924 uid=1000 user=-1 target=3b84ac0
+  settings/global/low_power_trigger_level: pid=924 uid=1000 user=-1 target=273f5e0
+  settings/global/low_power_trigger_level: pid=1346 uid=10032 user=-1 target=b8a2099
+  settings/global/theater_mode_on: pid=924 uid=1000 user=-1 target=3b84ac0
+  settings/global/leui_power_save_switch: pid=924 uid=1000 user=-1 target=d4fc449
+  settings/global/leui_power_save_switch: pid=1760 uid=10018 user=0 target=f14af5e
+  settings/global/overlay_display_devices: pid=924 uid=1000 user=0 target=9f17f3f
+  settings/global/wifi_display_on: pid=924 uid=1000 user=0 target=a52900c
+  settings/global/wifi_display_certification_on: pid=924 uid=1000 user=0 target=a52900c
+  settings/global/wifi_display_wps_config: pid=924 uid=1000 user=0 target=a52900c
+  settings/global/wifi_display_display_toast_time: pid=924 uid=1000 user=0 target=2532d55
+  settings/global/wifi_display_notification_time: pid=924 uid=1000 user=0 target=2532d55
+  settings/global/wifi_display_sqc_info_on: pid=924 uid=1000 user=0 target=2532d55
+  settings/global/wifi_display_qe_on: pid=924 uid=1000 user=0 target=2532d55
+  settings/global/wifi_display_auto_channel_selection: pid=924 uid=1000 user=0 target=2532d55
+  settings/global/wifi_display_max_resolution: pid=924 uid=1000 user=0 target=2532d55
+  settings/global/wifi_display_latency_profiling: pid=924 uid=1000 user=0 target=2532d55
+  settings/global/wifi_display_security_option: pid=924 uid=1000 user=0 target=2532d55
+  settings/global/wifi_display_portrait_resolution: pid=924 uid=1000 user=0 target=2532d55
+  settings/global/auto_time: pid=924 uid=1000 user=0 target=9f8636a
+  settings/global/auto_time: pid=1599 uid=1001 user=0 target=b08d05b
+  settings/global/auto_time: pid=1599 uid=1001 user=0 target=39ea0f8
+  settings/global/auto_time_gps: pid=924 uid=1000 user=0 target=76649d1
+  settings/global/volte_vt_enabled: pid=1635 uid=1001 user=0 target=9b14c36
+  settings/global/wfc_ims_enabled: pid=1635 uid=1001 user=0 target=9b14c36
+  settings/global/wfc_ims_mode: pid=1635 uid=1001 user=0 target=9b14c36
+  settings/global/mobile_data0: pid=1666 uid=10016 user=0 target=d7a1737
+  settings/global/mobile_data1: pid=1666 uid=10016 user=0 target=b98d4a4
+  settings/global/wifi_on: pid=1346 uid=10032 user=0 target=bb4b20d
+  settings/global/bluetooth_on: pid=1346 uid=10032 user=0 target=d3df5c2
+  settings/global/shortcut_widget_position: pid=1346 uid=10032 user=0 target=a4eefd3
+  settings/global/airplane_mode_on: pid=1346 uid=10032 user=0 target=e09710
+  settings/global/shortcut_application_position: pid=1346 uid=10032 user=0 target=4076209
+  settings/global/sms_short_code_confirmation: pid=1599 uid=1001 user=0 target=2f9ac0e
+  settings/global/sms_short_code_confirmation: pid=1599 uid=1001 user=0 target=78eb62f
+  settings/global/auto_time_zone: pid=1599 uid=1001 user=0 target=aa0143c
+  settings/global/auto_time_zone: pid=1599 uid=1001 user=0 target=ebb15c5
+  settings/global/telephony_misc_feature_config: pid=1599 uid=1001 user=0 target=1a87b1a
+  settings/global/telephony_misc_feature_config: pid=1599 uid=1001 user=0 target=a5a864b
+  settings/global/sms_short_code_rule: pid=1599 uid=1001 user=0 target=6783828
+  settings/global/sms_short_code_rule: pid=1599 uid=1001 user=0 target=93c4941
+  settings/global/sms_short_code_rule: pid=1599 uid=1001 user=0 target=6432ee6
+  settings/global/sms_short_code_rule: pid=1599 uid=1001 user=0 target=ec93c27
+  settings/global/sms_short_code_rule: pid=1599 uid=1001 user=0 target=92caed4
+  settings/global/sms_short_code_rule: pid=1599 uid=1001 user=0 target=143387d
+  settings/global/multi_sim_data_call: pid=1599 uid=1001 user=0 target=2835372
+  settings/global/zen_mode_config_etag: pid=1346 uid=10032 user=0 target=18373c3
+  settings/global/zen_mode_config_etag: pid=1346 uid=10032 user=0 target=8bcb1d8
+  settings/global/mobile_data: pid=1346 uid=10032 user=0 target=e0fe440
+  settings/global/mobile_data-1: pid=1346 uid=10032 user=0 target=e0fe440
+  settings/global/access_control_on_lock_screen: pid=1346 uid=10032 user=-1 target=dcfdf79
+  settings/global/heads_up_snooze_length_ms: pid=1346 uid=10032 user=0 target=82f34be
+  settings/global/heads_up_notifications_enabled: pid=1346 uid=10032 user=0 target=71f891f
+  settings/global/ticker_gets_heads_up: pid=1346 uid=10032 user=0 target=71f891f
+  com.android.contacts/contacts: pid=924 uid=1000 user=-1 target=12f046c
+  com.android.contacts/contacts: pid=1556 uid=10038 user=0 target=be5fa35
+  com.android.contacts/contacts: pid=4331 uid=10149 user=0 target=d25deca
+  com.mediatek.provider.regionalphone/searchengine: pid=924 uid=1000 user=0 target=d3d983b
+  telephony/carriers: pid=1599 uid=1001 user=0 target=3dfb58
+  telephony/carriers: pid=1599 uid=1001 user=0 target=b0904b1
+  com.sina.tianqitong.LetvWeatherInfoProvider/letv_weather: pid=1346 uid=10032 user=0 target=42b1d96
+  com.android.launcher3.uiMode: pid=1804 uid=10009 user=0 target=1637d17
+  com.android.launcher3.uiMode: pid=1804 uid=10009 user=0 target=e437504
+  com.letv.leui.widget.text.leclipboard/item: pid=2468 uid=10113 user=0 target=5783aed
+  com.letv.leui.widget.text.leclipboard/item: pid=2468 uid=10113 user=0 target=6737d22
+  com.letv.agnes.InfoProvider: pid=2456 uid=10103 user=0 target=998d3b3
+  com.letv.android.powercontroller.PowerControllerProvider/sync_account/data1: pid=1760 uid=10018 user=0 target=604dd70
+  media/external/audio/media: pid=1760 uid=10018 user=0 target=2a98e9
+
+  pid 924: 141 observers
+  pid 1346: 54 observers
+  pid 1599: 22 observers
+  pid 1804: 7 observers
+  pid 1760: 6 observers
+  pid 1635: 3 observers
+  pid 1666: 2 observers
+  pid 1699: 2 observers
+  pid 2408: 2 observers
+  pid 2456: 2 observers
+  pid 2468: 2 observers
+  pid 1556: 1 observers
+  pid 1893: 1 observers
+  pid 2759: 1 observers
+  pid 4331: 1 observers
+  pid 4799: 1 observers
+
+ Total number of nodes: 187
+ Total number of observers: 248

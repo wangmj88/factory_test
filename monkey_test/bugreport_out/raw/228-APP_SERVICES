@@ -1,0 +1,2094 @@
+Dump time : 2017???2???20??? ??????9:44:56
+SERVICE com.letv.app.appstore/.service.PackageUpdateInfoService 1880f4 pid=1893
+  Client:
+    nothing to dump
+
+SERVICE com.dolby/.DsService 7d8d160 pid=1774
+  Client:
+    nothing to dump
+
+SERVICE com.letv.leui.widget.leclipboardapp/com.letv.leui.widget.text.clipboard.LeClipboardService 593c187 pid=2468
+  Client:
+    nothing to dump
+
+SERVICE com.android.systemui/.keyguard.KeyguardService 27999be pid=1346
+  Client:
+    nothing to dump
+
+SERVICE com.android.systemui/.ImageWallpaper f18bbdc pid=1544
+  Client:
+    State of wallpaper com.android.systemui.ImageWallpaper@bd4b265:
+      Engine com.android.systemui.ImageWallpaper$DrawableEngine@708eb3a:
+        mInitializing=false mDestroyed=false
+        mVisible=false mReportedVisible=false
+        mDisplay=Display id 0: DisplayInfo{"???????¡À????", uniqueId "local:0", app 1080 x 1920, real 1080 x 1920, largest app 1920 x 1857, smallest app 1080 x 1017, mode 1, defaultMode 1, modes [{id=1, width=1080, height=1920, fps=58.63}], rotation 0, density 420 (442.451 x 443.345) dpi, layerStack 0, appVsyncOff -8000000, presDeadline 26056114, type BUILT_IN, state ON, FLAG_SECURE, FLAG_SUPPORTS_PROTECTED_BUFFERS}, DisplayMetrics{density=2.625, width=1080, height=1920, scaledDensity=2.625, xdpi=442.451, ydpi=443.345}, isValid=true
+        mCreated=true mSurfaceCreated=true mIsCreating=false mDrawingAllowed=true
+        mWidth=1080 mCurWidth=1080 mHeight=1920 mCurHeight=1920
+        mType=-1 mWindowFlags=16 mCurWindowFlags=16
+        mWindowPrivateFlags=0 mCurWindowPrivateFlags=0
+        mVisibleInsets=[0,63][0,0] mWinFrame=[0,0][1080,1920] mContentInsets=[0,0][0,0]
+        mConfiguration={1.0 1.0 0 ?mcc?mnc zh_CN ?layoutDir ?swdp ?wdp ?hdp ?density ?lsize ?long ?orien ?uimode ?night ?oled ?touch ?keyb/?/? ?nav/?}
+        mLayout=WM.LayoutParams{(0,0)(1080x1920) gr=#800033 ty=2013 fl=#318 fmt=2 wanim=0x10302ea}
+        mPendingXOffset=0.0 mPendingXOffset=0.0
+        mPendingXOffsetStep=0.0 mPendingXOffsetStep=0.0
+        mOffsetMessageEnqueued=false mPendingSync=false
+        ImageWallpaper.DrawableEngine:
+         mBackground=android.graphics.Bitmap@281b78c mBackgroundWidth=1080 mBackgroundHeight=1920
+         mLastRotation=0 mLastSurfaceWidth=1080 mLastSurfaceHeight=1920
+         mXOffset=0.0 mYOffset=0.0
+         mVisible=false mOffsetsChanged=false
+         mLastXTranslation=0 mLastYTranslation=0 mScale=1.0
+         mLastRequestedWidth=1080 mLastRequestedHeight=1920
+         DisplayInfo at last updateSurfaceSize:
+          rotation=0  width=1080  height=1920
+      Engine com.android.systemui.ImageWallpaper$DrawableEngine@5949df4:
+        mInitializing=false mDestroyed=false
+        mVisible=false mReportedVisible=false
+        mDisplay=Display id 0: DisplayInfo{"???????¡À????", uniqueId "local:0", app 1080 x 1920, real 1080 x 1920, largest app 1920 x 1857, smallest app 1080 x 1017, mode 1, defaultMode 1, modes [{id=1, width=1080, height=1920, fps=58.63}], rotation 0, density 420 (442.451 x 443.345) dpi, layerStack 0, appVsyncOff -8000000, presDeadline 26056114, type BUILT_IN, state ON, FLAG_SECURE, FLAG_SUPPORTS_PROTECTED_BUFFERS}, DisplayMetrics{density=2.625, width=1080, height=1920, scaledDensity=2.625, xdpi=442.451, ydpi=443.345}, isValid=true
+        mCreated=true mSurfaceCreated=true mIsCreating=false mDrawingAllowed=true
+        mWidth=1080 mCurWidth=1080 mHeight=1920 mCurHeight=1920
+        mType=-1 mWindowFlags=16 mCurWindowFlags=16
+        mWindowPrivateFlags=0 mCurWindowPrivateFlags=0
+        mVisibleInsets=[0,63][0,0] mWinFrame=[0,0][1080,1920] mContentInsets=[0,0][0,0]
+        mConfiguration={1.0 1.0 0 ?mcc?mnc zh_CN ?layoutDir ?swdp ?wdp ?hdp ?density ?lsize ?long ?orien ?uimode ?night ?oled ?touch ?keyb/?/? ?nav/?}
+        mLayout=WM.LayoutParams{(0,0)(1080x1920) gr=#800033 ty=2101 fl=#318 fmt=2 wanim=0x10302ea}
+        mPendingXOffset=0.0 mPendingXOffset=0.0
+        mPendingXOffsetStep=0.0 mPendingXOffsetStep=0.0
+        mOffsetMessageEnqueued=false mPendingSync=false
+        ImageWallpaper.DrawableEngine:
+         mBackground=android.graphics.Bitmap@96ffed5 mBackgroundWidth=1080 mBackgroundHeight=1920
+         mLastRotation=0 mLastSurfaceWidth=1080 mLastSurfaceHeight=1920
+         mXOffset=0.0 mYOffset=0.0
+         mVisible=false mOffsetsChanged=false
+         mLastXTranslation=0 mLastYTranslation=0 mScale=1.0
+         mLastRequestedWidth=1080 mLastRequestedHeight=1920
+         DisplayInfo at last updateSurfaceSize:
+          rotation=0  width=1080  height=1920
+
+SERVICE com.tencent.mm/.booter.NotifyReceiver$NotifyService 471a94e pid=4083
+  Client:
+    nothing to dump
+
+SERVICE com.letv.android.usagestats/.UsageStatsReportService 36c46c0 pid=4574
+  Client:
+    DEBUG = false
+    INTERVAL = 3600s
+
+SERVICE com.dsi.ant.server/.AntService 6f2728 pid=924
+  Client:
+    nothing to dump
+
+SERVICE com.letv.android.powercontroller/com.letv.android.gmsmanager.GmsManagerService 1831f6a pid=1760
+  Client:
+    Dump time : 2017???2???20??? ??????9:44:56
+    Runtime State : mHasGmsApp = false, mGsfAppEnable = false, mGsfGprsEnable = false
+    Setting Value : mHasGmsApp = false, mGsfAppEnable = false, mGsfGprsEnable = false, SysUpdateFlag = false
+    Gsf Frw Version : 6.0.1; 6.0.1; 9.8.79 (448-137224771); 
+    Sys Version : ABXCNOP5902012161S release-keys
+
+    Installed Gms Packages :
+      com.google.android.syncadapters.contacts [system]
+      com.google.android.gms [system]
+      com.google.android.gsf [system]
+      com.google.android.gsf.login [system]
+
+
+SERVICE com.letv.agnes/.service.ReportService ef8edc6 pid=2456
+  Client:
+    nothing to dump
+
+SERVICE com.letv.android.freeflow/.service.WorkService 660b32f pid=1651
+  Client:
+    nothing to dump
+
+SERVICE com.stv.stvpush/.service.StvPushService 52d44c1 pid=2408
+  Client:
+    nothing to dump
+
+SERVICE com.tencent.mm/.booter.CoreService 8ec98ea pid=4331
+  Client:
+    nothing to dump
+
+SERVICE com.android.bluetooth/.a2dp.A2dpService d9f095a pid=(not running)
+
+SERVICE com.letv.app.appstore/.service.InstalledPackageInfoService cd682c7 pid=1893
+  Client:
+    nothing to dump
+
+SERVICE com.wandoujia.phoenix2.usbproxy/com.wandoujia.phoenix2.services.ConnectionService 9d4bce9 pid=5307
+  Client:
+    nothing to dump
+
+SERVICE com.baidu.map.location/com.baidu.location.f 1d477f1 pid=1578
+  Client:
+    nothing to dump
+
+SERVICE com.android.systemui/.SystemUIService 77aa2c5 pid=1346
+  Client:
+    Dump time : 2017???2???20??? ??????9:44:56
+    dumping service: com.android.systemui.tuner.TunerService
+    dumping service: com.android.systemui.keyguard.KeyguardViewMediator
+    KeyguardViewMediator state:
+      Keyguard mOccluded=false
+      Keyguard mShowing=false
+      mExternallyEnabled=true
+      mNeedToReshowWhenReenabled=false
+      PowerButtonInstantlyLocks=true
+      isSecure=true
+      isVrDeviceIn:false
+
+    StatusBarKeyguardViewManager.dump():
+      mShowing:false  mOccluded:false  mScreenTurnedOn:true  mLastShowing:false  mLastOccluded:false  mLastBouncerShowing:false  mLastBouncerDismissible:true
+
+    KeyguardBouncer.dump():
+      mRoot:null visiblity:-1  mContainer=com.android.systemui.statusbar.phone.StatusBarWindowView{eb5504f V.E...... ........ 0,0-1080,63}  mShowingSoon=false
+
+    KeyguardViewContainerVertical state:
+      mMainCurrentPage=0
+      mSecurityCurrentPage=0
+      mDragCamera=false isRunning:false
+      mCameraBtnLp.bottomMargin=24
+      Last_enable_wallpaper_time=not enable
+
+    EmergencyButton state:com.android.keyguard.EmergencyButton{7714ec VFED..C.. ......ID 0,-25-206,101 #7f0c00a8 app:id/emergency_call_button}
+      mIsCUVersion=false, mPhoneCount=2
+      mCompleteNoSignal[0]=false, mPhoneStateListener[0]=null
+      mCompleteNoSignal[1]=false, mPhoneStateListener[1]=null
+      signalAvailable=true
+      mSubId[0]=0, simState[0]=UNKNOWN
+      mSubId[1]=0, simState[1]=UNKNOWN
+      hasSimCard=false
+
+    MainKeyguardViewPager state:
+      id:c3b6d35
+      mDragAble=false, mSpecialDragAble=false, mDisableSpecialDrag=false, mCanIntercept=false
+      mViewOffSet=0, mTouchOffSet=0
+      mBottomUntouchPosition=1920, mReboundLength=96
+      mFlipLength=576, mFlipBaseLength=192, mMostScrollOffSet=1920
+      mHeight=1920, mWidth=1080, mViewSize=1920
+      mPressedfalse, mIsMoving=false, mTouchState=0
+      mInterceptPosition=0.0, mLastPosition=0.0, mDownPosition=0.0
+      mDownX=0.0, mDownY=0.0, mActivePointerId=-1
+      mUpScrollDuration=100, mDownScrollDuration=300
+
+    SecurityKeyguardViewPager state:
+      id:3df8496
+      mDragAble=true, mSpecialDragAble=false, mDisableSpecialDrag=false, mCanIntercept=false
+      mViewOffSet=0, mTouchOffSet=-649
+      mBottomUntouchPosition=1920, mReboundLength=96
+      mFlipLength=384, mFlipBaseLength=192, mMostScrollOffSet=1920
+      mHeight=1920, mWidth=1080, mViewSize=1920
+      mPressedfalse, mIsMoving=false, mTouchState=0
+      mInterceptPosition=1526.0154, mLastPosition=689.3877, mDownPosition=1278.3342
+      mDownX=399.62997, mDownY=1278.3342, mActivePointerId=0
+      mUpScrollDuration=100, mDownScrollDuration=300
+
+    WidgetKeyguardViewPager state:
+      id:337b404
+      mDragAble=true, mSpecialDragAble=false, mDisableSpecialDrag=false, mCanIntercept=true
+      mViewOffSet=0, mTouchOffSet=0
+      mBottomUntouchPosition=1080, mReboundLength=54
+      mFlipLength=540, mFlipBaseLength=216, mMostScrollOffSet=0
+      mHeight=1920, mWidth=1080, mViewSize=1080
+      mPressedfalse, mIsMoving=false, mTouchState=0
+      mInterceptPosition=761.2951, mLastPosition=761.2951, mDownPosition=761.2951
+      mDownX=761.2951, mDownY=1390.2759, mActivePointerId=0
+      mUpScrollDuration=300, mDownScrollDuration=300
+
+    WeatherTextView_Keyguard dump(),color:ffffffff this:com.leui.keyguard.WeatherTextView{6a8012a G.ED..... ......ID 26,0-26,65 #7f0c0146 app:id/weather_view}
+    compoundDrs[0]:null bitmap:null
+    compoundDrs[1]:null bitmap:null
+    compoundDrs[2]:null bitmap:null
+    compoundDrs[3]:null bitmap:null
+    128
+    225
+    128
+    225
+
+    FingerprintHelper state:
+      mShowing:false  mOccluded:false  hasEnrolledFingerprints:false  mMode:Invalid  FINGERPRINT_ENABLE:false mForceDisableFingerPrint:false ENABLE_FINGER_PRINT_WHEN_KEYGUARD_OCCLUDED:true ENABLE_FINGER_PRINT_WHEN_ACCOUNT_SHOW:false  getFingerprintTryCount:0
+        mForceUnlockCallback:null
+
+    dumping service: com.android.systemui.recents.Recents
+    Dump time : 2017???2???20??? ??????9:44:56
+    LeuiRecentComponent State:
+      mUserSetup=true
+      mKeyguardShow=false
+      mKeyguardSecure=true
+      mAccessConterCenterWhenLock=true
+      Device Config:
+        HasNavigationBar=false
+        CenterTaskRectPortrait=Rect(405, 1164 - 675, 1644)
+        LeftTaskRectPortrait=Rect(90, 1164 - 360, 1644)
+        CenterTaskRectLandscape=Rect(640, 398 - 1280, 758)
+        LeftTaskRectLandscape=Rect(-52, 398 - 588, 758)
+        mLastToggleTime=0
+        LastTaskSwitchTime=0
+        SCREEN_ROTATION=0
+        STATUS_BAR_HEIGHT=63
+        SCREEN_PHYSICAL_WIDTH=1080
+        SCREEN_PHYSICAL_HEIGHT=1920
+        SCREEN_HEIGHT_PORTRAIT=1920
+        SCREEN_WIDTH_LANDSCAPE=1920
+        THUMBNAIL_WIDTH_PORTRAIT=270
+        THUMBNAIL_HEIGHT_PORTRAIT=480
+        THUMBNAIL_WIDTH_LANDSCAPE=640
+        THUMBNAIL_HEIGHT_LANDSCAPE=360
+        NAVIGATION_BAR_HEIGHT_IN_PORTRAIT=0
+        NAVIGATION_BAR_WIDTH_IN_LANDSCAPE=0
+      LeuiRecentsPanelViewHelper.dump():
+       	CenterTaskRectPortrait:Rect(405, 1164 - 675, 1644) LeftTaskRectPortrait:Rect(90, 1164 - 360, 1644) CenterTaskRectLandscape:Rect(640, 398 - 1280, 758) LeftTaskRectLandscape:Rect(-52, 398 - 588, 758) mRecentsPanelViewPortrait,width:1080  height:1920 mRecentsPanelViewLandscape,width:1920  height:1080
+    	  LeuiRecentsViewContainer.dump():
+    	   	 mRemoveAllInProcess:false this:com.android.systemui.recents.leui.LeuiRecentsViewContainer{d55b619 V.E...... ......I. 0,0-0,0 #7f0c015d app:id/leui_recent_view_container} getChildCount():3 getMeasuredWidth:1080 getMeasuredHeight:825 mTaskThumbnailsLinerarLayout.getChildCount:0
+    	  LeuiRecentsViewContainer.dump():
+    	   	 mRemoveAllInProcess:false this:com.android.systemui.recents.leui.LeuiRecentsViewContainer{9a0698f V.E...... ......I. 0,0-0,0 #7f0c015d app:id/leui_recent_view_container} getChildCount():3 getMeasuredWidth:1416 getMeasuredHeight:797 mTaskThumbnailsLinerarLayout.getChildCount:0
+      LeuiRecentViewsManager.dump():
+       	 mPreLoadStartTime:0 mPreLoadDataVaildTime:0 loadDataStartTime:0 mWatitingForLoading:false mIsHomeTopMost:false mTopTaskId:-1 bindDataStartTime:0 mJoinPreloadThreaqd:false mCleanAllInProcess:false isRefreshTaskDataForAppIcon:false isRemoveTaskDataCalendarIconfalse isLockAppEnable:false
+       mWhiteListProcess.size():41 all mWhiteListProcess:
+      com.whatsapp
+      BlurWallpaperManager state:
+        ENABLE_FAKE_BLUR_BACKGROUND:false  KEEP_LAST_WALLPAPER:false
+        lastWallpaperInfo:null
+        lastWallpaper:null
+        currentBlurView:null
+    LeWidgetsManger State:
+      mKeyguardShow=false
+      mKeyguardSecure=true
+      DEBUG_SHORTCUT=false
+  DEBUG_APP=false
+      DEBUG_MUSIC=false
+      DEBUG_BRIGHTNESS=false
+      DEBUG_PANEL=false
+      DEBUG_PANEL_ANIMATION=false
+      LeShortcutWidgetManager State:
+        mKeyguardShow=false
+        mKeyguardSecure=true
+        mType=shortcut_widget_position
+        mWidgetPosition=87659b43210
+        Widget Contains :{EYEPROTECTION|NFC|DIABLEVIRTUALKEY|ZENMODE|MUTE|POWERSAVE|MORE|AUTOBRIGHT|HOTPORT|BLUETOOTH|LOCATION|FLIGHT|AUTOROTATE|DATA|WIFI|}
+        Shortcut's Version:7
+        Is USB In Charge?:false
+        hasMuteEnableFeature:false
+        hasVirtualKeyEnableFeature:false
+        mHasNfcFeature:false
+        hasEyeProtectionFeature:false
+        Shortcut Setting's WIFI_ON:1
+        Shortcut Setting's WIFI_SAVED_STATE:-1
+        Shortcut Setting's BLUETOOTH_ON:0
+        Shortcut Setting's AIRPLANE_MODE_ON:0
+        Shortcut Setting's AIRPLANE_MODE_RADIOS:cell,bluetooth,wifi,nfc,wimax
+        Shortcut Setting's AIRPLANE_MODE_TOGGLEABLE_RADIOS:bluetooth,wifi,nfc
+        Shortcut Setting's LOCATION_MODE:3
+        Shortcut Setting's ACCELEROMETER_ROTATION:1
+        Shortcut Setting's SCREEN_BRIGHTNESS_MODE:0
+        StateTracker Type:0
+          Real State=1
+          Current State=1
+          EqualSetting(wifi/data/horport/bluetooth/airplane) State=-1
+          EqualSaveSetting(wifi) State=-1
+          mPreBluetoothState:-1
+          mNowBluetoothState:-1
+        StateTracker Type:1
+          Real State=2
+          Current State=2
+          EqualSetting(wifi/data/horport/bluetooth/airplane) State=-1
+          EqualSaveSetting(wifi) State=-1
+          isDataSimForNA:false
+          isCard2HasSimOnly():false
+        StateTracker Type:2
+          Real State=1
+          Current State=1
+          EqualSetting(wifi/data/horport/bluetooth/airplane) State=-1
+          EqualSaveSetting(wifi) State=-1
+          Rotation from db:1
+          Rotation from RotationPolicy:false
+        StateTracker Type:3
+          Real State=0
+          Current State=0
+          EqualSetting(wifi/data/horport/bluetooth/airplane) State=-1
+          EqualSaveSetting(wifi) State=-1
+        StateTracker Type:4
+          Real State=1
+          Current State=1
+          EqualSetting(wifi/data/horport/bluetooth/airplane) State=-1
+          EqualSaveSetting(wifi) State=-1
+        StateTracker Type:9
+          Real State=0
+          Current State=0
+          EqualSetting(wifi/data/horport/bluetooth/airplane) State=-1
+          EqualSaveSetting(wifi) State=-1
+        StateTracker Type:5
+          Real State=0
+          Current State=0
+          EqualSetting(wifi/data/horport/bluetooth/airplane) State=-1
+          EqualSaveSetting(wifi) State=-1
+        StateTracker Type:6
+          Real State=0
+          Current State=0
+          EqualSetting(wifi/data/horport/bluetooth/airplane) State=-1
+          EqualSaveSetting(wifi) State=-1
+        StateTracker Type:7
+          Real State=0
+          Current State=0
+          EqualSetting(wifi/data/horport/bluetooth/airplane) State=-1
+          EqualSaveSetting(wifi) State=-1
+            StateTracker Type:11
+                Real State=0
+                Current State=0
+                EqualSetting(wifi/data/horport/bluetooth/airplane) State=-1
+                EqualSaveSetting(wifi) State=-1
+                FavMaunalZenMode:0
+                ZenMode:0
+      LeAppWidgetManager State:
+        mKeyguardShow=false
+        mKeyguardSecure=true
+        mType=shortcut_application_position
+        mWidgetPosition=98cbd54273106
+        Widget Contains :{COMPASS|QRCODE|WIRELESSDISPLAY|APN|MORE|SETTING|CAPSCREEN|REMOTE_CONTROL|NOTE|CALENDAR|TORCH|CLOCK|CALCULATOR|CAMERA|}
+        AppWidget's Version:3
+        Is AppWidget has APN's Feature?:false
+            StateTracker Type:3
+                Real State=0
+                Current State=0
+                EqualSetting(wifi/data/horport/bluetooth/airplane) State=-1
+                EqualSaveSetting(wifi) State=-1
+                FlashlightState isEnabled:false
+                FlashlightState isAvailable:true
+                Flashlight mCameraId = 0
+      LeMusicWidgetManager State:
+        mKeyguardShow=false
+        mKeyguardSecure=true
+        MusicInfo State:
+          isPlaying=false
+          trackName=
+          artistName=
+          albumName=
+          controller.packageName=-null
+      LeBrightnessWidgetManager State:
+        MinBacklight=3
+        MaxBacklight=255
+        Brightness Info State:
+          minBacklight=3
+          maxBacklight=252
+          curBacklight=252
+          autoBacklight=false
+    ControlCenterWindowManager State:
+      DISABLE_CC_EXPAND_WHEN_STATUSBAR_WININDOW_PRESSED:true
+      DISABLE_CC_EXPAND_WHEN_CC_WININDOW_PRESSED:true
+      LeBasePanelView State:
+        mState=STATE_CLOSED
+        mSwip=SWIP_BOTTOM
+        mExpandHeight=0.0
+        mFullHeight=949
+        EXPAND_DIVIDE_TIME_RADIO=0.5
+        EXPAND_EXPAND_RADIO=0.015
+        EXPAND_DURATION=500
+        COLLAPSE_DURATION=350
+    dumping service: com.android.systemui.volume.VolumeUI
+    mEnabled=true
+    mVolumeControllerService=null
+    VolumeDialogController state:
+      mEnabled: false
+      mDestroyed: false
+      mVolumePolicy: VolumePolicy[volumeDownToEnterSilent=true,volumeUpToExitSilent=true,doNotDisturbWhenSilent=true,vibrateToSilentDebounce=400]
+      mState: {
+        STREAM_VOICE_CALL:4[1..7]
+        STREAM_SYSTEM:14[0..15] [MUTED]
+        STREAM_RING:14[0..15] [MUTED]
+        STREAM_MUSIC:6[0..15]
+        STREAM_ALARM:8[0..15]
+        STREAM_NOTIFICATION:14[0..15] [MUTED]
+        STREAM_BLUETOOTH_SCO:7[1..15]
+        STREAM_SYSTEM_ENFORCED:15[0..15]
+        STREAM_DTMF:14[0..15] [MUTED]
+        STREAM_TTS:6[0..15]
+        ringerModeExternal:1
+        ringerModeInternal:1
+        zenMode:0
+        effectsSuppressor:null
+        effectsSuppressorName:null
+        zenModeConfig:ZenModeConfig[user=0,allowCalls=true,allowRepeatCallers=false,allowMessages=false,allowCallsFrom=contacts,allowMessagesFrom=contacts,allowReminders=true,allowEvents=true,automaticRules={27563d10f24c4da997a35ca0036b3a21=ZenRule[enabled=false,snoozing=false,name=?????¡§,zenMode=ZEN_MODE_ALARMS,conditionId=condition://android/event?userId=-10000&calendar=&reply=1,condition=null,component=null], 5c3fc6a8725f4949aa8682684445ec37=ZenRule[enabled=false,snoozing=false,name=??¡§???,zenMode=ZEN_MODE_ALARMS,conditionId=condition://android/schedule?days=6.7&start=23.30&end=10.0,condition=null,component=null], 9f7dd6b0bdc849cd86c6bddf07a0ac7f=ZenRule[enabled=false,snoozing=false,name=??¡§???¨¨????¡§????¡è?¨¦??,zenMode=ZEN_MODE_ALARMS,conditionId=condition://android/schedule?days=1.2.3.4.5&start=22.0&end=7.0,condition=null,component=null]},manualRule=null]
+        activeStream:-1
+        }
+      mShowDndTile: true
+      mHasVibrator: true
+      mRemoteStreams: []
+
+MediaSessions state:
+      mInit: true
+      mRecords.size: 0
+    VolumeDialog state:
+      mShowing: false
+      mExpanded: false
+      mExpandButtonAnimationRunning: false
+      mActiveStream: -1
+      mDynamic: {}
+      mShowHeaders: true
+      mAutomute: true
+      mSilentMode: false
+      mCollapseTime: 1487597708685
+      mAccessibility.mFeedbackEnabled: false
+    dumping service: com.android.systemui.statusbar.SystemBars
+    Current Status Bar state:
+      mState:0
+      mExpandedVisible=false mIsCollapse:true, mTrackingPosition=0
+      mTracking=false
+      mDisplayMetrics=DisplayMetrics{density=2.625, width=1080, height=1920, scaledDensity=2.625, xdpi=442.451, ydpi=443.345}
+      mStackScroller: [(0,0)(1080,519) 1080x519]
+      mStackScroller: [(0,0)(1080,519) 1080x519] scroll 0,0
+      mStatusBarWindow=com.android.systemui.statusbar.phone.StatusBarWindowView{eb5504f V.E...... ........ 0,0-1080,63} params=WM.LayoutParams{(0,0)(fillx63) gr=#30 sim=#10 ty=2000 fl=#81840048 fmt=-3}
+      isReturnIncallViewVisible=false
+    StatusBarWindowManager state:
+      LayoutParams:WM.LayoutParams{(0,0)(fillx63) gr=#30 sim=#10 ty=2000 fl=#81840048 fmt=-3}
+      mLp.privateFlags=0
+      mStatusBarView:com.android.systemui.statusbar.phone.StatusBarWindowView{eb5504f V.E...... ........ 0,0-1080,63}
+      mBarHeight=63
+    Window State {
+      bouncerShowing: false
+      forceCollapsed: false
+      forceStatusBarVisible: false
+      headsUpShowing: false
+      keyguardFadingAway: false
+      keyguardNeedsInput: false
+      keyguardOccluded: false
+      keyguardShowing: false
+      panelExpanded: false
+      panelVisible: false
+      qsExpanded: false
+      statusBarFocusable: false
+      statusBarState: 0
+    }
+      mLeuiFlag:0  mCurrentRevertColor=ffffffff
+      mSystemUiVisibility=40008600
+      mDisabled1:0
+      mDisabled2:0
+      updateStatusBarMoveUpOffset, topMargin=0
+      mInteractingWindows=0
+      mStatusBarWindowState=WINDOW_STATE_SHOWING
+      mStatusBarMode=MODE_TRANSLUCENT
+      mDozing=false
+      mZenMode=ZEN_MODE_OFF
+      mUseHeadsUp=true
+      mStatusBarView.BarTransitions.mMode=MODE_TRANSLUCENT
+      mNavigationBarView=null
+      mMediaSessionManager=android.media.session.MediaSessionManager@b6519e1
+      mMediaNotificationKey=null
+      mMediaController=null
+      mMediaMetadata=null
+      Panels: 
+        mNotificationPanel=com.android.systemui.statusbar.phone.NotificationPanelViewLeui{edd861e I.E...... ......ID 0,0-1080,0 #7f0c01e1 app:id/notification_panel} params=FrameLayout.LayoutParams={ width=match-parent, height=match-parent, leftMargin=0, rightMargin=0, topMargin=0, bottomMargin=0 }
+          [PanelView(NotificationPanelViewLeui): expandedHeight=0.000000 maxPanelHeight=1920 closing=T tracking=f justPeeked=f peekAnim=null timeAnim=null touchDisabled=f]
+      active notifications: 3
+        [0] key=0|android|17039593|null|1000 icon=StatusBarIconView(slot=android/0x10400e9 icon=StatusBarIcon(icon=Icon(typ=RESOURCE pkg=android id=0x0108008a) visible user=0 ) notification=Notification(pri=1 contentView=android/0x109010c vibrate=null sound=null isShadow = false isOriginalStyle = false defaults=0x0 flags=0x0 color=0xff607d8b vis=PRIVATE))
+            pkg=android id=17039593 score=10
+            notification=Notification(pri=1 contentView=android/0x109010c vibrate=null sound=null isShadow = false isOriginalStyle = false defaults=0x0 flags=0x0 color=0xff607d8b vis=PRIVATE)
+            tickerText="null"
+        [1] key=-1|android|17040350|null|1000 icon=StatusBarIconView(slot=android/0x10403de icon=StatusBarIcon(icon=Icon(typ=RESOURCE pkg=android id=0x010805be) visible user=-1 ) notification=Notification(pri=0 contentView=android/0x109010c vibrate=null sound=null tick isShadow = false isOriginalStyle = false defaults=0x0 flags=0x2 color=0xff607d8b vis=PUBLIC))
+            pkg=android id=17040350 score=0
+            notification=Notification(pri=0 contentView=android/0x109010c vibrate=null sound=null tick isShadow = false isOriginalStyle = false defaults=0x0 flags=0x2 color=0xff607d8b vis=PUBLIC)
+            tickerText="?????¡§¨¦??¨¨?? USB ??????"
+        [2] key=0|com.letv.app.appstore|10001|null|10078 icon=StatusBarIconView(slot=com.letv.app.appstore/0x2711 icon=StatusBarIcon(icon=Icon(typ=RESOURCE pkg=com.letv.app.appstore id=0x7f020193) visible user=0 ) notification=Notification(pri=0 contentView=com.letv.app.appstore/0x7f030122 vibrate=null sound=null isShadow = false isOriginalStyle = false defaults=0x0 flags=0x10 color=0x00000000 vis=PRIVATE))
+            pkg=com.letv.app.appstore id=10001 score=0
+            notification=Notification(pri=0 contentView=com.letv.app.appstore/0x7f030122 vibrate=null sound=null isShadow = false isOriginalStyle = false defaults=0x0 flags=0x10 color=0x00000000 vis=PRIVATE)
+            tickerText="null"
+      inactive notifications: 0
+      system icons: 10
+        [0] icon=StatusBarIconView(slot=managed_profile icon=StatusBarIcon(icon=Icon(typ=RESOURCE pkg=com.android.systemui id=0x7f0203fb) user=0 ) notification=null)
+        [1] icon=StatusBarIconView(slot=sync_active icon=StatusBarIcon(icon=Icon(typ=RESOURCE pkg=com.android.systemui id=0x7f02041e) user=0 ) notification=null)
+        [2] icon=StatusBarIconView(slot=cast icon=StatusBarIcon(icon=Icon(typ=RESOURCE pkg=com.android.systemui id=0x7f0203bc) user=0 ) notification=null)
+        [3] icon=StatusBarIconView(slot=bluetooth icon=StatusBarIcon(icon=Icon(typ=RESOURCE pkg=com.android.systemui id=0x7f0203e1) user=0 ) notification=null)
+        [4] icon=StatusBarIconView(slot=headset icon=StatusBarIcon(icon=Icon(typ=RESOURCE pkg=com.android.systemui id=0x7f0203f5) user=0 ) notification=null)
+        [5] icon=StatusBarIconView(slot=tty icon=StatusBarIcon(icon=Icon(typ=RESOURCE pkg=com.android.systemui id=0x7f02041f) user=0 ) notification=null)
+        [6] icon=StatusBarIconView(slot=zen icon=StatusBarIcon(icon=Icon(typ=RESOURCE pkg=com.android.systemui id=0x7f020435) user=0 ) notification=null)
+        [7] icon=StatusBarIconView(slot=volume icon=StatusBarIcon(icon=Icon(typ=RESOURCE pkg=com.android.systemui id=0x7f0203ff) visible user=0 ) notification=null)
+        [8] icon=StatusBarIconView(slot=global_vibrate icon=StatusBarIcon(icon=Icon(typ=RESOURCE pkg=com.android.systemui id=0x7f0203f4) user=0 ) notification=null)
+        [9] icon=StatusBarIconView(slot=alarm_clock icon=StatusBarIcon(icon=Icon(typ=RESOURCE pkg=com.android.systemui id=0x7f0203b1) user=0 ) notification=null)
+      notification icons: 3
+        [0] icon=StatusBarIconView(slot=android/0x10400e9 icon=StatusBarIcon(icon=Icon(typ=RESOURCE pkg=android id=0x0108008a) visible user=0 ) notification=Notification(pri=1 contentView=android/0x109010c vibrate=null sound=null isShadow = false isOriginalStyle = false defaults=0x0 flags=0x0 color=0xff607d8b vis=PRIVATE))
+        [1] icon=StatusBarIconView(slot=android/0x10403de icon=StatusBarIcon(icon=Icon(typ=RESOURCE pkg=android id=0x010805be) visible user=-1 ) notification=Notification(pri=0 contentView=android/0x109010c vibrate=null sound=null tick isShadow = false isOriginalStyle = false defaults=0x0 flags=0x2 color=0xff607d8b vis=PUBLIC))
+        [2] icon=StatusBarIconView(slot=com.letv.app.appstore/0x2711 icon=StatusBarIcon(icon=Icon(typ=RESOURCE pkg=com.letv.app.appstore id=0x7f020193) visible user=0 ) notification=Notification(pri=0 contentView=com.letv.app.appstore/0x7f030122 vibrate=null sound=null isShadow = false isOriginalStyle = false defaults=0x0 flags=0x10 color=0x00000000 vis=PRIVATE))
+    StatusBarWindowManager state:
+      LayoutParams:WM.LayoutParams{(0,0)(fillx63) gr=#30 sim=#10 ty=2000 fl=#81840048 fmt=-3}
+      mLp.privateFlags=0
+      mStatusBarView:com.android.systemui.statusbar.phone.StatusBarWindowView{eb5504f V.E...... ........ 0,0-1080,63}
+      mBarHeight=63
+    Window State {
+      bouncerShowing: false
+      forceCollapsed: false
+      forceStatusBarVisible: false
+      headsUpShowing: false
+      keyguardFadingAway: false
+      keyguardNeedsInput: false
+      keyguardOccluded: false
+      keyguardShowing: false
+      panelExpanded: false
+      panelVisible: false
+      qsExpanded: false
+      statusBarFocusable: false
+      statusBarState: 0
+    }
+    PhoneStatusBarPolicy state:
+      mZenVisible=false
+      mZen=0
+      showHomeZenIcon=true
+      showSoftSilentIcon=false
+      mVolumeVisible=true
+      mGlobalVibrateVisible=false
+  bluetoothEnabled=false
+      bluetoothConnected=false
+      mBtHeadsetBatteryFlag=false
+      isShowHeadset=false
+      mKeyguardVisible=false
+    NetworkController state:
+      - telephony ------
+      hasVoiceCallingFeature()=true
+      mShowVoLTE=true
+      mHasOneSim=false
+      - connectivity ------
+      mConnectedTransports={1}
+      mValidatedTransports={1}
+      mInetCondition=true
+      mAirplaneMode=false
+      mLocale=zh_CN
+      mLastServiceState=3 3 voice home data home null null null null null null  Unknown Unknown CSS not supported -1 -1 RoamInd=-1 DefRoamInd=-1 EmergOnly=false Ril Voice Regist state: 0 Ril Data Regist state: 0 mProprietaryDataRadioTechnology: 0 VoiceRejectCause: -1 DataRejectCause: -1 mCdmaNetWorkMode: 0 IsDataRoamingFromRegistration=false
+      mIsEmergency=false
+      mEmergencySource=NO_CONTROLLERS
+      - NetworkController.WifiSignalController -----
+      Current State: connected=true,enabled=true,level=3,inetCondition=1,iconGroup=IconGroup(Wi-Fi Icons),activityIn=true,activityOut=true,rssi=-49,lastModified=02-20 09:44:55,ssid="wukong_office",connecting=false
+      Previous State(1): connected=true,enabled=true,level=3,inetCondition=1,iconGroup=IconGroup(Wi-Fi Icons),activityIn=true,activityOut=true,rssi=-50,lastModified=02-20 09:44:54,ssid="wukong_office",connecting=false
+      Previous State(2): connected=true,enabled=true,level=3,inetCondition=1,iconGroup=IconGroup(Wi-Fi Icons),activityIn=true,activityOut=false,rssi=-50,lastModified=02-20 09:44:52,ssid="wukong_office",connecting=false
+      Previous State(3): connected=true,enabled=true,level=3,inetCondition=1,iconGroup=IconGroup(Wi-Fi Icons),activityIn=true,activityOut=false,rssi=-49,lastModified=02-20 09:44:49,ssid="wukong_office",connecting=false
+      Previous State(4): connected=true,enabled=true,level=3,inetCondition=1,iconGroup=IconGroup(Wi-Fi Icons),activityIn=true,activityOut=false,rssi=-50,lastModified=02-20 09:44:47,ssid="wukong_office",connecting=false
+      Previous State(5): connected=true,enabled=true,level=3,inetCondition=1,iconGroup=IconGroup(Wi-Fi Icons),activityIn=true,activityOut=true,rssi=-50,lastModified=02-20 09:44:46,ssid="wukong_office",connecting=false
+      Previous State(6): connected=true,enabled=true,level=3,inetCondition=1,iconGroup=IconGroup(Wi-Fi Icons),activityIn=true,activityOut=true,rssi=-49,lastModified=02-20 09:44:46,ssid="wukong_office",connecting=false
+      Previous State(7): connected=true,enabled=true,level=3,inetCondition=1,iconGroup=IconGroup(Wi-Fi Icons),activityIn=true,activityOut=false,rssi=-49,lastModified=02-20 09:44:43,ssid="wukong_office",connecting=false
+      Previous State(8): connected=true,enabled=true,level=3,inetCondition=1,iconGroup=IconGroup(Wi-Fi Icons),activityIn=true,activityOut=false,rssi=-50,lastModified=02-20 09:44:37,ssid="wukong_office",connecting=false
+      Previous State(9): connected=true,enabled=true,level=3,inetCondition=1,iconGroup=IconGroup(Wi-Fi Icons),activityIn=true,activityOut=false,rssi=-49,lastModified=02-20 09:44:34,ssid="wukong_office",connecting=false
+      Previous State(10): connected=true,enabled=true,level=3,inetCondition=1,iconGroup=IconGroup(Wi-Fi Icons),activityIn=true,activityOut=true,rssi=-49,lastModified=02-20 09:44:33,ssid="wukong_office",connecting=false
+      Previous State(11): connected=true,enabled=true,level=3,inetCondition=1,iconGroup=IconGroup(Wi-Fi Icons),activityIn=true,activityOut=false,rssi=-49,lastModified=02-20 09:44:24,ssid="wukong_office",connecting=false
+      Previous State(12): connected=true,enabled=true,level=3,inetCondition=1,iconGroup=IconGroup(Wi-Fi Icons),activityIn=true,activityOut=true,rssi=-49,lastModified=02-20 09:44:21,ssid="wukong_office",connecting=false
+      Previous State(13): connected=true,enabled=true,level=3,inetCondition=1,iconGroup=IconGroup(Wi-Fi Icons),activityIn=true,activityOut=false,rssi=-49,lastModified=02-20 09:44:14,ssid="wukong_office",connecting=false
+      Previous State(14): connected=true,enabled=true,level=3,inetCondition=1,iconGroup=IconGroup(Wi-Fi Icons),activityIn=true,activityOut=true,rssi=-49,lastModified=02-20 09:44:13,ssid="wukong_office",connecting=false
+      Previous State(15): connected=true,enabled=true,level=3,inetCondition=1,iconGroup=IconGroup(Wi-Fi Icons),activityIn=true,activityOut=false,rssi=-49,lastModified=02-20 09:44:13,ssid="wukong_office",connecting=false
+      Previous State(16): connected=true,enabled=true,level=3,inetCondition=1,iconGroup=IconGroup(Wi-Fi Icons),activityIn=true,activityOut=false,rssi=-50,lastModified=02-20 09:44:11,ssid="wukong_office",connecting=false
+      Previous State(17): connected=true,enabled=true,level=3,inetCondition=1,iconGroup=IconGroup(Wi-Fi Icons),activityIn=true,activityOut=true,rssi=-50,lastModified=02-20 09:44:10,ssid="wukong_office",connecting=false
+      Previous State(18): connected=true,enabled=true,level=3,inetCondition=1,iconGroup=IconGroup(Wi-Fi Icons),activityIn=true,activityOut=true,rssi=-49,lastModified=02-20 09:44:09,ssid="wukong_office",connecting=false
+      Previous State(19): connected=true,enabled=true,level=3,inetCondition=1,iconGroup=IconGroup(Wi-Fi Icons),activityIn=true,activityOut=false,rssi=-49,lastModified=02-20 09:44:01,ssid="wukong_office",connecting=false
+      Previous State(20): connected=true,enabled=true,level=3,inetCondition=1,iconGroup=IconGroup(Wi-Fi Icons),activityIn=true,activityOut=false,rssi=-50,lastModified=02-20 09:44:00,ssid="wukong_office",connecting=false
+      Previous State(21): connected=true,enabled=true,level=3,inetCondition=1,iconGroup=IconGroup(Wi-Fi Icons),activityIn=true,activityOut=true,rssi=-50,lastModified=02-20 09:43:59,ssid="wukong_office",connecting=false
+      Previous State(22): connected=true,enabled=true,level=3,inetCondition=1,iconGroup=IconGroup(Wi-Fi Icons),activityIn=true,activityOut=false,rssi=-50,lastModified=02-20 09:43:58,ssid="wukong_office",connecting=false
+      Previous State(23): connected=true,enabled=true,level=3,inetCondition=1,iconGroup=IconGroup(Wi-Fi Icons),activityIn=true,activityOut=true,rssi=-50,lastModified=02-20 09:43:55,ssid="wukong_office",connecting=false
+      Previous State(24): connected=true,enabled=true,level=3,inetCondition=1,iconGroup=IconGroup(Wi-Fi Icons),activityIn=true,activityOut=false,rssi=-50,lastModified=02-20 09:43:55,ssid="wukong_office",connecting=false
+      Previous State(25): connected=true,enabled=true,level=3,inetCondition=1,iconGroup=IconGroup(Wi-Fi Icons),activityIn=true,activityOut=false,rssi=-51,lastModified=02-20 09:43:52,ssid="wukong_office",connecting=false
+      Previous State(26): connected=true,enabled=true,level=3,inetCondition=1,iconGroup=IconGroup(Wi-Fi Icons),activityIn=true,activityOut=true,rssi=-51,lastModified=02-20 09:43:52,ssid="wukong_office",connecting=false
+      Previous State(27): connected=true,enabled=true,level=3,inetCondition=1,iconGroup=IconGroup(Wi-Fi Icons),activityIn=true,activityOut=true,rssi=-49,lastModified=02-20 09:43:51,ssid="wukong_office",connecting=false
+      Previous State(28): connected=true,enabled=true,level=3,inetCondition=1,iconGroup=IconGroup(Wi-Fi Icons),activityIn=true,activityOut=false,rssi=-49,lastModified=02-20 09:43:49,ssid="wukong_office",connecting=false
+      Previous State(29): connected=true,enabled=true,level=3,inetCondition=1,iconGroup=IconGroup(Wi-Fi Icons),activityIn=true,activityOut=true,rssi=-49,lastModified=02-20 09:43:49,ssid="wukong_office",connecting=false
+      Previous State(30): connected=true,enabled=true,level=3,inetCondition=1,iconGroup=IconGroup(Wi-Fi Icons),activityIn=true,activityOut=true,rssi=-50,lastModified=02-20 09:43:48,ssid="wukong_office",connecting=false
+      Previous State(31): connected=true,enabled=true,level=3,inetCondition=1,iconGroup=IconGroup(Wi-Fi Icons),activityIn=true,activityOut=false,rssi=-50,lastModified=02-20 09:43:46,ssid="wukong_office",connecting=false
+      Previous State(32): connected=true,enabled=true,level=3,inetCondition=1,iconGroup=IconGroup(Wi-Fi Icons),activityIn=true,activityOut=true,rssi=-50,lastModified=02-20 09:43:45,ssid="wukong_office",connecting=false
+      Previous State(33): connected=true,enabled=true,level=3,inetCondition=1,iconGroup=IconGroup(Wi-Fi Icons),activityIn=true,activityOut=false,rssi=-50,lastModified=02-20 09:43:42,ssid="wukong_office",connecting=false
+      Previous State(34): connected=true,enabled=true,level=3,inetCondition=1,iconGroup=IconGroup(Wi-Fi Icons),activityIn=true,activityOut=false,rssi=-52,lastModified=02-20 09:43:40,ssid="wukong_office",connecting=false
+      Previous State(35): connected=true,enabled=true,level=3,inetCondition=1,iconGroup=IconGroup(Wi-Fi Icons),activityIn=true,activityOut=true,rssi=-52,lastModified=02-20 09:43:39,ssid="wukong_office",connecting=false
+      Previous State(36): connected=true,enabled=true,level=3,inetCondition=1,iconGroup=IconGroup(Wi-Fi Icons),activityIn=true,activityOut=true,rssi=-51,lastModified=02-20 09:43:39,ssid="wukong_office",connecting=false
+      Previous State(37): connected=true,enabled=true,level=3,inetCondition=1,iconGroup=IconGroup(Wi-Fi Icons),activityIn=true,activityOut=false,rssi=-51,lastModified=02-20 09:43:38,ssid="wukong_office",connecting=false
+      Previous State(38): connected=true,enabled=true,level=3,inetCondition=1,iconGroup=IconGroup(Wi-Fi Icons),activityIn=true,activityOut=true,rssi=-51,lastModified=02-20 09:43:37,ssid="wukong_office",connecting=false
+      Previous State(39): connected=true,enabled=true,level=3,inetCondition=1,iconGroup=IconGroup(Wi-Fi Icons),activityIn=false,activityOut=false,rssi=-51,lastModified=02-20 09:43:36,ssid="wukong_office",connecting=false
+      Previous State(40): connected=true,enabled=true,level=3,inetCondition=1,iconGroup=IconGroup(Wi-Fi Icons),activityIn=true,activityOut=false,rssi=-51,lastModified=02-20 09:43:33,ssid="wukong_office",connecting=false
+      Previous State(41): connected=true,enabled=true,level=3,inetCondition=1,iconGroup=IconGroup(Wi-Fi Icons),activityIn=true,activityOut=false,rssi=-50,lastModified=02-20 09:43:31,ssid="wukong_office",connecting=false
+      Previous State(42): connected=true,enabled=true,level=3,inetCondition=1,iconGroup=IconGroup(Wi-Fi Icons),activityIn=true,activityOut=true,rssi=-50,lastModified=02-20 09:43:30,ssid="wukong_office",connecting=false
+      Previous State(43): connected=true,enabled=true,level=3,inetCondition=1,iconGroup=IconGroup(Wi-Fi Icons),activityIn=true,activityOut=true,rssi=-51,lastModified=02-20 09:43:30,ssid="wukong_office",connecting=false
+      Previous State(44): connected=true,enabled=true,level=3,inetCondition=1,iconGroup=IconGroup(Wi-Fi Icons),activityIn=true,activityOut=false,rssi=-51,lastModified=02-20 09:43:27,ssid="wukong_office",connecting=false
+      Previous State(45): connected=true,enabled=true,level=3,inetCondition=1,iconGroup=IconGroup(Wi-Fi Icons),activityIn=true,activityOut=false,rssi=-56,lastModified=02-20 09:43:23,ssid="wukong_office",connecting=false
+      Previous State(46): connected=true,enabled=true,level=3,inetCondition=1,iconGroup=IconGroup(Wi-Fi Icons),activityIn=true,activityOut=true,rssi=-56,lastModified=02-20 09:43:22,ssid="wukong_office",connecting=false
+      Previous State(47): connected=true,enabled=true,level=3,inetCondition=1,iconGroup=IconGroup(Wi-Fi Icons),activityIn=true,activityOut=false,rssi=-56,lastModified=02-20 09:43:20,ssid="wukong_office",connecting=false
+      Previous State(48): connected=true,enabled=true,level=3,inetCondition=1,iconGroup=IconGroup(Wi-Fi Icons),activityIn=true,activityOut=true,rssi=-56,lastModified=02-20 09:43:19,ssid="wukong_office",connecting=false
+      Previous State(49): connected=true,enabled=true,level=3,inetCondition=1,iconGroup=IconGroup(Wi-Fi Icons),activityIn=true,activityOut=false,rssi=-56,lastModified=02-20 09:43:18,ssid="wukong_office",connecting=false
+      Previous State(50): connected=true,enabled=true,level=3,inetCondition=1,iconGroup=IconGroup(Wi-Fi Icons),activityIn=true,activityOut=false,rssi=-57,lastModified=02-20 09:43:12,ssid="wukong_office",connecting=false
+      Previous State(51): connected=true,enabled=true,level=3,inetCondition=1,iconGroup=IconGroup(Wi-Fi Icons),activityIn=true,activityOut=true,rssi=-57,lastModified=02-20 09:43:09,ssid="wukong_office",connecting=false
+      Previous State(52): connected=true,enabled=true,level=3,inetCondition=1,iconGroup=IconGroup(Wi-Fi Icons),activityIn=true,activityOut=false,rssi=-57,lastModified=02-20 09:43:06,ssid="wukong_office",connecting=false
+      Previous State(53): connected=true,enabled=true,level=3,inetCondition=1,iconGroup=IconGroup(Wi-Fi Icons),activityIn=true,activityOut=false,rssi=-56,lastModified=02-20 09:43:06,ssid="wukong_office",connecting=false
+      Previous State(54): connected=true,enabled=true,level=3,inetCondition=1,iconGroup=IconGroup(Wi-Fi Icons),activityIn=true,activityOut=true,rssi=-56,lastModified=02-20 09:43:04,ssid="wukong_office",connecting=false
+      Previous State(55): connected=true,enabled=true,level=3,inetCondition=1,iconGroup=IconGroup(Wi-Fi Icons),activityIn=true,activityOut=false,rssi=-56,lastModified=02-20 09:43:03,ssid="wukong_office",connecting=false
+      Previous State(56): connected=true,enabled=true,level=3,inetCondition=1,iconGroup=IconGroup(Wi-Fi Icons),activityIn=true,activityOut=false,rssi=-54,lastModified=02-20 09:43:01,ssid="wukong_office",connecting=false
+      Previous State(57): connected=true,enabled=true,level=3,inetCondition=1,iconGroup=IconGroup(Wi-Fi Icons),activityIn=true,activityOut=true,rssi=-54,lastModified=02-20 09:43:00,ssid="wukong_office",connecting=false
+      Previous State(58): connected=true,enabled=true,level=3,inetCondition=1,iconGroup=IconGroup(Wi-Fi Icons),activityIn=true,activityOut=true,rssi=-55,lastModified=02-20 09:43:00,ssid="wukong_office",connecting=false
+      Previous State(59): connected=true,enabled=true,level=3,inetCondition=1,iconGroup=IconGroup(Wi-Fi Icons),activityIn=true,activityOut=false,rssi=-55,lastModified=02-20 09:42:58,ssid="wukong_office",connecting=false
+      Previous State(60): connected=true,enabled=true,level=3,inetCondition=1,iconGroup=IconGroup(Wi-Fi Icons),activityIn=true,activityOut=true,rssi=-55,lastModified=02-20 09:42:57,ssid="wukong_office",connecting=false
+      Previous State(61): connected=true,enabled=true,level=3,inetCondition=1,iconGroup=IconGroup(Wi-Fi Icons),activityIn=true,activityOut=true,rssi=-54,lastModified=02-20 09:42:57,ssid="wukong_office",connecting=false
+      Previous State(62): connected=true,enabled=true,level=3,inetCondition=1,iconGroup=IconGroup(Wi-Fi Icons),activityIn=true,activityOut=false,rssi=-54,lastModified=02-20 09:42:55,ssid="wukong_office",connecting=false
+      Previous State(63): connected=true,enabled=true,level=3,inetCondition=1,iconGroup=IconGroup(Wi-Fi Icons),activityIn=true,activityOut=true,rssi=-54,lastModified=02-20 09:42:54,ssid="wukong_office",connecting=false
+      Previous State(64): connected=true,enabled=true,level=3,inetCondition=1,iconGroup=IconGroup(Wi-Fi Icons),activityIn=true,activityOut=false,rssi=-54,lastModified=02-20 09:42:53,ssid="wukong_office",connecting=false
+      - NetworkController.EthernetSignalController -----
+      Current State: Empty State
+      - wifi tracker ------
+    BluetoothController state:
+      mLocalBluetoothManager=com.android.settingslib.bluetooth.LocalBluetoothManager@cf4c306
+      mEnabled=false
+      mConnectionState=DISCONNECTED
+      mLastDevice=null
+      mCallbacks.size=1
+      Bluetooth Devices:
+    HotspotController state:
+      mHotspotEnabled=null
+    CastController state:
+      mDiscovering=false
+      mCallbackRegistered=true
+      mCallbacks.size=1
+      mRoutes.size=0
+      mProjection=null
+    BatteryController state:
+      mLevel=33
+      mPluggedIn=true
+      mCharging=true
+      mCharged=false
+      mPowerSave=false
+    NextAlarmController state:
+      mNextAlarm=null
+    AssistManager state:
+      mAssistComponent=null
+    SecurityController state:
+      mCurrentVpns={}
+    HeadsUpManager state:
+      mTouchAcceptanceDelay=700
+      mSnoozeLengthMs=60000
+      now=608250
+      mUser=0
+      snoozed packages: 0
+    KeyguardUpdateMonitor state:
+      SIM States:
+      Subs:
+      Service states:
+      FingerPrint,mDeviceInteractive:true mFpWakeMode:0
+     mFingerprintDetectionRunning:false mFingerprintCancelSignal:null
+      mKeyguardIsVisible:false
+     mBatteryStatus:BatteryStatus,status:2 level:33 plugged:2 health:2
+     KeyguardUpdateMonitorCallback,size:11
+     	callback:com.android.systemui.statusbar.phone.UnlockMethodCache$1@4470dc7
+     	callback:com.android.keyguard.CarrierTextLeui$1@75daff4
+     	callback:com.android.keyguard.CarrierTextLeui$1@938731d
+     	callback:com.android.systemui.keyguard.KeyguardViewMediator$1@58a0992
+     	callback:com.leui.keyguard.ScrollKeyguardWallpaperHelper$2@39cbf63
+     KeyguardUpdateMonitorCallback,aliveCallbackCount:5
+     getUserHasTrust:false
+    mKeyguardView:com.leui.keyguard.KeyguardViewContainerVertical{f7d041f V.E...... ......ID 0,0-1080,1920 #7f0c00a9 app:id/keyguard_host_view} clipBounds:null
+    SharedPreferences:
+      systemui.recent.show.guide=1
+      DndTileCombinedIcon=true
+      DndTileVisible=true
+      systemui.max.slide.remind=3
+    BatteryMeterViewLeui state:
+      mChargeAnimateHandler dump:ChargeAnimateHandlerHandler (com.android.systemui.BatteryMeterViewLeui$1) {59fd760} @ 472361
+    ChargeAnimateHandler  Looper (main, tid 1) {cee2419}
+    ChargeAnimateHandler    Message 0: { when=+320ms what=1001 target=com.android.systemui.BatteryMeterViewLeui$1 }
+    ChargeAnimateHandler    (Total messages: 1, polling=false, quitting=false)
+      mScreenOn:true
+      dump BatteryTracker begin...
+      level:33
+      plugged:true
+      plugType:2
+      chargingstatus:2
+      health:2
+      technology:Li-poly
+      temperature:340
+      voltage:3803
+      dump BatteryTracker end.
+    KeyguardNotificationView state:
+     isCollapse:truemLimitedHeith:338 NotificationOverflowContainerHeight:131 getClipBounds:null
+    	 child0:Visibility:0 (0,0),(1080,338),heigh:338 TranslationY:0.0 com.android.systemui.statusbar.phone.LeuiKeyguardNotificationScrollView{d113cb0 VFED..... ......ID 0,0-1080,338 #7f0c0139 app:id/keyguard_notification_scroll}
+    	 child1:Visibility:8 (0,0),(0,0),heigh:0 TranslationY:0.0 com.android.systemui.statusbar.NotificationOverflowContainer{8d571d GFE...C.. ......I. 0,0-0,0}
+    LeuiNotificationRowLayout state:
+      mContentHeight:338 mMaxCollapseHeight:-1 mMaxExpandHeight:-1
+    	 child0:Visibility:0 (0,335),(1080,338),heigh:3 TranslationY:0.0 android.widget.ImageView{22a27f3 V.ED..... ........ 0,335-1080,338 #7f0c0138 app:id/top_divider}
+    LeuiKeyguardNotificationScrollView state:
+     mForceDisableScroll:true MaxCollapseHeight:-1 MaxExpandHeight:-1
+    	 child0:Visibility:0 (0,0),(1080,338),heigh:338 TranslationY:0.0 com.android.systemui.statusbar.phone.LeuiNotificationRowLayout{f4a729 V.E...... ......ID 0,0-1080,338 #7f0c013a app:id/keyguard_notification_row_layout}
+    mKeyguardNotificationMap is empty.
+    AccessControlHelper state:
+    mAccessControlTypeMap is empty.
+    dumping service: com.android.systemui.usb.StorageNotification
+    dumping service: com.android.systemui.power.PowerUI
+    mLowBatteryAlertCloseLevel=25
+    mLowBatteryReminderLevels=[20, 10]
+    mBatteryLevel=33
+    mBatteryStatus=2
+    mPlugType=2
+    mInvalidCharger=0
+    mScreenOffTime=-1
+    soundTimeout=0
+    bucket: 1
+    PowerNotificationWarnings.dump(), state:
+    mSaver=false
+    mWarning=false
+    mPlaySound=false
+    mInvalidCharger=false
+    mShowing=SHOWING_NOTHING
+    mSaverConfirmation=null
+    dumping service: com.android.systemui.media.RingtonePlayer
+    Clients:
+    dumping service: com.android.systemui.floatingball.FloatingBallMediator
+    DUMP FLOATINGBALL STATE (dumpsys activity service SystemUIService FloatingBallMediator)
+
+SERVICE android/.hardware.location.GeofenceHardwareService 59f6ccc pid=924
+  Client:
+    nothing to dump
+
+SERVICE com.baidu.map.location/.BaiduNetworkLocationService 9cfab15 pid=1578
+  Client:
+    nothing to dump
+
+SERVICE com.letv.android.phonecontrol/.client.PhoneControlService 14574b9 pid=1760
+  Client:
+    LOCK MANAGER (dumpsys activity service PhoneControlService && lock_settings)
+
+    Phone control service: com.letv.android.phonecontrol
+        [app_version_code]: 9
+        [test_mode]: false
+        [close_push]: false
+        [leui_imei]: 866479022602147
+        [enable]: false
+        [push]: true
+        [host]: https://lock.scloud.letv.com
+        [PushRegisterFlag]: true
+        [business]: false
+        [phoneBinded]: false
+        [phoneLocked]: false
+        [phoneWiped]: 0
+        [hasSyncBind]: true
+        [has_user_set_power]: false
+        [user_power_set_time]: 
+        [local_power_status]: -4
+        [server_power_status]: 0
+        [network]: true
+        [retry_phase]: EMPTY
+        [retry_time]: null
+        [sync_retry_phase]: EMPTY
+        [sync_retry_time]: null
+        [push_retry_phase]: EMPTY
+        [push_retry_time]: null
+        [power_retry_phase]: EMPTY
+        [power_retry_time]: null
+        [settings]: 
+            server_power_status_token_key, 0
+            sync_bind_token_key, 1487597721138
+            push_barked_reg_id, true
+
+
+
+SERVICE sina.mobile.tianqitongletv/com.sina.tianqitong.service.TQTService 3b56c00 pid=4486
+  Client:
+    nothing to dump
+
+SERVICE com.letv.android.ota/.service.UpdateService 2204577 pid=3515
+  Client:
+    nothing to dump
+    CurrentVersion:Printing out version info detail:
+    versionType:sta
+    description:
+    version:ABXCNOP5902012161S
+    force:false
+    dispVer:5.9.020S_12161
+    pkgUrl:
+    desUrl:
+    videoUrl:
+    releaseTime:2016-12-16
+    md5:
+    pkgsize:0
+    fullsize:0
+    pkgSizeString:
+    pkgSaved:0
+    pkgSavedString:
+    hasInstalled:false
+    0:0
+    notification:
+    upid:0
+    ==================END===================
+
+    CurrentNewVersion:showRealInfo:false
+    verified:false
+    FORCETYPE:0
+    getConfigFileName:sta_new_version
+
+
+
+SERVICE com.android.server.telecom/.components.BluetoothPhoneService 24fa366 pid=924
+  Client:
+    nothing to dump
+
+SERVICE com.letv.android.powercontroller/.MainService 59b91e0 pid=1760
+  Client:
+    nothing to dump
+
+SERVICE com.baidu.input_letv/.ImeService e4a476a pid=1556
+  Client:
+    Input method service state for com.baidu.input_letv.ImeService@712cf0:
+      mWindowCreated=false mWindowAdded=false
+      mWindowVisible=false mWindowWasVisible=false mInShowWindow=false
+      Configuration={1.2 1.2 0 ?mcc?mnc zh_CN ldltr sw411dp w411dp h707dp 420dpi nrml long port finger -keyb/v/h -nav/h s.6}
+      mToken=android.os.BinderProxy@ed55e22
+      mInputBinding=InputBinding{android.os.BinderProxy@b9aade9 / uid 10145 / pid 6946}
+      mInputConnection=com.android.internal.view.InputConnectionWrapper@d0f3a6e
+      mStartedInputConnection=null
+      mInputStarted=true mInputViewStarted=false mCandidatesViewStarted=false
+      mInputEditorInfo:
+        inputType=0x0 imeOptions=0x0 privateImeOptions=null
+        actionLabel=null actionId=0
+        initialSelStart=-1 initialSelEnd=-1 initialCapsMode=0x0
+        hintText=null label=null
+        packageName=com.example.demo1 fieldId=-1 fieldName=null
+        extras=null
+      mShowInputRequested=false mLastShowInputRequested=false mShowInputForced=false mShowInputFlags=0x0
+      mCandidatesVisibility=4 mFullscreenApplied=false mIsFullscreen=false mExtractViewHidden=false
+      mExtractedText: null
+      mExtractedToken=0
+      mIsInputViewShown=false mStatusIcon=0
+    Last computed insets:
+      contentTopInsets=0 visibleTopInsets=0 touchableInsets=0 touchableRegion=SkRegion()
+     mShouldClearInsetOfPreviousIme=false
+
+SERVICE com.letv.bsp.crashhandler/.CrashHandleService d991b9b pid=3203
+  Client:
+    nothing to dump
+
+SERVICE com.android.stk/.StkAppService 24f1a9d pid=1599
+  Client:
+    nothing to dump
+
+SERVICE com.android.server.telecom/.components.TelecomService 3aedec2 pid=924
+  Client:
+    nothing to dump
+
+SERVICE com.android.providers.media/.MtpService eb33e13 pid=4314
+  Client:
+    nothing to dump
+
+SERVICE com.letv.android.privacydata/.LetvPrivacyDataService 2a4d81 pid=1789
+  Client:
+    nothing to dump
+
+SERVICE com.letv.android.quicksearchbox/.service.LocalService f8a8d75 pid=4799
+  Client:
+    nothing to dump
+
+SERVICE com.mediatek.mtklogger/.framework.MTKLoggerService 5bd5b4b pid=1297
+  Client:
+    nothing to dump
+
+SERVICE com.android.mms/.TmSDKSecureService 584f7 pid=1666
+  Client:
+    nothing to dump
+
+SERVICE com.android.music/.play.MediaPlaybackService d0c38f9 pid=2759
+  Client:
+    nothing to dump
+
+SERVICE com.android.location.fused/.FusedLocationService f8938b1 pid=924
+  Client:
+    nothing to dump
+
+SERVICE com.letv.app.appstore/.thirdGetDownloadInfo.ThirdGetDownloadInfoService fce5e7e pid=1893
+  Client:
+    nothing to dump
+
+SERVICE com.letv.android.powercontroller/com.letv.android.ringtonemanager.LeUIRingtoneSettingService e62dc5b pid=1760
+  Client:
+    nothing to dump
+
+SERVICE com.letv.android.freeflow/.aidl.FreeFlowService bf122ec pid=1651
+  Client:
+    nothing to dump
+
+SERVICE com.mediatek.nlpservice/.NlpService 2c9b20c pid=1725
+  Client:
+    nothing to dump
+
+SERVICE com.android.phone/.TelephonyDebugService 9d2f915 pid=1599
+  Client:
+    PhoneFactory:
+    GSMPhone extends:
+    PhoneBase: subId=-2
+     mPhoneId=0
+     mCi=com.android.internal.telephony.RIL@908f709
+     mDnsCheckDisabled=false
+     mDcTracker=Handler (com.android.internal.telephony.dataconnection.DcTracker) {d03739d}
+     mDoesRilSendMultipleCallRing=true
+     mCallRingContinueToken=0
+     mCallRingDelay=3000
+     mIsTheCurrentActivePhone=true
+     mIsVoiceCapable=true
+     mIccRecords=null
+     mUiccApplication=null
+     mSmsStorageMonitor=Handler (com.android.internal.telephony.SmsStorageMonitor) {204012}
+     mSmsUsageMonitor=com.android.internal.telephony.SmsUsageMonitor@12cf3e3
+     mLooper=Looper (main, tid 1) {70531e0}
+     mContext=com.android.phone.PhoneGlobals@125dce4
+     mNotifier=com.android.internal.telephony.DefaultPhoneNotifier@5a8ac99
+     mSimulatedRadioControl=null
+     mUnitTestMode=false
+     isDnsCheckDisabled()=false
+     getUnitTestMode()=false
+     getState()=IDLE
+     getIccSerialNumber()=null
+     getIccRecordsLoaded()=false
+     getMessageWaitingIndicator()=false
+     getCallForwardingIndicator()=false
+     isInEmergencyCall()=false
+     isInEcm()=false
+     getPhoneName()=GSM
+     getPhoneType()=1
+     getVoiceMessageCount()=0
+     getActiveApnTypes()=[Ljava.lang.String;@9c85922
+     isDataConnectivityPossible()=false
+     needsOtaServiceProvisioning=false
+    ++++++++++++++++++++++++++++++++
+    DcTracker extends:
+    DcTrackerBase:
+     RADIO_TESTS=false
+     mInternalDataEnabled=true
+     mUserDataEnabled=false
+     sPolicyDataEnabed=true
+     mDataEnabled:
+      mDataEnabled[0]=true
+      mDataEnabled[1]=false
+      mDataEnabled[2]=false
+      mDataEnabled[3]=false
+      mDataEnabled[4]=false
+      mDataEnabled[5]=false
+      mDataEnabled[6]=false
+      mDataEnabled[7]=false
+      mDataEnabled[8]=false
+      mDataEnabled[9]=false
+      mDataEnabled[10]=false
+      mDataEnabled[11]=false
+      mDataEnabled[12]=false
+      mDataEnabled[13]=false
+      mDataEnabled[14]=false
+      mDataEnabled[15]=false
+      mDataEnabled[16]=false
+     mEnabledCount=1
+     mRequestedApnType=default
+     mPhone=GSM
+     mActivity=NONE
+     mState=IDLE
+     mTxPkts=0
+     mRxPkts=0
+     mNetStatPollPeriod=0
+     mNetStatPollEnabled=false
+     mDataStallTxRxSum={txSum=0 rxSum=0}
+     mDataStallAlarmTag=19367
+     mDataStallDetectionEanbled=true
+     mSentSinceLastRecv=0
+     mNoRecvPollCount=0
+     mResolver=android.app.ContextImpl$ApplicationContentResolver@8b0eb3f
+     mIsWifiConnected=true
+     mReconnectIntent=null
+     mCidActive=0
+     mAutoAttachOnCreation=false
+     mIsScreenOn=true
+     mUniqueIdGenerator=0
+     ***************************************
+    Dcc:
+     total records=1
+     rec[0]: time=02-20 21:35:07.956 processed=DccDefaultState org=DccDefaultState dest=<null> what=EVENT_RIL_CONNECTED
+    curState=DccDefaultState
+     mPhone=Handler (com.android.internal.telephony.gsm.GSMPhone) {7fa538}
+     mDcListAll=[]
+     mDcListActiveByCid={}
+     ***************************************
+     mDataConnections: count=0
+     ***************************************
+     mApnToDataConnectonId size=0
+     ***************************************
+     mApnContexts size=16
+    {mApnType=xcap mState=IDLE mWaitingApns={null} mWaitingApnsPermanentFailureCountDown=0 mApnSetting={null} mReason=radioTurnedOff mDataEnabled=false mDependencyMet=true}
+    {mApnType=cmmail mState=IDLE mWaitingApns={null} mWaitingApnsPermanentFailureCountDown=0 mApnSetting={null} mReason=radioTurnedOff mDataEnabled=false mDependencyMet=true}
+    {mApnType=rcs mState=IDLE mWaitingApns={null} mWaitingApnsPermanentFailureCountDown=0 mApnSetting={null} mReason=radioTurnedOff mDataEnabled=false mDependencyMet=true}
+    {mApnType=fota mState=IDLE mWaitingApns={null} mWaitingApnsPermanentFailureCountDown=0 mApnSetting={null} mReason=radioTurnedOff mDataEnabled=false mDependencyMet=true}
+    {mApnType=wap mState=IDLE mWaitingApns={null} mWaitingApnsPermanentFailureCountDown=0 mApnSetting={null} mReason=radioTurnedOff mDataEnabled=false mDependencyMet=true}
+    {mApnType=supl mState=IDLE mWaitingApns={null} mWaitingApnsPermanentFailureCountDown=0 mApnSetting={null} mReason=radioTurnedOff mDataEnabled=false mDependencyMet=true}
+    {mApnType=dm mState=IDLE mWaitingApns={null} mWaitingApnsPermanentFailureCountDown=0 mApnSetting={null} mReason=radioTurnedOff mDataEnabled=false mDependencyMet=true}
+    {mApnType=emergency mState=IDLE mWaitingApns={null} mWaitingApnsPermanentFailureCountDown=0 mApnSetting={null} mReason=radioTurnedOff mDataEnabled=false mDependencyMet=true}
+    {mApnType=hipri mState=IDLE mWaitingApns={null} mWaitingApnsPermanentFailureCountDown=0 mApnSetting={null} mReason=radioTurnedOff mDataEnabled=false mDependencyMet=true}
+    {mApnType=ims mState=IDLE mWaitingApns={null} mWaitingApnsPermanentFailureCountDown=0 mApnSetting={null} mReason=radioTurnedOff mDataEnabled=false mDependencyMet=true}
+    {mApnType=default mState=IDLE mWaitingApns={null} mWaitingApnsPermanentFailureCountDown=0 mApnSetting={null} mReason=radioTurnedOff mDataEnabled=false mDependencyMet=true}
+    {mApnType=mms mState=IDLE mWaitingApns={null} mWaitingApnsPermanentFailureCountDown=0 mApnSetting={null} mReason=radioTurnedOff mDataEnabled=false mDependencyMet=true}
+    {mApnType=cbs mState=IDLE mWaitingApns={null} mWaitingApnsPermanentFailureCountDown=0 mApnSetting={null} mReason=radioTurnedOff mDataEnabled=false mDependencyMet=true}
+    {mApnType=ia mState=IDLE mWaitingApns={null} mWaitingApnsPermanentFailureCountDown=0 mApnSetting={null} mReason=radioTurnedOff mDataEnabled=false mDependencyMet=true}
+    {mApnType=dun mState=IDLE mWaitingApns={null} mWaitingApnsPermanentFailureCountDown=0 mApnSetting={null} mReason=radioTurnedOff mDataEnabled=false mDependencyMet=true}
+    {mApnType=net mState=IDLE mWaitingApns={null} mWaitingApnsPermanentFailureCountDown=0 mApnSetting={null} mReason=radioTurnedOff mDataEnabled=false mDependencyMet=true}
+     ***************************************
+     mActiveApn=null
+     mAllApnSettings=null
+     mPreferredApn=null
+     mIsPsRestricted=false
+     mIsDisposed=false
+     mIntentReceiver=com.android.internal.telephony.dataconnection.DcTrackerBase$1@786987f
+     mDataRoamingSettingObserver=null
+     mReregisterOnReconnectFailure=false
+     canSetPreferApn=false
+     mApnObserver=com.android.internal.telephony.dataconnection.DcTracker$ApnChangeObserver@cbb8c0c
+     getOverallState=IDLE
+     mDataConnectionAsyncChannels=%s
+    {}
+     mAttached=false
+    ++++++++++++++++++++++++++++++++
+    GsmServiceStateTracker extends:
+    ServiceStateTracker:
+     mSS=1 1 voice home data home null null null null null null  Unknown Unknown CSS not supported -1 -1 RoamInd=-1 DefRoamInd=-1 EmergOnly=true Ril Voice Regist state: 10 Ril Data Regist state: 4 mProprietaryDataRadioTechnology: 0 VoiceRejectCause: -1 DataRejectCause: -1 mCdmaNetWorkMode: 0 IsDataRoamingFromRegistration=false
+     mNewSS=1 1 voice home data home null null null null null null  Unknown Unknown CSS not supported -1 -1 RoamInd=-1 DefRoamInd=-1 EmergOnly=true Ril Voice Regist state: 10 Ril Data Regist state: 4 mProprietaryDataRadioTechnology: 0 VoiceRejectCause: -1 DataRejectCause: -1 mCdmaNetWorkMode: 0 IsDataRoamingFromRegistration=false
+     mCellInfo=CellInfoGsm:{mRegistered=NO mTimeStampType=unknown mTimeStamp=9223372036854775807ns CellIdentityGsm:{ mMcc=2147483647 mMnc=2147483647 mLac=2147483647 mCid=2147483647} CellSignalStrengthGsm: ss=2147483647 ber=2147483647}
+     mSignalStrength=SignalStrength: 11 26 -120 -160 -2 0 -1 99 2147483647 -2147483647 2147483647 2147483647 2147483647 gsm|lte 1 -372 -45
+     mRestrictedState=Restricted State CS: none PS:false
+     mPollingContext=[I@dce7955
+     mDesiredPowerState=true
+     mDontPollSignalStrength=true
+     mPendingRadioPowerOffAfterDataOff=false
+     mPendingRadioPowerOffAfterDataOffTag=0
+     mPhone=Handler (com.android.internal.telephony.gsm.GSMPhone) {7fa538}
+     mSS=1 1 voice home data home null null null null null null  Unknown Unknown CSS not supported -1 -1 RoamInd=-1 DefRoamInd=-1 EmergOnly=true Ril Voice Regist state: 10 Ril Data Regist state: 4 mProprietaryDataRadioTechnology: 0 VoiceRejectCause: -1 DataRejectCause: -1 mCdmaNetWorkMode: 0 IsDataRoamingFromRegistration=false
+     mNewSS=1 1 voice home data home null null null null null null  Unknown Unknown CSS not supported -1 -1 RoamInd=-1 DefRoamInd=-1 EmergOnly=true Ril Voice Regist state: 10 Ril Data Regist state: 4 mProprietaryDataRadioTechnology: 0 VoiceRejectCause: -1 DataRejectCause: -1 mCdmaNetWorkMode: 0 IsDataRoamingFromRegistration=false
+     mCellLoc=[41035,5981087,-1]
+     mNewCellLoc=[41201,3462703,-1]
+     mPreferredNetworkType=0
+     mMaxDataCalls=1
+     mNewMaxDataCalls=1
+     mReasonDataDenied=-1
+     mNewReasonDataDenied=-1
+     mGsmRoaming=false
+     mDataRoaming=false
+     mEmergencyOnly=true
+     mNeedFixZoneAfterNitz=false
+     mZoneOffset=0
+     mZoneDst=false
+     mZoneTime=0
+     mGotCountryCode=false
+     mNitzUpdatedTime=false
+     mSavedTimeZone=null
+     mSavedTime=0
+     mSavedAtTime=0
+     mStartedGprsRegCheck=false
+     mReportedGprsNoReg=false
+     mNotification=null
+     mWakeLock=WakeLock{69fbf6a held=false, refCount=0}
+     mCurSpn=null
+     mCurDataSpn=
+     mCurShowSpn=false
+     mCurPlmn=???¨¨????¡§?????¡ì????????????¨¨??
+     mCurShowPlmn=true
+    ++++++++++++++++++++++++++++++++
+    GsmCallTracker extends:
+    CallTracker:
+     mPendingOperations=0
+     mNeedsPoll=false
+     mLastRelevantPoll=null
+    mConnections: length=19
+      mConnections[0]=null
+      mConnections[1]=null
+      mConnections[2]=null
+      mConnections[3]=null
+      mConnections[4]=null
+      mConnections[5]=null
+      mConnections[6]=null
+      mConnections[7]=null
+      mConnections[8]=null
+      mConnections[9]=null
+      mConnections[10]=null
+      mConnections[11]=null
+      mConnections[12]=null
+      mConnections[13]=null
+      mConnections[14]=null
+      mConnections[15]=null
+      mConnections[16]=null
+      mConnections[17]=null
+      mConnections[18]=null
+     mVoiceCallEndedRegistrants=android.os.RegistrantList@452fc5b
+     mVoiceCallStartedRegistrants=android.os.RegistrantList@99b5cf8
+     mDroppedDuringPoll: size=0
+     mRingingCall=IDLE
+     mForegroundCall=IDLE
+     mBackgroundCall=IDLE
+     mPendingMO=null
+     mHangupPendingMO=false
+     mPhone=Handler (com.android.internal.telephony.gsm.GSMPhone) {7fa538}
+     mDesiredMute=false
+     mState=IDLE
+    ++++++++++++++++++++++++++++++++
+    RIL: com.android.internal.telephony.RIL@908f709
+     mSocket=android.net.LocalSocket@d4a55d1 impl:android.net.LocalSocketImpl@f726836 fd:FileDescriptor[29]
+     mSenderThread=Thread[RILSender0,5,main]
+     mSender=Handler (com.android.internal.telephony.RIL$RILSender) {f3b0337}
+     mReceiverThread=Thread[RILReceiver0,5,main]
+     mReceiver=com.android.internal.telephony.RIL$RILReceiver@aa550a4
+     mWakeLock=WakeLock{9cd7e0d held=false, refCount=0}
+     mWakeLockTimeout=60000
+     mWakeLockCount=0
+     mRequestList count=0
+     mLastNITZTimeInfo=null
+     mTestingEmergencyCall=false
+    ++++++++++++++++++++++++++++++++
+     mCT=Handler (com.android.internal.telephony.gsm.GsmCallTracker) {3f4d1c2}
+     mSST=Handler (com.android.internal.telephony.gsm.GsmServiceStateTracker) {5329bd3}
+     mPendingMMIs=[]
+     mSimPhoneBookIntManager=com.android.internal.telephony.gsm.SimPhoneBookInterfaceManager@a38d310
+     mSubInfo=com.android.internal.telephony.PhoneSubInfo@8e0ee09
+     mVmNumber=null
+    ++++++++++++++++++++++++++++++++
+    IccCardProxy: Handler (com.android.internal.telephony.uicc.IccCardProxy) {442480e}
+     mContext=com.android.phone.PhoneGlobals@125dce4
+     mCi=com.android.internal.telephony.RIL@908f709
+     mAbsentRegistrants: size=0
+     mPinLockedRegistrants: size=0
+     mNetworkLockedRegistrants: size=1
+      mNetworkLockedRegistrants[0]=Handler (com.android.phone.PhoneGlobals$1) {b01222f}
+     mCurrentAppType=1
+     mUiccController=Handler (com.android.internal.telephony.uicc.UiccController) {740103c}
+     mUiccCard=com.android.internal.telephony.uicc.UiccCard@5a161c5
+     mUiccApplication=null
+     mIccRecords=null
+     mCdmaSSM=Handler (com.android.internal.telephony.cdma.CdmaSubscriptionSourceManager) {4ded71a}
+     mRadioOn=true
+     mQuietMode=false
+     mInitialized=true
+     mExternalState=ABSENT
+    ++++++++++++++++++++++++++++++++
+    GSMPhone extends:
+    PhoneBase: subId=-3
+     mPhoneId=1
+     mCi=com.android.internal.telephony.RIL@5bea4e7
+     mDnsCheckDisabled=false
+     mDcTracker=Handler (com.android.internal.telephony.dataconnection.DcTracker) {87b24b}
+     mDoesRilSendMultipleCallRing=true
+     mCallRingContinueToken=0
+     mCallRingDelay=3000
+     mIsTheCurrentActivePhone=true
+     mIsVoiceCapable=true
+     mIccRecords=null
+     mUiccApplication=null
+     mSmsStorageMonitor=Handler (com.android.internal.telephony.SmsStorageMonitor) {31bf428}
+     mSmsUsageMonitor=com.android.internal.telephony.SmsUsageMonitor@63b5541
+     mLooper=Looper (main, tid 1) {70531e0}
+     mContext=com.android.phone.PhoneGlobals@125dce4
+     mNotifier=com.android.internal.telephony.DefaultPhoneNotifier@5a8ac99
+     mSimulatedRadioControl=null
+     mUnitTestMode=false
+     isDnsCheckDisabled()=false
+     getUnitTestMode()=false
+     getState()=IDLE
+     getIccSerialNumber()=null
+     getIccRecordsLoaded()=false
+     getMessageWaitingIndicator()=false
+     getCallForwardingIndicator()=false
+     isInEmergencyCall()=false
+     isInEcm()=false
+     getPhoneName()=GSM
+     getPhoneType()=1
+     getVoiceMessageCount()=0
+     getActiveApnTypes()=[Ljava.lang.String;@7c27fb3
+     isDataConnectivityPossible()=false
+     needsOtaServiceProvisioning=false
+    ++++++++++++++++++++++++++++++++
+    DcTracker extends:
+    DcTrackerBase:
+     RADIO_TESTS=false
+     mInternalDataEnabled=true
+     mUserDataEnabled=false
+     sPolicyDataEnabed=true
+     mDataEnabled:
+      mDataEnabled[0]=true
+      mDataEnabled[1]=false
+      mDataEnabled[2]=false
+      mDataEnabled[3]=false
+      mDataEnabled[4]=false
+      mDataEnabled[5]=false
+      mDataEnabled[6]=false
+      mDataEnabled[7]=false
+      mDataEnabled[8]=false
+      mDataEnabled[9]=false
+      mDataEnabled[10]=false
+      mDataEnabled[11]=false
+      mDataEnabled[12]=false
+      mDataEnabled[13]=false
+      mDataEnabled[14]=false
+      mDataEnabled[15]=false
+      mDataEnabled[16]=false
+     mEnabledCount=1
+     mRequestedApnType=default
+     mPhone=GSM
+     mActivity=NONE
+     mState=IDLE
+     mTxPkts=0
+     mRxPkts=0
+     mNetStatPollPeriod=0
+     mNetStatPollEnabled=false
+     mDataStallTxRxSum={txSum=0 rxSum=0}
+     mDataStallAlarmTag=19608
+     mDataStallDetectionEanbled=true
+     mSentSinceLastRecv=0
+     mNoRecvPollCount=0
+     mResolver=android.app.ContextImpl$ApplicationContentResolver@8b0eb3f
+     mIsWifiConnected=true
+     mReconnectIntent=null
+     mCidActive=0
+     mAutoAttachOnCreation=false
+     mIsScreenOn=true
+     mUniqueIdGenerator=0
+     ***************************************
+    Dcc:
+     total records=1
+     rec[0]: time=02-20 21:35:08.172 processed=DccDefaultState org=DccDefaultState dest=<null> what=EVENT_RIL_CONNECTED
+    curState=DccDefaultState
+     mPhone=Handler (com.android.internal.telephony.gsm.GSMPhone) {180bd7d}
+     mDcListAll=[]
+     mDcListActiveByCid={}
+     ***************************************
+     mDataConnections: count=0
+     ***************************************
+     mApnToDataConnectonId size=0
+     ***************************************
+     mApnContexts size=16
+    {mApnType=xcap mState=IDLE mWaitingApns={null} mWaitingApnsPermanentFailureCountDown=0 mApnSetting={null} mReason=radioTurnedOff mDataEnabled=false mDependencyMet=true}
+    {mApnType=cmmail mState=IDLE mWaitingApns={null} mWaitingApnsPermanentFailureCountDown=0 mApnSetting={null} mReason=radioTurnedOff mDataEnabled=false mDependencyMet=true}
+    {mApnType=rcs mState=IDLE mWaitingApns={null} mWaitingApnsPermanentFailureCountDown=0 mApnSetting={null} mReason=radioTurnedOff mDataEnabled=false mDependencyMet=true}
+    {mApnType=fota mState=IDLE mWaitingApns={null} mWaitingApnsPermanentFailureCountDown=0 mApnSetting={null} mReason=radioTurnedOff mDataEnabled=false mDependencyMet=true}
+    {mApnType=wap mState=IDLE mWaitingApns={null} mWaitingApnsPermanentFailureCountDown=0 mApnSetting={null} mReason=radioTurnedOff mDataEnabled=false mDependencyMet=true}
+    {mApnType=supl mState=IDLE mWaitingApns={null} mWaitingApnsPermanentFailureCountDown=0 mApnSetting={null} mReason=radioTurnedOff mDataEnabled=false mDependencyMet=true}
+    {mApnType=dm mState=IDLE mWaitingApns={null} mWaitingApnsPermanentFailureCountDown=0 mApnSetting={null} mReason=radioTurnedOff mDataEnabled=false mDependencyMet=true}
+    {mApnType=emergency mState=IDLE mWaitingApns={null} mWaitingApnsPermanentFailureCountDown=0 mApnSetting={null} mReason=radioTurnedOff mDataEnabled=false mDependencyMet=true}
+    {mApnType=hipri mState=IDLE mWaitingApns={null} mWaitingApnsPermanentFailureCountDown=0 mApnSetting={null} mReason=radioTurnedOff mDataEnabled=false mDependencyMet=true}
+    {mApnType=ims mState=IDLE mWaitingApns={null} mWaitingApnsPermanentFailureCountDown=0 mApnSetting={null} mReason=radioTurnedOff mDataEnabled=false mDependencyMet=true}
+    {mApnType=default mState=IDLE mWaitingApns={null} mWaitingApnsPermanentFailureCountDown=0 mApnSetting={null} mReason=radioTurnedOff mDataEnabled=false mDependencyMet=true}
+    {mApnType=mms mState=IDLE mWaitingApns={null} mWaitingApnsPermanentFailureCountDown=0 mApnSetting={null} mReason=radioTurnedOff mDataEnabled=false mDependencyMet=true}
+    {mApnType=cbs mState=IDLE mWaitingApns={null} mWaitingApnsPermanentFailureCountDown=0 mApnSetting={null} mReason=radioTurnedOff mDataEnabled=false mDependencyMet=true}
+    {mApnType=ia mState=IDLE mWaitingApns={null} mWaitingApnsPermanentFailureCountDown=0 mApnSetting={null} mReason=radioTurnedOff mDataEnabled=false mDependencyMet=true}
+    {mApnType=dun mState=IDLE mWaitingApns={null} mWaitingApnsPermanentFailureCountDown=0 mApnSetting={null} mReason=radioTurnedOff mDataEnabled=false mDependencyMet=true}
+    {mApnType=net mState=IDLE mWaitingApns={null} mWaitingApnsPermanentFailureCountDown=0 mApnSetting={null} mReason=radioTurnedOff mDataEnabled=false mDependencyMet=true}
+     ***************************************
+     mActiveApn=null
+     mAllApnSettings=null
+     mPreferredApn=null
+     mIsPsRestricted=false
+     mIsDisposed=false
+     mIntentReceiver=com.android.internal.telephony.dataconnection.DcTrackerBase$1@bcf2128
+     mDataRoamingSettingObserver=null
+     mReregisterOnReconnectFailure=false
+     canSetPreferApn=false
+     mApnObserver=com.android.internal.telephony.dataconnection.DcTracker$ApnChangeObserver@89d2827
+     getOverallState=IDLE
+     mDataConnectionAsyncChannels=%s
+    {}
+     mAttached=false
+    ++++++++++++++++++++++++++++++++
+    GsmServiceStateTracker extends:
+    ServiceStateTracker:
+     mSS=3 3 voice home data home null null null null null null  Unknown Unknown CSS not supported -1 -1 RoamInd=-1 DefRoamInd=-1 EmergOnly=false Ril Voice Regist state: 0 Ril Data Regist state: 0 mProprietaryDataRadioTechnology: 0 VoiceRejectCause: -1 DataRejectCause: -1 mCdmaNetWorkMode: 0 IsDataRoamingFromRegistration=false
+     mNewSS=3 3 voice home data home null null null null null null  Unknown Unknown CSS not supported -1 -1 RoamInd=-1 DefRoamInd=-1 EmergOnly=false Ril Voice Regist state: 0 Ril Data Regist state: 0 mProprietaryDataRadioTechnology: 0 VoiceRejectCause: -1 DataRejectCause: -1 mCdmaNetWorkMode: 0 IsDataRoamingFromRegistration=false
+     mCellInfo=CellInfoGsm:{mRegistered=NO mTimeStampType=unknown mTimeStamp=9223372036854775807ns CellIdentityGsm:{ mMcc=2147483647 mMnc=2147483647 mLac=2147483647 mCid=2147483647} CellSignalStrengthGsm: ss=2147483647 ber=2147483647}
+     mSignalStrength=SignalStrength: 99 -1 -1 -1 -1 -1 -1 99 2147483647 0 2147483647 2147483647 2147483647 gsm|lte 0 0 0
+     mRestrictedState=Restricted State CS: none PS:false
+     mPollingContext=[I@2502ad4
+     mDesiredPowerState=false
+     mDontPollSignalStrength=false
+     mPendingRadioPowerOffAfterDataOff=false
+     mPendingRadioPowerOffAfterDataOffTag=0
+     mPhone=Handler (com.android.internal.telephony.gsm.GSMPhone) {180bd7d}
+     mSS=3 3 voice home data home null null null null null null  Unknown Unknown CSS not supported -1 -1 RoamInd=-1 DefRoamInd=-1 EmergOnly=false Ril Voice Regist state: 0 Ril Data Regist state: 0 mProprietaryDataRadioTechnology: 0 VoiceRejectCause: -1 DataRejectCause: -1 mCdmaNetWorkMode: 0 IsDataRoamingFromRegistration=false
+     mNewSS=3 3 voice home data home null null null null null null  Unknown Unknown CSS not supported -1 -1 RoamInd=-1 DefRoamInd=-1 EmergOnly=false Ril Voice Regist state: 0 Ril Data Regist state: 0 mProprietaryDataRadioTechnology: 0 VoiceRejectCause: -1 DataRejectCause: -1 mCdmaNetWorkMode: 0 IsDataRoamingFromRegistration=false
+     mCellLoc=[-1,-1,-1]
+     mNewCellLoc=[-1,-1,-1]
+     mPreferredNetworkType=0
+     mMaxDataCalls=1
+     mNewMaxDataCalls=1
+     mReasonDataDenied=-1
+     mNewReasonDataDenied=-1
+     mGsmRoaming=false
+     mDataRoaming=false
+     mEmergencyOnly=false
+     mNeedFixZoneAfterNitz=false
+     mZoneOffset=0
+     mZoneDst=false
+     mZoneTime=0
+     mGotCountryCode=false
+     mNitzUpdatedTime=false
+     mSavedTimeZone=null
+     mSavedTime=0
+     mSavedAtTime=0
+     mStartedGprsRegCheck=false
+     mReportedGprsNoReg=false
+     mNotification=null
+     mWakeLock=WakeLock{d27047d held=false, refCount=0}
+     mCurSpn=null
+     mCurDataSpn=
+     mCurShowSpn=false
+     mCurPlmn=?????????
+     mCurShowPlmn=true
+    ++++++++++++++++++++++++++++++++
+    GsmCallTracker extends:
+    CallTracker:
+     mPendingOperations=0
+     mNeedsPoll=false
+     mLastRelevantPoll=null
+    mConnections: length=19
+      mConnections[0]=null
+      mConnections[1]=null
+      mConnections[2]=null
+      mConnections[3]=null
+      mConnections[4]=null
+      mConnections[5]=null
+      mConnections[6]=null
+      mConnections[7]=null
+      mConnections[8]=null
+      mConnections[9]=null
+      mConnections[10]=null
+      mConnections[11]=null
+      mConnections[12]=null
+      mConnections[13]=null
+      mConnections[14]=null
+      mConnections[15]=null
+      mConnections[16]=null
+      mConnections[17]=null
+      mConnections[18]=null
+     mVoiceCallEndedRegistrants=android.os.RegistrantList@2a92f72
+     mVoiceCallStartedRegistrants=android.os.RegistrantList@2aa1fc3
+     mDroppedDuringPoll: size=0
+     mRingingCall=IDLE
+     mForegroundCall=IDLE
+     mBackgroundCall=IDLE
+     mPendingMO=null
+     mHangupPendingMO=false
+     mPhone=Handler (com.android.internal.telephony.gsm.GSMPhone) {180bd7d}
+     mDesiredMute=false
+     mState=IDLE
+    ++++++++++++++++++++++++++++++++
+    RIL: com.android.internal.telephony.RIL@5bea4e7
+     mSocket=android.net.LocalSocket@bef2040 impl:android.net.LocalSocketImpl@2246b79 fd:FileDescriptor[26]
+     mSenderThread=Thread[RILSender1,5,main]
+     mSender=Handler (com.android.internal.telephony.RIL$RILSender) {ad6d0be}
+     mReceiverThread=Thread[RILReceiver1,5,main]
+     mReceiver=com.android.internal.telephony.RIL$RILReceiver@204f51f
+     mWakeLock=WakeLock{3c6006c held=false, refCount=0}
+     mWakeLockTimeout=60000
+     mWakeLockCount=0
+     mRequestList count=0
+     mLastNITZTimeInfo=null
+     mTestingEmergencyCall=false
+    ++++++++++++++++++++++++++++++++
+     mCT=Handler (com.android.internal.telephony.gsm.GsmCallTracker) {ef74635}
+     mSST=Handler (com.android.internal.telephony.gsm.GsmServiceStateTracker) {8ab3aca}
+     mPendingMMIs=[]
+     mSimPhoneBookIntManager=com.android.internal.telephony.gsm.SimPhoneBookInterfaceManager@f0dc43b
+     mSubInfo=com.android.internal.telephony.PhoneSubInfo@b48b758
+     mVmNumber=null
+    ++++++++++++++++++++++++++++++++
+    IccCardProxy: Handler (com.android.internal.telephony.uicc.IccCardProxy) {be310b1}
+     mContext=com.android.phone.PhoneGlobals@125dce4
+     mCi=com.android.internal.telephony.RIL@5bea4e7
+     mAbsentRegistrants: size=0
+     mPinLockedRegistrants: size=0
+     mNetworkLockedRegistrants: size=1
+      mNetworkLockedRegistrants[0]=Handler (com.android.phone.PhoneGlobals$1) {b01222f}
+     mCurrentAppType=1
+     mUiccController=Handler (com.android.internal.telephony.uicc.UiccController) {740103c}
+     mUiccCard=com.android.internal.telephony.uicc.UiccCard@8aa3996
+     mUiccApplication=null
+     mIccRecords=null
+     mCdmaSSM=Handler (com.android.internal.telephony.cdma.CdmaSubscriptionSourceManager) {4ded71a}
+     mRadioOn=false
+     mQuietMode=false
+     mInitialized=true
+     mExternalState=ABSENT
+    ++++++++++++++++++++++++++++++++
+    DctController:
+    DcSwitchStateMachine-0:
+     total records=25
+     rec[0]: time=02-20 21:35:09.104 processed=DefaultState org=IdleState dest=<null> what=278540(0x4400c)
+     rec[1]: time=02-20 21:35:09.270 processed=DefaultState org=IdleState dest=<null> what=278540(0x4400c)
+     rec[2]: time=02-20 21:35:09.340 processed=DefaultState org=IdleState dest=<null> what=278540(0x4400c)
+     rec[3]: time=02-20 21:35:09.385 processed=DefaultState org=IdleState dest=<null> what=278531(0x44003)
+     rec[4]: time=02-20 21:35:09.664 processed=DefaultState org=IdleState dest=<null> what=278540(0x4400c)
+     rec[5]: time=02-20 21:35:09.683 processed=DefaultState org=IdleState dest=<null> what=278531(0x44003)
+     rec[6]: time=02-20 21:35:09.957 processed=DefaultState org=IdleState dest=<null> what=278540(0x4400c)
+     rec[7]: time=02-20 21:35:09.978 processed=DefaultState org=IdleState dest=<null> what=278540(0x4400c)
+     rec[8]: time=02-20 21:35:10.263 processed=DefaultState org=IdleState dest=<null> what=278531(0x44003)
+     rec[9]: time=02-20 21:35:10.264 processed=DefaultState org=IdleState dest=<null> what=278531(0x44003)
+     rec[10]: time=02-20 21:35:10.266 processed=IdleState org=IdleState dest=AttachingState what=278528(0x44000)
+     rec[11]: time=02-20 21:35:10.556 processed=DefaultState org=AttachingState dest=<null> what=278531(0x44003)
+     rec[12]: time=02-20 21:35:10.794 processed=AttachingState org=AttachingState dest=<null> what=274433(0x43001)
+     rec[13]: time=02-20 21:35:11.252 processed=DefaultState org=AttachingState dest=<null> what=278540(0x4400c)
+     rec[14]: time=02-20 21:35:11.280 processed=DefaultState org=AttachingState dest=<null> what=278540(0x4400c)
+     rec[15]: time=02-20 21:35:11.285 processed=AttachingState org=AttachingState dest=<null> what=278529(0x44001)
+     rec[16]: time=02-20 21:35:11.286 processed=AttachingState org=AttachingState dest=<null> what=278529(0x44001)
+     rec[17]: time=02-20 21:35:11.286 processed=DefaultState org=AttachingState dest=<null> what=278531(0x44003)
+     rec[18]: time=02-20 21:35:11.288 processed=AttachingState org=AttachingState dest=<null> what=274433(0x43001)
+     rec[19]: time=02-20 21:35:11.290 processed=AttachingState org=AttachingState dest=<null> what=274433(0x43001)
+    curState=AttachingState
+    DcSwitchStateMachine-1:
+     total records=17
+     rec[0]: time=02-20 21:35:08.233 processed=DefaultState org=IdleState dest=<null> what=69633(0x11001)
+     rec[1]: time=02-20 21:35:09.014 processed=DefaultState org=IdleState dest=<null> what=278531(0x44003)
+     rec[2]: time=02-20 21:35:09.021 processed=DefaultState org=IdleState dest=<null> what=278531(0x44003)
+     rec[3]: time=02-20 21:35:09.088 processed=DefaultState org=IdleState dest=<null> what=278531(0x44003)
+     rec[4]: time=02-20 21:35:09.103 processed=DefaultState org=IdleState dest=<null> what=278536(0x44008)
+     rec[5]: time=02-20 21:35:09.106 processed=DefaultState org=IdleState dest=<null> what=278540(0x4400c)
+     rec[6]: time=02-20 21:35:09.272 processed=DefaultState org=IdleState dest=<null> what=278540(0x4400c)
+     rec[7]: time=02-20 21:35:09.383 processed=DefaultState org=IdleState dest=<null> what=278540(0x4400c)
+     rec[8]: time=02-20 21:35:09.385 processed=DefaultState org=IdleState dest=<null> what=278531(0x44003)
+     rec[9]: time=02-20 21:35:09.665 processed=DefaultState org=IdleState dest=<null> what=278540(0x4400c)
+     rec[10]: time=02-20 21:35:09.683 processed=DefaultState org=IdleState dest=<null> what=278531(0x44003)
+     rec[11]: time=02-20 21:35:09.959 processed=DefaultState org=IdleState dest=<null> what=278540(0x4400c)
+     rec[12]: time=02-20 21:35:09.979 processed=DefaultState org=IdleState dest=<null> what=278540(0x4400c)
+     rec[13]: time=02-20 21:35:10.263 processed=DefaultState org=IdleState dest=<null> what=278531(0x44003)
+     rec[14]: time=02-20 21:35:10.264 processed=DefaultState org=IdleState dest=<null> what=278531(0x44003)
+     rec[15]: time=02-20 21:35:11.253 processed=DefaultState org=IdleState dest=<null> what=278540(0x4400c)
+     rec[16]: time=02-20 21:35:11.281 processed=DefaultState org=IdleState dest=<null> what=278540(0x4400c)
+    curState=IdleState
+    ++++++++++++++++++++++++++++++++
+    ++++++++++++++++++++++++++++++++
+    TelephonyNetworkFactories:
+    {TelephonyNetworkFactory - ScoreFilter=50, Filter=[ Transports: CELLULAR Capabilities: MMS&SUPL&DUN&FOTA&IMS&CBS&IA&RCS&XCAP&EIMS&INTERNET&NOT_RESTRICTED&TRUSTED&NOT_VPN&DM&WAP&NET&CMMAIL&TETHERING&RCSE&VSIM Specifier: <-2>], requests=1, refCount=0}
+      {NetworkRequest [ id=1, legacyType=-1, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED&NOT_VPN] ], score=60, requested=false}
+      Pending Requests:
+      Request History:
+        NetworkRequest [ id=1, legacyType=-1, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED&NOT_VPN] ]
+          02-20 21:35:09.102 - Sub Info has not been ready or during IRAT, pending request.
+          02-20 21:35:09.105 - Sub Info has not been ready or during IRAT, pending request.
+          02-20 21:35:09.271 - Sub Info has not been ready or during IRAT, pending request.
+          02-20 21:35:09.383 - Sub Info has not been ready or during IRAT, pending request.
+          02-20 21:35:09.665 - Sub Info has not been ready or during IRAT, pending request.
+          02-20 21:35:09.958 - Sub Info has not been ready or during IRAT, pending request.
+          02-20 21:35:09.979 - Sub Info has not been ready or during IRAT, pending request.
+          02-20 21:35:11.253 - Sub Info has not been ready or during IRAT, pending request.
+          02-20 21:35:11.281 - Sub Info has not been ready or during IRAT, pending request.
+          02-20 21:35:12.153 - Cellular releasing Network for 
+          02-20 21:35:12.153 - Sub Info has not been ready, remove request.
+    {TelephonyNetworkFactory - ScoreFilter=50, Filter=[ Transports: CELLULAR Capabilities: MMS&SUPL&DUN&FOTA&IMS&CBS&IA&RCS&XCAP&EIMS&INTERNET&NOT_RESTRICTED&TRUSTED&NOT_VPN&DM&WAP&NET&CMMAIL&TETHERING&RCSE&VSIM Specifier: <-3>], requests=1, refCount=0}
+      {NetworkRequest [ id=1, legacyType=-1, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED&NOT_VPN] ], score=60, requested=false}
+      Pending Requests:
+      Request History:
+        NetworkRequest [ id=1, legacyType=-1, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED&NOT_VPN] ]
+          02-20 21:35:09.103 - Sub Info has not been ready or during IRAT, pending request.
+          02-20 21:35:09.107 - Sub Info has not been ready or during IRAT, pending request.
+          02-20 21:35:09.273 - Sub Info has not been ready or during IRAT, pending request.
+          02-20 21:35:09.384 - Sub Info has not been ready or during IRAT, pending request.
+          02-20 21:35:09.666 - Sub Info has not been ready or during IRAT, pending request.
+          02-20 21:35:09.960 - Sub Info has not been ready or during IRAT, pending request.
+          02-20 21:35:09.980 - Sub Info has not been ready or during IRAT, pending request.
+          02-20 21:35:11.255 - Sub Info has not been ready or during IRAT, pending request.
+          02-20 21:35:11.282 - Sub Info has not been ready or during IRAT, pending request.
+          02-20 21:35:12.153 - Cellular releasing Network for 
+          02-20 21:35:12.154 - Sub Info has not been ready, remove request.
+    ++++++++++++++++++++++++++++++++
+    UiccController: Handler (com.android.internal.telephony.uicc.UiccController) {740103c}
+     mContext=com.android.phone.PhoneGlobals@125dce4
+     mInstance=Handler (com.android.internal.telephony.uicc.UiccController) {740103c}
+     mIccChangedRegistrants: size=10
+      mIccChangedRegistrants[0]=Handler (com.android.internal.telephony.gsm.GSMPhone) {7fa538}
+      mIccChangedRegistrants[1]=Handler (com.android.internal.telephony.gsm.GsmServiceStateTracker) {5329bd3}
+      mIccChangedRegistrants[2]=Handler (com.android.internal.telephony.dataconnection.DcTracker) {d03739d}
+      mIccChangedRegistrants[3]=Handler (com.android.internal.telephony.gsm.GsmSMSDispatcher) {e0a6917}
+      mIccChangedRegistrants[4]=Handler (com.android.internal.telephony.uicc.IccCardProxy) {442480e}
+      mIccChangedRegistrants[5]=Handler (com.android.internal.telephony.gsm.GSMPhone) {180bd7d}
+      mIccChangedRegistrants[6]=Handler (com.android.internal.telephony.gsm.GsmServiceStateTracker) {8ab3aca}
+      mIccChangedRegistrants[7]=Handler (com.android.internal.telephony.dataconnection.DcTracker) {87b24b}
+      mIccChangedRegistrants[8]=Handler (com.android.internal.telephony.gsm.GsmSMSDispatcher) {53df104}
+      mIccChangedRegistrants[9]=Handler (com.android.internal.telephony.uicc.IccCardProxy) {be310b1}
+
+     mUiccCards: size=2
+      mUiccCards[0]=com.android.internal.telephony.uicc.UiccCard@5a161c5
+    UiccCard:
+     mCi=com.android.internal.telephony.RIL@908f709
+     mLastRadioState=RADIO_ON
+     mCatService=null
+     mAbsentRegistrants: size=1
+      mAbsentRegistrants[0]=Handler (com.android.internal.telephony.uicc.IccCardProxy) {442480e}
+     mCardState=CARDSTATE_ABSENT
+     mUniversalPinState=PINSTATE_UNKNOWN
+     mGsmUmtsSubscriptionAppIndex=-1
+     mCdmaSubscriptionAppIndex=-1
+     mImsSubscriptionAppIndex=-1
+     mImsSubscriptionAppIndex=-1
+     mUiccApplications: length=8
+      mUiccApplications[0]=null
+      mUiccApplications[1]=null
+      mUiccApplications[2]=null
+      mUiccApplications[3]=null
+      mUiccApplications[4]=null
+      mUiccApplications[5]=null
+      mUiccApplications[6]=null
+      mUiccApplications[7]=null
+
+     mCarrierPrivilegeRules: null
+     mCarrierPrivilegeRegistrants: size=0
+    mLocalLog:
+      mUiccCards[1]=com.android.internal.telephony.uicc.UiccCard@8aa3996
+    UiccCard:
+     mCi=com.android.internal.telephony.RIL@5bea4e7
+     mLastRadioState=RADIO_OFF
+     mCatService=null
+     mAbsentRegistrants: size=1
+      mAbsentRegistrants[0]=Handler (com.android.internal.telephony.uicc.IccCardProxy) {be310b1}
+     mCardState=CARDSTATE_ABSENT
+     mUniversalPinState=PINSTATE_UNKNOWN
+     mGsmUmtsSubscriptionAppIndex=-1
+     mCdmaSubscriptionAppIndex=-1
+     mImsSubscriptionAppIndex=-1
+     mImsSubscriptionAppIndex=-1
+     mUiccApplications: length=8
+      mUiccApplications[0]=null
+      mUiccApplications[1]=null
+      mUiccApplications[2]=null
+      mUiccApplications[3]=null
+      mUiccApplications[4]=null
+      mUiccApplications[5]=null
+      mUiccApplications[6]=null
+      mUiccApplications[7]=null
+
+     mCarrierPrivilegeRules: null
+     mCarrierPrivilegeRegistrants: size=0
+    mLocalLog:
+    mCardLogs: 
+    ++++++++++++++++++++++++++++++++
+    SubscriptionController:
+     defaultSubId=-1
+     defaultDataSubId=-1
+     defaultVoiceSubId=-1
+     defaultSmsSubId=-1
+     defaultDataPhoneId=-1
+     defaultVoicePhoneId=-1
+     defaultSmsPhoneId=-1
+    ++++++++++++++++++++++++++++++++
+     ActiveSubInfoList: is null
+    ++++++++++++++++++++++++++++++++
+     AllSubInfoList: is null
+    ++++++++++++++++++++++++++++++++
+    0: 02-20 21:42:57 pid=1599 tid=1599 [getPhoneId] asked for default subId=-1
+    1: 02-20 21:42:57 pid=1599 tid=1599 [getPhoneId]- invalid subId = -1 return = -1
+    2: 02-20 21:42:57 pid=1599 tid=1599 [getPhoneId] asked for default subId=-1
+    3: 02-20 21:42:57 pid=1599 tid=1599 [getPhoneId]- invalid subId = -1 return = -1
+    4: 02-20 21:42:57 pid=1599 tid=1599 [getPhoneId] asked for default subId=-1
+    5: 02-20 21:42:57 pid=1599 tid=1599 [getPhoneId]- invalid subId = -1 return = -1
+    6: 02-20 21:42:57 pid=1599 tid=1599 [getPhoneId] asked for default subId=-1
+    7: 02-20 21:42:57 pid=1599 tid=1599 [getPhoneId]- invalid subId = -1 return = -1
+    8: 02-20 21:42:57 pid=1599 tid=1599 [getPhoneId] asked for default subId=-1
+    9: 02-20 21:42:57 pid=1599 tid=1599 [getPhoneId]- invalid subId = -1 return = -1
+    10: 02-20 21:42:57 pid=1599 tid=1599 [getPhoneId] asked for default subId=-1
+    11: 02-20 21:42:57 pid=1599 tid=1599 [getPhoneId]- invalid subId = -1 return = -1
+    12: 02-20 21:42:57 pid=1599 tid=1599 [getPhoneId] asked for default subId=-1
+    13: 02-20 21:42:57 pid=1599 tid=1599 [getPhoneId]- invalid subId = -1 return = -1
+    14: 02-20 21:42:57 pid=1599 tid=1599 [getPhoneId] asked for default subId=-1
+    15: 02-20 21:42:57 pid=1599 tid=1599 [getPhoneId]- invalid subId = -1 return = -1
+    16: 02-20 21:42:57 pid=1599 tid=1599 [getPhoneId] asked for default subId=-1
+    17: 02-20 21:42:57 pid=1599 tid=1599 [getPhoneId]- invalid subId = -1 return = -1
+    18: 02-20 21:43:02 pid=1599 tid=1599 [getPhoneId] asked for default subId=-1
+    19: 02-20 21:43:02 pid=1599 tid=1599 [getPhoneId]- invalid subId = -1 return = -1
+    20: 02-20 21:43:02 pid=1599 tid=1599 [getPhoneId] asked for default subId=-1
+    21: 02-20 21:43:02 pid=1599 tid=1599 [getPhoneId]- invalid subId = -1 return = -1
+    22: 02-20 21:43:02 pid=1599 tid=1599 [getPhoneId] asked for default subId=-1
+    23: 02-20 21:43:02 pid=1599 tid=1599 [getPhoneId]- invalid subId = -1 return = -1
+    24: 02-20 21:43:02 pid=1599 tid=1599 [getPhoneId] asked for default subId=-1
+    25: 02-20 21:43:02 pid=1599 tid=1599 [getPhoneId]- invalid subId = -1 return = -1
+    26: 02-20 21:43:02 pid=1599 tid=1599 [getPhoneId] asked for default subId=-1
+    27: 02-20 21:43:02 pid=1599 tid=1599 [getPhoneId]- invalid subId = -1 return = -1
+    28: 02-20 21:43:02 pid=1599 tid=1599 [getPhoneId] asked for default subId=-1
+    29: 02-20 21:43:02 pid=1599 tid=1599 [getPhoneId]- invalid subId = -1 return = -1
+    30: 02-20 21:43:02 pid=1599 tid=1599 [getPhoneId] asked for default subId=-1
+    31: 02-20 21:43:02 pid=1599 tid=1599 [getPhoneId]- invalid subId = -1 return = -1
+    32: 02-20 21:43:02 pid=1599 tid=1599 [getPhoneId] asked for default subId=-1
+    33: 02-20 21:43:02 pid=1599 tid=1599 [getPhoneId]- invalid subId = -1 return = -1
+    34: 02-20 21:43:02 pid=1599 tid=1599 [getPhoneId] asked for default subId=-1
+    35: 02-20 21:43:02 pid=1599 tid=1599 [getPhoneId]- invalid subId = -1 return = -1
+    36: 02-20 21:43:02 pid=1599 tid=1599 [getPhoneId] asked for default subId=-1
+    37: 02-20 21:43:02 pid=1599 tid=1599 [getPhoneId]- invalid subId = -1 return = -1
+    38: 02-20 21:43:02 pid=1599 tid=1599 [getPhoneId] asked for default subId=-1
+    39: 02-20 21:43:02 pid=1599 tid=1599 [getPhoneId]- invalid subId = -1 return = -1
+    40: 02-20 21:43:02 pid=1599 tid=1599 [getPhoneId] asked for default subId=-1
+    41: 02-20 21:43:02 pid=1599 tid=1599 [getPhoneId]- invalid subId = -1 return = -1
+    42: 02-20 21:43:02 pid=1599 tid=1599 [getPhoneId] asked for default subId=-1
+    43: 02-20 21:43:02 pid=1599 tid=1599 [getPhoneId]- invalid subId = -1 return = -1
+    44: 02-20 21:43:02 pid=1599 tid=1599 [getPhoneId] asked for default subId=-1
+    45: 02-20 21:43:02 pid=1599 tid=1599 [getPhoneId]- invalid subId = -1 return = -1
+    46: 02-20 21:43:07 pid=1599 tid=1599 [getPhoneId] asked for default subId=-1
+    47: 02-20 21:43:07 pid=1599 tid=1599 [getPhoneId]- invalid subId = -1 return = -1
+    48: 02-20 21:43:07 pid=1599 tid=1599 [getPhoneId] asked for default subId=-1
+    49: 02-20 21:43:07 pid=1599 tid=1599 [getPhoneId]- invalid subId = -1 return = -1
+    50: 02-20 21:43:07 pid=1599 tid=1599 [getPhoneId] asked for default subId=-1
+    51: 02-20 21:43:07 pid=1599 tid=1599 [getPhoneId]- invalid subId = -1 return = -1
+    52: 02-20 21:43:07 pid=1599 tid=1599 [getPhoneId] asked for default subId=-1
+    53: 02-20 21:43:07 pid=1599 tid=1599 [getPhoneId]- invalid subId = -1 return = -1
+    54: 02-20 21:43:07 pid=1599 tid=1599 [getPhoneId] asked for default subId=-1
+    55: 02-20 21:43:07 pid=1599 tid=1599 [getPhoneId]- invalid subId = -1 return = -1
+    56: 02-20 21:43:07 pid=1599 tid=1599 [getPhoneId] asked for default subId=-1
+    57: 02-20 21:43:07 pid=1599 tid=1599 [getPhoneId]- invalid subId = -1 return = -1
+    58: 02-20 21:43:07 pid=1599 tid=1599 [getPhoneId] asked for default subId=-1
+    59: 02-20 21:43:07 pid=1599 tid=1599 [getPhoneId]- invalid subId = -1 return = -1
+    60: 02-20 21:43:07 pid=1599 tid=1599 [getPhoneId] asked for default subId=-1
+    61: 02-20 21:43:07 pid=1599 tid=1599 [getPhoneId]- invalid subId = -1 return = -1
+    62: 02-20 21:43:07 pid=1599 tid=1599 [getPhoneId] asked for default subId=-1
+    63: 02-20 21:43:07 pid=1599 tid=1599 [getPhoneId]- invalid subId = -1 return = -1
+    64: 02-20 21:43:07 pid=1599 tid=1599 [getPhoneId] asked for default subId=-1
+    65: 02-20 21:43:07 pid=1599 tid=1599 [getPhoneId]- invalid subId = -1 return = -1
+    66: 02-20 21:43:07 pid=1599 tid=1599 [getPhoneId] asked for default subId=-1
+    67: 02-20 21:43:07 pid=1599 tid=1599 [getPhoneId]- invalid subId = -1 return = -1
+    68: 02-20 21:43:07 pid=1599 tid=1599 [getPhoneId] asked for default subId=-1
+    69: 02-20 21:43:07 pid=1599 tid=1599 [getPhoneId]- invalid subId = -1 return = -1
+    70: 02-20 21:43:07 pid=1599 tid=1599 [getPhoneId] asked for default subId=-1
+    71: 02-20 21:43:07 pid=1599 tid=1599 [getPhoneId]- invalid subId = -1 return = -1
+    72: 02-20 21:43:07 pid=1599 tid=1599 [getPhoneId] asked for default subId=-1
+    73: 02-20 21:43:07 pid=1599 tid=1599 [getPhoneId]- invalid subId = -1 return = -1
+    74: 02-20 21:43:13 pid=1599 tid=1599 [getPhoneId] asked for default subId=-1
+    75: 02-20 21:43:13 pid=1599 tid=1599 [getPhoneId]- invalid subId = -1 return = -1
+    76: 02-20 21:43:13 pid=1599 tid=1599 [getPhoneId] asked for default subId=-1
+    77: 02-20 21:43:13 pid=1599 tid=1599 [getPhoneId]- invalid subId = -1 return = -1
+    78: 02-20 21:43:13 pid=1599 tid=1599 [getPhoneId] asked for default subId=-1
+    79: 02-20 21:43:13 pid=1599 tid=1599 [getPhoneId]- invalid subId = -1 return = -1
+    80: 02-20 21:43:13 pid=1599 tid=1599 [getPhoneId] asked for default subId=-1
+    81: 02-20 21:43:13 pid=1599 tid=1599 [getPhoneId]- invalid subId = -1 return = -1
+    82: 02-20 21:43:13 pid=1599 tid=1599 [getPhoneId] asked for default subId=-1
+    83: 02-20 21:43:13 pid=1599 tid=1599 [getPhoneId]- invalid subId = -1 return = -1
+    84: 02-20 21:43:13 pid=1599 tid=1599 [getPhoneId] asked for default subId=-1
+    85: 02-20 21:43:13 pid=1599 tid=1599 [getPhoneId]- invalid subId = -1 return = -1
+    86: 02-20 21:43:13 pid=1599 tid=1599 [getPhoneId] asked for default subId=-1
+    87: 02-20 21:43:13 pid=1599 tid=1599 [getPhoneId]- invalid subId = -1 return = -1
+    88: 02-20 21:43:13 pid=1599 tid=1599 [getPhoneId] asked for default subId=-1
+    89: 02-20 21:43:13 pid=1599 tid=1599 [getPhoneId]- invalid subId = -1 return = -1
+    90: 02-20 21:43:13 pid=1599 tid=1599 [getPhoneId] asked for default subId=-1
+    91: 02-20 21:43:13 pid=1599 tid=1599 [getPhoneId]- invalid subId = -1 return = -1
+    92: 02-20 21:43:13 pid=1599 tid=1599 [getPhoneId] asked for default subId=-1
+    93: 02-20 21:43:13 pid=1599 tid=1599 [getPhoneId]- invalid subId = -1 return = -1
+    94: 02-20 21:43:13 pid=1599 tid=1599 [getPhoneId] asked for default subId=-1
+    95: 02-20 21:43:13 pid=1599 tid=1599 [getPhoneId]- invalid subId = -1 return = -1
+    96: 02-20 21:43:13 pid=1599 tid=1599 [getPhoneId] asked for default subId=-1
+    97: 02-20 21:43:13 pid=1599 tid=1599 [getPhoneId]- invalid subId = -1 return = -1
+    98: 02-20 21:43:13 pid=1599 tid=1599 [getPhoneId] asked for default subId=-1
+    99: 02-20 21:43:13 pid=1599 tid=1599 [getPhoneId]- invalid subId = -1 return = -1
+    100: 02-20 21:43:13 pid=1599 tid=1599 [getPhoneId] asked for default subId=-1
+    101: 02-20 21:43:13 pid=1599 tid=1599 [getPhoneId]- invalid subId = -1 return = -1
+    102: 02-20 21:43:28 pid=1599 tid=1599 [getPhoneId] asked for default subId=-1
+    103: 02-20 21:43:28 pid=1599 tid=1599 [getPhoneId]- invalid subId = -1 return = -1
+    104: 02-20 21:43:28 pid=1599 tid=1599 [getPhoneId] asked for default subId=-1
+    105: 02-20 21:43:28 pid=1599 tid=1599 [getPhoneId]- invalid subId = -1 return = -1
+    106: 02-20 21:43:28 pid=1599 tid=1599 [getPhoneId] asked for default subId=-1
+    107: 02-20 21:43:28 pid=1599 tid=1599 [getPhoneId]- invalid subId = -1 return = -1
+    108: 02-20 21:43:28 pid=1599 tid=1599 [getPhoneId] asked for default subId=-1
+    109: 02-20 21:43:28 pid=1599 tid=1599 [getPhoneId]- invalid subId = -1 return = -1
+    110: 02-20 21:43:28 pid=1599 tid=1599 [getPhoneId] asked for default subId=-1
+    111: 02-20 21:43:28 pid=1599 tid=1599 [getPhoneId]- invalid subId = -1 return = -1
+    112: 02-20 21:43:28 pid=1599 tid=1599 [getPhoneId] asked for default subId=-1
+    113: 02-20 21:43:28 pid=1599 tid=1599 [getPhoneId]- invalid subId = -1 return = -1
+    114: 02-20 21:43:28 pid=1599 tid=1599 [getPhoneId] asked for default subId=-1
+    115: 02-20 21:43:28 pid=1599 tid=1599 [getPhoneId]- invalid subId = -1 return = -1
+    116: 02-20 21:43:28 pid=1599 tid=1599 [getPhoneId] asked for default subId=-1
+    117: 02-20 21:43:28 pid=1599 tid=1599 [getPhoneId]- invalid subId = -1 return = -1
+    118: 02-20 21:43:28 pid=1599 tid=1599 [getPhoneId] asked for default subId=-1
+    119: 02-20 21:43:28 pid=1599 tid=1599 [getPhoneId]- invalid subId = -1 return = -1
+    120: 02-20 21:43:28 pid=1599 tid=1599 [getPhoneId] asked for default subId=-1
+    121: 02-20 21:43:28 pid=1599 tid=1599 [getPhoneId]- invalid subId = -1 return = -1
+    122: 02-20 21:43:28 pid=1599 tid=1599 [getPhoneId] asked for default subId=-1
+    123: 02-20 21:43:28 pid=1599 tid=1599 [getPhoneId]- invalid subId = -1 return = -1
+    124: 02-20 21:43:28 pid=1599 tid=1599 [getPhoneId] asked for default subId=-1
+    125: 02-20 21:43:28 pid=1599 tid=1599 [getPhoneId]- invalid subId = -1 return = -1
+    126: 02-20 21:43:28 pid=1599 tid=1599 [getPhoneId] asked for default subId=-1
+    127: 02-20 21:43:28 pid=1599 tid=1599 [getPhoneId]- invalid subId = -1 return = -1
+    128: 02-20 21:43:28 pid=1599 tid=1599 [getPhoneId] asked for default subId=-1
+    129: 02-20 21:43:28 pid=1599 tid=1599 [getPhoneId]- invalid subId = -1 return = -1
+    130: 02-20 21:43:33 pid=1599 tid=1599 [getPhoneId] asked for default subId=-1
+    131: 02-20 21:43:33 pid=1599 tid=1599 [getPhoneId]- invalid subId = -1 return = -1
+    132: 02-20 21:43:33 pid=1599 tid=1599 [getPhoneId] asked for default subId=-1
+    133: 02-20 21:43:33 pid=1599 tid=1599 [getPhoneId]- invalid subId = -1 return = -1
+    134: 02-20 21:43:33 pid=1599 tid=1599 [getPhoneId] asked for default subId=-1
+    135: 02-20 21:43:33 pid=1599 tid=1599 [getPhoneId]- invalid subId = -1 return = -1
+    136: 02-20 21:43:33 pid=1599 tid=1599 [getPhoneId] asked for default subId=-1
+    137: 02-20 21:43:33 pid=1599 tid=1599 [getPhoneId]- invalid subId = -1 return = -1
+    138: 02-20 21:43:33 pid=1599 tid=1599 [getPhoneId] asked for default subId=-1
+    139: 02-20 21:43:33 pid=1599 tid=1599 [getPhoneId]- invalid subId = -1 return = -1
+    140: 02-20 21:43:33 pid=1599 tid=1599 [getPhoneId] asked for default subId=-1
+    141: 02-20 21:43:33 pid=1599 tid=1599 [getPhoneId]- invalid subId = -1 return = -1
+    142: 02-20 21:43:33 pid=1599 tid=1599 [getPhoneId] asked for default subId=-1
+    143: 02-20 21:43:33 pid=1599 tid=1599 [getPhoneId]- invalid subId = -1 return = -1
+    144: 02-20 21:43:33 pid=1599 tid=1599 [getPhoneId] asked for default subId=-1
+    145: 02-20 21:43:33 pid=1599 tid=1599 [getPhoneId]- invalid subId = -1 return = -1
+    146: 02-20 21:43:33 pid=1599 tid=1599 [getPhoneId] asked for default subId=-1
+    147: 02-20 21:43:33 pid=1599 tid=1599 [getPhoneId]- invalid subId = -1 return = -1
+    148: 02-20 21:43:33 pid=1599 tid=1599 [getPhoneId] asked for default subId=-1
+    149: 02-20 21:43:33 pid=1599 tid=1599 [getPhoneId]- invalid subId = -1 return = -1
+    150: 02-20 21:43:33 pid=1599 tid=1599 [getPhoneId] asked for default subId=-1
+    151: 02-20 21:43:33 pid=1599 tid=1599 [getPhoneId]- invalid subId = -1 return = -1
+    152: 02-20 21:43:33 pid=1599 tid=1599 [getPhoneId] asked for default subId=-1
+    153: 02-20 21:43:33 pid=1599 tid=1599 [getPhoneId]- invalid subId = -1 return = -1
+    154: 02-20 21:43:33 pid=1599 tid=1599 [getPhoneId] asked for default subId=-1
+    155: 02-20 21:43:33 pid=1599 tid=1599 [getPhoneId]- invalid subId = -1 return = -1
+    156: 02-20 21:43:33 pid=1599 tid=1599 [getPhoneId] asked for default subId=-1
+    157: 02-20 21:43:33 pid=1599 tid=1599 [getPhoneId]- invalid subId = -1 return = -1
+    158: 02-20 21:43:38 pid=1599 tid=1599 [getPhoneId] asked for default subId=-1
+    159: 02-20 21:43:38 pid=1599 tid=1599 [getPhoneId]- invalid subId = -1 return = -1
+    160: 02-20 21:43:38 pid=1599 tid=1599 [getPhoneId] asked for default subId=-1
+    161: 02-20 21:43:38 pid=1599 tid=1599 [getPhoneId]- invalid subId = -1 return = -1
+    162: 02-20 21:43:38 pid=1599 tid=1599 [getPhoneId] asked for default subId=-1
+    163: 02-20 21:43:38 pid=1599 tid=1599 [getPhoneId]- invalid subId = -1 return = -1
+    164: 02-20 21:43:38 pid=1599 tid=1599 [getPhoneId] asked for default subId=-1
+    165: 02-20 21:43:38 pid=1599 tid=1599 [getPhoneId]- invalid subId = -1 return = -1
+    166: 02-20 21:43:38 pid=1599 tid=1599 [getPhoneId] asked for default subId=-1
+    167: 02-20 21:43:38 pid=1599 tid=1599 [getPhoneId]- invalid subId = -1 return = -1
+    168: 02-20 21:43:38 pid=1599 tid=1599 [getPhoneId] asked for default subId=-1
+    169: 02-20 21:43:38 pid=1599 tid=1599 [getPhoneId]- invalid subId = -1 return = -1
+    170: 02-20 21:43:38 pid=1599 tid=1599 [getPhoneId] asked for default subId=-1
+    171: 02-20 21:43:38 pid=1599 tid=1599 [getPhoneId]- invalid subId = -1 return = -1
+    172: 02-20 21:43:38 pid=1599 tid=1599 [getPhoneId] asked for default subId=-1
+    173: 02-20 21:43:38 pid=1599 tid=1599 [getPhoneId]- invalid subId = -1 return = -1
+    174: 02-20 21:43:38 pid=1599 tid=1599 [getPhoneId] asked for default subId=-1
+    175: 02-20 21:43:38 pid=1599 tid=1599 [getPhoneId]- invalid subId = -1 return = -1
+    176: 02-20 21:43:38 pid=1599 tid=1599 [getPhoneId] asked for default subId=-1
+    177: 02-20 21:43:38 pid=1599 tid=1599 [getPhoneId]- invalid subId = -1 return = -1
+    178: 02-20 21:43:38 pid=1599 tid=1599 [getPhoneId] asked for default subId=-1
+    179: 02-20 21:43:38 pid=1599 tid=1599 [getPhoneId]- invalid subId = -1 return = -1
+    180: 02-20 21:43:38 pid=1599 tid=1599 [getPhoneId] asked for default subId=-1
+    181: 02-20 21:43:38 pid=1599 tid=1599 [getPhoneId]- invalid subId = -1 return = -1
+    182: 02-20 21:43:38 pid=1599 tid=1599 [getPhoneId] asked for default subId=-1
+    183: 02-20 21:43:38 pid=1599 tid=1599 [getPhoneId]- invalid subId = -1 return = -1
+    184: 02-20 21:43:38 pid=1599 tid=1599 [getPhoneId] asked for default subId=-1
+    185: 02-20 21:43:38 pid=1599 tid=1599 [getPhoneId]- invalid subId = -1 return = -1
+    186: 02-20 21:43:43 pid=1599 tid=1599 [getPhoneId] asked for default subId=-1
+    187: 02-20 21:43:43 pid=1599 tid=1599 [getPhoneId]- invalid subId = -1 return = -1
+    188: 02-20 21:43:43 pid=1599 tid=1599 [getPhoneId] asked for default subId=-1
+    189: 02-20 21:43:43 pid=1599 tid=1599 [getPhoneId]- invalid subId = -1 return = -1
+    190: 02-20 21:43:43 pid=1599 tid=1599 [getPhoneId] asked for default subId=-1
+    191: 02-20 21:43:43 pid=1599 tid=1599 [getPhoneId]- invalid subId = -1 return = -1
+    192: 02-20 21:43:43 pid=1599 tid=1599 [getPhoneId] asked for default subId=-1
+    193: 02-20 21:43:43 pid=1599 tid=1599 [getPhoneId]- invalid subId = -1 return = -1
+    194: 02-20 21:43:43 pid=1599 tid=1599 [getPhoneId] asked for default subId=-1
+    195: 02-20 21:43:43 pid=1599 tid=1599 [getPhoneId]- invalid subId = -1 return = -1
+    196: 02-20 21:43:43 pid=1599 tid=1599 [getPhoneId] asked for default subId=-1
+    197: 02-20 21:43:43 pid=1599 tid=1599 [getPhoneId]- invalid subId = -1 return = -1
+    198: 02-20 21:43:43 pid=1599 tid=1599 [getPhoneId] asked for default subId=-1
+    199: 02-20 21:43:43 pid=1599 tid=1599 [getPhoneId]- invalid subId = -1 return = -1
+    200: 02-20 21:43:43 pid=1599 tid=1599 [getPhoneId] asked for default subId=-1
+    201: 02-20 21:43:43 pid=1599 tid=1599 [getPhoneId]- invalid subId = -1 return = -1
+    202: 02-20 21:43:43 pid=1599 tid=1599 [getPhoneId] asked for default subId=-1
+    203: 02-20 21:43:43 pid=1599 tid=1599 [getPhoneId]- invalid subId = -1 return = -1
+    204: 02-20 21:43:43 pid=1599 tid=1599 [getPhoneId] asked for default subId=-1
+    205: 02-20 21:43:43 pid=1599 tid=1599 [getPhoneId]- invalid subId = -1 return = -1
+    206: 02-20 21:43:43 pid=1599 tid=1599 [getPhoneId] asked for default subId=-1
+    207: 02-20 21:43:43 pid=1599 tid=1599 [getPhoneId]- invalid subId = -1 return = -1
+    208: 02-20 21:43:43 pid=1599 tid=1599 [getPhoneId] asked for default subId=-1
+    209: 02-20 21:43:43 pid=1599 tid=1599 [getPhoneId]- invalid subId = -1 return = -1
+    210: 02-20 21:43:43 pid=1599 tid=1599 [getPhoneId] asked for default subId=-1
+    211: 02-20 21:43:43 pid=1599 tid=1599 [getPhoneId]- invalid subId = -1 return = -1
+    212: 02-20 21:43:43 pid=1599 tid=1599 [getPhoneId] asked for default subId=-1
+    213: 02-20 21:43:43 pid=1599 tid=1599 [getPhoneId]- invalid subId = -1 return = -1
+    214: 02-20 21:43:48 pid=1599 tid=1599 [getPhoneId] asked for default subId=-1
+    215: 02-20 21:43:48 pid=1599 tid=1599 [getPhoneId]- invalid subId = -1 return = -1
+    216: 02-20 21:43:48 pid=1599 tid=1599 [getPhoneId] asked for default subId=-1
+    217: 02-20 21:43:48 pid=1599 tid=1599 [getPhoneId]- invalid subId = -1 return = -1
+    218: 02-20 21:43:48 pid=1599 tid=1599 [getPhoneId] asked for default subId=-1
+    219: 02-20 21:43:48 pid=1599 tid=1599 [getPhoneId]- invalid subId = -1 return = -1
+    220: 02-20 21:43:48 pid=1599 tid=1599 [getPhoneId] asked for default subId=-1
+    221: 02-20 21:43:48 pid=1599 tid=1599 [getPhoneId]- invalid subId = -1 return = -1
+    222: 02-20 21:43:48 pid=1599 tid=1599 [getPhoneId] asked for default subId=-1
+    223: 02-20 21:43:48 pid=1599 tid=1599 [getPhoneId]- invalid subId = -1 return = -1
+    224: 02-20 21:43:48 pid=1599 tid=1599 [getPhoneId] asked for default subId=-1
+    225: 02-20 21:43:48 pid=1599 tid=1599 [getPhoneId]- invalid subId = -1 return = -1
+    226: 02-20 21:43:48 pid=1599 tid=1599 [getPhoneId] asked for default subId=-1
+    227: 02-20 21:43:48 pid=1599 tid=1599 [getPhoneId]- invalid subId = -1 return = -1
+    228: 02-20 21:43:48 pid=1599 tid=1599 [getPhoneId] asked for default subId=-1
+    229: 02-20 21:43:48 pid=1599 tid=1599 [getPhoneId]- invalid subId = -1 return = -1
+    230: 02-20 21:43:48 pid=1599 tid=1599 [getPhoneId] asked for default subId=-1
+    231: 02-20 21:43:48 pid=1599 tid=1599 [getPhoneId]- invalid subId = -1 return = -1
+    232: 02-20 21:43:48 pid=1599 tid=1599 [getPhoneId] asked for default subId=-1
+    233: 02-20 21:43:48 pid=1599 tid=1599 [getPhoneId]- invalid subId = -1 return = -1
+    234: 02-20 21:43:48 pid=1599 tid=1599 [getPhoneId] asked for default subId=-1
+    235: 02-20 21:43:48 pid=1599 tid=1599 [getPhoneId]- invalid subId = -1 return = -1
+    236: 02-20 21:43:48 pid=1599 tid=1599 [getPhoneId] asked for default subId=-1
+    237: 02-20 21:43:48 pid=1599 tid=1599 [getPhoneId]- invalid subId = -1 return = -1
+    238: 02-20 21:43:48 pid=1599 tid=1599 [getPhoneId] asked for default subId=-1
+    239: 02-20 21:43:48 pid=1599 tid=1599 [getPhoneId]- invalid subId = -1 return = -1
+    240: 02-20 21:43:48 pid=1599 tid=1599 [getPhoneId] asked for default subId=-1
+    241: 02-20 21:43:48 pid=1599 tid=1599 [getPhoneId]- invalid subId = -1 return = -1
+    242: 02-20 21:43:54 pid=1599 tid=1599 [getPhoneId] asked for default subId=-1
+    243: 02-20 21:43:54 pid=1599 tid=1599 [getPhoneId]- invalid subId = -1 return = -1
+    244: 02-20 21:43:54 pid=1599 tid=1599 [getPhoneId] asked for default subId=-1
+    245: 02-20 21:43:54 pid=1599 tid=1599 [getPhoneId]- invalid subId = -1 return = -1
+    246: 02-20 21:43:54 pid=1599 tid=1599 [getPhoneId] asked for default subId=-1
+    247: 02-20 21:43:54 pid=1599 tid=1599 [getPhoneId]- invalid subId = -1 return = -1
+    248: 02-20 21:43:54 pid=1599 tid=1599 [getPhoneId] asked for default subId=-1
+    249: 02-20 21:43:54 pid=1599 tid=1599 [getPhoneId]- invalid subId = -1 return = -1
+    250: 02-20 21:43:54 pid=1599 tid=1599 [getPhoneId] asked for default subId=-1
+    251: 02-20 21:43:54 pid=1599 tid=1599 [getPhoneId]- invalid subId = -1 return = -1
+    252: 02-20 21:43:54 pid=1599 tid=1599 [getPhoneId] asked for default subId=-1
+    253: 02-20 21:43:54 pid=1599 tid=1599 [getPhoneId]- invalid subId = -1 return = -1
+    254: 02-20 21:43:54 pid=1599 tid=1599 [getPhoneId] asked for default subId=-1
+    255: 02-20 21:43:54 pid=1599 tid=1599 [getPhoneId]- invalid subId = -1 return = -1
+    256: 02-20 21:43:54 pid=1599 tid=1599 [getPhoneId] asked for default subId=-1
+    257: 02-20 21:43:54 pid=1599 tid=1599 [getPhoneId]- invalid subId = -1 return = -1
+    258: 02-20 21:43:54 pid=1599 tid=1599 [getPhoneId] asked for default subId=-1
+    259: 02-20 21:43:54 pid=1599 tid=1599 [getPhoneId]- invalid subId = -1 return = -1
+    260: 02-20 21:43:54 pid=1599 tid=1599 [getPhoneId] asked for default subId=-1
+    261: 02-20 21:43:54 pid=1599 tid=1599 [getPhoneId]- invalid subId = -1 return = -1
+    262: 02-20 21:43:54 pid=1599 tid=1599 [getPhoneId] asked for default subId=-1
+    263: 02-20 21:43:54 pid=1599 tid=1599 [getPhoneId]- invalid subId = -1 return = -1
+    264: 02-20 21:43:54 pid=1599 tid=1599 [getPhoneId] asked for default subId=-1
+    265: 02-20 21:43:54 pid=1599 tid=1599 [getPhoneId]- invalid subId = -1 return = -1
+    266: 02-20 21:43:54 pid=1599 tid=1599 [getPhoneId] asked for default subId=-1
+    267: 02-20 21:43:54 pid=1599 tid=1599 [getPhoneId]- invalid subId = -1 return = -1
+    268: 02-20 21:43:54 pid=1599 tid=1599 [getPhoneId] asked for default subId=-1
+    269: 02-20 21:43:54 pid=1599 tid=1599 [getPhoneId]- invalid subId = -1 return = -1
+    270: 02-20 21:43:59 pid=1599 tid=1599 [getPhoneId] asked for default subId=-1
+    271: 02-20 21:43:59 pid=1599 tid=1599 [getPhoneId]- invalid subId = -1 return = -1
+    272: 02-20 21:43:59 pid=1599 tid=1599 [getPhoneId] asked for default subId=-1
+    273: 02-20 21:43:59 pid=1599 tid=1599 [getPhoneId]- invalid subId = -1 return = -1
+    274: 02-20 21:43:59 pid=1599 tid=1599 [getPhoneId] asked for default subId=-1
+    275: 02-20 21:43:59 pid=1599 tid=1599 [getPhoneId]- invalid subId = -1 return = -1
+    276: 02-20 21:43:59 pid=1599 tid=1599 [getPhoneId] asked for default subId=-1
+    277: 02-20 21:43:59 pid=1599 tid=1599 [getPhoneId]- invalid subId = -1 return = -1
+    278: 02-20 21:43:59 pid=1599 tid=1599 [getPhoneId] asked for default subId=-1
+    279: 02-20 21:43:59 pid=1599 tid=1599 [getPhoneId]- invalid subId = -1 return = -1
+    280: 02-20 21:43:59 pid=1599 tid=1599 [getPhoneId] asked for default subId=-1
+    281: 02-20 21:43:59 pid=1599 tid=1599 [getPhoneId]- invalid subId = -1 return = -1
+    282: 02-20 21:43:59 pid=1599 tid=1599 [getPhoneId] asked for default subId=-1
+    283: 02-20 21:43:59 pid=1599 tid=1599 [getPhoneId]- invalid subId = -1 return = -1
+    284: 02-20 21:43:59 pid=1599 tid=1599 [getPhoneId] asked for default subId=-1
+    285: 02-20 21:43:59 pid=1599 tid=1599 [getPhoneId]- invalid subId = -1 return = -1
+    286: 02-20 21:43:59 pid=1599 tid=1599 [getPhoneId] asked for default subId=-1
+    287: 02-20 21:43:59 pid=1599 tid=1599 [getPhoneId]- invalid subId = -1 return = -1
+    288: 02-20 21:43:59 pid=1599 tid=1599 [getPhoneId] asked for default subId=-1
+    289: 02-20 21:43:59 pid=1599 tid=1599 [getPhoneId]- invalid subId = -1 return = -1
+    290: 02-20 21:43:59 pid=1599 tid=1599 [getPhoneId] asked for default subId=-1
+    291: 02-20 21:43:59 pid=1599 tid=1599 [getPhoneId]- invalid subId = -1 return = -1
+    292: 02-20 21:43:59 pid=1599 tid=1599 [getPhoneId] asked for default subId=-1
+    293: 02-20 21:43:59 pid=1599 tid=1599 [getPhoneId]- invalid subId = -1 return = -1
+    294: 02-20 21:43:59 pid=1599 tid=1599 [getPhoneId] asked for default subId=-1
+    295: 02-20 21:43:59 pid=1599 tid=1599 [getPhoneId]- invalid subId = -1 return = -1
+    296: 02-20 21:43:59 pid=1599 tid=1599 [getPhoneId] asked for default subId=-1
+    297: 02-20 21:43:59 pid=1599 tid=1599 [getPhoneId]- invalid subId = -1 return = -1
+    298: 02-20 21:44:09 pid=1599 tid=1599 [getPhoneId] asked for default subId=-1
+    299: 02-20 21:44:09 pid=1599 tid=1599 [getPhoneId]- invalid subId = -1 return = -1
+    300: 02-20 21:44:09 pid=1599 tid=1599 [getPhoneId] asked for default subId=-1
+    301: 02-20 21:44:09 pid=1599 tid=1599 [getPhoneId]- invalid subId = -1 return = -1
+    302: 02-20 21:44:09 pid=1599 tid=1599 [getPhoneId] asked for default subId=-1
+    303: 02-20 21:44:09 pid=1599 tid=1599 [getPhoneId]- invalid subId = -1 return = -1
+    304: 02-20 21:44:09 pid=1599 tid=1599 [getPhoneId] asked for default subId=-1
+    305: 02-20 21:44:09 pid=1599 tid=1599 [getPhoneId]- invalid subId = -1 return = -1
+    306: 02-20 21:44:09 pid=1599 tid=1599 [getPhoneId] asked for default subId=-1
+    307: 02-20 21:44:09 pid=1599 tid=1599 [getPhoneId]- invalid subId = -1 return = -1
+    308: 02-20 21:44:09 pid=1599 tid=1599 [getPhoneId] asked for default subId=-1
+    309: 02-20 21:44:09 pid=1599 tid=1599 [getPhoneId]- invalid subId = -1 return = -1
+    310: 02-20 21:44:09 pid=1599 tid=1599 [getPhoneId] asked for default subId=-1
+    311: 02-20 21:44:09 pid=1599 tid=1599 [getPhoneId]- invalid subId = -1 return = -1
+    312: 02-20 21:44:09 pid=1599 tid=1599 [getPhoneId] asked for default subId=-1
+    313: 02-20 21:44:09 pid=1599 tid=1599 [getPhoneId]- invalid subId = -1 return = -1
+    314: 02-20 21:44:09 pid=1599 tid=1599 [getPhoneId] asked for default subId=-1
+    315: 02-20 21:44:09 pid=1599 tid=1599 [getPhoneId]- invalid subId = -1 return = -1
+    316: 02-20 21:44:09 pid=1599 tid=1599 [getPhoneId] asked for default subId=-1
+    317: 02-20 21:44:09 pid=1599 tid=1599 [getPhoneId]- invalid subId = -1 return = -1
+    318: 02-20 21:44:09 pid=1599 tid=1599 [getPhoneId] asked for default subId=-1
+    319: 02-20 21:44:09 pid=1599 tid=1599 [getPhoneId]- invalid subId = -1 return = -1
+    320: 02-20 21:44:09 pid=1599 tid=1599 [getPhoneId] asked for default subId=-1
+    321: 02-20 21:44:09 pid=1599 tid=1599 [getPhoneId]- invalid subId = -1 return = -1
+    322: 02-20 21:44:09 pid=1599 tid=1599 [getPhoneId] asked for default subId=-1
+    323: 02-20 21:44:09 pid=1599 tid=1599 [getPhoneId]- invalid subId = -1 return = -1
+    324: 02-20 21:44:09 pid=1599 tid=1599 [getPhoneId] asked for default subId=-1
+    325: 02-20 21:44:09 pid=1599 tid=1599 [getPhoneId]- invalid subId = -1 return = -1
+    326: 02-20 21:44:14 pid=1599 tid=1599 [getPhoneId] asked for default subId=-1
+    327: 02-20 21:44:14 pid=1599 tid=1599 [getPhoneId]- invalid subId = -1 return = -1
+    328: 02-20 21:44:14 pid=1599 tid=1599 [getPhoneId] asked for default subId=-1
+    329: 02-20 21:44:14 pid=1599 tid=1599 [getPhoneId]- invalid subId = -1 return = -1
+    330: 02-20 21:44:14 pid=1599 tid=1599 [getPhoneId] asked for default subId=-1
+    331: 02-20 21:44:14 pid=1599 tid=1599 [getPhoneId]- invalid subId = -1 return = -1
+    332: 02-20 21:44:14 pid=1599 tid=1599 [getPhoneId] asked for default subId=-1
+    333: 02-20 21:44:14 pid=1599 tid=1599 [getPhoneId]- invalid subId = -1 return = -1
+    334: 02-20 21:44:14 pid=1599 tid=1599 [getPhoneId] asked for default subId=-1
+    335: 02-20 21:44:14 pid=1599 tid=1599 [getPhoneId]- invalid subId = -1 return = -1
+    336: 02-20 21:44:14 pid=1599 tid=1599 [getPhoneId] asked for default subId=-1
+    337: 02-20 21:44:14 pid=1599 tid=1599 [getPhoneId]- invalid subId = -1 return = -1
+    338: 02-20 21:44:14 pid=1599 tid=1599 [getPhoneId] asked for default subId=-1
+    339: 02-20 21:44:14 pid=1599 tid=1599 [getPhoneId]- invalid subId = -1 return = -1
+    340: 02-20 21:44:14 pid=1599 tid=1599 [getPhoneId] asked for default subId=-1
+    341: 02-20 21:44:14 pid=1599 tid=1599 [getPhoneId]- invalid subId = -1 return = -1
+    342: 02-20 21:44:14 pid=1599 tid=1599 [getPhoneId] asked for default subId=-1
+    343: 02-20 21:44:14 pid=1599 tid=1599 [getPhoneId]- invalid subId = -1 return = -1
+    344: 02-20 21:44:14 pid=1599 tid=1599 [getPhoneId] asked for default subId=-1
+    345: 02-20 21:44:14 pid=1599 tid=1599 [getPhoneId]- invalid subId = -1 return = -1
+    346: 02-20 21:44:14 pid=1599 tid=1599 [getPhoneId] asked for default subId=-1
+    347: 02-20 21:44:14 pid=1599 tid=1599 [getPhoneId]- invalid subId = -1 return = -1
+    348: 02-20 21:44:14 pid=1599 tid=1599 [getPhoneId] asked for default subId=-1
+    349: 02-20 21:44:14 pid=1599 tid=1599 [getPhoneId]- invalid subId = -1 return = -1
+    350: 02-20 21:44:14 pid=1599 tid=1599 [getPhoneId] asked for default subId=-1
+    351: 02-20 21:44:14 pid=1599 tid=1599 [getPhoneId]- invalid subId = -1 return = -1
+    352: 02-20 21:44:14 pid=1599 tid=1599 [getPhoneId] asked for default subId=-1
+    353: 02-20 21:44:14 pid=1599 tid=1599 [getPhoneId]- invalid subId = -1 return = -1
+    354: 02-20 21:44:24 pid=1599 tid=1599 [getPhoneId] asked for default subId=-1
+    355: 02-20 21:44:24 pid=1599 tid=1599 [getPhoneId]- invalid subId = -1 return = -1
+    356: 02-20 21:44:24 pid=1599 tid=1599 [getPhoneId] asked for default subId=-1
+    357: 02-20 21:44:24 pid=1599 tid=1599 [getPhoneId]- invalid subId = -1 return = -1
+    358: 02-20 21:44:24 pid=1599 tid=1599 [getPhoneId] asked for default subId=-1
+    359: 02-20 21:44:24 pid=1599 tid=1599 [getPhoneId]- invalid subId = -1 return = -1
+    360: 02-20 21:44:24 pid=1599 tid=1599 [getPhoneId] asked for default subId=-1
+    361: 02-20 21:44:24 pid=1599 tid=1599 [getPhoneId]- invalid subId = -1 return = -1
+    362: 02-20 21:44:24 pid=1599 tid=1599 [getPhoneId] asked for default subId=-1
+    363: 02-20 21:44:24 pid=1599 tid=1599 [getPhoneId]- invalid subId = -1 return = -1
+    364: 02-20 21:44:24 pid=1599 tid=1599 [getPhoneId] asked for default subId=-1
+    365: 02-20 21:44:24 pid=1599 tid=1599 [getPhoneId]- invalid subId = -1 return = -1
+    366: 02-20 21:44:24 pid=1599 tid=1599 [getPhoneId] asked for default subId=-1
+    367: 02-20 21:44:24 pid=1599 tid=1599 [getPhoneId]- invalid subId = -1 return = -1
+    368: 02-20 21:44:24 pid=1599 tid=1599 [getPhoneId] asked for default subId=-1
+    369: 02-20 21:44:24 pid=1599 tid=1599 [getPhoneId]- invalid subId = -1 return = -1
+    370: 02-20 21:44:24 pid=1599 tid=1599 [getPhoneId] asked for default subId=-1
+    371: 02-20 21:44:24 pid=1599 tid=1599 [getPhoneId]- invalid subId = -1 return = -1
+    372: 02-20 21:44:24 pid=1599 tid=1599 [getPhoneId] asked for default subId=-1
+    373: 02-20 21:44:24 pid=1599 tid=1599 [getPhoneId]- invalid subId = -1 return = -1
+    374: 02-20 21:44:24 pid=1599 tid=1599 [getPhoneId] asked for default subId=-1
+    375: 02-20 21:44:24 pid=1599 tid=1599 [getPhoneId]- invalid subId = -1 return = -1
+    376: 02-20 21:44:24 pid=1599 tid=1599 [getPhoneId] asked for default subId=-1
+    377: 02-20 21:44:24 pid=1599 tid=1599 [getPhoneId]- invalid subId = -1 return = -1
+    378: 02-20 21:44:24 pid=1599 tid=1599 [getPhoneId] asked for default subId=-1
+    379: 02-20 21:44:24 pid=1599 tid=1599 [getPhoneId]- invalid subId = -1 return = -1
+    380: 02-20 21:44:24 pid=1599 tid=1599 [getPhoneId] asked for default subId=-1
+    381: 02-20 21:44:24 pid=1599 tid=1599 [getPhoneId]- invalid subId = -1 return = -1
+    382: 02-20 21:44:29 pid=1599 tid=1599 [getPhoneId] asked for default subId=-1
+    383: 02-20 21:44:29 pid=1599 tid=1599 [getPhoneId]- invalid subId = -1 return = -1
+    384: 02-20 21:44:29 pid=1599 tid=1599 [getPhoneId] asked for default subId=-1
+    385: 02-20 21:44:29 pid=1599 tid=1599 [getPhoneId]- invalid subId = -1 return = -1
+    386: 02-20 21:44:29 pid=1599 tid=1599 [getPhoneId] asked for default subId=-1
+    387: 02-20 21:44:29 pid=1599 tid=1599 [getPhoneId]- invalid subId = -1 return = -1
+    388: 02-20 21:44:29 pid=1599 tid=1599 [getPhoneId] asked for default subId=-1
+    389: 02-20 21:44:29 pid=1599 tid=1599 [getPhoneId]- invalid subId = -1 return = -1
+    390: 02-20 21:44:29 pid=1599 tid=1599 [getPhoneId] asked for default subId=-1
+    391: 02-20 21:44:29 pid=1599 tid=1599 [getPhoneId]- invalid subId = -1 return = -1
+    392: 02-20 21:44:29 pid=1599 tid=1599 [getPhoneId] asked for default subId=-1
+    393: 02-20 21:44:29 pid=1599 tid=1599 [getPhoneId]- invalid subId = -1 return = -1
+    394: 02-20 21:44:29 pid=1599 tid=1599 [getPhoneId] asked for default subId=-1
+    395: 02-20 21:44:29 pid=1599 tid=1599 [getPhoneId]- invalid subId = -1 return = -1
+    396: 02-20 21:44:29 pid=1599 tid=1599 [getPhoneId] asked for default subId=-1
+    397: 02-20 21:44:29 pid=1599 tid=1599 [getPhoneId]- invalid subId = -1 return = -1
+    398: 02-20 21:44:29 pid=1599 tid=1599 [getPhoneId] asked for default subId=-1
+    399: 02-20 21:44:29 pid=1599 tid=1599 [getPhoneId]- invalid subId = -1 return = -1
+    400: 02-20 21:44:29 pid=1599 tid=1599 [getPhoneId] asked for default subId=-1
+    401: 02-20 21:44:29 pid=1599 tid=1599 [getPhoneId]- invalid subId = -1 return = -1
+    402: 02-20 21:44:29 pid=1599 tid=1599 [getPhoneId] asked for default subId=-1
+    403: 02-20 21:44:29 pid=1599 tid=1599 [getPhoneId]- invalid subId = -1 return = -1
+    404: 02-20 21:44:29 pid=1599 tid=1599 [getPhoneId] asked for default subId=-1
+    405: 02-20 21:44:29 pid=1599 tid=1599 [getPhoneId]- invalid subId = -1 return = -1
+    406: 02-20 21:44:29 pid=1599 tid=1599 [getPhoneId] asked for default subId=-1
+    407: 02-20 21:44:29 pid=1599 tid=1599 [getPhoneId]- invalid subId = -1 return = -1
+    408: 02-20 21:44:29 pid=1599 tid=1599 [getPhoneId] asked for default subId=-1
+    409: 02-20 21:44:29 pid=1599 tid=1599 [getPhoneId]- invalid subId = -1 return = -1
+    410: 02-20 21:44:34 pid=1599 tid=1866 [getActiveSubInfoList]+
+    411: 02-20 21:44:34 pid=1599 tid=1866 [getActiveSubInfoList] Sub Controller not ready
+    412: 02-20 21:44:34 pid=1599 tid=1599 [getPhoneId] asked for default subId=-1
+    413: 02-20 21:44:34 pid=1599 tid=1599 [getPhoneId]- invalid subId = -1 return = -1
+    414: 02-20 21:44:34 pid=1599 tid=1599 [getPhoneId] asked for default subId=-1
+    415: 02-20 21:44:34 pid=1599 tid=1599 [getPhoneId]- invalid subId = -1 return = -1
+    416: 02-20 21:44:34 pid=1599 tid=1599 [getPhoneId] asked for default subId=-1
+    417: 02-20 21:44:34 pid=1599 tid=1599 [getPhoneId]- invalid subId = -1 return = -1
+    418: 02-20 21:44:34 pid=1599 tid=1599 [getPhoneId] asked for default subId=-1
+    419: 02-20 21:44:34 pid=1599 tid=1599 [getPhoneId]- invalid subId = -1 return = -1
+    420: 02-20 21:44:34 pid=1599 tid=1599 [getPhoneId] asked for default subId=-1
+    421: 02-20 21:44:34 pid=1599 tid=1599 [getPhoneId]- invalid subId = -1 return = -1
+    422: 02-20 21:44:34 pid=1599 tid=1599 [getPhoneId] asked for default subId=-1
+    423: 02-20 21:44:34 pid=1599 tid=1599 [getPhoneId]- invalid subId = -1 return = -1
+    424: 02-20 21:44:34 pid=1599 tid=1599 [getPhoneId] asked for default subId=-1
+    425: 02-20 21:44:34 pid=1599 tid=1599 [getPhoneId]- invalid subId = -1 return = -1
+    426: 02-20 21:44:34 pid=1599 tid=1599 [getPhoneId] asked for default subId=-1
+    427: 02-20 21:44:34 pid=1599 tid=1599 [getPhoneId]- invalid subId = -1 return = -1
+    428: 02-20 21:44:34 pid=1599 tid=1599 [getPhoneId] asked for default subId=-1
+    429: 02-20 21:44:34 pid=1599 tid=1599 [getPhoneId]- invalid subId = -1 return = -1
+    430: 02-20 21:44:34 pid=1599 tid=1599 [getPhoneId] asked for default subId=-1
+    431: 02-20 21:44:34 pid=1599 tid=1599 [getPhoneId]- invalid subId = -1 return = -1
+    432: 02-20 21:44:34 pid=1599 tid=1599 [getPhoneId] asked for default subId=-1
+    433: 02-20 21:44:34 pid=1599 tid=1599 [getPhoneId]- invalid subId = -1 return = -1
+    434: 02-20 21:44:34 pid=1599 tid=1599 [getPhoneId] asked for default subId=-1
+    435: 02-20 21:44:34 pid=1599 tid=1599 [getPhoneId]- invalid subId = -1 return = -1
+    436: 02-20 21:44:34 pid=1599 tid=1599 [getPhoneId] asked for default subId=-1
+    437: 02-20 21:44:34 pid=1599 tid=1599 [getPhoneId]- invalid subId = -1 return = -1
+    438: 02-20 21:44:34 pid=1599 tid=1599 [getPhoneId] asked for default subId=-1
+    439: 02-20 21:44:34 pid=1599 tid=1599 [getPhoneId]- invalid subId = -1 return = -1
+    440: 02-20 21:44:50 pid=1599 tid=1599 [getPhoneId] asked for default subId=-1
+    441: 02-20 21:44:50 pid=1599 tid=1599 [getPhoneId]- invalid subId = -1 return = -1
+    442: 02-20 21:44:50 pid=1599 tid=1599 [getPhoneId] asked for default subId=-1
+    443: 02-20 21:44:50 pid=1599 tid=1599 [getPhoneId]- invalid subId = -1 return = -1
+    444: 02-20 21:44:50 pid=1599 tid=1599 [getPhoneId] asked for default subId=-1
+    445: 02-20 21:44:50 pid=1599 tid=1599 [getPhoneId]- invalid subId = -1 return = -1
+    446: 02-20 21:44:50 pid=1599 tid=1599 [getPhoneId] asked for default subId=-1
+    447: 02-20 21:44:50 pid=1599 tid=1599 [getPhoneId]- invalid subId = -1 return = -1
+    448: 02-20 21:44:50 pid=1599 tid=1599 [getPhoneId] asked for default subId=-1
+    449: 02-20 21:44:50 pid=1599 tid=1599 [getPhoneId]- invalid subId = -1 return = -1
+    450: 02-20 21:44:50 pid=1599 tid=1599 [getPhoneId] asked for default subId=-1
+    451: 02-20 21:44:50 pid=1599 tid=1599 [getPhoneId]- invalid subId = -1 return = -1
+    452: 02-20 21:44:50 pid=1599 tid=1599 [getPhoneId] asked for default subId=-1
+    453: 02-20 21:44:50 pid=1599 tid=1599 [getPhoneId]- invalid subId = -1 return = -1
+    454: 02-20 21:44:50 pid=1599 tid=1599 [getPhoneId] asked for default subId=-1
+    455: 02-20 21:44:50 pid=1599 tid=1599 [getPhoneId]- invalid subId = -1 return = -1
+    456: 02-20 21:44:50 pid=1599 tid=1599 [getPhoneId] asked for default subId=-1
+    457: 02-20 21:44:50 pid=1599 tid=1599 [getPhoneId]- invalid subId = -1 return = -1
+    458: 02-20 21:44:50 pid=1599 tid=1599 [getPhoneId] asked for default subId=-1
+    459: 02-20 21:44:50 pid=1599 tid=1599 [getPhoneId]- invalid subId = -1 return = -1
+    460: 02-20 21:44:50 pid=1599 tid=1599 [getPhoneId] asked for default subId=-1
+    461: 02-20 21:44:50 pid=1599 tid=1599 [getPhoneId]- invalid subId = -1 return = -1
+    462: 02-20 21:44:50 pid=1599 tid=1599 [getPhoneId] asked for default subId=-1
+    463: 02-20 21:44:50 pid=1599 tid=1599 [getPhoneId]- invalid subId = -1 return = -1
+    464: 02-20 21:44:50 pid=1599 tid=1599 [getPhoneId] asked for default subId=-1
+    465: 02-20 21:44:50 pid=1599 tid=1599 [getPhoneId]- invalid subId = -1 return = -1
+    466: 02-20 21:44:50 pid=1599 tid=1599 [getPhoneId] asked for default subId=-1
+    467: 02-20 21:44:50 pid=1599 tid=1599 [getPhoneId]- invalid subId = -1 return = -1
+    468: 02-20 21:44:55 pid=1599 tid=1599 [getPhoneId] asked for default subId=-1
+    469: 02-20 21:44:55 pid=1599 tid=1599 [getPhoneId]- invalid subId = -1 return = -1
+    470: 02-20 21:44:55 pid=1599 tid=1599 [getPhoneId] asked for default subId=-1
+    471: 02-20 21:44:55 pid=1599 tid=1599 [getPhoneId]- invalid subId = -1 return = -1
+    472: 02-20 21:44:55 pid=1599 tid=1599 [getPhoneId] asked for default subId=-1
+    473: 02-20 21:44:55 pid=1599 tid=1599 [getPhoneId]- invalid subId = -1 return = -1
+    474: 02-20 21:44:55 pid=1599 tid=1599 [getPhoneId] asked for default subId=-1
+    475: 02-20 21:44:55 pid=1599 tid=1599 [getPhoneId]- invalid subId = -1 return = -1
+    476: 02-20 21:44:55 pid=1599 tid=1599 [getPhoneId] asked for default subId=-1
+    477: 02-20 21:44:55 pid=1599 tid=1599 [getPhoneId]- invalid subId = -1 return = -1
+    478: 02-20 21:44:55 pid=1599 tid=1599 [getPhoneId] asked for default subId=-1
+    479: 02-20 21:44:55 pid=1599 tid=1599 [getPhoneId]- invalid subId = -1 return = -1
+    480: 02-20 21:44:55 pid=1599 tid=1599 [getPhoneId] asked for default subId=-1
+    481: 02-20 21:44:55 pid=1599 tid=1599 [getPhoneId]- invalid subId = -1 return = -1
+    482: 02-20 21:44:55 pid=1599 tid=1599 [getPhoneId] asked for default subId=-1
+    483: 02-20 21:44:55 pid=1599 tid=1599 [getPhoneId]- invalid subId = -1 return = -1
+    484: 02-20 21:44:55 pid=1599 tid=1599 [getPhoneId] asked for default subId=-1
+    485: 02-20 21:44:55 pid=1599 tid=1599 [getPhoneId]- invalid subId = -1 return = -1
+    486: 02-20 21:44:55 pid=1599 tid=1599 [getPhoneId] asked for default subId=-1
+    487: 02-20 21:44:55 pid=1599 tid=1599 [getPhoneId]- invalid subId = -1 return = -1
+    488: 02-20 21:44:55 pid=1599 tid=1599 [getPhoneId] asked for default subId=-1
+    489: 02-20 21:44:55 pid=1599 tid=1599 [getPhoneId]- invalid subId = -1 return = -1
+    490: 02-20 21:44:55 pid=1599 tid=1599 [getPhoneId] asked for default subId=-1
+    491: 02-20 21:44:55 pid=1599 tid=1599 [getPhoneId]- invalid subId = -1 return = -1
+    492: 02-20 21:44:55 pid=1599 tid=1599 [getPhoneId] asked for default subId=-1
+    493: 02-20 21:44:55 pid=1599 tid=1599 [getPhoneId]- invalid subId = -1 return = -1
+    494: 02-20 21:44:55 pid=1599 tid=1599 [getPhoneId] asked for default subId=-1
+    495: 02-20 21:44:55 pid=1599 tid=1599 [getPhoneId]- invalid subId = -1 return = -1
+    496: 02-20 21:44:56 pid=1599 tid=1611 [getPhoneId]- invalid subId = -2 return = 0
+    497: 02-20 21:44:56 pid=1599 tid=1867 [getPhoneId]- invalid subId = -3 return = 1
+    498: 02-20 21:44:56 pid=1599 tid=1599 [getActiveSubInfoList]+
+    499: 02-20 21:44:56 pid=1599 tid=1599 [getActiveSubInfoList] Sub Controller not ready
+    ++++++++++++++++++++++++++++++++
+    ++++++++++++++++++++++++++++++++
+    SubscriptionInfoUpdater:
+    CarrierServiceBindHelper:
+    Carrier app binding for phone 0
+      connection: null
+      bindCount: 0
+      lastBindStartMillis: 0
+      unbindCount: 0
+      lastUnbindMillis: 0
+
+    Carrier app binding for phone 1
+      connection: null
+      bindCount: 0
+      lastBindStartMillis: 0
+      unbindCount: 0
+      lastUnbindMillis: 0
+
+    ++++++++++++++++++++++++++++++++
+
+SERVICE com.mediatek.gba/.GbaService d93e98d pid=1612
+  Client:
+    nothing to dump
+
+SERVICE com.stv.android.videochat/.call.service.BusinessService b2f029c pid=1699
+  Client:
+    nothing to dump
+[dumpsys: 0.149s elapsed]
+
+========================================================
+== Running Application Providers
+========================================================

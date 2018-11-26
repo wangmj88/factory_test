@@ -1,0 +1,47 @@
+Current Location Manager state:
+  Location Listeners:
+    Reciever[fa7f410 listener UpdateRecord[passive com.baidu.map.location(10092) Request[POWER_NONE passive fastest=+1s0ms]]]
+    Reciever[b3f3be7 listener UpdateRecord[passive android(1000) Request[POWER_NONE passive fastest=0]]]
+    Reciever[8e43d6b listener UpdateRecord[passive com.letv.android.powercontroller(10018) Request[POWER_NONE passive fastest=0]]]
+    Reciever[16e81c0 listener UpdateRecord[passive android(1000) Request[POWER_NONE passive fastest=0]]]
+    Reciever[8fda2b7 listener UpdateRecord[network android(1000) Request[POWER_LOW network requested=+24h0m0s0ms fastest=+24h0m0s0ms]]]
+  Active Records by Provider:
+    network:
+      UpdateRecord[network android(1000) Request[POWER_LOW network requested=+24h0m0s0ms fastest=+24h0m0s0ms]]
+    passive:
+      UpdateRecord[passive android(1000) Request[POWER_NONE passive fastest=0]]
+      UpdateRecord[passive android(1000) Request[POWER_NONE passive fastest=0]]
+      UpdateRecord[passive com.baidu.map.location(10092) Request[POWER_NONE passive fastest=+1s0ms]]
+      UpdateRecord[passive com.letv.android.powercontroller(10018) Request[POWER_NONE passive fastest=0]]
+  Historical Records by Provider:
+    com.letv.android.powercontroller: passive: Interval 0 seconds: Duration requested 8 out of the last 8 minutes: Currently active
+    android: network: Interval 86400 seconds: Duration requested 9 out of the last 9 minutes: Currently active
+    com.baidu.map.location: passive: Interval 1 seconds: Duration requested 9 out of the last 9 minutes: Currently active
+    android: passive: Interval 0 seconds: Duration requested 9 out of the last 9 minutes: Currently active
+  Last Known Locations:
+  Last Known Locations Coarse Intervals:
+  Geofences:
+ Geocoder:
+ providerName = com.baidu.map.location
+    mServiceWatcher:   mName:geocoder  mServicePackageName:null  mPackageName:com.baidu.map.location  mVersion:10
+  Enabled Providers:
+    fused
+    passive
+  mWhitelist=[] mBlacklist=[]
+  fudger: offset: 230, 528 (meters)
+passive Internal State:
+mReportLocation=true
+gps Internal State:
+  mFixInterval=1000
+  mDisableGps (battery saver mode)=false
+  mEngineCapabilities=0x1 (SCHED )
+nullnetwork Internal State (com.baidu.map.location):
+REMOTE SERVICE name=network pkg=com.baidu.map.location version=10
+fused Internal State (com.android.location.fused):
+REMOTE SERVICE name=fused pkg=com.android.location.fused version=0
+mEnabled=false null
+fused=null
+gps Location[ 0.000000,0.000000 acc=340282346638529000000000000000000000000 t=?!? et=?!?]
+    AVAILABLE ---
+net Location[ 0.000000,0.000000 acc=340282346638529000000000000000000000000 t=?!? et=?!?]
+    AVAILABLE ---

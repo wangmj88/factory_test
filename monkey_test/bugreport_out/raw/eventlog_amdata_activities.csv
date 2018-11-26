@@ -1,0 +1,5 @@
+"Pkg","Cls","Created count","Total created time","Total created time(ms)","Total created time(%)","Max created time(ms)","Avg created time(ms)","Resumed count","Total resumed time","Total resumed time(ms)","Total resumed time(%)","Max resumed time(ms)","Avg resumed time(ms)"
+"com.android.settings",".UsbSettings","1","25s535ms","25535","4%","25535","25535","2","5m6s816ms","306816","54%","284423","153408"
+"com.wandoujia.phoenix2.usbproxy","com.wandoujia.phoenix2.ui.WelcomeActivity","1","224ms","224","0%","224","224","1","5m58s908ms","358908","63%","358908","358908"
+"com.example.demo1","com.example.plokmju.testmutilecompile.MainActivity","2","2m36s714ms","156714","27%","126912","78357","2","7m15s62ms","435062","77%","358814","217531"
+"com.android.launcher3",".Launcher","1","9m7s544ms","547544","97%","547544","547544","13","2m50s883ms","170883","30%","98943","13144"

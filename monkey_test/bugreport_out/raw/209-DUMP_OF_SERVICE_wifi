@@ -1,0 +1,510 @@
+Wi-Fi is enabled
+Stay-awake conditions: 3
+mMulticastEnabled 0
+mMulticastDisabled 0
+mInIdleMode false
+mScanPending false
+WifiController:
+ total records=18
+ rec[0]: time=02-20 21:35:05.122 processed=ApStaDisabledState org=ApStaDisabledState dest=<null> what=155656(0x26008)
+ rec[1]: time=02-20 21:35:05.628 processed=ApStaDisabledState org=ApStaDisabledState dest=<null> what=155659(0x2600b)
+ rec[2]: time=02-20 21:35:05.652 processed=ApStaDisabledState org=ApStaDisabledState dest=DeviceActiveState what=155656(0x26008)
+ rec[3]: time=02-20 21:35:08.870 processed=DefaultState org=DeviceActiveState dest=<null> what=155652(0x26004)
+ rec[4]: time=02-20 21:35:23.202 processed=DefaultState org=DeviceActiveState dest=<null> what=155650(0x26002)
+ rec[5]: time=02-20 21:35:23.239 processed=DefaultState org=DeviceActiveState dest=<null> what=155651(0x26003)
+ rec[6]: time=02-20 21:36:02.378 processed=DefaultState org=DeviceActiveState dest=<null> what=155652(0x26004)
+ rec[7]: time=02-20 21:36:59.093 processed=DefaultState org=DeviceActiveState dest=<null> what=155652(0x26004)
+ rec[8]: time=02-20 21:39:32.726 processed=DefaultState org=DeviceActiveState dest=<null> what=155650(0x26002)
+ rec[9]: time=02-20 21:39:33.666 processed=DefaultState org=DeviceActiveState dest=<null> what=155652(0x26004)
+ rec[10]: time=02-20 21:39:34.226 processed=DefaultState org=DeviceActiveState dest=<null> what=155652(0x26004)
+ rec[11]: time=02-20 21:39:37.127 processed=DeviceActiveState org=DeviceActiveState dest=<null> what=155660(0x2600c)
+ rec[12]: time=02-20 21:40:04.601 processed=DefaultState org=DeviceActiveState dest=<null> what=155652(0x26004)
+ rec[13]: time=02-20 21:41:04.587 processed=DefaultState org=DeviceActiveState dest=<null> what=155652(0x26004)
+ rec[14]: time=02-20 21:42:04.589 processed=DefaultState org=DeviceActiveState dest=<null> what=155652(0x26004)
+ rec[15]: time=02-20 21:43:04.604 processed=DefaultState org=DeviceActiveState dest=<null> what=155652(0x26004)
+ rec[16]: time=02-20 21:43:14.605 processed=DefaultState org=DeviceActiveState dest=<null> what=155652(0x26004)
+ rec[17]: time=02-20 21:44:14.590 processed=DefaultState org=DeviceActiveState dest=<null> what=155652(0x26004)
+curState=DeviceActiveState
+mScreenOff false
+mDeviceIdle false
+mPluggedType 2
+mIdleMillis 900000
+mSleepPolicy 2
+mPersistWifiState 1
+mAirplaneModeOn false
+mNotificationEnabled true
+mNotificationRepeatTime 0
+mNotificationShown false
+mNumScansSinceNetworkStateChange 0
+mEnableTrafficStatsPoll true
+mTrafficStatsPollToken 14
+mTxPkts 1034
+mRxPkts 1701
+mDataActivity 1
+Latest scan results:
+    BSSID              Frequency  RSSI    Age      SSID                                 Flags
+  d4:ee:07:33:41:ce       2427    -37  575.931    CetusPlay                         [WPA-PSK-CCMP][WPA2-PSK-CCMP][ESS]
+  b0:d5:9d:3a:7c:a2       2462    -47  575.928    wukong_haha                       [WPA-PSK-CCMP][WPA2-PSK-CCMP][ESS]
+  8c:a6:df:98:43:af       2462    -51  575.928    TP-LINK_43AF                      [WPA-PSK-CCMP][WPA2-PSK-CCMP][ESS]
+  f0:b4:29:15:df:4c       2462    -45  575.928    wukong_dev                        [WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][WPS][ESS]
+  c8:3a:35:42:7d:40       2472    -46  575.928    96                                [WPA-PSK-CCMP][WPA2-PSK-CCMP][ESS]
+  64:09:80:74:64:b9       2447    -51  575.928    wukong_pro                        [WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][WPS][ESS]
+  0a:18:d6:47:27:40       2462    -49    2.440+   wukong_office                     [WPA-PSK-CCMP][WPA2-PSK-CCMP][ESS]
+  0e:18:d6:47:27:40       2462    -51  575.927    wukong_test                       [WPA-PSK-CCMP][WPA2-PSK-CCMP][ESS]
+  f0:b4:29:da:e2:db       2462    -58  575.926    wukong_content                    [WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][WPS][ESS]
+  0a:18:d6:47:29:67       2412    -61  575.926+   wukong_office                     [WPA-PSK-CCMP][WPA2-PSK-CCMP][ESS]
+  0e:18:d6:0b:16:43       2437    -70  575.926    wukong_test                       [WPA-PSK-CCMP][WPA2-PSK-CCMP][ESS]
+  8c:a6:df:2e:e8:c0       2412    -77  575.926    WX ZJRT 2804                      [WPA-PSK-CCMP][WPA2-PSK-CCMP][ESS]
+  0a:18:d6:47:28:1f       2437    -74  575.926+   wukong_office                     [WPA-PSK-CCMP][WPA2-PSK-CCMP][ESS]
+  0a:18:d6:0b:16:43       2437    -76  575.926+   wukong_office                     [WPA-PSK-CCMP][WPA2-PSK-CCMP][ESS]
+  0e:18:d6:47:28:1f       2437    -77  575.925    wukong_test                       [WPA-PSK-CCMP][WPA2-PSK-CCMP][ESS]
+  d0:ee:07:33:41:ce       5745    -44  575.925    CetusPlay_5G                      [WPA-PSK-CCMP][WPA2-PSK-CCMP][ESS]
+  f0:b4:29:15:df:4d       5745    -48  575.925    wukong_dev_5G                     [WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][WPS][ESS]
+  f0:b4:29:da:e2:dc       5785    -72  575.925    wukong_content_5G                 [WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][WPS][ESS]
+  64:09:80:74:64:ba       5745    -85  575.925    wukong_pro_5G                     [WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][WPS][ESS]
+
+Locks acquired: 0 full, 0 full high perf, 0 scan
+Locks released: 0 full, 0 full high perf, 0 scan
+
+Locks held:
+Multicast Locks held:
+WifiWatchdogStateMachine:
+ total records=11
+ rec[0]: time=02-20 21:35:08.869 processed=WatchdogEnabledState org=NotConnectedState dest=NotConnectedState what=135170(0x21002)
+ rec[1]: time=02-20 21:35:08.888 processed=WatchdogEnabledState org=NotConnectedState dest=NotConnectedState what=135170(0x21002)
+ rec[2]: time=02-20 21:35:08.888 processed=WatchdogEnabledState org=NotConnectedState dest=NotConnectedState what=135170(0x21002)
+ rec[3]: time=02-20 21:35:10.473 processed=WatchdogEnabledState org=NotConnectedState dest=NotConnectedState what=135170(0x21002)
+ rec[4]: time=02-20 21:35:10.536 processed=WatchdogEnabledState org=NotConnectedState dest=NotConnectedState what=135170(0x21002)
+ rec[5]: time=02-20 21:35:10.548 processed=WatchdogEnabledState org=NotConnectedState dest=NotConnectedState what=135170(0x21002)
+ rec[6]: time=02-20 21:35:10.583 processed=WatchdogEnabledState org=NotConnectedState dest=NotConnectedState what=135170(0x21002)
+ rec[7]: time=02-20 21:35:10.585 processed=WatchdogEnabledState org=NotConnectedState dest=NotConnectedState what=135170(0x21002)
+ rec[8]: time=02-20 21:35:10.606 processed=WatchdogEnabledState org=NotConnectedState dest=NotConnectedState what=135170(0x21002)
+ rec[9]: time=02-20 21:35:11.964 processed=WatchdogEnabledState org=NotConnectedState dest=OnlineWatchState what=135170(0x21002)
+ rec[10]: time=02-20 21:35:11.966 processed=WatchdogEnabledState org=OnlineState dest=OnlineWatchState what=135170(0x21002)
+curState=OnlineState
+mWifiInfo: [SSID: wukong_office, BSSID: 0a:18:d6:47:27:40, MAC: 02:00:00:00:00:00, Supplicant state: COMPLETED, RSSI: -51, Link speed: 1Mbps, Frequency: 2462MHz, Net ID: 0, Metered hint: false, score: 57]
+mLinkProperties: [{InterfaceName: wlan0 LinkAddresses: [fe80::8673:3ff:fe0b:e5f3/64,192.168.1.46/24,]  Routes: [fe80::/64 -> :: wlan0,192.168.1.0/24 -> 0.0.0.0 wlan0,0.0.0.0/0 -> 192.168.1.1 wlan0,] DnsAddresses: [192.168.1.1,] Domains: null MTU: 0 TcpBufferSizes: 524288,1048576,2097152,262144,524288,1048576 PcscfAddresses: [] }]
+mCurrentSignalLevel: [3]
+mPoorNetworkDetectionEnabled: [false]
+
+WifiStateMachine:
+ total records=203
+ rec[0]: time=02-20 21:35:04.599 processed=DefaultState org=InitialState dest=<null> what=131154(0x20052) (when=-208ms what=131154 arg1=1CMD_ENABLE_RSSI_POLL  rt=16038/16038{ when=-208ms what=131154 arg1=1 target=com.android.internal.util.StateMachine$SmHandler } 1 0
+ rec[1]: time=02-20 21:35:04.601 processed=DefaultState org=InitialState dest=<null> what=69632(0x11000) (when=-15ms what=69632AsyncChannel.CMD_CHANNEL_HALF_CONNECTED  rt=16040/16040{ when=-15ms what=69632 obj=com.android.internal.util.AsyncChannel@d50ece target=com.android.internal.util.StateMachine$SmHandler obj=com.android.internal.util.AsyncChannel@d50ece } 0 0
+ rec[2]: time=02-20 21:35:05.122 processed=DefaultState org=InitialState dest=<null> what=131084(0x2000c) (when=0 what=131084(-5)CMD_STOP_SUPPLICANT  rt=16561/16561{ when=0 what=131084 target=com.android.internal.util.StateMachine$SmHandler } 0 0
+ rec[3]: time=02-20 21:35:05.290 processed=DefaultState org=InitialState dest=<null> what=131135(0x2003f) (when=-4ms what=131135CMD_GET_LINK_LAYER_STATS uid=1000  rt=16728/16728{ when=-4ms what=131135 target=com.android.internal.util.StateMachine$SmHandler } 0 0
+ rec[4]: time=02-20 21:35:07.185 processed=InitialState org=InitialState dest=SupplicantStartingState what=131083(0x2000b) (when=-1s533ms what=131083CMD_START_SUPPLICANT  rt=18624/18624{ when=-1s533ms what=131083 target=com.android.internal.util.StateMachine$SmHandler } 0 0
+ rec[5]: time=02-20 21:35:07.186 processed=SupplicantStartingState org=SupplicantStartingState dest=<null> what=131144(0x20048) (when=-1s534ms what=131144 arg1=1(-4)CMD_SET_OPERATIONAL_MODE  rt=18625/18625{ when=-1s534ms what=131144 arg1=1 target=com.android.internal.util.StateMachine$SmHandler } 1 0
+ rec[6]: time=02-20 21:35:07.186 processed=SupplicantStartingState org=SupplicantStartingState dest=<null> what=131085(0x2000d) (when=-1s534ms what=131085(-4)CMD_START_DRIVER  rt=18625/18625{ when=-1s534ms what=131085 target=com.android.internal.util.StateMachine$SmHandler } 0 0
+ rec[7]: time=02-20 21:35:07.187 processed=DefaultState org=SupplicantStartingState dest=<null> what=131149(0x2004d) (when=-1s534ms what=131149CMD_SET_HIGH_PERF_MODE  rt=18625/18625{ when=-1s534ms what=131149 target=com.android.internal.util.StateMachine$SmHandler } 0 0
+ rec[8]: time=02-20 21:35:07.795 processed=SupplicantStartingState org=SupplicantStartingState dest=DriverStartedState what=147457(0x24001) (when=-610ms what=147457SUP_CONNECTION_EVENT  rt=19234/19234{ when=-610ms what=147457 target=com.android.internal.util.StateMachine$SmHandler } 0 0
+ rec[9]: time=02-20 21:35:07.814 processed=DisconnectedState org=DisconnectedState dest=<null> what=131144(0x20048) (when=-19s252ms what=131144 arg1=1!CMD_SET_OPERATIONAL_MODE  rt=19252/19252{ when=-19s252ms what=131144 arg1=1 target=com.android.internal.util.StateMachine$SmHandler } 1 0
+ rec[10]: time=02-20 21:35:07.815 processed=DriverStartedState org=DisconnectedState dest=<null> what=131085(0x2000d) (when=-19s254ms what=131085!CMD_START_DRIVER  rt=19254/19254{ when=-19s254ms what=131085 target=com.android.internal.util.StateMachine$SmHandler } 0 0
+ rec[11]: time=02-20 21:35:07.821 processed=SupplicantStartedState org=DisconnectedState dest=<null> what=131135(0x2003f) (when=-634ms what=131135!CMD_GET_LINK_LAYER_STATS uid=1000  rt=19260/19260{ when=-634ms what=131135 target=com.android.internal.util.StateMachine$SmHandler } 0 0
+ rec[12]: time=02-20 21:35:07.823 processed=DefaultState org=DisconnectedState dest=<null> what=131154(0x20052) (when=-20ms what=131154 arg1=1!CMD_ENABLE_RSSI_POLL  rt=19261/19261{ when=-20ms what=131154 arg1=1 target=com.android.internal.util.StateMachine$SmHandler } 1 0
+ rec[13]: time=02-20 21:35:07.823 processed=ConnectModeState org=DisconnectedState dest=<null> what=131127(0x20037) (when=-21ms what=131127!CMD_ENABLE_ALL_NETWORKS  rt=19262/19262{ when=-21ms what=131127 target=com.android.internal.util.StateMachine$SmHandler } 0 0
+ rec[14]: time=02-20 21:35:07.827 processed=DriverStartedState org=DisconnectedState dest=<null> what=131158(0x20056) (when=-24ms what=131158!CMD_SET_SUSPEND_OPT_ENABLED  rt=19265/19265{ when=-24ms what=131158 target=com.android.internal.util.StateMachine$SmHandler } 0 0
+ rec[15]: time=02-20 21:35:07.827 processed=DisconnectedState org=DisconnectedState dest=<null> what=131259(0x200bb) (when=-25ms what=131259!M_CMD_NOTIFY_SCREEN_ON  rt=19266/19266{ when=-25ms what=131259 target=com.android.internal.util.StateMachine$SmHandler } 0 0
+ rec[16]: time=02-20 21:35:07.828 processed=ConnectModeState org=DisconnectedState dest=<null> what=147462(0x24006) (when=-26ms what=147462!SUPPLICANT_STATE_CHANGE_EVENT  rt=19267/19267 0 0 SSID:  BSSID: 00:00:00:00:00:00 nid: -1 state: DISCONNECTED
+ rec[17]: time=02-20 21:35:07.829 processed=ConnectModeState org=DisconnectedState dest=<null> what=131129(0x20039) (when=-26ms what=131129!CMD_CLEAR_BLACKLIST  rt=19268/19268{ when=-26ms what=131129 target=com.android.internal.util.StateMachine$SmHandler } 0 0
+ rec[18]: time=02-20 21:35:08.183 processed=DriverStartedState org=DisconnectedState dest=<null> what=131143(0x20047) (when=-370ms what=131143 arg1=-1!(1)CMD_START_SCAN  rt=19622/19622 -1 0 ic=0 proc(ms):370 onGoing full started:1487597708182,1 cnt=1 rssi=-127 f=-1 sc=0 link=-1 tx=0.0, 0.0, 0.0  rx=0.0 fiv=20000 [on:0 tx:0 rx:0 period:352] from screen [on:0 period:1539023767]
+ rec[19]: time=02-20 21:35:08.184 processed=SupplicantStartedState org=DisconnectedState dest=<null> what=131135(0x2003f) (when=-362ms what=131135!CMD_GET_LINK_LAYER_STATS uid=1000  rt=19623/19623{ when=-362ms what=131135 target=com.android.internal.util.StateMachine$SmHandler } 0 0
+ rec[20]: time=02-20 21:35:08.186 processed=DisconnectedState org=DisconnectedState dest=<null> what=143371(0x2300b) (when=-363ms what=143371!P2P_CONNECTION_CHANGED uid=1000  rt=19624/19624 0 0 st=UNKNOWN/IDLE
+ rec[21]: time=02-20 21:35:08.189 processed=ConnectModeState org=DisconnectedState dest=<null> what=147462(0x24006) (when=-7ms what=147462 arg1=2!SUPPLICANT_STATE_CHANGE_EVENT  rt=19628/19628 2 0 SSID:  BSSID: 00:00:00:00:00:00 nid: -1 state: SCANNING
+ rec[22]: time=02-20 21:35:08.891 processed=DefaultState org=DisconnectedState dest=<null> what=131315(0x200f3) (when=-5ms what=131315!what:131315  rt=20330/20330{ when=-5ms what=131315 target=com.android.internal.util.StateMachine$SmHandler } 0 0
+ rec[23]: time=02-20 21:35:08.893 processed=DefaultState org=DisconnectedState dest=<null> what=131315(0x200f3) (when=-5ms what=131315!what:131315  rt=20331/20331{ when=-5ms what=131315 target=com.android.internal.util.StateMachine$SmHandler } 0 0
+ rec[24]: time=02-20 21:35:08.945 processed=SupplicantStartedState org=DisconnectedState dest=<null> what=147461(0x24005) (when=-10ms what=147461!SCAN_RESULTS_EVENT  rt=20384/20384 0 0 found=15 known=0 got=15 dur:754 bcn=0 con=0
+ rec[25]: time=02-20 21:35:09.940 processed=SupplicantStartedState org=DisconnectedState dest=<null> what=131248(0x200b0) (when=-2ms what=131248!M_CMD_GET_CONNECTING_NETWORK_ID uid=1000  rt=21379/21379{ when=-2ms what=131248 target=com.android.internal.util.StateMachine$SmHandler } 0 0
+ rec[26]: time=02-20 21:35:09.941 processed=ConnectModeState org=DisconnectedState dest=<null> what=131131(0x2003b) (when=-1ms what=131131 arg1=1000!CMD_GET_CONFIGURED_NETWORKS uid=1000  rt=21380/21380 1000 0 num=1
+ rec[27]: time=02-20 21:35:10.216 processed=SupplicantStartedState org=DisconnectedState dest=<null> what=147461(0x24005) (when=-41ms what=147461!(2)SCAN_RESULTS_EVENT  rt=21655/21655 0 0 found=19 known=4 got=19 dur:754 bcn=0 con=1
+ rec[28]: time=02-20 21:35:10.463 processed=ConnectModeState org=DisconnectedState dest=<null> what=131215(0x2008f) (when=-267ms what=131215 arg2=3) !CMD_AUTO_CONNECT  rt=21901/21901 0 3 "wukong_office"WPA_PSK [-51,4,0a:18:d6:47:27:40; ] any roam=3
+ rec[29]: time=02-20 21:35:10.464 processed=SupplicantStartedState org=DisconnectedState dest=<null> what=131248(0x200b0) (when=-214ms what=131248!M_CMD_GET_CONNECTING_NETWORK_ID uid=1000  rt=21903/21903{ when=-214ms what=131248 target=com.android.internal.util.StateMachine$SmHandler } 0 0
+ rec[30]: time=02-20 21:35:10.466 processed=SupplicantStartedState org=DisconnectedState dest=<null> what=131213(0x2008d) (when=-17ms what=131213 arg1=28!CMD_TARGET_BSSID  rt=21904/21904 28 0 Target=any roam=3
+ rec[31]: time=02-20 21:35:10.467 processed=ConnectModeState org=DisconnectedState dest=<null> what=147462(0x24006) (when=-18ms what=147462 arg1=29!SUPPLICANT_STATE_CHANGE_EVENT  rt=21906/21906 29 0 SSID: wukong_office BSSID: 00:00:00:00:00:00 nid: 0 state: ASSOCIATING
+ rec[32]: time=02-20 21:35:10.468 processed=ConnectModeState org=DisconnectedState dest=<null> what=131131(0x2003b) (when=-3ms what=131131 arg1=1000!CMD_GET_CONFIGURED_NETWORKS uid=1000  rt=21906/21906 1000 0 num=1
+ rec[33]: time=02-20 21:35:10.535 processed=ConnectModeState org=DisconnectedState dest=<null> what=147462(0x24006) (when=-2ms what=147462 arg1=30!SUPPLICANT_STATE_CHANGE_EVENT  rt=21974/21974 30 0 SSID: wukong_office BSSID: 00:00:00:00:00:00 nid: 0 state: ASSOCIATED
+ rec[34]: time=02-20 21:35:10.536 processed=DefaultState org=DisconnectedState dest=<null> what=131219(0x20093) (when=-2ms what=131219 arg1=31!(-5)CMD_ASSOCIATED_BSSID  rt=21975/21975 31 0 BSSID=0a:18:d6:47:27:40 Target=any roam=3
+ rec[35]: time=02-20 21:35:10.539 processed=ConnectModeState org=DisconnectedState dest=<null> what=147462(0x24006) (when=-2ms what=147462 arg1=32!SUPPLICANT_STATE_CHANGE_EVENT  rt=21978/21978 32 0 SSID: wukong_office BSSID: 0a:18:d6:47:27:40 nid: 0 state: FOUR_WAY_HANDSHAKE
+ rec[36]: time=02-20 21:35:10.580 processed=ConnectModeState org=DisconnectedState dest=<null> what=147462(0x24006) (when=-2ms what=147462 arg1=33!SUPPLICANT_STATE_CHANGE_EVENT  rt=22019/22019 33 0 SSID: wukong_office BSSID: 0a:18:d6:47:27:40 nid: 0 state: GROUP_HANDSHAKE
+ rec[37]: time=02-20 21:35:10.582 processed=ConnectModeState org=DisconnectedState dest=ObtainingIpState what=147459(0x24003) (when=-2ms what=147459!NETWORK_CONNECTION_EVENT  rt=22021/22021 0 0 0a:18:d6:47:27:40 nid=0 "wukong_office"WPA_PSK
+ rec[38]: time=02-20 21:35:10.644 processed=ConnectModeState org=ObtainingIpState dest=<null> what=147462(0x24006) (when=-64ms what=147462 arg1=36!SUPPLICANT_STATE_CHANGE_EVENT  rt=22083/22083 36 0 SSID: wukong_office BSSID: 0a:18:d6:47:27:40 nid: 0 state: COMPLETED
+ rec[39]: time=02-20 21:35:10.652 processed=L2ConnectedState org=ObtainingIpState dest=<null> what=131155(0x20053) (when=-69ms what=131155 arg1=1!CMD_RSSI_POLL  rt=22090/22090 1 0 "wukong_office" 0a:18:d6:47:27:40 rssi=-51 f=2462 sc=57 link=1 tx=0.2, 0.0, 0.0  rx=0.0 bcn=0 [on:0 tx:0 rx:0 period:6] from screen [on:0 period:1539026236] bl(1) hn u24 rssi=-46 ag=0 hr ticks 0,0,0 ls-=0 [56,56,52,52,57] brc=0 lrc=0 offload-stopped
+ rec[40]: time=02-20 21:35:10.654 processed=DefaultState org=ObtainingIpState dest=<null> what=131212(0x2008c) (when=-18ms what=131212!CMD_UPDATE_LINKPROPERTIES  rt=22093/22093 0 0
+ rec[41]: time=02-20 21:35:10.658 processed=SupplicantStartedState org=ObtainingIpState dest=<null> what=131249(0x200b1) (when=-3ms what=131249!M_CMD_UPDATE_RSSI uid=1000  rt=22097/22097{ when=-3ms what=131249 target=com.android.internal.util.StateMachine$SmHandler } 0 0
+ rec[42]: time=02-20 21:35:10.699 processed=L2ConnectedState org=ObtainingIpState dest=<null> what=196612(0x30004) (when=-4ms what=196612 arg1=2!CMD_PRE_DHCP_ACTION  rt=22138/22138 2 0 txpkts=2,0,0
+ rec[43]: time=02-20 21:35:10.763 processed=L2ConnectedState org=ObtainingIpState dest=<null> what=196612(0x30004) (when=-1ms what=196612!CMD_PRE_DHCP_ACTION  rt=22202/22202 0 0 txpkts=2,0,0
+ rec[44]: time=02-20 21:35:11.204 processed=SupplicantStartedState org=ObtainingIpState dest=<null> what=131244(0x200ac) (when=-4ms what=131244!M_CMD_UPDATE_COUNTRY_CODE  rt=22643/22643{ when=-4ms what=131244 obj=cn target=com.android.internal.util.StateMachine$SmHandler obj=cn } 0 0
+ rec[45]: time=02-20 21:35:11.644 processed=DefaultState org=ObtainingIpState dest=<null> what=131212(0x2008c) (when=-2ms what=131212!CMD_UPDATE_LINKPROPERTIES  rt=23083/23083 0 0
+ rec[46]: time=02-20 21:35:11.958 processed=DefaultState org=ObtainingIpState dest=<null> what=131212(0x2008c) (when=-2ms what=131212!CMD_UPDATE_LINKPROPERTIES  rt=23397/23397 0 0 v4
+ rec[47]: time=02-20 21:35:11.961 processed=L2ConnectedState org=ObtainingIpState dest=<null> what=196613(0x30005) (when=-4ms what=196613 arg1=1!CMD_POST_DHCP_ACTION  rt=23400/23400 1 0 OK  v4 v4r v4dns
+ rec[48]: time=02-20 21:35:11.965 processed=L2ConnectedState org=ObtainingIpState dest=ConnectedState what=131210(0x2008a) (when=-4ms what=131210!CMD_IP_CONFIGURATION_SUCCESSFUL  rt=23404/23404{ when=-4ms what=131210 target=com.android.internal.util.StateMachine$SmHandler } 0 0
+ rec[49]: time=02-20 21:35:11.970 processed=SupplicantStartedState org=ConnectedState dest=<null> what=131249(0x200b1) (when=-7ms what=131249!M_CMD_UPDATE_RSSI uid=1000  rt=23409/23409{ when=-7ms what=131249 target=com.android.internal.util.StateMachine$SmHandler } 0 0
+ rec[50]: time=02-20 21:35:12.090 processed=L2ConnectedState org=ConnectedState dest=<null> what=131235(0x200a3) (when=-1ms what=131235 arg1=-55!CMD_STOP_RSSI_MONITORING_OFFLOAD  rt=23529/23529 rssi=-55 thresholds=null
+ rec[51]: time=02-20 21:35:12.128 processed=SupplicantStartedState org=ConnectedState dest=<null> what=131135(0x2003f) (when=-1ms what=131135!CMD_GET_LINK_LAYER_STATS uid=1000  rt=23567/23567{ when=-1ms what=131135 target=com.android.internal.util.StateMachine$SmHandler } 0 0
+ rec[52]: time=02-20 21:35:12.170 processed=ConnectedState org=ConnectedState dest=<null> what=131220(0x20094) (when=0 what=131220 arg1=1!CMD_NETWORK_STATUS  rt=23609/23609{ when=0 what=131220 arg1=1 target=com.android.internal.util.StateMachine$SmHandler } 1 0
+ rec[53]: time=02-20 21:35:13.658 processed=L2ConnectedState org=ConnectedState dest=<null> what=131155(0x20053) (when=-7ms what=131155 arg1=1!CMD_RSSI_POLL  rt=25097/25097 1 0 "wukong_office" 0a:18:d6:47:27:40 rssi=-53 f=2462 sc=57 link=5 tx=15.7, 0.0, 0.0  rx=9.8 bcn=0 [on:0 tx:0 rx:0 period:4] from screen [on:0 period:1539029242] bl(1) hn u24 rssi=-48 ag=0 hr ticks 0,0,0 ls-=0 [56,56,52,52,57] brc=0 lrc=0 offload-stopped
+ rec[54]: time=02-20 21:35:15.043 processed=ConnectedState org=ConnectedState dest=<null> what=131220(0x20094) (when=0 what=131220 arg1=1!CMD_NETWORK_STATUS  rt=26481/26481{ when=0 what=131220 arg1=1 target=com.android.internal.util.StateMachine$SmHandler } 1 0
+ rec[55]: time=02-20 21:35:16.664 processed=L2ConnectedState org=ConnectedState dest=<null> what=131155(0x20053) (when=-6ms what=131155 arg1=1!CMD_RSSI_POLL  rt=28102/28102 1 0 "wukong_office" 0a:18:d6:47:27:40 rssi=-53 f=2462 sc=60 link=13 tx=53.8, 0.0, 0.0  rx=48.4 bcn=0 [on:0 tx:0 rx:0 period:4] from screen [on:0 period:1539032248] hn u24 rssi=-48 ag=0 hr ticks 0,0,0 ls-=0 [56,56,56,56,61] brc=0 lrc=0 offload-stopped
+ rec[56]: time=02-20 21:35:19.697 processed=L2ConnectedState org=ConnectedState dest=<null> what=131155(0x20053) (when=-34ms what=131155 arg1=1!CMD_RSSI_POLL  rt=31136/31136 1 0 "wukong_office" 0a:18:d6:47:27:40 rssi=-54 f=2462 sc=60 link=13 tx=34.9, 0.0, 0.0  rx=35.2 bcn=0 [on:0 tx:0 rx:0 period:29] from screen [on:0 period:1539035281] hn u24 rssi=-49 ag=0 hr ticks 0,0,0 ls-=0 [56,56,56,56,61] brc=0 lrc=0 offload-stopped
+ rec[57]: time=02-20 21:35:20.311 processed=DefaultState org=ConnectedState dest=<null> what=131206(0x20086) (when=-2ms what=131206!CMD_BOOT_COMPLETED  rt=31750/31750{ when=-2ms what=131206 target=com.android.internal.util.StateMachine$SmHandler } 0 0
+ rec[58]: time=02-20 21:35:20.705 processed=L2ConnectedState org=ConnectedState dest=<null> what=196613(0x30005) (when=-3ms what=196613 arg1=2 arg2=2) !CMD_POST_DHCP_ACTION  rt=32144/32144 2 2 FAIL  v4 v4r v4dns
+ rec[59]: time=02-20 21:35:22.677 processed=L2ConnectedState org=ConnectedState dest=<null> what=131155(0x20053) (when=-6ms what=131155 arg1=1!CMD_RSSI_POLL  rt=34115/34115 1 0 "wukong_office" 0a:18:d6:47:27:40 rssi=-54 f=2462 sc=60 link=6 tx=43.0, 0.0, 0.0  rx=45.1 bcn=0 [on:0 tx:0 rx:0 period:4] from screen [on:0 period:1539038261] hn rssi=-49 ag=0 hr ticks 0,0,0 ls-=0 [56,56,56,56,61] brc=0 lrc=0 offload-stopped
+ rec[60]: time=02-20 21:35:23.188 processed=L2ConnectedState org=ConnectedState dest=<null> what=131143(0x20047) (when=-2ms what=131143 arg1=-2 arg2=2) !CMD_START_SCAN  rt=34626/34626 -2 2 ic=0 proc(ms):15002 dur:754 cnt=2 rssi=-54 f=2462 sc=60 link=6 tx=43.0, 0.0, 0.0  rx=45.1 fiv=20000 [on:0 tx:0 rx:0 period:1] from screen [on:0 period:1539038772]
+ rec[61]: time=02-20 21:35:23.199 processed=DefaultState org=ConnectedState dest=<null> what=131167(0x2005f) (when=-3ms what=131167 arg1=1!CMD_SCREEN_STATE_CHANGED  rt=34638/34638{ when=-3ms what=131167 arg1=1 target=com.android.internal.util.StateMachine$SmHandler } 1 0
+ rec[62]: time=02-20 21:35:23.202 processed=L2ConnectedState org=ConnectedState dest=<null> what=131154(0x20052) (when=-4ms what=131154 arg1=1!CMD_ENABLE_RSSI_POLL  rt=34641/34641{ when=-4ms what=131154 arg1=1 target=com.android.internal.util.StateMachine$SmHandler } 1 0
+ rec[63]: time=02-20 21:35:23.203 processed=ConnectModeState org=ConnectedState dest=<null> what=131127(0x20037) (when=-5ms what=131127!CMD_ENABLE_ALL_NETWORKS  rt=34642/34642{ when=-5ms what=131127 target=com.android.internal.util.StateMachine$SmHandler } 0 0
+ rec[64]: time=02-20 21:35:23.205 processed=DriverStartedState org=ConnectedState dest=<null> what=131158(0x20056) (when=-6ms what=131158!CMD_SET_SUSPEND_OPT_ENABLED  rt=34643/34643{ when=-6ms what=131158 target=com.android.internal.util.StateMachine$SmHandler } 0 0
+ rec[65]: time=02-20 21:35:23.206 processed=DefaultState org=ConnectedState dest=<null> what=131259(0x200bb) (when=-8ms what=131259!M_CMD_NOTIFY_SCREEN_ON  rt=34645/34645{ when=-8ms what=131259 target=com.android.internal.util.StateMachine$SmHandler } 0 0
+ rec[66]: time=02-20 21:35:23.207 processed=ConnectModeState org=ConnectedState dest=<null> what=131129(0x20039) (when=-8ms what=131129!CMD_CLEAR_BLACKLIST  rt=34645/34645{ when=-8ms what=131129 target=com.android.internal.util.StateMachine$SmHandler } 0 0
+ rec[67]: time=02-20 21:35:23.238 processed=DefaultState org=ConnectedState dest=<null> what=131167(0x2005f) (when=-3ms what=131167CMD_SCREEN_STATE_CHANGED  rt=34677/34677{ when=-3ms what=131167 target=com.android.internal.util.StateMachine$SmHandler } 0 0
+ rec[68]: time=02-20 21:35:23.239 processed=L2ConnectedState org=ConnectedState dest=<null> what=131154(0x20052) (when=-2ms what=131154CMD_ENABLE_RSSI_POLL  rt=34677/34677{ when=-2ms what=131154 target=com.android.internal.util.StateMachine$SmHandler } 0 0
+ rec[69]: time=02-20 21:35:23.243 processed=DriverStartedState org=ConnectedState dest=<null> what=131158(0x20056) (when=-6ms what=131158 arg1=1CMD_SET_SUSPEND_OPT_ENABLED  rt=34682/34682{ when=-6ms what=131158 arg1=1 target=com.android.internal.util.StateMachine$SmHandler } 1 0
+ rec[70]: time=02-20 21:35:23.244 processed=DefaultState org=ConnectedState dest=<null> what=131258(0x200ba) (when=-7ms what=131258M_CMD_NOTIFY_SCREEN_OFF  rt=34683/34683{ when=-7ms what=131258 target=com.android.internal.util.StateMachine$SmHandler } 0 0
+ rec[71]: time=02-20 21:35:25.680 processed=L2ConnectedState org=ConnectedState dest=<null> what=131155(0x20053) (when=-5ms what=131155 arg1=1CMD_RSSI_POLL  rt=37119/37119 1 0 "wukong_office" 0a:18:d6:47:27:40 rssi=-53 f=2462 sc=60 link=13 tx=0.0, 0.0, 0.0  rx=0.0 bcn=0 [on:0 tx:0 rx:0 period:0] from screen [on:0 period:1539041264] hn rssi=-49 ag=0 hr ticks 0,0,0 ls-=0 [56,56,56,56,61] brc=0 lrc=0 offload-stopped
+ rec[72]: time=02-20 21:35:26.205 processed=L2ConnectedState org=ConnectedState dest=<null> what=131155(0x20053) (when=-3ms what=131155 arg1=2CMD_RSSI_POLL  rt=37644/37644 2 0 "wukong_office" 0a:18:d6:47:27:40 rssi=-53 f=2462 sc=60 link=13 tx=0.0, 0.0, 0.0  rx=0.0 bcn=0 [on:0 tx:0 rx:0 period:0] from screen [on:0 period:1539041789] hn rssi=-49 ag=0 hr ticks 0,0,0 ls-=0 [56,56,56,56,61] brc=0 lrc=0 offload-stopped
+ rec[73]: time=02-20 21:35:50.648 processed=DefaultState org=ConnectedState dest=<null> what=131165(0x2005d) (when=-4ms what=131165 arg1=1(-5)CMD_OBTAINING_IP_ADDRESS_WATCHDOG_TIMER  rt=62086/62086{ when=-4ms what=131165 arg1=1 target=com.android.internal.util.StateMachine$SmHandler } 1 0
+ rec[74]: time=02-20 21:36:19.921 processed=SupplicantStartedState org=ConnectedState dest=<null> what=131135(0x2003f) (when=-7ms what=131135CMD_GET_LINK_LAYER_STATS uid=10018  rt=91360/91360{ when=-7ms what=131135 target=com.android.internal.util.StateMachine$SmHandler } 0 0
+ rec[75]: time=02-20 21:36:59.082 processed=SupplicantStartedState org=ConnectedState dest=<null> what=131135(0x2003f) (when=-7ms what=131135CMD_GET_LINK_LAYER_STATS uid=1000  rt=119628/130780{ when=-7ms what=131135 target=com.android.internal.util.StateMachine$SmHandler } 0 0
+ rec[76]: time=02-20 21:37:32.095 processed=SupplicantStartedState org=ConnectedState dest=<null> what=131135(0x2003f) (when=-3ms what=131135CMD_GET_LINK_LAYER_STATS uid=1000  rt=128324/163793{ when=-3ms what=131135 target=com.android.internal.util.StateMachine$SmHandler } 0 0
+ rec[77]: time=02-20 21:37:42.997 processed=SupplicantStartedState org=ConnectedState dest=<null> what=131135(0x2003f) (when=-3ms what=131135CMD_GET_LINK_LAYER_STATS uid=1000  rt=132138/174695{ when=-3ms what=131135 target=com.android.internal.util.StateMachine$SmHandler } 0 0
+ rec[78]: time=02-20 21:38:18.087 processed=SupplicantStartedState org=ConnectedState dest=<null> what=131135(0x2003f) (when=-5ms what=131135CMD_GET_LINK_LAYER_STATS uid=1000  rt=139155/209785{ when=-5ms what=131135 target=com.android.internal.util.StateMachine$SmHandler } 0 0
+ rec[79]: time=02-20 21:38:18.137 processed=SupplicantStartedState org=ConnectedState dest=<null> what=131135(0x2003f) (when=-3ms what=131135CMD_GET_LINK_LAYER_STATS uid=1000  rt=139204/209835{ when=-3ms what=131135 target=com.android.internal.util.StateMachine$SmHandler } 0 0
+ rec[80]: time=02-20 21:38:41.091 processed=SupplicantStartedState org=ConnectedState dest=<null> what=131135(0x2003f) (when=-2ms what=131135CMD_GET_LINK_LAYER_STATS uid=1000  rt=142575/232789{ when=-2ms what=131135 target=com.android.internal.util.StateMachine$SmHandler } 0 0
+ rec[81]: time=02-20 21:38:41.146 processed=SupplicantStartedState org=ConnectedState dest=<null> what=131135(0x2003f) (when=-2ms what=131135CMD_GET_LINK_LAYER_STATS uid=1000  rt=142629/232844{ when=-2ms what=131135 target=com.android.internal.util.StateMachine$SmHandler } 0 0
+ rec[82]: time=02-20 21:39:32.160 processed=SupplicantStartedState org=ConnectedState dest=<null> what=131135(0x2003f) (when=-9ms what=131135CMD_GET_LINK_LAYER_STATS uid=1000  rt=147968/283858{ when=-9ms what=131135 target=com.android.internal.util.StateMachine$SmHandler } 0 0
+ rec[83]: time=02-20 21:39:32.738 processed=DefaultState org=ConnectedState dest=<null> what=131167(0x2005f) (when=-21ms what=131167 arg1=1!CMD_SCREEN_STATE_CHANGED  rt=148545/284435{ when=-21ms what=131167 arg1=1 target=com.android.internal.util.StateMachine$SmHandler } 1 0
+ rec[84]: time=02-20 21:39:32.743 processed=L2ConnectedState org=ConnectedState dest=<null> what=131154(0x20052) (when=-25ms what=131154 arg1=1!CMD_ENABLE_RSSI_POLL  rt=148551/284441{ when=-25ms what=131154 arg1=1 target=com.android.internal.util.StateMachine$SmHandler } 1 0
+ rec[85]: time=02-20 21:39:32.744 processed=ConnectModeState org=ConnectedState dest=<null> what=131127(0x20037) (when=-25ms what=131127!CMD_ENABLE_ALL_NETWORKS  rt=148551/284441{ when=-25ms what=131127 target=com.android.internal.util.StateMachine$SmHandler } 0 0
+ rec[86]: time=02-20 21:39:32.747 processed=DriverStartedState org=ConnectedState dest=<null> what=131158(0x20056) (when=-29ms what=131158!CMD_SET_SUSPEND_OPT_ENABLED  rt=148555/284445{ when=-29ms what=131158 target=com.android.internal.util.StateMachine$SmHandler } 0 0
+ rec[87]: time=02-20 21:39:32.749 processed=DefaultState org=ConnectedState dest=<null> what=131259(0x200bb) (when=-30ms what=131259!M_CMD_NOTIFY_SCREEN_ON  rt=148556/284446{ when=-30ms what=131259 target=com.android.internal.util.StateMachine$SmHandler } 0 0
+ rec[88]: time=02-20 21:39:32.749 processed=ConnectModeState org=ConnectedState dest=<null> what=131129(0x20039) (when=-13ms what=131129!CMD_CLEAR_BLACKLIST  rt=148557/284447{ when=-13ms what=131129 target=com.android.internal.util.StateMachine$SmHandler } 0 0
+ rec[89]: time=02-20 21:39:33.607 processed=SupplicantStartedState org=ConnectedState dest=<null> what=131135(0x2003f) (when=-2ms what=131135!CMD_GET_LINK_LAYER_STATS uid=1000  rt=149415/285305{ when=-2ms what=131135 target=com.android.internal.util.StateMachine$SmHandler } 0 0
+ rec[90]: time=02-20 21:39:34.242 processed=SupplicantStartedState org=ConnectedState dest=<null> what=131135(0x2003f) (when=-23ms what=131135!CMD_GET_LINK_LAYER_STATS uid=1000  rt=150050/285940{ when=-23ms what=131135 target=com.android.internal.util.StateMachine$SmHandler } 0 0
+ rec[91]: time=02-20 21:39:35.749 processed=L2ConnectedState org=ConnectedState dest=<null> what=131155(0x20053) (when=-5ms what=131155 arg1=4!CMD_RSSI_POLL  rt=151556/287446 4 0 "wukong_office" 0a:18:d6:47:27:40 rssi=-52 f=2462 sc=57 link=5 tx=0.5, 0.0, 0.0  rx=3.6 bcn=0 [on:0 tx:0 rx:0 period:3] from screen [on:0 period:1539291333] bl(1) hn rssi=-47 ag=0 hr ticks 0,0,0 ls-=0 [56,56,52,52,57] brc=0 lrc=0 offload-stopped
+ rec[92]: time=02-20 21:39:37.128 processed=ConnectModeState org=ConnectedState dest=<null> what=131214(0x2008e) (when=-1ms what=131214!CMD_RELOAD_TLS_AND_RECONNECT  rt=152936/288826{ when=-1ms what=131214 target=com.android.internal.util.StateMachine$SmHandler } 0 0
+ rec[93]: time=02-20 21:39:38.754 processed=L2ConnectedState org=ConnectedState dest=<null> what=131155(0x20053) (when=-5ms what=131155 arg1=4!CMD_RSSI_POLL  rt=154561/290451 4 0 "wukong_office" 0a:18:d6:47:27:40 rssi=-53 f=2462 sc=57 link=5 tx=7.2, 0.0, 0.0  rx=10.8 bcn=0 [on:0 tx:0 rx:0 period:3] from screen [on:0 period:1539294338] bl(2) hn rssi=-48 ag=0 hr ticks 0,0,0 ls-=0 [56,56,52,52,57] brc=0 lrc=0 offload-stopped
+ rec[94]: time=02-20 21:39:41.777 processed=L2ConnectedState org=ConnectedState dest=<null> what=131155(0x20053) (when=-23ms what=131155 arg1=4!CMD_RSSI_POLL  rt=157584/293474 4 0 "wukong_office" 0a:18:d6:47:27:40 rssi=-52 f=2462 sc=57 link=5 tx=4.1, 0.0, 0.0  rx=9.4 bcn=0 [on:0 tx:0 rx:0 period:20] from screen [on:0 period:1539297361] bl(3) hn rssi=-47 ag=0 hr ticks 0,0,0 ls-=0 [56,56,52,52,57] brc=0 lrc=0 offload-stopped
+ rec[95]: time=02-20 21:39:44.797 processed=L2ConnectedState org=ConnectedState dest=<null> what=131155(0x20053) (when=-22ms what=131155 arg1=4!CMD_RSSI_POLL  rt=160604/296494 4 0 "wukong_office" 0a:18:d6:47:27:40 rssi=-51 f=2462 sc=57 link=5 tx=2.1, 0.0, 0.0  rx=10.7 bcn=0 [on:0 tx:0 rx:0 period:18] from screen [on:0 period:1539300381] bl(4) hn rssi=-46 ag=0 hr ticks 0,0,0 ls-=0 [56,56,52,52,57] brc=0 lrc=0 offload-stopped
+ rec[96]: time=02-20 21:39:47.815 processed=L2ConnectedState org=ConnectedState dest=<null> what=131155(0x20053) (when=-19ms what=131155 arg1=4!CMD_RSSI_POLL  rt=163622/299512 4 0 "wukong_office" 0a:18:d6:47:27:40 rssi=-51 f=2462 sc=57 link=5 tx=1.0, 0.0, 0.0  rx=9.4 bcn=0 [on:0 tx:0 rx:0 period:16] from screen [on:0 period:1539303399] bl(5) hn rssi=-46 ag=0 hr ticks 0,0,0 ls-=0 [56,56,52,52,57] brc=0 lrc=0 offload-stopped
+ rec[97]: time=02-20 21:39:50.445 processed=SupplicantStartedState org=ConnectedState dest=<null> what=131135(0x2003f) (when=-2ms what=131135!CMD_GET_LINK_LAYER_STATS uid=10018  rt=166253/302143{ when=-2ms what=131135 target=com.android.internal.util.StateMachine$SmHandler } 0 0
+ rec[98]: time=02-20 21:39:50.822 processed=L2ConnectedState org=ConnectedState dest=<null> what=131155(0x20053) (when=-7ms what=131155 arg1=4!CMD_RSSI_POLL  rt=166627/302517 4 0 "wukong_office" 0a:18:d6:47:27:40 rssi=-51 f=2462 sc=60 link=58 tx=0.3, 0.0, 0.0  rx=4.3 bcn=0 [on:0 tx:0 rx:0 period:8] from screen [on:0 period:1539306406] gl hn rssi=-46 ag=0 hr ticks 0,0,0 ls-=0 [56,56,56,56,61] brc=0 lrc=0 offload-stopped
+ rec[99]: time=02-20 21:39:53.826 processed=L2ConnectedState org=ConnectedState dest=<null> what=131155(0x20053) (when=-6ms what=131155 arg1=4!CMD_RSSI_POLL  rt=169633/305523 4 0 "wukong_office" 0a:18:d6:47:27:40 rssi=-49 f=2462 sc=60 link=58 tx=4.1, 0.0, 0.0  rx=8.7 bcn=0 [on:0 tx:0 rx:0 period:3] from screen [on:0 period:1539309410] gl hn rssi=-44 ag=0 hr ticks 0,0,0 ls-=0 [56,56,56,56,61] brc=0 lrc=0 offload-stopped
+ rec[100]: time=02-20 21:39:56.847 processed=L2ConnectedState org=ConnectedState dest=<null> what=131155(0x20053) (when=-21ms what=131155 arg1=4!CMD_RSSI_POLL  rt=172655/308545 4 0 "wukong_office" 0a:18:d6:47:27:40 rssi=-50 f=2462 sc=60 link=39 tx=9.6, 0.0, 0.0  rx=14.8 bcn=0 [on:0 tx:0 rx:0 period:18] from screen [on:0 period:1539312431] gl hn rssi=-45 ag=0 hr ticks 0,0,0 ls-=0 [56,56,60,60,65] brc=0 lrc=0 offload-stopped
+ rec[101]: time=02-20 21:39:59.852 processed=L2ConnectedState org=ConnectedState dest=<null> what=131155(0x20053) (when=-7ms what=131155 arg1=4!CMD_RSSI_POLL  rt=175659/311549 4 0 "wukong_office" 0a:18:d6:47:27:40 rssi=-50 f=2462 sc=60 link=39 tx=8.3, 0.0, 0.0  rx=13.9 bcn=0 [on:0 tx:0 rx:0 period:4] from screen [on:0 period:1539315436] gl hn rssi=-45 ag=0 hr ticks 0,0,0 ls-=0 [56,56,60,60,65] brc=0 lrc=0 offload-stopped
+ rec[102]: time=02-20 21:40:02.880 processed=L2ConnectedState org=ConnectedState dest=<null> what=131155(0x20053) (when=-27ms what=131155 arg1=4!CMD_RSSI_POLL  rt=178685/314575 4 0 "wukong_office" 0a:18:d6:47:27:40 rssi=-50 f=2462 sc=60 link=39 tx=4.1, 0.0, 0.0  rx=10.5 bcn=0 [on:0 tx:0 rx:0 period:27] from screen [on:0 period:1539318464] gl hn rssi=-45 ag=0 hr ticks 0,0,0 ls-=0 [56,56,56,56,61] brc=0 lrc=0 offload-stopped
+ rec[103]: time=02-20 21:40:05.884 processed=L2ConnectedState org=ConnectedState dest=<null> what=131155(0x20053) (when=-6ms what=131155 arg1=4!CMD_RSSI_POLL  rt=181690/317580 4 0 "wukong_office" 0a:18:d6:47:27:40 rssi=-49 f=2462 sc=60 link=39 tx=5.6, 0.0, 0.0  rx=12.7 bcn=0 [on:0 tx:0 rx:0 period:6] from screen [on:0 period:1539321468] gl hn rssi=-44 ag=0 hr ticks 0,0,0 ls-=0 [56,56,60,60,65] brc=0 lrc=0 offload-stopped
+ rec[104]: time=02-20 21:40:07.809 processed=L2ConnectedState org=ConnectedState dest=<null> what=131143(0x20047) (when=-3ms what=131143 arg1=-2 arg2=6) !CMD_START_SCAN  rt=183617/319507 -2 6 ic=1 proc(ms):3 dur:754 cnt=6 rssi=-49 f=2462 sc=60 link=39 tx=5.6, 0.0, 0.0  rx=12.7 fiv=20000 [on:0 tx:0 rx:0 period:0] from screen [on:0 period:1539323393]
+ rec[105]: time=02-20 21:40:08.887 processed=L2ConnectedState org=ConnectedState dest=<null> what=131155(0x20053) (when=-5ms what=131155 arg1=4!CMD_RSSI_POLL  rt=184694/320584 4 0 "wukong_office" 0a:18:d6:47:27:40 rssi=-50 f=2462 sc=60 link=26 tx=6.3, 0.0, 0.0  rx=10.9 bcn=0 [on:0 tx:0 rx:0 period:4] from screen [on:0 period:1539324471] gl hn rssi=-45 ag=0 hr ticks 0,0,0 ls-=0 [56,56,60,60,65] brc=0 lrc=0 offload-stopped
+ rec[106]: time=02-20 21:40:11.895 processed=L2ConnectedState org=ConnectedState dest=<null> what=131155(0x20053) (when=-8ms what=131155 arg1=4!CMD_RSSI_POLL  rt=187702/323592 4 0 "wukong_office" 0a:18:d6:47:27:40 rssi=-51 f=2462 sc=60 link=13 tx=6.6, 0.0, 0.0  rx=11.4 bcn=0 [on:0 tx:0 rx:0 period:4] from screen [on:0 period:1539327479] hn rssi=-46 ag=0 hr ticks 0,0,0 ls-=0 [56,56,56,56,61] brc=0 lrc=0 offload-stopped
+ rec[107]: time=02-20 21:40:14.901 processed=L2ConnectedState org=ConnectedState dest=<null> what=131155(0x20053) (when=-7ms what=131155 arg1=4!CMD_RSSI_POLL  rt=190709/326599 4 0 "wukong_office" 0a:18:d6:47:27:40 rssi=-51 f=2462 sc=60 link=13 tx=7.8, 0.0, 0.0  rx=15.7 bcn=0 [on:0 tx:0 rx:0 period:2] from screen [on:0 period:1539330485] hn rssi=-46 ag=0 hr ticks 0,0,0 ls-=0 [56,56,56,56,61] brc=0 lrc=0 offload-stopped
+ rec[108]: time=02-20 21:40:17.930 processed=L2ConnectedState org=ConnectedState dest=<null> what=131155(0x20053) (when=-29ms what=131155 arg1=4!CMD_RSSI_POLL  rt=193737/329627 4 0 "wukong_office" 0a:18:d6:47:27:40 rssi=-51 f=2462 sc=60 link=13 tx=4.4, 0.0, 0.0  rx=11.9 bcn=0 [on:0 tx:0 rx:0 period:26] from screen [on:0 period:1539333514] hn rssi=-46 ag=0 hr ticks 0,0,0 ls-=0 [56,56,56,56,61] brc=0 lrc=0 offload-stopped
+ rec[109]: time=02-20 21:40:20.940 processed=L2ConnectedState org=ConnectedState dest=<null> what=131155(0x20053) (when=-11ms what=131155 arg1=4!CMD_RSSI_POLL  rt=196748/332638 4 0 "wukong_office" 0a:18:d6:47:27:40 rssi=-52 f=2462 sc=60 link=13 tx=3.2, 0.0, 0.0  rx=9.4 bcn=0 [on:0 tx:0 rx:0 period:8] from screen [on:0 period:1539336524] hn rssi=-47 ag=0 hr ticks 0,0,0 ls-=0 [56,56,56,56,61] brc=0 lrc=0 offload-stopped
+ rec[110]: time=02-20 21:40:23.946 processed=L2ConnectedState org=ConnectedState dest=<null> what=131155(0x20053) (when=-9ms what=131155 arg1=4!CMD_RSSI_POLL  rt=199754/335644 4 0 "wukong_office" 0a:18:d6:47:27:40 rssi=-52 f=2462 sc=60 link=13 tx=8.6, 0.0, 0.0  rx=13.2 bcn=0 [on:0 tx:0 rx:0 period:6] from screen [on:0 period:1539339530] hn rssi=-47 ag=0 hr ticks 0,0,0 ls-=0 [56,56,56,56,61] brc=0 lrc=0 offload-stopped
+ rec[111]: time=02-20 21:40:26.967 processed=L2ConnectedState org=ConnectedState dest=<null> what=131155(0x20053) (when=-23ms what=131155 arg1=4!CMD_RSSI_POLL  rt=202775/338665 4 0 "wukong_office" 0a:18:d6:47:27:40 rssi=-52 f=2462 sc=60 link=13 tx=4.3, 0.0, 0.0  rx=10.1 bcn=0 [on:0 tx:0 rx:0 period:18] from screen [on:0 period:1539342551] hn rssi=-47 ag=0 hr ticks 0,0,0 ls-=0 [56,56,56,56,61] brc=0 lrc=0 offload-stopped
+ rec[112]: time=02-20 21:40:29.997 processed=L2ConnectedState org=ConnectedState dest=<null> what=131155(0x20053) (when=-30ms what=131155 arg1=4!CMD_RSSI_POLL  rt=205804/341694 4 0 "wukong_office" 0a:18:d6:47:27:40 rssi=-51 f=2462 sc=60 link=13 tx=5.7, 0.0, 0.0  rx=11.1 bcn=0 [on:0 tx:0 rx:0 period:26] from screen [on:0 period:1539345581] hn rssi=-46 ag=0 hr ticks 0,0,0 ls-=0 [56,56,56,56,61] brc=0 lrc=0 offload-stopped
+ rec[113]: time=02-20 21:40:33.007 processed=L2ConnectedState org=ConnectedState dest=<null> what=131155(0x20053) (when=-11ms what=131155 arg1=4!CMD_RSSI_POLL  rt=208814/344704 4 0 "wukong_office" 0a:18:d6:47:27:40 rssi=-51 f=2462 sc=60 link=13 tx=2.8, 0.0, 0.0  rx=10.0 bcn=0 [on:0 tx:0 rx:0 period:7] from screen [on:0 period:1539348591] hn rssi=-46 ag=0 hr ticks 0,0,0 ls-=0 [56,56,56,56,61] brc=0 lrc=0 offload-stopped
+ rec[114]: time=02-20 21:40:36.027 processed=L2ConnectedState org=ConnectedState dest=<null> what=131155(0x20053) (when=-21ms what=131155 arg1=4!CMD_RSSI_POLL  rt=211834/347724 4 0 "wukong_office" 0a:18:d6:47:27:40 rssi=-50 f=2462 sc=60 link=13 tx=1.4, 0.0, 0.0  rx=11.5 bcn=0 [on:0 tx:0 rx:0 period:18] from screen [on:0 period:1539351611] hn rssi=-45 ag=0 hr ticks 0,0,0 ls-=0 [56,56,56,56,61] brc=0 lrc=0 offload-stopped
+ rec[115]: time=02-20 21:40:39.047 processed=L2ConnectedState org=ConnectedState dest=<null> what=131155(0x20053) (when=-21ms what=131155 arg1=4!CMD_RSSI_POLL  rt=214854/350744 4 0 "wukong_office" 0a:18:d6:47:27:40 rssi=-50 f=2462 sc=60 link=26 tx=7.7, 0.0, 0.0  rx=15.3 bcn=0 [on:0 tx:0 rx:0 period:20] from screen [on:0 period:1539354631] gl hn rssi=-45 ag=0 hr ticks 0,0,0 ls-=0 [56,56,60,60,65] brc=0 lrc=0 offload-stopped
+ rec[116]: time=02-20 21:40:42.052 processed=L2ConnectedState org=ConnectedState dest=<null> what=131155(0x20053) (when=-7ms what=131155 arg1=4!CMD_RSSI_POLL  rt=217860/353750 4 0 "wukong_office" 0a:18:d6:47:27:40 rssi=-52 f=2462 sc=60 link=26 tx=7.4, 0.0, 0.0  rx=18.1 bcn=0 [on:0 tx:0 rx:0 period:3] from screen [on:0 period:1539357636] gl hn rssi=-47 ag=0 hr ticks 0,0,0 ls-=0 [56,56,60,60,65] brc=0 lrc=0 offload-stopped
+ rec[117]: time=02-20 21:40:45.076 processed=L2ConnectedState org=ConnectedState dest=<null> what=131155(0x20053) (when=-24ms what=131155 arg1=4!CMD_RSSI_POLL  rt=220883/356773 4 0 "wukong_office" 0a:18:d6:47:27:40 rssi=-52 f=2462 sc=60 link=26 tx=3.7, 0.0, 0.0  rx=15.6 bcn=0 [on:0 tx:0 rx:0 period:23] from screen [on:0 period:1539360660] gl hn rssi=-47 ag=0 hr ticks 0,0,0 ls-=0 [56,56,56,56,61] brc=0 lrc=0 offload-stopped
+ rec[118]: time=02-20 21:40:48.098 processed=L2ConnectedState org=ConnectedState dest=<null> what=131155(0x20053) (when=-23ms what=131155 arg1=4!CMD_RSSI_POLL  rt=223905/359795 4 0 "wukong_office" 0a:18:d6:47:27:40 rssi=-52 f=2462 sc=60 link=26 tx=1.8, 0.0, 0.0  rx=14.3 bcn=0 [on:0 tx:0 rx:0 period:20] from screen [on:0 period:1539363682] gl hn rssi=-47 ag=0 hr ticks 0,0,0 ls-=0 [56,56,56,56,61] brc=0 lrc=0 offload-stopped
+ rec[119]: time=02-20 21:40:51.102 processed=L2ConnectedState org=ConnectedState dest=<null> what=131155(0x20053) (when=-7ms what=131155 arg1=4!CMD_RSSI_POLL  rt=226910/362800 4 0 "wukong_office" 0a:18:d6:47:27:40 rssi=-52 f=2462 sc=60 link=39 tx=15.4, 0.0, 0.0  rx=24.1 bcn=0 [on:0 tx:0 rx:0 period:3] from screen [on:0 period:1539366686] gl hn rssi=-47 ag=0 hr ticks 0,0,0 ls-=0 [56,56,60,60,65] brc=0 lrc=0 offload-stopped
+ rec[120]: time=02-20 21:40:53.746 processed=SupplicantStartedState org=ConnectedState dest=<null> what=131135(0x2003f) (when=-4ms what=131135!CMD_GET_LINK_LAYER_STATS uid=10018  rt=229554/365444{ when=-4ms what=131135 target=com.android.internal.util.StateMachine$SmHandler } 0 0
+ rec[121]: time=02-20 21:40:54.130 processed=L2ConnectedState org=ConnectedState dest=<null> what=131155(0x20053) (when=-28ms what=131155 arg1=4!CMD_RSSI_POLL  rt=229937/365827 4 0 "wukong_office" 0a:18:d6:47:27:40 rssi=-52 f=2462 sc=60 link=26 tx=7.4, 0.0, 0.0  rx=10.8 bcn=0 [on:0 tx:0 rx:0 period:26] from screen [on:0 period:1539369714] gl hn rssi=-47 ag=0 hr ticks 0,0,0 ls-=0 [56,56,60,60,65] brc=0 lrc=0 offload-stopped
+ rec[122]: time=02-20 21:40:57.155 processed=L2ConnectedState org=ConnectedState dest=<null> what=131155(0x20053) (when=-28ms what=131155 arg1=4!CMD_RSSI_POLL  rt=232963/368853 4 0 "wukong_office" 0a:18:d6:47:27:40 rssi=-52 f=2462 sc=60 link=19 tx=7.2, 0.0, 0.0  rx=12.4 bcn=0 [on:0 tx:0 rx:0 period:23] from screen [on:0 period:1539372739] hn rssi=-47 ag=0 hr ticks 0,0,0 ls-=0 [56,56,56,56,61] brc=0 lrc=0 offload-stopped
+ rec[123]: time=02-20 21:41:00.166 processed=L2ConnectedState org=ConnectedState dest=<null> what=131155(0x20053) (when=-11ms what=131155 arg1=4!CMD_RSSI_POLL  rt=235973/371863 4 0 "wukong_office" 0a:18:d6:47:27:40 rssi=-50 f=2462 sc=60 link=19 tx=4.1, 0.0, 0.0  rx=11.2 bcn=0 [on:0 tx:0 rx:0 period:7] from screen [on:0 period:1539375750] hn rssi=-45 ag=0 hr ticks 0,0,0 ls-=0 [56,56,56,56,61] brc=0 lrc=0 offload-stopped
+ rec[124]: time=02-20 21:41:03.186 processed=L2ConnectedState org=ConnectedState dest=<null> what=131155(0x20053) (when=-25ms what=131155 arg1=4!CMD_RSSI_POLL  rt=238994/374884 4 0 "wukong_office" 0a:18:d6:47:27:40 rssi=-51 f=2462 sc=60 link=19 tx=2.0, 0.0, 0.0  rx=9.1 bcn=0 [on:0 tx:0 rx:0 period:22] from screen [on:0 period:1539378770] hn rssi=-46 ag=0 hr ticks 0,0,0 ls-=0 [56,56,56,56,61] brc=0 lrc=0 offload-stopped
+ rec[125]: time=02-20 21:41:06.200 processed=L2ConnectedState org=ConnectedState dest=<null> what=131155(0x20053) (when=-15ms what=131155 arg1=4!CMD_RSSI_POLL  rt=242007/377897 4 0 "wukong_office" 0a:18:d6:47:27:40 rssi=-50 f=2462 sc=60 link=13 tx=11.0, 0.0, 0.0  rx=16.5 bcn=0 [on:0 tx:0 rx:0 period:11] from screen [on:0 period:1539381784] hn rssi=-45 ag=0 hr ticks 0,0,0 ls-=0 [56,56,56,56,61] brc=0 lrc=0 offload-stopped
+ rec[126]: time=02-20 21:41:09.286 processed=L2ConnectedState org=ConnectedState dest=<null> what=131155(0x20053) (when=-91ms what=131155 arg1=4!CMD_RSSI_POLL  rt=245093/380983 4 0 "wukong_office" 0a:18:d6:47:27:40 rssi=-50 f=2462 sc=60 link=13 tx=5.5, 0.0, 0.0  rx=10.8 bcn=0 [on:0 tx:0 rx:0 period:87] from screen [on:0 period:1539384870] hn rssi=-45 ag=0 hr ticks 0,0,0 ls-=0 [56,56,56,56,61] brc=0 lrc=0 offload-stopped
+ rec[127]: time=02-20 21:41:12.257 processed=L2ConnectedState org=ConnectedState dest=<null> what=131155(0x20053) (when=-29ms what=131155 arg1=4!CMD_RSSI_POLL  rt=248065/383955 4 0 "wukong_office" 0a:18:d6:47:27:40 rssi=-50 f=2462 sc=60 link=13 tx=6.3, 0.0, 0.0  rx=10.9 bcn=0 [on:0 tx:0 rx:0 period:23] from screen [on:0 period:1539387841] hn rssi=-45 ag=0 hr ticks 0,0,0 ls-=0 [56,56,56,56,61] brc=0 lrc=0 offload-stopped
+ rec[128]: time=02-20 21:41:15.298 processed=L2ConnectedState org=ConnectedState dest=<null> what=131155(0x20053) (when=-42ms what=131155 arg1=4!CMD_RSSI_POLL  rt=251105/386995 4 0 "wukong_office" 0a:18:d6:47:27:40 rssi=-50 f=2462 sc=60 link=13 tx=3.1, 0.0, 0.0  rx=12.9 bcn=0 [on:0 tx:0 rx:0 period:38] from screen [on:0 period:1539390882] hn rssi=-45 ag=0 hr ticks 0,0,0 ls-=0 [56,56,56,56,61] brc=0 lrc=0 offload-stopped
+ rec[129]: time=02-20 21:41:18.306 processed=L2ConnectedState org=ConnectedState dest=<null> what=131155(0x20053) (when=-8ms what=131155 arg1=4!CMD_RSSI_POLL  rt=254113/390003 4 0 "wukong_office" 0a:18:d6:47:27:40 rssi=-50 f=2462 sc=60 link=13 tx=2.6, 0.0, 0.0  rx=11.5 bcn=0 [on:0 tx:0 rx:0 period:5] from screen [on:0 period:1539393890] hn rssi=-45 ag=0 hr ticks 0,0,0 ls-=0 [56,56,56,56,61] brc=0 lrc=0 offload-stopped
+ rec[130]: time=02-20 21:41:21.328 processed=L2ConnectedState org=ConnectedState dest=<null> what=131155(0x20053) (when=-23ms what=131155 arg1=4!CMD_RSSI_POLL  rt=257135/393025 4 0 "wukong_office" 0a:18:d6:47:27:40 rssi=-50 f=2462 sc=60 link=26 tx=8.3, 0.0, 0.0  rx=14.7 bcn=0 [on:0 tx:0 rx:0 period:19] from screen [on:0 period:1539396912] gl hn rssi=-45 ag=0 hr ticks 0,0,0 ls-=0 [56,56,60,60,65] brc=0 lrc=0 offload-stopped
+ rec[131]: time=02-20 21:41:24.336 processed=L2ConnectedState org=ConnectedState dest=<null> what=131155(0x20053) (when=-8ms what=131155 arg1=4!CMD_RSSI_POLL  rt=260143/396033 4 0 "wukong_office" 0a:18:d6:47:27:40 rssi=-49 f=2462 sc=60 link=26 tx=7.6, 0.0, 0.0  rx=14.9 bcn=0 [on:0 tx:0 rx:0 period:4] from screen [on:0 period:1539399920] gl hn rssi=-44 ag=0 hr ticks 0,0,0 ls-=0 [56,56,60,60,65] brc=0 lrc=0 offload-stopped
+ rec[132]: time=02-20 21:41:27.356 processed=L2ConnectedState org=ConnectedState dest=<null> what=131155(0x20053) (when=-21ms what=131155 arg1=4!CMD_RSSI_POLL  rt=263164/399054 4 0 "wukong_office" 0a:18:d6:47:27:40 rssi=-49 f=2462 sc=60 link=26 tx=3.8, 0.0, 0.0  rx=11.4 bcn=0 [on:0 tx:0 rx:0 period:16] from screen [on:0 period:1539402940] gl hn rssi=-44 ag=0 hr ticks 0,0,0 ls-=0 [56,56,56,56,61] brc=0 lrc=0 offload-stopped
+ rec[133]: time=02-20 21:41:30.382 processed=L2ConnectedState org=ConnectedState dest=<null> what=131155(0x20053) (when=-27ms what=131155 arg1=4!CMD_RSSI_POLL  rt=266189/402079 4 0 "wukong_office" 0a:18:d6:47:27:40 rssi=-50 f=2462 sc=60 link=26 tx=1.9, 0.0, 0.0  rx=10.2 bcn=0 [on:0 tx:0 rx:0 period:23] from screen [on:0 period:1539405966] gl hn rssi=-45 ag=0 hr ticks 0,0,0 ls-=0 [56,56,56,56,61] brc=0 lrc=0 offload-stopped
+ rec[134]: time=02-20 21:41:33.390 processed=L2ConnectedState org=ConnectedState dest=<null> what=131155(0x20053) (when=-11ms what=131155 arg1=4!CMD_RSSI_POLL  rt=269196/405086 4 0 "wukong_office" 0a:18:d6:47:27:40 rssi=-49 f=2462 sc=60 link=26 tx=4.5, 0.0, 0.0  rx=10.1 bcn=0 [on:0 tx:0 rx:0 period:6] from screen [on:0 period:1539408973] gl hn rssi=-44 ag=0 hr ticks 0,0,0 ls-=0 [56,56,56,56,61] brc=0 lrc=0 offload-stopped
+ rec[135]: time=02-20 21:41:36.403 processed=L2ConnectedState org=ConnectedState dest=<null> what=131155(0x20053) (when=-14ms what=131155 arg1=4!CMD_RSSI_POLL  rt=272209/408099 4 0 "wukong_office" 0a:18:d6:47:27:40 rssi=-49 f=2462 sc=60 link=26 tx=5.7, 0.0, 0.0  rx=13.1 bcn=0 [on:0 tx:0 rx:0 period:10] from screen [on:0 period:1539411987] gl hn rssi=-44 ag=0 hr ticks 0,0,0 ls-=0 [56,56,60,60,65] brc=0 lrc=0 offload-stopped
+ rec[136]: time=02-20 21:41:39.410 processed=L2ConnectedState org=ConnectedState dest=<null> what=131155(0x20053) (when=-9ms what=131155 arg1=4!CMD_RSSI_POLL  rt=275217/411107 4 0 "wukong_office" 0a:18:d6:47:27:40 rssi=-50 f=2462 sc=60 link=39 tx=7.4, 0.0, 0.0  rx=13.0 bcn=0 [on:0 tx:0 rx:0 period:6] from screen [on:0 period:1539414994] gl hn rssi=-45 ag=0 hr ticks 0,0,0 ls-=0 [56,56,60,60,65] brc=0 lrc=0 offload-stopped
+ rec[137]: time=02-20 21:41:42.429 processed=L2ConnectedState org=ConnectedState dest=<null> what=131155(0x20053) (when=-22ms what=131155 arg1=4!CMD_RSSI_POLL  rt=278236/414126 4 0 "wukong_office" 0a:18:d6:47:27:40 rssi=-49 f=2462 sc=60 link=39 tx=3.7, 0.0, 0.0  rx=11.5 bcn=0 [on:0 tx:0 rx:0 period:18] from screen [on:0 period:1539418013] gl hn rssi=-44 ag=0 hr ticks 0,0,0 ls-=0 [56,56,56,56,61] brc=0 lrc=0 offload-stopped
+ rec[138]: time=02-20 21:41:45.459 processed=L2ConnectedState org=ConnectedState dest=<null> what=131155(0x20053) (when=-31ms what=131155 arg1=4!CMD_RSSI_POLL  rt=281266/417156 4 0 "wukong_office" 0a:18:d6:47:27:40 rssi=-50 f=2462 sc=60 link=39 tx=1.8, 0.0, 0.0  rx=12.3 bcn=0 [on:0 tx:0 rx:0 period:27] from screen [on:0 period:1539421043] gl hn rssi=-45 ag=0 hr ticks 0,0,0 ls-=0 [56,56,56,56,61] brc=0 lrc=0 offload-stopped
+ rec[139]: time=02-20 21:41:48.467 processed=L2ConnectedState org=ConnectedState dest=<null> what=131155(0x20053) (when=-9ms what=131155 arg1=4!CMD_RSSI_POLL  rt=284274/420164 4 0 "wukong_office" 0a:18:d6:47:27:40 rssi=-50 f=2462 sc=60 link=39 tx=7.9, 0.0, 0.0  rx=14.1 bcn=0 [on:0 tx:0 rx:0 period:6] from screen [on:0 period:1539424051] gl hn rssi=-45 ag=0 hr ticks 0,0,0 ls-=0 [56,56,60,60,65] brc=0 lrc=0 offload-stopped
+ rec[140]: time=02-20 21:41:51.476 processed=L2ConnectedState org=ConnectedState dest=<null> what=131155(0x20053) (when=-8ms what=131155 arg1=4!CMD_RSSI_POLL  rt=287282/423172 4 0 "wukong_office" 0a:18:d6:47:27:40 rssi=-50 f=2462 sc=60 link=39 tx=7.5, 0.0, 0.0  rx=13.1 bcn=0 [on:0 tx:0 rx:0 period:5] from screen [on:0 period:1539427060] gl hn rssi=-45 ag=0 hr ticks 0,0,0 ls-=0 [56,56,60,60,65] brc=0 lrc=0 offload-stopped
+ rec[141]: time=02-20 21:41:54.497 processed=L2ConnectedState org=ConnectedState dest=<null> what=131155(0x20053) (when=-21ms what=131155 arg1=4!CMD_RSSI_POLL  rt=290303/426193 4 0 "wukong_office" 0a:18:d6:47:27:40 rssi=-50 f=2462 sc=60 link=39 tx=3.7, 0.0, 0.0  rx=11.0 bcn=0 [on:0 tx:0 rx:0 period:20] from screen [on:0 period:1539430081] gl hn rssi=-45 ag=0 hr ticks 0,0,0 ls-=0 [56,56,56,56,61] brc=0 lrc=0 offload-stopped
+ rec[142]: time=02-20 21:41:55.343 processed=SupplicantStartedState org=ConnectedState dest=<null> what=131135(0x2003f) (when=-10ms what=131135!CMD_GET_LINK_LAYER_STATS uid=10018  rt=291151/427041{ when=-10ms what=131135 target=com.android.internal.util.StateMachine$SmHandler } 0 0
+ rec[143]: time=02-20 21:41:57.520 processed=L2ConnectedState org=ConnectedState dest=<null> what=131155(0x20053) (when=-25ms what=131155 arg1=4!CMD_RSSI_POLL  rt=293327/429217 4 0 "wukong_office" 0a:18:d6:47:27:40 rssi=-50 f=2462 sc=60 link=39 tx=0.9, 0.0, 0.0  rx=5.3 bcn=0 [on:0 tx:0 rx:0 period:21] from screen [on:0 period:1539433104] gl hn rssi=-45 ag=0 hr ticks 0,0,0 ls-=0 [56,56,56,56,61] brc=0 lrc=0 offload-stopped
+ rec[144]: time=02-20 21:42:00.541 processed=L2ConnectedState org=ConnectedState dest=<null> what=131155(0x20053) (when=-22ms what=131155 arg1=4!CMD_RSSI_POLL  rt=296348/432238 4 0 "wukong_office" 0a:18:d6:47:27:40 rssi=-51 f=2462 sc=60 link=39 tx=0.5, 0.0, 0.0  rx=4.6 bcn=0 [on:0 tx:0 rx:0 period:21] from screen [on:0 period:1539436125] gl hn rssi=-46 ag=0 hr ticks 0,0,0 ls-=0 [56,56,56,56,61] brc=0 lrc=0 offload-stopped
+ rec[145]: time=02-20 21:42:03.558 processed=L2ConnectedState org=ConnectedState dest=<null> what=131155(0x20053) (when=-23ms what=131155 arg1=4!CMD_RSSI_POLL  rt=299365/435255 4 0 "wukong_office" 0a:18:d6:47:27:40 rssi=-50 f=2462 sc=60 link=52 tx=7.2, 0.0, 0.0  rx=11.8 bcn=0 [on:0 tx:0 rx:0 period:20] from screen [on:0 period:1539439142] gl hn rssi=-45 ag=0 hr ticks 0,0,0 ls-=0 [56,56,60,60,65] brc=0 lrc=0 offload-stopped
+ rec[146]: time=02-20 21:42:06.566 processed=L2ConnectedState org=ConnectedState dest=<null> what=131155(0x20053) (when=-8ms what=131155 arg1=4!CMD_RSSI_POLL  rt=302373/438263 4 0 "wukong_office" 0a:18:d6:47:27:40 rssi=-50 f=2462 sc=60 link=52 tx=10.6, 0.0, 0.0  rx=14.9 bcn=0 [on:0 tx:0 rx:0 period:4] from screen [on:0 period:1539442150] gl hn rssi=-45 ag=0 hr ticks 0,0,0 ls-=0 [56,56,60,60,65] brc=0 lrc=0 offload-stopped
+ rec[147]: time=02-20 21:42:09.579 processed=L2ConnectedState org=ConnectedState dest=<null> what=131155(0x20053) (when=-13ms what=131155 arg1=4!CMD_RSSI_POLL  rt=305386/441276 4 0 "wukong_office" 0a:18:d6:47:27:40 rssi=-51 f=2462 sc=60 link=52 tx=8.8, 0.0, 0.0  rx=14.0 bcn=0 [on:0 tx:0 rx:0 period:9] from screen [on:0 period:1539445163] gl hn rssi=-46 ag=0 hr ticks 0,0,0 ls-=0 [56,56,60,60,65] brc=0 lrc=0 offload-stopped
+ rec[148]: time=02-20 21:42:12.598 processed=L2ConnectedState org=ConnectedState dest=<null> what=131155(0x20053) (when=-24ms what=131155 arg1=4!CMD_RSSI_POLL  rt=308406/444296 4 0 "wukong_office" 0a:18:d6:47:27:40 rssi=-50 f=2462 sc=60 link=52 tx=4.4, 0.0, 0.0  rx=10.0 bcn=0 [on:0 tx:0 rx:0 period:21] from screen [on:0 period:1539448182] gl hn rssi=-45 ag=0 hr ticks 0,0,0 ls-=0 [56,56,56,56,61] brc=0 lrc=0 offload-stopped
+ rec[149]: time=02-20 21:42:15.619 processed=L2ConnectedState org=ConnectedState dest=<null> what=131155(0x20053) (when=-21ms what=131155 arg1=4!CMD_RSSI_POLL  rt=311426/447316 4 0 "wukong_office" 0a:18:d6:47:27:40 rssi=-50 f=2462 sc=60 link=52 tx=2.2, 0.0, 0.0  rx=10.5 bcn=0 [on:0 tx:0 rx:0 period:17] from screen [on:0 period:1539451203] gl hn rssi=-45 ag=0 hr ticks 0,0,0 ls-=0 [56,56,56,56,61] brc=0 lrc=0 offload-stopped
+ rec[150]: time=02-20 21:42:18.649 processed=L2ConnectedState org=ConnectedState dest=<null> what=131155(0x20053) (when=-30ms what=131155 arg1=4!CMD_RSSI_POLL  rt=314455/450345 4 0 "wukong_office" 0a:18:d6:47:27:40 rssi=-50 f=2462 sc=60 link=52 tx=1.1, 0.0, 0.0  rx=8.7 bcn=0 [on:0 tx:0 rx:0 period:28] from screen [on:0 period:1539454233] gl hn rssi=-45 ag=0 hr ticks 0,0,0 ls-=0 [56,56,56,56,61] brc=0 lrc=0 offload-stopped
+ rec[151]: time=02-20 21:42:21.661 processed=L2ConnectedState org=ConnectedState dest=<null> what=131155(0x20053) (when=-12ms what=131155 arg1=4!CMD_RSSI_POLL  rt=317467/453357 4 0 "wukong_office" 0a:18:d6:47:27:40 rssi=-50 f=2462 sc=60 link=52 tx=0.6, 0.0, 0.0  rx=8.4 bcn=0 [on:0 tx:0 rx:0 period:9] from screen [on:0 period:1539457245] gl hn rssi=-45 ag=0 hr ticks 0,0,0 ls-=0 [56,56,56,56,61] brc=0 lrc=0 offload-stopped
+ rec[152]: time=02-20 21:42:24.673 processed=L2ConnectedState org=ConnectedState dest=<null> what=131155(0x20053) (when=-14ms what=131155 arg1=4!CMD_RSSI_POLL  rt=320480/456370 4 0 "wukong_office" 0a:18:d6:47:27:40 rssi=-50 f=2462 sc=60 link=52 tx=1.3, 0.0, 0.0  rx=9.7 bcn=0 [on:0 tx:0 rx:0 period:10] from screen [on:0 period:1539460257] gl hn rssi=-45 ag=0 hr ticks 0,0,0 ls-=0 [56,56,56,56,61] brc=0 lrc=0 offload-stopped
+ rec[153]: time=02-20 21:42:27.280 processed=SupplicantStartedState org=ConnectedState dest=<null> what=131135(0x2003f) (when=-2ms what=131135!CMD_GET_LINK_LAYER_STATS uid=1000  rt=323088/458978{ when=-2ms what=131135 target=com.android.internal.util.StateMachine$SmHandler } 0 0
+ rec[154]: time=02-20 21:42:27.676 processed=L2ConnectedState org=ConnectedState dest=<null> what=131155(0x20053) (when=-7ms what=131155 arg1=4!CMD_RSSI_POLL  rt=323482/459372 4 0 "wukong_office" 0a:18:d6:47:27:40 rssi=-49 f=2462 sc=60 link=52 tx=1.3, 0.0, 0.0  rx=4.9 bcn=0 [on:0 tx:0 rx:0 period:7] from screen [on:0 period:1539463260] gl hn rssi=-44 ag=0 hr ticks 0,0,0 ls-=0 [56,56,56,56,61] brc=0 lrc=0 offload-stopped
+ rec[155]: time=02-20 21:42:30.683 processed=L2ConnectedState org=ConnectedState dest=<null> what=131155(0x20053) (when=-8ms what=131155 arg1=4!CMD_RSSI_POLL  rt=326489/462379 4 0 "wukong_office" 0a:18:d6:47:27:40 rssi=-54 f=2462 sc=60 link=58 tx=4.2, 0.0, 0.0  rx=6.5 bcn=0 [on:0 tx:0 rx:0 period:6] from screen [on:0 period:1539466267] gl hn rssi=-49 ag=0 hr ticks 0,0,0 ls-=0 [56,56,56,56,61] brc=0 lrc=0 offload-stopped
+ rec[156]: time=02-20 21:42:33.690 processed=L2ConnectedState org=ConnectedState dest=<null> what=131155(0x20053) (when=-7ms what=131155 arg1=4!CMD_RSSI_POLL  rt=329496/465386 4 0 "wukong_office" 0a:18:d6:47:27:40 rssi=-60 f=2462 sc=60 link=52 tx=9.6, 0.0, 0.0  rx=6.7 bcn=0 [on:0 tx:0 rx:0 period:7] from screen [on:0 period:1539469274] gl hn rssi=-55 ag=0 hr ticks 0,0,0 ls-=0 [56,56,60,60,65] brc=0 lrc=0 offload-stopped
+ rec[157]: time=02-20 21:42:36.695 processed=L2ConnectedState org=ConnectedState dest=<null> what=131155(0x20053) (when=-8ms what=131155 arg1=4!CMD_RSSI_POLL  rt=332503/468393 4 0 "wukong_office" 0a:18:d6:47:27:40 rssi=-61 f=2462 sc=60 link=39 tx=7.3, 0.0, 0.0  rx=10.4 bcn=0 [on:0 tx:0 rx:0 period:4] from screen [on:0 period:1539472279] gl hn rssi=-56 ag=0 hr ticks 0,0,0 ls-=0 [56,56,60,60,65] brc=0 lrc=0 offload-stopped
+ rec[158]: time=02-20 21:42:39.714 processed=L2ConnectedState org=ConnectedState dest=<null> what=131155(0x20053) (when=-19ms what=131155 arg1=4!CMD_RSSI_POLL  rt=335521/471411 4 0 "wukong_office" 0a:18:d6:47:27:40 rssi=-60 f=2462 sc=60 link=26 tx=8.1, 0.0, 0.0  rx=9.2 bcn=0 [on:0 tx:0 rx:0 period:15] from screen [on:0 period:1539475298] gl hn rssi=-55 ag=0 hr ticks 0,0,0 ls-=0 [56,56,60,60,65] brc=0 lrc=0 offload-stopped
+ rec[159]: time=02-20 21:42:39.853 processed=SupplicantStartedState org=ConnectedState dest=<null> what=131135(0x2003f) (when=-2ms what=131135!CMD_GET_LINK_LAYER_STATS uid=1000  rt=335661/471551{ when=-2ms what=131135 target=com.android.internal.util.StateMachine$SmHandler } 0 0
+ rec[160]: time=02-20 21:42:42.738 processed=L2ConnectedState org=ConnectedState dest=<null> what=131155(0x20053) (when=-25ms what=131155 arg1=4!CMD_RSSI_POLL  rt=338546/474436 4 0 "wukong_office" 0a:18:d6:47:27:40 rssi=-59 f=2462 sc=60 link=26 tx=6.8, 0.0, 0.0  rx=6.5 bcn=0 [on:0 tx:0 rx:0 period:21] from screen [on:0 period:1539478322] gl hn rssi=-54 ag=0 hr ticks 0,0,0 ls-=0 [56,56,60,60,65] brc=0 lrc=0 offload-stopped
+ rec[161]: time=02-20 21:42:45.748 processed=L2ConnectedState org=ConnectedState dest=<null> what=131155(0x20053) (when=-10ms what=131155 arg1=4!CMD_RSSI_POLL  rt=341555/477445 4 0 "wukong_office" 0a:18:d6:47:27:40 rssi=-59 f=2462 sc=60 link=26 tx=6.4, 0.0, 0.0  rx=8.8 bcn=0 [on:0 tx:0 rx:0 period:6] from screen [on:0 period:1539481332] gl hn rssi=-54 ag=0 hr ticks 0,0,0 ls-=0 [56,56,60,60,65] brc=0 lrc=0 offload-stopped
+ rec[162]: time=02-20 21:42:48.756 processed=L2ConnectedState org=ConnectedState dest=<null> what=131155(0x20053) (when=-8ms what=131155 arg1=4!CMD_RSSI_POLL  rt=344561/480451 4 0 "wukong_office" 0a:18:d6:47:27:40 rssi=-56 f=2462 sc=60 link=26 tx=4.7, 0.0, 0.0  rx=7.4 bcn=0 [on:0 tx:0 rx:0 period:6] from screen [on:0 period:1539484339] gl hn rssi=-51 ag=0 hr ticks 0,0,0 ls-=0 [56,56,56,56,61] brc=0 lrc=0 offload-stopped
+ rec[163]: time=02-20 21:42:51.759 processed=L2ConnectedState org=ConnectedState dest=<null> what=131155(0x20053) (when=-6ms what=131155 arg1=4!CMD_RSSI_POLL  rt=347567/483457 4 0 "wukong_office" 0a:18:d6:47:27:40 rssi=-54 f=2462 sc=60 link=39 tx=4.3, 0.0, 0.0  rx=7.2 bcn=0 [on:0 tx:0 rx:0 period:3] from screen [on:0 period:1539487343] gl hn rssi=-49 ag=0 hr ticks 0,0,0 ls-=0 [56,56,56,56,61] brc=0 lrc=0 offload-stopped
+ rec[164]: time=02-20 21:42:54.771 processed=L2ConnectedState org=ConnectedState dest=<null> what=131155(0x20053) (when=-12ms what=131155 arg1=4!CMD_RSSI_POLL  rt=350578/486468 4 0 "wukong_office" 0a:18:d6:47:27:40 rssi=-54 f=2462 sc=60 link=39 tx=2.7, 0.0, 0.0  rx=9.1 bcn=0 [on:0 tx:0 rx:0 period:8] from screen [on:0 period:1539490355] gl hn rssi=-49 ag=0 hr ticks 0,0,0 ls-=0 [56,56,56,56,61] brc=0 lrc=0 offload-stopped
+ rec[165]: time=02-20 21:42:55.434 processed=SupplicantStartedState org=ConnectedState dest=<null> what=131135(0x2003f) (when=-10ms what=131135!CMD_GET_LINK_LAYER_STATS uid=10018  rt=351242/487132{ when=-11ms what=131135 target=com.android.internal.util.StateMachine$SmHandler } 0 0
+ rec[166]: time=02-20 21:42:57.777 processed=L2ConnectedState org=ConnectedState dest=<null> what=131155(0x20053) (when=-9ms what=131155 arg1=4!CMD_RSSI_POLL  rt=353584/489474 4 0 "wukong_office" 0a:18:d6:47:27:40 rssi=-55 f=2462 sc=60 link=39 tx=1.2, 0.0, 0.0  rx=5.0 bcn=0 [on:0 tx:0 rx:0 period:7] from screen [on:0 period:1539493361] gl hn rssi=-50 ag=0 hr ticks 0,0,0 ls-=0 [56,56,56,56,61] brc=0 lrc=0 offload-stopped
+ rec[167]: time=02-20 21:43:00.782 processed=L2ConnectedState org=ConnectedState dest=<null> what=131155(0x20053) (when=-8ms what=131155 arg1=4!CMD_RSSI_POLL  rt=356589/492479 4 0 "wukong_office" 0a:18:d6:47:27:40 rssi=-54 f=2462 sc=60 link=39 tx=1.1, 0.0, 0.0  rx=7.0 bcn=0 [on:0 tx:0 rx:0 period:4] from screen [on:0 period:1539496366] gl hn rssi=-49 ag=0 hr ticks 0,0,0 ls-=0 [56,56,56,56,61] brc=0 lrc=0 offload-stopped
+ rec[168]: time=02-20 21:43:03.800 processed=L2ConnectedState org=ConnectedState dest=<null> what=131155(0x20053) (when=-18ms what=131155 arg1=4!CMD_RSSI_POLL  rt=359607/495497 4 0 "wukong_office" 0a:18:d6:47:27:40 rssi=-56 f=2462 sc=60 link=26 tx=1.5, 0.0, 0.0  rx=6.5 bcn=0 [on:0 tx:0 rx:0 period:17] from screen [on:0 period:1539499384] gl hn rssi=-51 ag=0 hr ticks 0,0,0 ls-=0 [56,56,56,56,61] brc=0 lrc=0 offload-stopped
+ rec[169]: time=02-20 21:43:06.829 processed=L2ConnectedState org=ConnectedState dest=<null> what=131155(0x20053) (when=-31ms what=131155 arg1=4!CMD_RSSI_POLL  rt=362636/498526 4 0 "wukong_office" 0a:18:d6:47:27:40 rssi=-57 f=2462 sc=60 link=26 tx=1.3, 0.0, 0.0  rx=7.8 bcn=0 [on:0 tx:0 rx:0 period:28] from screen [on:0 period:1539502413] gl hn rssi=-52 ag=0 hr ticks 0,0,0 ls-=0 [56,56,56,56,61] brc=0 lrc=0 offload-stopped
+ rec[170]: time=02-20 21:43:09.847 processed=L2ConnectedState org=ConnectedState dest=<null> what=131155(0x20053) (when=-19ms what=131155 arg1=4!CMD_RSSI_POLL  rt=365655/501545 4 0 "wukong_office" 0a:18:d6:47:27:40 rssi=-57 f=2462 sc=60 link=26 tx=1.6, 0.0, 0.0  rx=7.9 bcn=0 [on:0 tx:0 rx:0 period:11] from screen [on:0 period:1539505431] gl hn rssi=-52 ag=0 hr ticks 0,0,0 ls-=0 [56,56,56,56,61] brc=0 lrc=0 offload-stopped
+ rec[171]: time=02-20 21:43:12.851 processed=L2ConnectedState org=ConnectedState dest=<null> what=131155(0x20053) (when=-10ms what=131155 arg1=4!CMD_RSSI_POLL  rt=368658/504548 4 0 "wukong_office" 0a:18:d6:47:27:40 rssi=-57 f=2462 sc=60 link=26 tx=1.8, 0.0, 0.0  rx=7.4 bcn=0 [on:0 tx:0 rx:0 period:8] from screen [on:0 period:1539508435] gl hn rssi=-52 ag=0 hr ticks 0,0,0 ls-=0 [56,56,56,56,61] brc=0 lrc=0 offload-stopped
+ rec[172]: time=02-20 21:43:15.866 processed=L2ConnectedState org=ConnectedState dest=<null> what=131155(0x20053) (when=-18ms what=131155 arg1=4!CMD_RSSI_POLL  rt=371673/507563 4 0 "wukong_office" 0a:18:d6:47:27:40 rssi=-57 f=2462 sc=60 link=26 tx=0.9, 0.0, 0.0  rx=13.2 bcn=0 [on:0 tx:0 rx:0 period:9] from screen [on:0 period:1539511449] gl hn rssi=-52 ag=0 hr ticks 0,0,0 ls-=0 [56,56,56,56,61] brc=0 lrc=0 offload-stopped
+ rec[173]: time=02-20 21:43:18.871 processed=L2ConnectedState org=ConnectedState dest=<null> what=131155(0x20053) (when=-9ms what=131155 arg1=4!CMD_RSSI_POLL  rt=374678/510568 4 0 "wukong_office" 0a:18:d6:47:27:40 rssi=-56 f=2462 sc=60 link=26 tx=1.0, 0.0, 0.0  rx=12.6 bcn=0 [on:0 tx:0 rx:0 period:8] from screen [on:0 period:1539514455] gl hn rssi=-51 ag=0 hr ticks 0,0,0 ls-=0 [56,56,56,56,61] brc=0 lrc=0 offload-stopped
+ rec[174]: time=02-20 21:43:21.887 processed=L2ConnectedState org=ConnectedState dest=<null> what=131155(0x20053) (when=-19ms what=131155 arg1=4!CMD_RSSI_POLL  rt=377694/513584 4 0 "wukong_office" 0a:18:d6:47:27:40 rssi=-56 f=2462 sc=60 link=26 tx=1.0, 0.0, 0.0  rx=10.8 bcn=0 [on:0 tx:0 rx:0 period:12] from screen [on:0 period:1539517471] gl hn rssi=-51 ag=0 hr ticks 0,0,0 ls-=0 [56,56,56,56,61] brc=0 lrc=0 offload-stopped
+ rec[175]: time=02-20 21:43:24.909 processed=L2ConnectedState org=ConnectedState dest=<null> what=131155(0x20053) (when=-28ms what=131155 arg1=4!CMD_RSSI_POLL  rt=380717/516607 4 0 "wukong_office" 0a:18:d6:47:27:40 rssi=-56 f=2462 sc=60 link=26 tx=0.5, 0.0, 0.0  rx=9.9 bcn=0 [on:0 tx:0 rx:0 period:26] from screen [on:0 period:1539520493] gl hn rssi=-51 ag=0 hr ticks 0,0,0 ls-=0 [56,56,56,56,61] brc=0 lrc=0 offload-stopped
+ rec[176]: time=02-20 21:43:27.928 processed=L2ConnectedState org=ConnectedState dest=<null> what=131155(0x20053) (when=-21ms what=131155 arg1=4!CMD_RSSI_POLL  rt=383736/519626 4 0 "wukong_office" 0a:18:d6:47:27:40 rssi=-51 f=2462 sc=60 link=26 tx=0.2, 0.0, 0.0  rx=9.0 bcn=0 [on:0 tx:0 rx:0 period:18] from screen [on:0 period:1539523512] gl hn rssi=-46 ag=0 hr ticks 0,0,0 ls-=0 [56,56,56,56,61] brc=0 lrc=0 offload-stopped
+ rec[177]: time=02-20 21:43:30.941 processed=L2ConnectedState org=ConnectedState dest=<null> what=131155(0x20053) (when=-13ms what=131155 arg1=4!CMD_RSSI_POLL  rt=386748/522638 4 0 "wukong_office" 0a:18:d6:47:27:40 rssi=-50 f=2462 sc=60 link=19 tx=1.1, 0.0, 0.0  rx=9.0 bcn=0 [on:0 tx:0 rx:0 period:9] from screen [on:0 period:1539526525] hn rssi=-45 ag=0 hr ticks 0,0,0 ls-=0 [56,56,56,56,61] brc=0 lrc=0 offload-stopped
+ rec[178]: time=02-20 21:43:33.949 processed=L2ConnectedState org=ConnectedState dest=<null> what=131155(0x20053) (when=-12ms what=131155 arg1=4!CMD_RSSI_POLL  rt=389756/525646 4 0 "wukong_office" 0a:18:d6:47:27:40 rssi=-51 f=2462 sc=60 link=19 tx=0.6, 0.0, 0.0  rx=8.0 bcn=0 [on:0 tx:0 rx:0 period:10] from screen [on:0 period:1539529533] hn rssi=-46 ag=0 hr ticks 0,0,0 ls-=0 [56,56,56,56,61] brc=0 lrc=0 offload-stopped
+ rec[179]: time=02-20 21:43:36.955 processed=L2ConnectedState org=ConnectedState dest=<null> what=131155(0x20053) (when=-8ms what=131155 arg1=4!CMD_RSSI_POLL  rt=392763/528653 4 0 "wukong_office" 0a:18:d6:47:27:40 rssi=-51 f=2462 sc=60 link=19 tx=0.8, 0.0, 0.0  rx=9.0 bcn=0 [on:0 tx:0 rx:0 period:4] from screen [on:0 period:1539532539] hn rssi=-46 ag=0 hr ticks 0,0,0 ls-=0 [56,56,56,56,61] brc=0 lrc=0 offload-stopped
+ rec[180]: time=02-20 21:43:39.963 processed=L2ConnectedState org=ConnectedState dest=<null> what=131155(0x20053) (when=-8ms what=131155 arg1=4!CMD_RSSI_POLL  rt=395770/531660 4 0 "wukong_office" 0a:18:d6:47:27:40 rssi=-52 f=2462 sc=60 link=19 tx=4.4, 0.0, 0.0  rx=10.5 bcn=0 [on:0 tx:0 rx:0 period:5] from screen [on:0 period:1539535547] hn rssi=-47 ag=0 hr ticks 0,0,0 ls-=0 [56,56,56,56,61] brc=0 lrc=0 offload-stopped
+ rec[181]: time=02-20 21:43:42.988 processed=L2ConnectedState org=ConnectedState dest=<null> what=131155(0x20053) (when=-25ms what=131155 arg1=4!CMD_RSSI_POLL  rt=398795/534685 4 0 "wukong_office" 0a:18:d6:47:27:40 rssi=-50 f=2462 sc=60 link=65 tx=2.2, 0.0, 0.0  rx=12.2 bcn=0 [on:0 tx:0 rx:0 period:21] from screen [on:0 period:1539538572] gl hn rssi=-45 ag=0 hr ticks 0,0,0 ls-=0 [56,56,56,56,61] brc=0 lrc=0 offload-stopped
+ rec[182]: time=02-20 21:43:45.995 processed=L2ConnectedState org=ConnectedState dest=<null> what=131155(0x20053) (when=-7ms what=131155 arg1=4!CMD_RSSI_POLL  rt=401802/537692 4 0 "wukong_office" 0a:18:d6:47:27:40 rssi=-50 f=2462 sc=60 link=65 tx=5.1, 0.0, 0.0  rx=12.1 bcn=0 [on:0 tx:0 rx:0 period:4] from screen [on:0 period:1539541579] gl hn rssi=-45 ag=0 hr ticks 0,0,0 ls-=0 [56,56,60,60,65] brc=0 lrc=0 offload-stopped
+ rec[183]: time=02-20 21:43:49.008 processed=L2ConnectedState org=ConnectedState dest=<null> what=131155(0x20053) (when=-13ms what=131155 arg1=4!CMD_RSSI_POLL  rt=404815/540705 4 0 "wukong_office" 0a:18:d6:47:27:40 rssi=-49 f=2462 sc=60 link=65 tx=3.5, 0.0, 0.0  rx=8.6 bcn=0 [on:0 tx:0 rx:0 period:10] from screen [on:0 period:1539544592] gl hn rssi=-44 ag=0 hr ticks 0,0,0 ls-=0 [56,56,56,56,61] brc=0 lrc=0 offload-stopped
+ rec[184]: time=02-20 21:43:52.017 processed=L2ConnectedState org=ConnectedState dest=<null> what=131155(0x20053) (when=-12ms what=131155 arg1=4!CMD_RSSI_POLL  rt=407825/543715 4 0 "wukong_office" 0a:18:d6:47:27:40 rssi=-51 f=2462 sc=60 link=65 tx=2.3, 0.0, 0.0  rx=6.8 bcn=0 [on:0 tx:0 rx:0 period:8] from screen [on:0 period:1539547601] gl hn rssi=-46 ag=0 hr ticks 0,0,0 ls-=0 [56,56,56,56,61] brc=0 lrc=0 offload-stopped
+ rec[185]: time=02-20 21:43:55.024 processed=L2ConnectedState org=ConnectedState dest=<null> what=131155(0x20053) (when=-10ms what=131155 arg1=4!CMD_RSSI_POLL  rt=410830/546720 4 0 "wukong_office" 0a:18:d6:47:27:40 rssi=-50 f=2462 sc=60 link=65 tx=4.6, 0.0, 0.0  rx=10.4 bcn=0 [on:0 tx:0 rx:0 period:7] from screen [on:0 period:1539550608] gl hn rssi=-45 ag=0 hr ticks 0,0,0 ls-=0 [56,56,56,56,61] brc=0 lrc=0 offload-stopped
+ rec[186]: time=02-20 21:43:58.039 processed=L2ConnectedState org=ConnectedState dest=<null> what=131155(0x20053) (when=-17ms what=131155 arg1=4!CMD_RSSI_POLL  rt=413846/549736 4 0 "wukong_office" 0a:18:d6:47:27:40 rssi=-50 f=2462 sc=60 link=65 tx=6.3, 0.0, 0.0  rx=13.7 bcn=0 [on:0 tx:0 rx:0 period:11] from screen [on:0 period:1539553623] gl hn rssi=-45 ag=0 hr ticks 0,0,0 ls-=0 [56,56,60,60,65] brc=0 lrc=0 offload-stopped
+ rec[187]: time=02-20 21:44:01.057 processed=L2ConnectedState org=ConnectedState dest=<null> what=131155(0x20053) (when=-23ms what=131155 arg1=4!CMD_RSSI_POLL  rt=416864/552754 4 0 "wukong_office" 0a:18:d6:47:27:40 rssi=-49 f=2462 sc=60 link=65 tx=6.7, 0.0, 0.0  rx=12.8 bcn=0 [on:0 tx:0 rx:0 period:20] from screen [on:0 period:1539556641] gl hn rssi=-44 ag=0 hr ticks 0,0,0 ls-=0 [56,56,60,60,65] brc=0 lrc=0 offload-stopped
+ rec[188]: time=02-20 21:44:04.089 processed=L2ConnectedState org=ConnectedState dest=<null> what=131155(0x20053) (when=-32ms what=131155 arg1=4!CMD_RSSI_POLL  rt=419896/555786 4 0 "wukong_office" 0a:18:d6:47:27:40 rssi=-49 f=2462 sc=60 link=65 tx=3.3, 0.0, 0.0  rx=10.4 bcn=0 [on:0 tx:0 rx:0 period:28] from screen [on:0 period:1539559673] gl hn rssi=-44 ag=0 hr ticks 0,0,0 ls-=0 [56,56,56,56,61] brc=0 lrc=0 offload-stopped
+ rec[189]: time=02-20 21:44:07.119 processed=L2ConnectedState org=ConnectedState dest=<null> what=131155(0x20053) (when=-31ms what=131155 arg1=4!CMD_RSSI_POLL  rt=422926/558816 4 0 "wukong_office" 0a:18:d6:47:27:40 rssi=-49 f=2462 sc=60 link=65 tx=1.7, 0.0, 0.0  rx=10.7 bcn=0 [on:0 tx:0 rx:0 period:28] from screen [on:0 period:1539562703] gl hn rssi=-44 ag=0 hr ticks 0,0,0 ls-=0 [56,56,56,56,61] brc=0 lrc=0 offload-stopped
+ rec[190]: time=02-20 21:44:10.130 processed=L2ConnectedState org=ConnectedState dest=<null> what=131155(0x20053) (when=-12ms what=131155 arg1=4!CMD_RSSI_POLL  rt=425937/561827 4 0 "wukong_office" 0a:18:d6:47:27:40 rssi=-50 f=2462 sc=60 link=72 tx=7.8, 0.0, 0.0  rx=14.9 bcn=0 [on:0 tx:0 rx:0 period:9] from screen [on:0 period:1539565714] gl hn rssi=-45 ag=0 hr ticks 0,0,0 ls-=0 [56,56,60,60,65] brc=0 lrc=0 offload-stopped
+ rec[191]: time=02-20 21:44:13.133 processed=L2ConnectedState org=ConnectedState dest=<null> what=131155(0x20053) (when=-6ms what=131155 arg1=4!CMD_RSSI_POLL  rt=428939/564829 4 0 "wukong_office" 0a:18:d6:47:27:40 rssi=-49 f=2462 sc=60 link=72 tx=7.9, 0.0, 0.0  rx=13.9 bcn=0 [on:0 tx:0 rx:0 period:4] from screen [on:0 period:1539568716] gl hn rssi=-44 ag=0 hr ticks 0,0,0 ls-=0 [56,56,60,60,65] brc=0 lrc=0 offload-stopped
+ rec[192]: time=02-20 21:44:16.148 processed=L2ConnectedState org=ConnectedState dest=<null> what=131155(0x20053) (when=-16ms what=131155 arg1=4!CMD_RSSI_POLL  rt=431955/567845 4 0 "wukong_office" 0a:18:d6:47:27:40 rssi=-49 f=2462 sc=60 link=72 tx=4.0, 0.0, 0.0  rx=12.0 bcn=0 [on:0 tx:0 rx:0 period:12] from screen [on:0 period:1539571732] gl hn rssi=-44 ag=0 hr ticks 0,0,0 ls-=0 [56,56,56,56,61] brc=0 lrc=0 offload-stopped
+ rec[193]: time=02-20 21:44:19.150 processed=L2ConnectedState org=ConnectedState dest=<null> what=131155(0x20053) (when=-7ms what=131155 arg1=4!CMD_RSSI_POLL  rt=434957/570847 4 0 "wukong_office" 0a:18:d6:47:27:40 rssi=-49 f=2462 sc=60 link=72 tx=2.0, 0.0, 0.0  rx=9.0 bcn=0 [on:0 tx:0 rx:0 period:4] from screen [on:0 period:1539574734] gl hn rssi=-44 ag=0 hr ticks 0,0,0 ls-=0 [56,56,56,56,61] brc=0 lrc=0 offload-stopped
+ rec[194]: time=02-20 21:44:22.164 processed=L2ConnectedState org=ConnectedState dest=<null> what=131155(0x20053) (when=-14ms what=131155 arg1=4!CMD_RSSI_POLL  rt=437971/573861 4 0 "wukong_office" 0a:18:d6:47:27:40 rssi=-49 f=2462 sc=60 link=65 tx=2.5, 0.0, 0.0  rx=10.0 bcn=0 [on:0 tx:0 rx:0 period:10] from screen [on:0 period:1539577748] gl hn rssi=-44 ag=0 hr ticks 0,0,0 ls-=0 [56,56,56,56,61] brc=0 lrc=0 offload-stopped
+ rec[195]: time=02-20 21:44:25.535 processed=L2ConnectedState org=ConnectedState dest=<null> what=131155(0x20053) (when=-375ms what=131155 arg1=4!CMD_RSSI_POLL  rt=441342/577232 4 0 "wukong_office" 0a:18:d6:47:27:40 rssi=-49 f=2462 sc=60 link=65 tx=1.7, 0.0, 0.0  rx=15.0 bcn=0 [on:0 tx:0 rx:0 period:14] from screen [on:0 period:1539581119] gl hn rssi=-44 ag=0 hr ticks 0,0,0 ls-=0 [56,56,56,56,61] brc=0 lrc=0 offload-stopped
+ rec[196]: time=02-20 21:44:28.558 processed=L2ConnectedState org=ConnectedState dest=<null> what=131155(0x20053) (when=-23ms what=131155 arg1=4!CMD_RSSI_POLL  rt=444365/580255 4 0 "wukong_office" 0a:18:d6:47:27:40 rssi=-49 f=2462 sc=60 link=65 tx=0.9, 0.0, 0.0  rx=9.5 bcn=0 [on:0 tx:0 rx:0 period:20] from screen [on:0 period:1539584142] gl hn rssi=-44 ag=0 hr ticks 0,0,0 ls-=0 [56,56,56,56,61] brc=0 lrc=0 offload-stopped
+ rec[197]: time=02-20 21:44:31.589 processed=L2ConnectedState org=ConnectedState dest=<null> what=131155(0x20053) (when=-32ms what=131155 arg1=4!CMD_RSSI_POLL  rt=447397/583287 4 0 "wukong_office" 0a:18:d6:47:27:40 rssi=-49 f=2462 sc=60 link=65 tx=0.4, 0.0, 0.0  rx=8.2 bcn=0 [on:0 tx:0 rx:0 period:28] from screen [on:0 period:1539587173] gl hn rssi=-44 ag=0 hr ticks 0,0,0 ls-=0 [56,56,56,56,61] brc=0 lrc=0 offload-stopped
+ rec[198]: time=02-20 21:44:34.130 processed=SupplicantStartedState org=ConnectedState dest=<null> what=131135(0x2003f) (when=-3ms what=131135!CMD_GET_LINK_LAYER_STATS uid=1000  rt=449938/585828{ when=-3ms what=131135 target=com.android.internal.util.StateMachine$SmHandler } 0 0
+ rec[199]: time=02-20 21:44:34.597 processed=L2ConnectedState org=ConnectedState dest=<null> what=131155(0x20053) (when=-10ms what=131155 arg1=4!CMD_RSSI_POLL  rt=450405/586295 4 0 "wukong_office" 0a:18:d6:47:27:40 rssi=-49 f=2462 sc=60 link=65 tx=1.1, 0.0, 0.0  rx=6.3 bcn=0 [on:0 tx:0 rx:0 period:7] from screen [on:0 period:1539590181] gl hn rssi=-44 ag=0 hr ticks 0,0,0 ls-=0 [56,56,56,56,61] brc=0 lrc=0 offload-stopped
+ rec[200]: time=02-20 21:44:37.629 processed=L2ConnectedState org=ConnectedState dest=<null> what=131155(0x20053) (when=-33ms what=131155 arg1=4!CMD_RSSI_POLL  rt=453437/589327 4 0 "wukong_office" 0a:18:d6:47:27:40 rssi=-50 f=2462 sc=60 link=65 tx=0.6, 0.0, 0.0  rx=7.2 bcn=0 [on:0 tx:0 rx:0 period:28] from screen [on:0 period:1539593213] gl hn rssi=-45 ag=0 hr ticks 0,0,0 ls-=0 [56,56,56,56,61] brc=0 lrc=0 offload-stopped
+ rec[201]: time=02-20 21:44:40.658 processed=L2ConnectedState org=ConnectedState dest=<null> what=131155(0x20053) (when=-30ms what=131155 arg1=4!CMD_RSSI_POLL  rt=456466/592356 4 0 "wukong_office" 0a:18:d6:47:27:40 rssi=-50 f=2462 sc=60 link=65 tx=0.3, 0.0, 0.0  rx=9.6 bcn=0 [on:0 tx:0 rx:0 period:25] from screen [on:0 period:1539596242] gl hn rssi=-45 ag=0 hr ticks 0,0,0 ls-=0 [56,56,56,56,61] brc=0 lrc=0 offload-stopped
+ rec[202]: time=02-20 21:44:43.680 processed=L2ConnectedState org=ConnectedState dest=<null> what=131155(0x20053) (when=-22ms what=131155 arg1=4!CMD_RSSI_POLL  rt=459487/595377 4 0 "wukong_office" 0a:18:d6:47:27:40 rssi=-49 f=2462 sc=60 link=65 tx=0.1, 0.0, 0.0  rx=9.8 bcn=0 [on:0 tx:0 rx:0 period:19] from screen [on:0 period:1539599264] gl hn rssi=-44 ag=0 hr ticks 0,0,0 ls-=0 [56,56,56,56,61] brc=0 lrc=0 offload-stopped
+curState=ConnectedState
+SupplicantStateTracker:
+ total records=5
+ rec[0]: time=02-20 21:35:07.821 processed=DefaultState org=UninitializedState dest=UninitializedState what=131183(0x2006f)
+ rec[1]: time=02-20 21:35:08.186 processed=DefaultState org=UninitializedState dest=DisconnectedState what=147462(0x24006)
+ rec[2]: time=02-20 21:35:08.190 processed=DefaultState org=DisconnectedState dest=ScanState what=147462(0x24006)
+ rec[3]: time=02-20 21:35:10.469 processed=DefaultState org=ScanState dest=HandshakeState what=147462(0x24006)
+ rec[4]: time=02-20 21:35:10.655 processed=DefaultState org=HandshakeState dest=CompletedState what=147462(0x24006)
+curState=CompletedState
+mAuthenticationFailuresCount 0
+mAuthFailureInSupplicantBroadcast false
+mNetworksDisabledDuringConnect false
+
+mLinkProperties {InterfaceName: wlan0 LinkAddresses: [fe80::8673:3ff:fe0b:e5f3/64,192.168.1.46/24,]  Routes: [fe80::/64 -> :: wlan0,192.168.1.0/24 -> 0.0.0.0 wlan0,0.0.0.0/0 -> 192.168.1.1 wlan0,] DnsAddresses: [192.168.1.1,] Domains: null MTU: 0 TcpBufferSizes: 524288,1048576,2097152,262144,524288,1048576 PcscfAddresses: [] }
+mWifiInfo SSID: wukong_office, BSSID: 0a:18:d6:47:27:40, MAC: 84:73:03:0b:e5:f3, Supplicant state: COMPLETED, RSSI: -49, Link speed: 65Mbps, Frequency: 2462MHz, Net ID: 0, Metered hint: false, score: 60
+mDhcpResults IP address 192.168.1.46/24 Gateway 192.168.1.1  DNS servers: [ 192.168.1.1 ] Domains DHCP server /192.168.1.1 Vendor info null lease 86400 seconds ppplinkname null
+mNetworkInfo [type: WIFI[], state: CONNECTED/CONNECTED, reason: (unspecified), extra: "wukong_office", roaming: false, failover: false, isAvailable: true]
+mLastSignalLevel 3
+mLastBssid 0a:18:d6:47:27:40
+mLastNetworkId 0
+mOperationalMode 1
+mUserWantsSuspendOpt true
+mSuspendOptNeedsDisabled 4
+Supplicant status bssid=0a:18:d6:47:27:40
+freq=2462
+ssid=wukong_office
+id=0
+mode=station
+pairwise_cipher=CCMP
+group_cipher=CCMP
+key_mgmt=WPA2-PSK
+wpa_state=COMPLETED
+ip_address=192.168.1.46
+p2p_device_address=86:73:03:0b:e5:f3
+address=84:73:03:0b:e5:f3
+uuid=523c7cf4-8b60-55a2-b586-d829802a3f56
+mLegacyPnoEnabled false
+mSetCountryCode null
+mDriverSetCountryCode null
+mConnectedModeGScanOffloadStarted false
+mGScanPeriodMilli 0
+mConnectionRequests 1
+mUntrustedReqCount 0
+
+Dump of WifiConfigStore
+mLastPriority 0
+Configured networks
+* ID: 0 SSID: "wukong_office" PROVIDER-NAME: null BSSID: any FQDN: null PRIO: 0
+ disableReason 6
+ numAssociation 13
+update time=02-20 21:35:10.251
+creationtime=01-01 00:05:28.680
+ validatedInternetAccess
+ KeyMgmt: WPA_PSK Protocols: WPA RSN
+ AuthAlgorithms:
+ PairwiseCiphers: TKIP CCMP
+ GroupCiphers: TKIP CCMP
+ PSK: *
+Enterprise config:
+password <removed>
+client_cert NULL
+engine 0
+anonymous_identity NULL
+identity NULL
+domain_suffix_match NULL
+phase2 NULL
+altsubject_match NULL
+subject_match NULL
+ca_cert NULL
+phase1 NULL
+key_id NULL
+engine_id NULL
+eap NULL
+IP config:
+IP assignment: DHCP
+Proxy settings: NONE
+ autoJoinBSSID=any cuid=1000 cname=android.uid.system:1000 luid=1000 lname=android.uid.system:1000 lcuid=-1 userApproved=USER_APPROVED noInternetAccessExpected=false 
+lastConnected: 574sec roamingFailureBlackListTimeMilli: 1000
+ simSlot: "-1"triggeredLow: 0 triggeredBad: 0 triggeredNotHigh: 0
+ticksLow: 0 ticksBad: 0 ticksNotHigh: 0
+triggeredJoin: 0
+autoJoinBailedDueToLowRssi: false
+autoJoinUseAggressiveJoinAttemptThreshold: 0
+pacFile: null phase1: null
+Channel: 0 ChannelWidth: 0
+
+
+WifiConfigStore - Log Begin ----
+02-20 21:35:06.501 - startHal stack:  - startHal - processMessage - processMsg - handleMessage - dispatchMessage - loop
+02-20 21:35:06.635 - p2p0: connectToSupplicant
+02-20 21:35:07.729 - wlan0: 0:IFNAME=wlan0 DRIVER MACADDR -> Macaddr = 84:73:03:0b:e5:f3
+02-20 21:35:07.730 - wlan0: 1:IFNAME=wlan0 SET SETBAND AUTO -> true
+02-20 21:35:07.730 - wlan0: 2:IFNAME=wlan0 SET update_config 1 -> true
+02-20 21:35:07.745 - WifiConfigStore: loadConfiguredNetworks:  
+02-20 21:35:07.746 - network id / ssid / bssid / flags
+02-20 21:35:07.746 - 0	wukong_office	any	
+02-20 21:35:07.753 - loaded configured network wukong_office 0 status=2 key="wukong_office"WPA_PSK
+02-20 21:35:07.754 - WifiConfigStore: loadConfiguredNetworks:  
+02-20 21:35:07.754 - network id / ssid / bssid / flags
+02-20 21:35:07.771 - readNetworkHistory() path:/data/misc/wifi/networkHistory.txt
+02-20 21:35:07.792 - loadConfiguredNetworks loaded 1 networks
+02-20 21:35:07.793 - wlan0: 6:IFNAME=wlan0 SET device_name ???¨¨¡ì?¨¨????¡ì??????1 -> true
+02-20 21:35:07.793 - wlan0: 7:IFNAME=wlan0 SET manufacturer Letv -> true
+02-20 21:35:07.794 - wlan0: 8:IFNAME=wlan0 SET model_name x600 -> true
+02-20 21:35:07.794 - wlan0: 9:IFNAME=wlan0 SET model_number x600 -> true
+02-20 21:35:07.794 - wlan0: 10:IFNAME=wlan0 SET serial_number SGLVEUMRPF8SON8L -> true
+02-20 21:35:07.794 - wlan0: 11:IFNAME=wlan0 SET config_methods physical_display virtual_push_button -> true
+02-20 21:35:07.795 - wlan0: 12:IFNAME=wlan0 SET device_type 10-0050F204-5 -> true
+02-20 21:35:07.796 - wlan0: 13:IFNAME=wlan0 SCAN_INTERVAL 15 -> true
+02-20 21:35:07.797 - wlan0: 14:IFNAME=wlan0 SET external_sim 1 -> true
+02-20 21:35:07.797 - wlan0: 15:IFNAME=wlan0 STA_AUTOCONNECT 1 -> true
+02-20 21:35:07.798 - wlan0: 17:IFNAME=wlan0 DRIVER BTCOEXSCAN-STOP -> true
+02-20 21:35:07.799 - wlan0: 18:IFNAME=wlan0 DRIVER RXFILTER-STOP -> true
+02-20 21:35:07.799 - wlan0: 19:IFNAME=wlan0 DRIVER RXFILTER-ADD 3 -> true
+02-20 21:35:07.801 - wlan0: 20:IFNAME=wlan0 DRIVER RXFILTER-START -> true
+02-20 21:35:07.801 - wlan0: 21:IFNAME=wlan0 DRIVER RXFILTER-STOP -> true
+02-20 21:35:07.801 - wlan0: 22:IFNAME=wlan0 DRIVER RXFILTER-REMOVE 2 -> true
+02-20 21:35:07.802 - wlan0: 23:IFNAME=wlan0 DRIVER RXFILTER-START -> true
+02-20 21:35:07.802 - Event [IFNAME=wlan0 CTRL-EVENT-STATE-CHANGE id=-1 state=0 BSSID=00:00:00:00:00:00 SSID=]
+02-20 21:35:07.803 - wlan0: 25:IFNAME=wlan0 SET pno 0 -> true
+02-20 21:35:07.811 - wlan0: 26:IFNAME=wlan0 SET ps 1 -> true
+02-20 21:35:07.820 - Event [IFNAME=p2p0 CTRL-EVENT-DRIVER-STATE STARTED]
+02-20 21:35:07.821 - p2p0: 27:DRIVER START -> true
+02-20 21:35:07.823 - p2p0: 28:SET persistent_reconnect 1 -> true
+02-20 21:35:07.824 - p2p0: 29:SET device_name ???1 -> true
+02-20 21:35:07.824 - p2p0: 30:SET p2p_ssid_postfix -???1 -> true
+02-20 21:35:07.825 - p2p0: 31:SET device_type 10-0050F204-5 -> true
+02-20 21:35:07.826 - wlan0: 32:IFNAME=wlan0 DRIVER SETSUSPENDMODE 0 -> true
+02-20 21:35:07.827 - p2p0: 33:SET config_methods virtual_push_button physical_display keypad -> true
+02-20 21:35:07.828 - p2p0: 34:P2P_SET conc_pref sta -> true
+02-20 21:35:07.829 - p2p0: 35:P2P_FLUSH -> true
+02-20 21:35:07.830 - p2p0: 36:P2P_SERVICE_FLUSH -> true
+02-20 21:35:07.830 - wlan0: 37:IFNAME=wlan0 SET pno 0 -> true
+02-20 21:35:08.182 - p2p0: 39:SAVE_CONFIG -> true
+02-20 21:35:08.182 - wlan0: 40:IFNAME=wlan0 SCAN TYPE=ONLY -> true
+02-20 21:35:08.182 - Event [IFNAME=wlan0 CTRL-EVENT-STATE-CHANGE id=-1 state=3 BSSID=00:00:00:00:00:00 SSID=]
+02-20 21:35:08.184 - Event [IFNAME=wlan0 CTRL-EVENT-SCAN-STARTED ]
+02-20 21:35:08.197 - p2p0: 42:SET wifi_display 0 -> true
+02-20 21:35:08.935 - Event [IFNAME=wlan0 CTRL-EVENT-SCAN-RESULTS ]
+02-20 21:35:08.935 - Event [IFNAME=wlan0 WPS-AP-AVAILABLE ]
+02-20 21:35:08.936 - Event [IFNAME=wlan0 CTRL-EVENT-SCAN-STARTED ]
+02-20 21:35:10.175 - Event [IFNAME=wlan0 CTRL-EVENT-SCAN-RESULTS ]
+02-20 21:35:10.175 - Event [IFNAME=wlan0 WPS-AP-AVAILABLE ]
+02-20 21:35:10.219 - wlan0: 52:IFNAME=wlan0 SET_NETWORK 0 bssid any -> true
+02-20 21:35:10.244 - wlan0: 53:IFNAME=wlan0 SAVE_CONFIG -> true
+02-20 21:35:10.245 - WifiConfigStore: saveNetwork netId wukong_office 0 status=2 key="wukong_office"WPA_PSK
+02-20 21:35:10.245 - addOrUpdateNetworkNative wukong_office
+02-20 21:35:10.247 - wlan0: 54:IFNAME=wlan0 SET_NETWORK 0 ssid 77756b6f6e675f6f6666696365 -> true
+02-20 21:35:10.247 - wlan0: 55:IFNAME=wlan0 SET_NETWORK 0 key_mgmt WPA-PSK -> true
+02-20 21:35:10.248 - wlan0: 56:IFNAME=wlan0 SET_NETWORK 0 proto WPA RSN -> true
+02-20 21:35:10.248 - wlan0: 57:IFNAME=wlan0 SET_NETWORK 0 pairwise TKIP CCMP -> true
+02-20 21:35:10.250 - wlan0: 58:IFNAME=wlan0 SET_NETWORK 0 group TKIP CCMP -> true
+02-20 21:35:10.250 - wlan0: 59:IFNAME=wlan0 SET_NETWORK 0 priority 0 -> true
+02-20 21:35:10.251 - wlan0: 60:IFNAME=wlan0 SET_NETWORK 0 sim_slot "-1" -> true
+02-20 21:35:10.265 - WifiConfigStore: saveNetwork got it back netId= wukong_office 0 status=2 key="wukong_office"WPA_PSK
+02-20 21:35:10.445 - wlan0: 62:IFNAME=wlan0 SAVE_CONFIG -> true
+02-20 21:35:10.446 - wlan0: 63:IFNAME=wlan0 ENABLE_NETWORK 0 -> true
+02-20 21:35:10.447 - selectNetwork wukong_office 0 status=2 key="wukong_office"WPA_PSK
+02-20 21:35:10.448 - wlan0: 64:IFNAME=wlan0 SELECT_NETWORK 0 -> true
+02-20 21:35:10.448 - Event [IFNAME=wlan0 Trying to associate with SSID 'wukong_office']
+02-20 21:35:10.449 - Event [IFNAME=wlan0 CTRL-EVENT-STATE-CHANGE id=0 state=5 BSSID=00:00:00:00:00:00 SSID=wukong_office]
+02-20 21:35:10.462 - wlan0: 65:IFNAME=wlan0 SELECT_NETWORK 0 -> true
+02-20 21:35:10.462 - wlan0: 66:IFNAME=wlan0 RECONNECT -> true
+02-20 21:35:10.533 - Event [IFNAME=wlan0 CTRL-EVENT-STATE-CHANGE id=0 state=6 BSSID=00:00:00:00:00:00 SSID=wukong_office]
+02-20 21:35:10.534 - Event [IFNAME=wlan0 Associated with 0a:18:d6:47:27:40]
+02-20 21:35:10.534 - Event [IFNAME=wlan0 CTRL-EVENT-STATE-CHANGE id=0 state=7 BSSID=0a:18:d6:47:27:40 SSID=wukong_office]
+02-20 21:35:10.578 - Event [IFNAME=wlan0 CTRL-EVENT-STATE-CHANGE id=0 state=8 BSSID=0a:18:d6:47:27:40 SSID=wukong_office]
+02-20 21:35:10.579 - Event [IFNAME=wlan0 WPA: Key negotiation completed with 0a:18:d6:47:27:40 [PTK=CCMP GTK=CCMP]]
+02-20 21:35:10.579 - Event [IFNAME=wlan0 CTRL-EVENT-CONNECTED - Connection to 0a:18:d6:47:27:40 completed [id=0 id_str=]]
+02-20 21:35:10.580 - Event [IFNAME=wlan0 CTRL-EVENT-STATE-CHANGE id=0 state=9 BSSID=0a:18:d6:47:27:40 SSID=wukong_office]
+02-20 21:35:10.582 - wlan0: 68:IFNAME=wlan0 SET pno 0 -> true
+02-20 21:35:10.588 - wlan0: 69:IFNAME=wlan0 SET_NETWORK 0 bssid any -> true
+02-20 21:35:10.604 - wlan0: 70:IFNAME=wlan0 SAVE_CONFIG -> true
+02-20 21:35:10.606 - wlan0: 71:IFNAME=wlan0 SET_NETWORK 0 bssid any -> true
+02-20 21:35:10.634 - wlan0: 72:IFNAME=wlan0 SAVE_CONFIG -> true
+02-20 21:35:10.697 - wlan0: 73:IFNAME=wlan0 DRIVER BTCOEXMODE 1 -> true
+02-20 21:35:10.698 - wlan0: 74:IFNAME=wlan0 DRIVER SETSUSPENDMODE 0 -> true
+02-20 21:35:10.698 - wlan0: 75:IFNAME=wlan0 SET ps 0 -> true
+02-20 21:35:11.203 - Event [IFNAME=wlan0 CTRL-EVENT-REGDOM-CHANGE init=USER type=COUNTRY alpha2=CN]
+02-20 21:35:11.204 - wlan0: 76:IFNAME=wlan0 DRIVER COUNTRY CN -> true
+02-20 21:35:11.960 - wlan0: 77:IFNAME=wlan0 SET ps 1 -> true
+02-20 21:35:11.960 - wlan0: 78:IFNAME=wlan0 DRIVER BTCOEXMODE 2 -> true
+02-20 21:35:20.704 - wlan0: 79:IFNAME=wlan0 SET ps 1 -> true
+02-20 21:35:20.704 - wlan0: 80:IFNAME=wlan0 DRIVER BTCOEXMODE 2 -> true
+02-20 21:35:23.199 - wlan0: 81:IFNAME=wlan0 SET pno 0 -> true
+02-20 21:35:23.204 - wlan0: 82:IFNAME=wlan0 DRIVER SETSUSPENDMODE 0 -> true
+02-20 21:35:23.238 - wlan0: 83:IFNAME=wlan0 SET pno 0 -> true
+02-20 21:35:23.242 - wlan0: 84:IFNAME=wlan0 DRIVER SETSUSPENDMODE 1 -> true
+02-20 21:39:32.736 - wlan0: 85:IFNAME=wlan0 SET pno 0 -> true
+02-20 21:39:32.747 - wlan0: 86:IFNAME=wlan0 DRIVER SETSUSPENDMODE 0 -> true
+WifiConfigStore - Log End ----
+
+Chipset information :-----------------------------------------------
+FW Version is: null
+Driver Version is: null
+Supported Feature set: -1
+--------------------------------------------------------------------
+Bug dump 0
+system time = 02-20 21:35:20.705
+kernel time = 32.144
+reason = 4
+--------------------------------------------------------------------
+--------------------------------------------------------------------
+Bug dump 1
+system time = 02-20 21:42:39.812
+kernel time = 335.620
+reason = 7
+--------------------------------------------------------------------
+--------------------------------------------------------------------
+Bug dump 2
+system time = 02-20 21:44:46.141
+kernel time = 461.949
+reason = 7
+--------------------------------------------------------------------
+--------------------------------------------------------------------
+

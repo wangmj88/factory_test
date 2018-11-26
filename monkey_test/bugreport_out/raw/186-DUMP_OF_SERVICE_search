@@ -1,0 +1,15 @@
+
+User: 0
+  Searchable authorities:
+    com.android.contacts
+    com.android.mms.SuggestionsProvider
+    applications
+    browser
+    com.android.calendar
+    com.android.email.suggestionsprovider
+    com.letv.android.filemanager.providers.SearchSuggestionProvider
+    null
+    null
+    null
+    com.android.calendar.CalendarRecentSuggestionsProvider
+    com.letv.android.quicksearchbox.google

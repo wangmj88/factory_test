@@ -1,0 +1,12 @@
+MTK HDMI MANAGER (dumpsys HDMI)
+HDMI mHdmiEnabled: true
+HDMI mHdmiVideoResolution: 100
+HDMI mHdmiVideoScale: 0
+HDMI mHdmiColorSpace: 0
+HDMI mHdmiDeepColor: 1
+HDMI mCapabilities: 1424
+HDMI mCablePlugged: false
+HDMI mEdid: null
+HDMI mPreEdid: null
+HDMI mInitialized: true
+

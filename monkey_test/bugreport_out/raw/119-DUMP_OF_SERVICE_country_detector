@@ -1,0 +1,4 @@
+CountryDetectorService state:
+  Number of listeners=2
+  ComprehensiveCountryDetector{timeRunning=565607, totalCountServiceStateChanges=0, currentCountServiceStateChanges=0, totalTime=565607, currentTime=585959, countries=
+   Country {ISO=CN, source=3, time=19632}}

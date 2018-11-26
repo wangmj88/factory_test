@@ -1,0 +1,9 @@
+broadcast 127.0.0.0 dev lo  proto kernel  scope link  src 127.0.0.1 
+local 127.0.0.0/8 dev lo  proto kernel  scope host  src 127.0.0.1 
+local 127.0.0.1 dev lo  proto kernel  scope host  src 127.0.0.1 
+broadcast 127.255.255.255 dev lo  proto kernel  scope link  src 127.0.0.1 
+broadcast 192.168.1.0 dev wlan0  proto kernel  scope link  src 192.168.1.46 
+local 192.168.1.46 dev wlan0  proto kernel  scope host  src 192.168.1.46 
+broadcast 192.168.1.255 dev wlan0  proto kernel  scope link  src 192.168.1.46 
+[ip: 0.008s elapsed]
+

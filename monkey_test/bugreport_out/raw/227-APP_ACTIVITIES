@@ -1,0 +1,31 @@
+Dump time : 2017???2???20??? ??????9:44:56
+TASK com.example.demo1 id=16
+  ACTIVITY com.example.demo1/com.example.plokmju.testmutilecompile.MainActivity 6f940b2 pid=6946
+    Local FragmentActivity a0a8106 State:
+      mCreated=truemResumed=true mStopped=false mReallyStopped=false
+      mLoadersStarted=true
+    FragmentManager misc state:
+      mHost=android.support.v4.app.FragmentActivity$HostCallbacks@d9f3f87
+      mContainer=android.support.v4.app.FragmentActivity$HostCallbacks@d9f3f87
+      mCurState=5 mStateSaved=false mDestroyed=false
+    View Hierarchy:
+      com.android.internal.policy.PhoneWindow$DecorView{5949df4 V.E..... ... 0,0-1080,1920}
+        android.widget.LinearLayout{b57a560 V.E..... ... 0,0-1080,1920}
+          android.view.ViewStub{f4da19 G.E..... ... 0,0-0,0 #102051e android:id/action_mode_bar_stub}
+          android.widget.FrameLayout{b0aaade V.E..... ... 0,63-1080,1920}
+            android.support.v7.widget.ActionBarOverlayLayout{21296ea V.E..... ... 0,0-1080,1857 #7f0b0043 app:id/decor_content_parent}
+              android.support.v7.widget.ContentFrameLayout{58c078 V.E..... ... 0,147-1080,1857 #1020002 android:id/content}
+                android.widget.LinearLayout{4768e9a V.E..... ... 0,0-1080,1710 #7f0b0054 app:id/activity_main}
+                  android.support.v7.widget.AppCompatTextView{b09d3cb V.ED.... ... 42,42-242,93}
+                  android.support.v7.widget.AppCompatButton{bb937a8 VFED..C. ... 42,93-273,219 #7f0b0055 app:id/btn_click}
+              android.support.v7.widget.ActionBarContainer{53eb351 V.ED.... ... 0,0-1080,147 #7f0b0044 app:id/action_bar_container}
+                android.support.v7.widget.Toolbar{7fb37b6 V.E..... ... 0,0-1080,147 #7f0b0045 app:id/action_bar}
+                  android.support.v7.widget.AppCompatTextView{c25878e V.ED.... ... 42,38-491,109}
+                  android.support.v7.widget.ActionMenuView{ed0c916 V.E..... ... 1080,0-1080,147}
+                android.support.v7.widget.ActionBarContextView{7a80d53 G.E..... ... 0,0-0,0 #7f0b0046 app:id/action_context_bar}
+        com.android.internal.policy.PhoneWindow$ImmersiveView{2542e31 V.ED.... ... 0,0-1080,63 #102002f android:id/statusBarBackground}
+[dumpsys: 0.024s elapsed]
+
+========================================================
+== Running Application Services
+========================================================

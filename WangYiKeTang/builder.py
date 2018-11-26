@@ -71,9 +71,9 @@ class order():
         self.snack=orderBuilder.bSnack
         self.beverage=orderBuilder.bBeverage
     def show(self):
-        print "Burger:%s"%self.burger.getName()
-        print "Snack:%s"%self.snack.getName()
-        print "Beverage:%s"%self.beverage.getName()
+        print ("Burger:%s"%self.burger.getName())
+        print ("Snack:%s"%self.snack.getName())
+        print ("Beverage:%s"%self.beverage.getName())
 
 class orderBuilder():
     bBurger=""

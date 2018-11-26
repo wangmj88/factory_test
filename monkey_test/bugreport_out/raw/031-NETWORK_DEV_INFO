@@ -1,0 +1,19 @@
+Inter-|   Receive                                                |  Transmit
+ face |bytes    packets errs drop fifo frame compressed multicast|bytes    packets errs drop fifo colls carrier compressed
+  ifb0:       0       0    0    0    0     0          0         0        0       0    0    0    0     0       0          0
+ccmni1:       0       0    0    0    0     0          0         0        0       0    0    0    0     0       0          0
+ccmni5:       0       0    0    0    0     0          0         0        0       0    0    0    0     0       0          0
+    lo:    6432     112    0    0    0     0          0         0     6432     112    0    0    0     0       0          0
+ tunl0:       0       0    0    0    0     0          0         0        0       0    0    0    0     0       0          0
+ccmni0:       0       0    0    0    0     0          0         0        0       0    0    0    0     0       0          0
+ccmni4:       0       0    0    0    0     0          0         0        0       0    0    0    0     0       0          0
+  sit0:       0       0    0    0    0     0          0         0        0       0    0    0    0     0       0          0
+ wlan0:  661948    6570    0    0    0     0          0         0   135489    1065    0    0    0     0       0          0
+ccmni3:       0       0    0    0    0     0          0         0        0       0    0    0    0     0       0          0
+ccmni7:       0       0    0    0    0     0          0         0        0       0    0    0    0     0       0          0
+  ifb1:       0       0    0    0    0     0          0         0        0       0    0    0    0     0       0          0
+ccmni2:       0       0    0    0    0     0          0         0        0       0    0    0    0     0       0          0
+ip6tnl0:       0       0    0    0    0     0          0         0        0       0    0    0    0     0       0          0
+  p2p0:       0       0    0    0    0     0          0         0      168       2    0    0    0     0       0          0
+ccmni6:       0       0    0    0    0     0          0         0        0       0    0    0    0     0       0          0
+

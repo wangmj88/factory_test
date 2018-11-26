@@ -1,0 +1,138 @@
+Load: 20.13 / 14.07 / 6.37
+CPU usage from 303847ms to 115998ms ago with 80% awake:
+  46% 1590/LC898122OFILMAF: 0% user + 46% kernel
+  8.3% 924/system_server: 5.8% user + 2.4% kernel / faults: 98665 minor 272 major
+  2.5% 1346/com.android.systemui: 1.7% user + 0.8% kernel / faults: 16580 minor 61 major
+  2.5% 297/surfaceflinger: 1.2% user + 1.2% kernel / faults: 1329 minor 9 major
+  1.4% 620/adbd: 0.3% user + 1% kernel / faults: 14683 minor
+  1.7% 1599/com.android.phone: 1.5% user + 0.1% kernel / faults: 20509 minor 13 major
+  0.9% 1804/com.android.launcher3: 0.7% user + 0.2% kernel / faults: 36388 minor 150 major
+  1.1% 267/logd: 0.5% user + 0.6% kernel / faults: 112 minor
+  0.5% 327/aal: 0.1% user + 0.4% kernel / faults: 1 minor
+  0.3% 1893/com.letv.app.appstore: 0.2% user + 0% kernel / faults: 23727 minor 128 major
+  0.3% 1699/com.stv.android.videochat: 0.3% user + 0% kernel / faults: 11114 minor 5 major
+  0.4% 1507/hif_thread: 0% user + 0.4% kernel
+  0.4% 4083/com.tencent.mm: 0.2% user + 0.1% kernel / faults: 14323 minor 22 major
+  0.3% 1760/com.letv.android.phonecontrol: 0.3% user + 0% kernel / faults: 12077 minor 1 major
+  0.2% 186/mtk charger_hv_: 0% user + 0.2% kernel
+  0.3% 188/mmcqd/0: 0% user + 0.3% kernel
+  0.1% 1666/com.android.mms: 0.1% user + 0% kernel / faults: 10400 minor 3 major
+  0.2% 4296/com.letv.android.supermanager: 0.1% user + 0% kernel / faults: 11162 minor 18 major
+  0.1% 292/kworker/0:2: 0% user + 0.1% kernel
+  0.2% 195/kworker/0:1: 0% user + 0.2% kernel
+  0.2% 1741/com.letv.domain: 0.2% user + 0% kernel / faults: 10757 minor
+  0.2% 74/cfinteractive: 0% user + 0.2% kernel
+  0.2% 108/hps_main: 0% user + 0.2% kernel
+  0.1% 1619/com.mediatek.ims: 0.1% user + 0% kernel / faults: 10718 minor 1 major
+  0.1% 1544/com.android.systemui:imagewallpaper: 0.1% user + 0% kernel / faults: 9505 minor
+  0.2% 4331/com.tencent.mm:push: 0.1% user + 0% kernel / faults: 14222 minor 9 major
+  0.2% 194/kworker/u16:5: 0% user + 0.2% kernel
+  0.2% 6/kworker/u16:0: 0% user + 0.2% kernel
+  0.1% 1635/com.mediatek.wfo.impl: 0.1% user + 0% kernel / faults: 10614 minor
+  0.1% 1725/com.mediatek.nlpservice: 0.1% user + 0% kernel / faults: 10808 minor
+  0.1% 1774/com.dolby: 0.1% user + 0% kernel / faults: 10980 minor
+  0.1% 1651/com.letv.android.freeflow: 0.1% user + 0% kernel / faults: 10200 minor 1 major
+  0.2% 2456/com.letv.agnes: 0.1% user + 0% kernel / faults: 10212 minor 8 major
+  0.1% 1612/com.mediatek.gba: 0.1% user + 0% kernel / faults: 10677 minor
+  0.1% 184/bat_routine_thr: 0% user + 0.1% kernel
+  0.1% 1709/com.letv.gallery3d.syncservice: 0.1% user + 0% kernel / faults: 10621 minor
+  0.1% 1789/com.letv.android.privacydata: 0.1% user + 0% kernel / faults: 11453 minor
+  0.1% 1681/com.mediatek.voiceextension: 0.1% user + 0% kernel / faults: 10442 minor
+  0.1% 847/ksdioirqd/mmc1: 0% user + 0.1% kernel
+  0.1% 3512/kworker/u16:6: 0% user + 0.1% kernel
+  0.1% 157/frame_update_wo: 0% user + 0.1% kernel
+  0.1% 155/display_check_a: 0% user + 0.1% kernel
+  0.1% 296/servicemanager: 0% user + 0% kernel / faults: 6 minor
+  0.1% 2408/com.stv.stvpush: 0.1% user + 0% kernel / faults: 8813 minor 3 major
+  0.1% 1556/com.baidu.input_letv: 0% user + 0% kernel / faults: 8023 minor 37 major
+  0.1% 4486/sina.mobile.tianqitongletv: 0% user + 0% kernel / faults: 8344 minor 14 major
+  0.1% 921/gsm0710muxd: 0% user + 0.1% kernel
+  0% 2742/kworker/2:2: 0% user + 0% kernel
+  0% 106/ion_mm_heap: 0% user + 0% kernel
+  0.1% 152/kworker/u16:2: 0% user + 0.1% kernel
+  0.1% 370/zygote64: 0% user + 0.1% kernel / faults: 26112 minor
+  0.1% 4314/android.process.media: 0% user + 0% kernel / faults: 9611 minor 21 major
+  0.1% 955/kworker/u17:3: 0% user + 0.1% kernel
+  0% 1578/com.baidu.map.location: 0% user + 0% kernel / faults: 8542 minor 4 major
+  0% 1297/com.mediatek.mtklogger: 0% user + 0% kernel / faults: 8777 minor 1 major
+  0% 2759/com.android.music: 0% user + 0% kernel / faults: 13170 minor
+  0.1% 848/stp_sdio_tx_rx: 0% user + 0.1% kernel
+  0.1% 919/kworker/u17:2: 0% user + 0.1% kernel
+  0% 2196/com.letv.android.wallpaperonline: 0% user + 0% kernel / faults: 14271 minor
+  0.1% 3513/kworker/u16:7: 0% user + 0.1% kernel
+  0% 3515/com.letv.android.ota: 0% user + 0% kernel / faults: 8500 minor
+  0% 4510/com.letv.bugpostbox: 0% user + 0% kernel / faults: 8575 minor
+  0.1% 159/kworker/u16:3: 0% user + 0.1% kernel
+  0% 4191/com.android.providers.calendar: 0% user + 0% kernel / faults: 8594 minor 1 major
+  0% 2468/com.letv.leui.widget.leclipboardapp: 0% user + 0% kernel / faults: 9744 minor 1 major
+  0% 3203/com.letv.bsp.crashhandler: 0% user + 0% kernel / faults: 8582 minor 1 major
+  0% 1508/rx_thread: 0% user + 0% kernel
+  0% 7/migration/0: 0% user + 0% kernel
+  0% 8/rcu_preempt: 0% user + 0% kernel
+  0% 11/migration/1: 0% user + 0% kernel
+  0% 1506/tx_thread: 0% user + 0% kernel
+  0% 15/migration/2: 0% user + 0% kernel
+  0% 69/kworker/1:1: 0% user + 0% kernel
+  0% 303/mtkmal: 0% user + 0% kernel / faults: 1 minor
+  0% 363/fuelgauged: 0% user + 0% kernel
+  0% 1542/wpa_supplicant: 0% user + 0% kernel
+  0% 3/ksoftirqd/0: 0% user + 0% kernel
+  0% 19/migration/3: 0% user + 0% kernel
+  0% 295/lmkd: 0% user + 0% kernel
+  0% 308/netd: 0% user + 0% kernel / faults: 436 minor
+  0% 970/mtkrild: 0% user + 0% kernel
+  0% 156/present_fence_w: 0% user + 0% kernel
+  0% 173/pvr_defer_free: 0% user + 0% kernel
+  0% 2479/gas_srv: 0% user + 0% kernel
+  0% 23/migration/4: 0% user + 0% kernel
+  0% 1278/sdcard: 0% user + 0% kernel / faults: 8 minor
+  0% 148/mc_fastcall: 0% user + 0% kernel
+  0% 243/jbd2/mmcblk0p23: 0% user + 0% kernel
+  0% 312/mediaserver: 0% user + 0% kernel / faults: 199 minor 7 major
+  0% 361/thermal: 0% user + 0% kernel
+  0% 12/ksoftirqd/1: 0% user + 0% kernel
+  0% 27/migration/5: 0% user + 0% kernel
+  0% 31/migration/6: 0% user + 0% kernel
+  0% 151/display_esd_che: 0% user + 0% kernel
+  0% 266/mcDriverDaemon: 0% user + 0% kernel / faults: 8 minor 1 major
+  0% 273/vold: 0% user + 0% kernel / faults: 26 minor 1 major
+  0% 313/installd: 0% user + 0% kernel / faults: 116 minor
+  0% 315/keystore: 0% user + 0% kernel / faults: 56 minor 2 major
+  0% 371/zygote: 0% user + 0% kernel / faults: 2347 minor
+  0% 1//init: 0% user + 0% kernel / faults: 15 minor
+  0% 10/rcu_sched: 0% user + 0% kernel
+  0% 16/ksoftirqd/2: 0% user + 0% kernel
+  0% 35/migration/7: 0% user + 0% kernel
+  0% 71/pmic_6331_threa: 0% user + 0% kernel
+  0% 226/kworker/3:1: 0% user + 0% kernel
+  0% 228/kworker/0:1H: 0% user + 0% kernel
+  0% 229/kworker/1:1H: 0% user + 0% kernel
+  0% 232/kworker/2:1H: 0% user + 0% kernel
+  0% 248/kworker/3:1H: 0% user + 0% kernel
+  0% 310/debuggerd64: 0% user + 0% kernel / faults: 66 minor
+  0% 367/guiext-server: 0% user + 0% kernel / faults: 24 minor
+  0% 374/program_binary_service: 0% user + 0% kernel / faults: 12 minor
+  0% 674/mtk_wmtd: 0% user + 0% kernel
+ +0% 4540/kworker/3:2: 0% user + 0% kernel
+ +0% 4545/com.letv.android.letvlive:pushservice: 0% user + 0% kernel
+ +0% 4560/com.android.settings: 0% user + 0% kernel
+ +0% 4574/com.letv.android.usagestats: 0% user + 0% kernel
+ +0% 4613/logcat: 0% user + 0% kernel
+ +0% 4715/com.android.defcontainer: 0% user + 0% kernel
+ +0% 4746/android.process.acore: 0% user + 0% kernel
+ +0% 4769/com.android.keychain: 0% user + 0% kernel
+ +0% 4782/com.letv.android.filemanager: 0% user + 0% kernel
+ +0% 4799/com.letv.android.quicksearchbox: 0% user + 0% kernel
+ +0% 4836/com.letv.walletbiz: 0% user + 0% kernel
+ +0% 4850/com.svox.pico: 0% user + 0% kernel
+ +0% 4945/com.android.calendar: 0% user + 0% kernel
+ +0% 4980/com.letv.android.emojistore: 0% user + 0% kernel
+ +0% 5074/kworker/0:3: 0% user + 0% kernel
+ +0% 5177/com.letv.android.mobileactivation: 0% user + 0% kernel
+ +0% 5307/com.wandoujia.phoenix2.usbproxy: 0% user + 0% kernel
+ +0% 5593/kworker/1:2: 0% user + 0% kernel
+ +0% 5803/com.example.demo1: 0% user + 0% kernel
+ +0% 5852/bugreport: 0% user + 0% kernel
+ +0% 5854/dumpstate: 0% user + 0% kernel
+ +0% 6289/dumpsys: 0% user + 0% kernel
+43% TOTAL: 15% user + 27% kernel + 0.6% iowait + 0% irq + 0.2% softirq

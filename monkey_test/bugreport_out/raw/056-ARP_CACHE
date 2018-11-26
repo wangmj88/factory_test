@@ -1,0 +1,10 @@
+192.168.1.151 dev wlan0 lladdr 94:a1:a2:86:3c:7a STALE
+192.168.1.1 dev wlan0 lladdr 70:f9:6d:75:9b:63 STALE
+192.168.1.97 dev wlan0 lladdr 70:14:a6:7a:fa:36 STALE
+192.168.1.21 dev wlan0 lladdr 64:09:80:74:64:b8 STALE
+192.168.1.84 dev wlan0 lladdr dc:2b:2a:7b:c7:48 STALE
+192.168.1.81 dev wlan0 lladdr 10:48:b1:60:d4:5f STALE
+192.168.1.80 dev wlan0 lladdr 98:01:a7:a8:22:0f STALE
+192.168.1.107 dev wlan0 lladdr f0:b4:29:15:df:4b STALE
+[ip: 0.009s elapsed]
+

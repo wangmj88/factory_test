@@ -1,0 +1,31 @@
+Unknown argument: -a
+Drop box contents: 14 entries
+
+2017-02-20 11:01:18 storage_trim (text, 30 bytes)
+    internal 5382287360 9903777078
+2017-02-20 11:01:18 storage_trim (text, 26 bytes)
+    unknown 430190592 23017000
+2017-02-20 11:01:18 storage_trim (text, 23 bytes)
+    unknown 6049792 9495615
+2017-02-20 11:01:18 storage_trim (text, 23 bytes)
+    unknown 6053888 9493770
+2017-02-20 11:01:26 SYSTEM_BOOT (text, 305 bytes)
+    Build: Letv/???¨¨¡ì?¨¨????¡ì??????1/x600:6.0/ABXCNOP5902012161S/1481890107
+2017-02-20 11:01:26 SYSTEM_LAST_KMSG (compressed text, 473 bytes)
+    Build: Letv/???¨¨¡ì?¨¨????¡ì??????1/x600:6.0/ABXCNOP5902012161S/1481890107
+2017-02-20 11:01:26 SYSTEM_AUDIT (text, 305 bytes)
+    Build: Letv/???¨¨¡ì?¨¨????¡ì??????1/x600:6.0/ABXCNOP5902012161S/1481890107
+2017-02-20 11:15:09 data_app_crash (text, 816 bytes)
+    Process: com.wandoujia.phoenix2.usbproxy/Flags: 0x3888be44/Package: co ...
+2017-02-20 17:36:14 data_app_crash (text, 816 bytes)
+    Process: com.wandoujia.phoenix2.usbproxy/Flags: 0x3888be44/Package: co ...
+2017-02-20 20:28:39 data_app_crash (text, 1607 bytes)
+    Process: com.dailyupfitness.up/Flags: 0x38c8be46/Package: com.dailyupf ...
+2017-02-20 20:44:52 data_app_crash (text, 816 bytes)
+    Process: com.wandoujia.phoenix2.usbproxy/Flags: 0x3888be44/Package: co ...
+2017-02-20 21:35:19 SYSTEM_BOOT (text, 305 bytes)
+    Build: Letv/???¨¨¡ì?¨¨????¡ì??????1/x600:6.0/ABXCNOP5902012161S/1481890107
+2017-02-20 21:35:19 SYSTEM_LAST_KMSG (compressed text, 460 bytes)
+    Build: Letv/???¨¨¡ì?¨¨????¡ì??????1/x600:6.0/ABXCNOP5902012161S/1481890107
+2017-02-20 21:35:19 SYSTEM_AUDIT (text, 305 bytes)
+    Build: Letv/???¨¨¡ì?¨¨????¡ì??????1/x600:6.0/ABXCNOP5902012161S/1481890107

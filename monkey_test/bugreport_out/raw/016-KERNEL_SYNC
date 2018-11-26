@@ -1,0 +1,7 @@
+fences:
+--------------
+[ffffffc06660d300] com.example.demo1/com.exampl:2: active
+  timeline-primary-0-0_pt active: 2144 / 2143
+[ffffffc06660dd80] StatusBar:0: active
+  timeline-primary-0-1_pt active: 1587 / 1586
+

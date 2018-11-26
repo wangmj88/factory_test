@@ -1,0 +1,365 @@
+<html>
+<head>
+  <title>f00207.html</title>
+  <link rel="stylesheet" type="text/css" href="themes/blue/style.css"/>
+  <link rel="stylesheet" type="text/css" href="jquery.treeTable.css"/>
+  <link rel="stylesheet" type="text/css" href="jquery.ui.css"/>
+  <link rel="stylesheet" type="text/css" href="style.css"/>
+  <script type="text/javascript" src="jquery.js"></script>
+  <script type="text/javascript" src="jquery.cookie.js"></script>
+  <script type="text/javascript" src="jquery.hotkeys.js"></script>
+  <script type="text/javascript" src="jquery.jstree.js"></script>
+  <script type="text/javascript" src="jquery.tablesorter.js"></script>
+  <script type="text/javascript" src="jquery.tablednd.js"></script>
+  <script type="text/javascript" src="jquery.treeTable.js"></script>
+  <script type="text/javascript" src="jquery.flot.js"></script>
+  <script type="text/javascript" src="jquery.flot.navigate.js"></script>
+  <script type="text/javascript" src="jquery.flot.selection.js"></script>
+  <script type="text/javascript" src="jquery.ui.js"></script>
+  <script type="text/javascript" src="colResizable-1.3.source.js"></script>
+  <script type="text/javascript" src="/self$wsjs"></script>
+  <script type="text/javascript" src="main.js"></script>
+</head>
+<body>
+<a name="ch0"></a><div class="btn-pop-out"><a href="f00207.html#ch0" target="_blank"><img src="ic_pop_out.png"/></a></div><h2>system_server (924)</h2>
+<div><p>Mem info from 'meminfo' service:</p><pre class="box">** MEMINFO in pid 924 [system] **
+                   Pss      Pss   Shared  Private   Shared  Private  Swapped     Heap     Heap     Heap
+                 Total    Clean    Dirty    Dirty    Clean    Clean    Dirty     Size    Alloc     Free
+                ------   ------   ------   ------   ------   ------   ------   ------   ------   ------
+  Native Heap    20079        0    25936    19448        0        0        0    65536    47931    17604
+  Dalvik Heap    21037        0      844    21016        0        0        0    47945    45686     2259
+ Dalvik Other    22578        0     8672    22368        0        0        0                           
+        Stack     1720        0        0     1720        0        0        0                           
+       Ashmem     4352        0       32     4336        0        0        0                           
+    Other dev        6        0       88        0        0        4        0                           
+     .so mmap     4106     1280     4088      508    15936     1280        0                           
+    .apk mmap      577      136        0        0     1620      136        0                           
+    .ttf mmap        1        0        0        0       16        0        0                           
+    .dex mmap    24249    24168        4       32      132    24168        0                           
+    .oat mmap     8498     4392        4        0    22916     4392        0                           
+    .art mmap     2718        0     1672     2376    11528        0        0                           
+   Other mmap      288        0       12        8     1248      104        0                           
+   EGL mtrack     2560        0        0     2560        0        0        0                           
+    GL mtrack     7297        0        0     7297        0        0        0                           
+      Unknown     1225        0      196     1224        0        0        0                           
+        TOTAL   121291    29976    41548    82893    53396    30084        0   113481    93617    19863
+ 
+ Dalvik Details
+        .Heap    20356        0        0    20356        0        0        0                           
+ .LinearAlloc     2290        0      104     2288        0        0        0                           
+          .GC    19912        0     8568    19704        0        0        0                           
+      .Zygote      585        0      844      564        0        0        0                           
+   .NonMoving       96        0        0       96        0        0        0                           
+ .IndirectRef      376        0        0      376        0        0        0                           
+ 
+ App Summary
+                       Pss(KB)
+                        ------
+           Java Heap:    23392
+         Native Heap:    19448
+                Code:    30516
+               Stack:     1720
+            Graphics:     9857
+       Private Other:    28044
+              System:     8314
+ 
+               TOTAL:   121291      TOTAL SWAP (KB):        0
+ 
+ Objects
+               Views:        6         ViewRootImpl:        2
+         AppContexts:       23           Activities:        0
+              Assets:       10        AssetManagers:       11
+       Local Binders:      211        Proxy Binders:      718
+       Parcel memory:      205         Parcel count:      253
+    Death Recipients:      296      OpenSSL Sockets:        0
+ 
+ SQL
+         MEMORY_USED:      496
+  PAGECACHE_OVERFLOW:      144          MALLOC_SIZE:       62
+ 
+ DATABASES
+      pgsz     dbsz   Lookaside(b)          cache  Dbname
+         4       72             49        28/26/6  /data/system/users/0/accounts.db
+         4       52             31        38/25/5  /data/system/notification_log.db
+         4       20             23        18/31/3  /data/system/locksettings.db
+         4       20             25        36/21/3  /data/system/locksettings.db (1)
+ 
+ Asset Allocations
+    zip:/data/app/com.wandoujia.phoenix2.usbproxy-1/base.apk:/resources.arsc: 21K
+
+Total PSS by process:
+   121291 kB: system (pid 924)
+    98032 kB: surfaceflinger (pid 297)
+    79395 kB: com.android.launcher3 (pid 1804 / activities)
+    68838 kB: com.tencent.mm (pid 4083)
+    65772 kB: com.android.systemui (pid 1346)
+    50196 kB: android.process.acore (pid 4746)
+    49973 kB: com.android.phone (pid 1599)
+    38607 kB: mediaserver (pid 312)
+    35305 kB: com.stv.android.videochat (pid 1699)
+    32610 kB: com.example.demo1 (pid 6946 / activities)
+    30901 kB: com.baidu.input_letv (pid 1556)
+    30223 kB: com.android.settings (pid 4560)
+    24545 kB: com.android.systemui:imagewallpaper (pid 1544)
+    23610 kB: com.letv.android.supermanager (pid 4296)
+    22630 kB: com.letv.walletbiz (pid 4836)
+    20787 kB: com.letv.app.appstore (pid 1893)
+    20428 kB: com.tencent.mm:push (pid 4331)
+    19706 kB: com.letv.android.quicksearchbox (pid 4799)
+    19227 kB: zygote (pid 371)
+    18399 kB: com.android.music (pid 2759)
+    17410 kB: com.android.mms (pid 1666)
+    17076 kB: /init (pid 1)
+    15076 kB: zygote64 (pid 370)
+    14782 kB: com.android.calendar (pid 4945)
+    14663 kB: com.letv.android.phonecontrol (pid 1760)
+    14290 kB: com.letv.android.emojistore (pid 4980)
+    14126 kB: com.letv.android.wallpaperonline (pid 2196)
+    13334 kB: com.wandoujia.phoenix2.usbproxy (pid 5307)
+    11310 kB: com.stv.stvpush (pid 2408)
+    10944 kB: sina.mobile.tianqitongletv (pid 4486)
+    10477 kB: com.letv.agnes (pid 2456)
+    10079 kB: android.process.media (pid 4314)
+    10078 kB: com.letv.domain (pid 1741)
+     9808 kB: com.letv.android.letvlive:pushservice (pid 4545)
+     9478 kB: com.baidu.map.location (pid 1578)
+     9297 kB: com.letv.android.filemanager (pid 4782)
+     7822 kB: com.mediatek.voiceextension (pid 1681)
+     7791 kB: com.letv.leui.widget.leclipboardapp (pid 2468)
+     7311 kB: vtservice (pid 330)
+     7300 kB: com.letv.android.ota (pid 3515)
+     6906 kB: com.dolby (pid 1774)
+     6461 kB: com.mediatek.mtklogger (pid 1297)
+     6295 kB: com.letv.android.usagestats (pid 4574)
+     6245 kB: com.mediatek.ims (pid 1619)
+     6167 kB: com.letv.android.freeflow (pid 1651)
+     6111 kB: com.mediatek.wfo.impl (pid 1635)
+     6018 kB: drmserver (pid 311)
+     5619 kB: com.android.keychain (pid 4769)
+     5467 kB: com.android.printspooler (pid 6420)
+     5452 kB: com.letv.bsp.crashhandler (pid 3203)
+     5390 kB: com.letv.android.mobileactivation (pid 5177)
+     5295 kB: com.android.defcontainer (pid 4715)
+     5189 kB: com.mediatek.nlpservice (pid 1725)
+     5169 kB: em_svr (pid 376)
+     5130 kB: program_binary_service (pid 374)
+     5094 kB: com.svox.pico (pid 4850)
+     5007 kB: com.mediatek.gba (pid 1612)
+     4991 kB: com.letv.gallery3d.syncservice (pid 1709)
+     4904 kB: com.letv.android.privacydata (pid 1789)
+     3640 kB: logd (pid 267)
+     3040 kB: sdcard (pid 1278)
+     2843 kB: mtkmal (pid 303)
+     2717 kB: mtkrild (pid 970)
+     1937 kB: wpa_supplicant (pid 1542)
+     1920 kB: aal (pid 327)
+     1856 kB: mcDriverDaemon (pid 266)
+     1573 kB: vold (pid 273)
+     1523 kB: mtk_agpsd (pid 332)
+     1307 kB: netd (pid 308)
+     1204 kB: guiext-server (pid 367)
+     1062 kB: keystore (pid 315)
+      918 kB: ged_srv (pid 2477)
+      906 kB: debuggerd (pid 309)
+      902 kB: pq (pid 298)
+      876 kB: ueventd (pid 224)
+      876 kB: adbd (pid 620)
+      872 kB: gatekeeperd (pid 372)
+      807 kB: emdlogger1 (pid 920)
+      700 kB: ccci_mdinit (pid 305)
+      697 kB: dm_agent_binder (pid 328)
+      679 kB: slpd (pid 333)
+      647 kB: installd (pid 313)
+      641 kB: ppl_agent (pid 329)
+      640 kB: gas_srv (pid 2479)
+      626 kB: debuggerd64 (pid 310)
+      615 kB: nvram_agent_binder (pid 359)
+      612 kB: dumpstate (pid 6992)
+      602 kB: pppd_btdun (pid 375)
+      586 kB: mnld (pid 357)
+      574 kB: MtkCodecService (pid 365)
+      559 kB: ccci_fsd (pid 304)
+      548 kB: mobile_log_d (pid 317)
+      538 kB: matv (pid 331)
+      519 kB: fuelgauged (pid 363)
+      514 kB: dumpsys (pid 7422)
+      510 kB: gsm0710muxd (pid 921)
+      479 kB: batterywarning (pid 364)
+      472 kB: healthd (pid 294)
+      472 kB: autokd (pid 299)
+      467 kB: thermald (pid 362)
+      462 kB: netdiag (pid 324)
+      452 kB: logcat (pid 4613)
+      437 kB: servicemanager (pid 296)
+      420 kB: lmkd (pid 295)
+      398 kB: wifi2agps (pid 334)
+      364 kB: stp_dump3 (pid 600)
+      358 kB: memsicd (pid 358)
+      352 kB: 6620_launcher (pid 302)
+      343 kB: bugreport (pid 6990)
+      323 kB: tr_app_data_service (pid 368)
+      290 kB: thermal (pid 361)
+      287 kB: sn (pid 373)
+
+Total PSS by OOM adjustment:
+   259608 kB: Native
+               98032 kB: surfaceflinger (pid 297)
+               38607 kB: mediaserver (pid 312)
+               19227 kB: zygote (pid 371)
+               17076 kB: /init (pid 1)
+               15076 kB: zygote64 (pid 370)
+                7311 kB: vtservice (pid 330)
+                6018 kB: drmserver (pid 311)
+                5169 kB: em_svr (pid 376)
+                5130 kB: program_binary_service (pid 374)
+                3640 kB: logd (pid 267)
+                3040 kB: sdcard (pid 1278)
+                2843 kB: mtkmal (pid 303)
+                2717 kB: mtkrild (pid 970)
+                1937 kB: wpa_supplicant (pid 1542)
+                1920 kB: aal (pid 327)
+                1856 kB: mcDriverDaemon (pid 266)
+                1573 kB: vold (pid 273)
+                1523 kB: mtk_agpsd (pid 332)
+                1307 kB: netd (pid 308)
+                1204 kB: guiext-server (pid 367)
+                1062 kB: keystore (pid 315)
+                 918 kB: ged_srv (pid 2477)
+                 906 kB: debuggerd (pid 309)
+                 902 kB: pq (pid 298)
+                 876 kB: ueventd (pid 224)
+                 876 kB: adbd (pid 620)
+                 872 kB: gatekeeperd (pid 372)
+                 807 kB: emdlogger1 (pid 920)
+                 700 kB: ccci_mdinit (pid 305)
+                 697 kB: dm_agent_binder (pid 328)
+                 679 kB: slpd (pid 333)
+                 647 kB: installd (pid 313)
+                 641 kB: ppl_agent (pid 329)
+                 640 kB: gas_srv (pid 2479)
+                 626 kB: debuggerd64 (pid 310)
+                 615 kB: nvram_agent_binder (pid 359)
+                 612 kB: dumpstate (pid 6992)
+                 602 kB: pppd_btdun (pid 375)
+                 586 kB: mnld (pid 357)
+                 574 kB: MtkCodecService (pid 365)
+                 559 kB: ccci_fsd (pid 304)
+                 548 kB: mobile_log_d (pid 317)
+                 538 kB: matv (pid 331)
+                 519 kB: fuelgauged (pid 363)
+                 514 kB: dumpsys (pid 7422)
+                 510 kB: gsm0710muxd (pid 921)
+                 479 kB: batterywarning (pid 364)
+                 472 kB: healthd (pid 294)
+                 472 kB: autokd (pid 299)
+                 467 kB: thermald (pid 362)
+                 462 kB: netdiag (pid 324)
+                 452 kB: logcat (pid 4613)
+                 437 kB: servicemanager (pid 296)
+                 420 kB: lmkd (pid 295)
+                 398 kB: wifi2agps (pid 334)
+                 364 kB: stp_dump3 (pid 600)
+                 358 kB: memsicd (pid 358)
+                 352 kB: 6620_launcher (pid 302)
+                 343 kB: bugreport (pid 6990)
+                 323 kB: tr_app_data_service (pid 368)
+                 290 kB: thermal (pid 361)
+                 287 kB: sn (pid 373)
+   121291 kB: System
+              121291 kB: system (pid 924)
+   246543 kB: Persistent
+               65772 kB: com.android.systemui (pid 1346)
+               49973 kB: com.android.phone (pid 1599)
+               35305 kB: com.stv.android.videochat (pid 1699)
+               17410 kB: com.android.mms (pid 1666)
+               14663 kB: com.letv.android.phonecontrol (pid 1760)
+               10078 kB: com.letv.domain (pid 1741)
+                7822 kB: com.mediatek.voiceextension (pid 1681)
+                6906 kB: com.dolby (pid 1774)
+                6245 kB: com.mediatek.ims (pid 1619)
+                6167 kB: com.letv.android.freeflow (pid 1651)
+                6111 kB: com.mediatek.wfo.impl (pid 1635)
+                5189 kB: com.mediatek.nlpservice (pid 1725)
+                5007 kB: com.mediatek.gba (pid 1612)
+                4991 kB: com.letv.gallery3d.syncservice (pid 1709)
+                4904 kB: com.letv.android.privacydata (pid 1789)
+    32610 kB: Foreground
+               32610 kB: com.example.demo1 (pid 6946 / activities)
+    52291 kB: Visible
+               24545 kB: com.android.systemui:imagewallpaper (pid 1544)
+               10477 kB: com.letv.agnes (pid 2456)
+                9478 kB: com.baidu.map.location (pid 1578)
+                7791 kB: com.letv.leui.widget.leclipboardapp (pid 2468)
+   120167 kB: Perceptible
+               68838 kB: com.tencent.mm (pid 4083)
+               30901 kB: com.baidu.input_letv (pid 1556)
+               20428 kB: com.tencent.mm:push (pid 4331)
+    51700 kB: A Services
+               19706 kB: com.letv.android.quicksearchbox (pid 4799)
+               18399 kB: com.android.music (pid 2759)
+                7300 kB: com.letv.android.ota (pid 3515)
+                6295 kB: com.letv.android.usagestats (pid 4574)
+    79395 kB: Home
+               79395 kB: com.android.launcher3 (pid 1804 / activities)
+    78367 kB: B Services
+               20787 kB: com.letv.app.appstore (pid 1893)
+               13334 kB: com.wandoujia.phoenix2.usbproxy (pid 5307)
+               11310 kB: com.stv.stvpush (pid 2408)
+               10944 kB: sina.mobile.tianqitongletv (pid 4486)
+               10079 kB: android.process.media (pid 4314)
+                6461 kB: com.mediatek.mtklogger (pid 1297)
+                5452 kB: com.letv.bsp.crashhandler (pid 3203)
+   215827 kB: Cached
+               50196 kB: android.process.acore (pid 4746)
+               30223 kB: com.android.settings (pid 4560)
+               23610 kB: com.letv.android.supermanager (pid 4296)
+               22630 kB: com.letv.walletbiz (pid 4836)
+               14782 kB: com.android.calendar (pid 4945)
+               14290 kB: com.letv.android.emojistore (pid 4980)
+               14126 kB: com.letv.android.wallpaperonline (pid 2196)
+                9808 kB: com.letv.android.letvlive:pushservice (pid 4545)
+                9297 kB: com.letv.android.filemanager (pid 4782)
+                5619 kB: com.android.keychain (pid 4769)
+                5467 kB: com.android.printspooler (pid 6420)
+                5390 kB: com.letv.android.mobileactivation (pid 5177)
+                5295 kB: com.android.defcontainer (pid 4715)
+                5094 kB: com.svox.pico (pid 4850)
+
+Total PSS by category:
+   273629 kB: Native
+   172134 kB: Dalvik
+              123104 kB: .Heap
+               91368 kB: .GC
+               33799 kB: .LOS
+               13035 kB: .Zygote
+               11412 kB: .LinearAlloc
+                3752 kB: .IndirectRef
+                2196 kB: .NonMoving
+                   0 kB: .JITCache
+   134442 kB: .dex mmap
+   112027 kB: .so mmap
+   108404 kB: GL mtrack
+   106532 kB: Dalvik Other
+    84234 kB: EGL mtrack
+    67294 kB: .oat mmap
+    61374 kB: .art mmap
+    58948 kB: Unknown
+    34493 kB: .apk mmap
+    24508 kB: Stack
+    12949 kB: Other mmap
+     4670 kB: Ashmem
+     1737 kB: .ttf mmap
+      420 kB: Other dev
+        4 kB: Cursor
+        0 kB: Gfx dev
+        0 kB: .jar mmap
+        0 kB: Other mtrack
+
+Total RAM: 2726412 kB (status normal)
+ Free RAM: 1370263 kB (215827 cached pss + 195252 cached kernel + 959184 free + 0 ion cached + 0 gpu cached)
+ Used RAM: 1505120 kB (1041972 used pss + 430364 kernel + 56 trace buffer + 32728 ion disp)
+ Lost RAM: -148971 kB
+     ZRAM: 4 kB physical used for 0 kB in swap (524284 kB total swap)
+   Tuning: 256 (large 512), oom 322560 kB, restore limit 107520 kB (high-end-gfx)
+</pre></div><p><a href="f00012.html#ch0">Current stack trace &gt;&gt;&gt;</a></p><div><a href="f00209.html#ch0">System log (filtered by this process) &gt;&gt;&gt;</a></div><div><a href="f00295.html#ch0">Event log (filtered by this process) &gt;&gt;&gt;</a></div></body>
+</html>

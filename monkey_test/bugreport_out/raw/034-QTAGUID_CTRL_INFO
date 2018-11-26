@@ -1,0 +1,6 @@
+sock=ffffffc079d13780 tag=0xf5476ecf0000271a (uid=10010) pid=1741 f_count=1
+sock=ffffffc0981f1780 tag=0xf5476ecf0000271a (uid=10010) pid=1741 f_count=1
+sock=ffffffc0983ae000 tag=0xf5476ecf0000271a (uid=10010) pid=1741 f_count=1
+sock=ffffffc0983ae780 tag=0xf5476ecf0000271a (uid=10010) pid=1741 f_count=1
+events: sockets_tagged=9 sockets_untagged=5 counter_set_changes=105 delete_cmds=0 iface_events=9 match_calls=5814 match_calls_prepost=2910 match_found_sk=1709 match_found_sk_in_ct=145 match_found_no_sk_in_ct=1050 match_no_sk=1255 match_no_sk_file=160
+

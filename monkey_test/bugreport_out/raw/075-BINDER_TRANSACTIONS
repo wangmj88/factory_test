@@ -1,0 +1,60 @@
+binder transactions:
+proc 6946
+  buffer 114812: ffffff8009b00050 size 20:0 delivered
+proc 4836
+  buffer 109620: ffffff800c880050 size 4:0 delivered
+proc 4799
+  buffer 109032: ffffff800c780050 size 1004:0 delivered
+proc 4560
+  buffer 78891: ffffff800a7000d8 size 4:0 delivered
+proc 4486
+  buffer 70135: ffffff8009f00050 size 188:0 delivered
+proc 4331
+  buffer 67998: ffffff8008a80050 size 8:0 delivered
+  buffer 101567: ffffff8008a800c0 size 4:0 delivered
+  buffer 83379: ffffff8008a80118 size 4:0 delivered
+proc 4083
+  buffer 68315: ffffff8017100130 size 252:0 delivered
+  buffer 64812: ffffff80171002e0 size 8:0 delivered
+  buffer 68461: ffffff8017100638 size 140:0 delivered
+proc 2477
+  buffer 23536: ffffff800a600050 size 0:0 delivered
+  buffer 23538: ffffff800a6000a0 size 0:0 delivered
+proc 2479
+  buffer 116089: ffffff800a500050 size 44:0 delivered
+proc 2408
+  buffer 92331: ffffff8009e00050 size 4:0 delivered
+  buffer 92318: ffffff8009e000a8 size 4:0 delivered
+proc 2196
+  buffer 18800: ffffff8009700050 size 8:0 delivered
+proc 1893
+  buffer 37855: ffffff8012a00050 size 65900:8 delivered
+  buffer 37889: ffffff8012a10218 size 26208:0 delivered
+  buffer 38007: ffffff8012a168c8 size 140:0 delivered
+proc 1804
+  buffer 114429: ffffff8010a00050 size 4:0 delivered
+  buffer 22977: ffffff8010a000d8 size 140:0 delivered
+  buffer 22945: ffffff8010a00718 size 140:0 delivered
+proc 1760
+  buffer 75477: ffffff800ef00050 size 828:0 delivered
+  buffer 108076: ffffff800ef003e0 size 828:0 delivered
+proc 1699
+  buffer 16597: ffffff800eb00050 size 8:0 delivered
+  buffer 22334: ffffff800eb000a8 size 4:0 delivered
+  buffer 16729: ffffff800eb00518 size 8:0 delivered
+proc 1619
+  buffer 7997: ffffff800e600050 size 4:0 delivered
+proc 1599
+  buffer 71196: ffffff800e400050 size 4:0 delivered
+  buffer 71559: ffffff800e4000a8 size 4:0 delivered
+proc 1346
+  buffer 116111: ffffff800c980050 size 20:0 delivered
+  buffer 73740: ffffff800c9800b8 size 4:0 delivered
+  buffer 73873: ffffff800c980110 size 8:0 delivered
+proc 924
+  buffer 10965: ffffff800d2800f8 size 24:8 delivered
+  buffer 71036: ffffff800d280168 size 0:0 delivered
+  buffer 70797: ffffff800d2801d0 size 24:8 delivered
+  buffer 97558: ffffff800d280240 size 8:0 delivered
+  buffer 71050: ffffff800d2802b0 size 4:0 delivered
+

@@ -1,0 +1,109 @@
+Display #0 (activities from top to bottom):
+  Stack #13:
+    Task id #16
+    * TaskRecord{598faf6 #16 A=com.example.demo1, isShadow:false U=0 sz=1}
+      userId=0 effectiveUid=u0a145 mCallingUid=2000 mCallingPackage=null
+      affinity=com.example.demo1
+      intent={act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 mCallingUid=2000 cmp=com.example.demo1/com.example.plokmju.testmutilecompile.MainActivity}
+      realActivity=com.example.demo1/com.example.plokmju.testmutilecompile.MainActivity
+      autoRemoveRecents=false isPersistable=true numFullscreen=1 taskType=0 mTaskToReturnTo=1
+      rootWasReset=true mNeverRelinquishIdentity=true mReuseTask=false mLockTaskAuth=LOCK_TASK_AUTH_PINNABLE
+      Activities=[ActivityRecord{6f940b2 u0 com.example.demo1/com.example.plokmju.testmutilecompile.MainActivity, isShadow:false t16}]
+      askedCompatMode=false inRecents=true isAvailable=true
+      lastThumbnail=null lastThumbnailFile=/data/system/recent_images/16_task_thumbnail.jpg
+      stackId=13
+      hasBeenVisible=true mResizeable=false firstActiveTime=1487598252876 lastActiveTime=1487598252876 (inactive for 21s)
+      needCheckAccess=false thumbnailState=TASK_THUMBNAIL_INVALID pendingCheckAccess=false
+      * Hist #0: ActivityRecord{6f940b2 u0 com.example.demo1/com.example.plokmju.testmutilecompile.MainActivity, isShadow:false t16}
+          packageName=com.example.demo1 processName=com.example.demo1
+          launchedFromUid=2000 launchedFromPackage=null userId=0
+          app=ProcessRecord{23f0164 6946:com.example.demo1/u0a145, isShadow:false}
+          Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 mCallingUid=2000 cmp=com.example.demo1/com.example.plokmju.testmutilecompile.MainActivity }
+          reasonIntent={flg=0x10200000}
+          frontOfTask=true task=TaskRecord{598faf6 #16 A=com.example.demo1, isShadow:false U=0 sz=1}
+          taskAffinity=com.example.demo1
+          realActivity=com.example.demo1/com.example.plokmju.testmutilecompile.MainActivity
+          baseDir=/data/app/com.example.demo1-1/base.apk
+          dataDir=/data/user/0/com.example.demo1
+          appInfo.pkgName=com.example.demo1
+          info.pkgName=com.example.demo1
+          stateNotNeeded=false componentSpecified=true mActivityType=0
+          compat={420dpi} labelRes=0x7f060021 icon=0x7f030000 theme=0x7f08009c
+          config={1.0 1.2 0 ?mcc?mnc zh_CN ldltr sw411dp w411dp h707dp 420dpi nrml long port finger -keyb/v/h -nav/h s.6}
+          stackConfigOverride={1.0 1.0 0 ?mcc?mnc ?locale ?layoutDir ?swdp ?wdp ?hdp ?density ?lsize ?long ?orien ?uimode ?night ?oled ?touch ?keyb/?/? ?nav/?}
+          taskDescription: iconFilename=null label="null" color=ff3f51b5
+          launchFailed=false launchCount=1 lastLaunchTime=-21s210ms
+          haveState=false icicle=null
+          state=RESUMED stopped=false delayedResume=false finishing=false
+          keysPaused=false inHistory=true visible=true sleeping=false idle=true
+          fullscreen=true noDisplay=false immersive=false launchMode=0
+          frozenBeforeDestroy=false forceNewConfig=false
+          mActivityType=APPLICATION_ACTIVITY_TYPE
+          waitingVisible=false nowVisible=true lastVisibleTime=-20s891ms
+, isShadow:false
+
+    Running activities (most recent first):
+      TaskRecord{598faf6 #16 A=com.example.demo1, isShadow:false U=0 sz=1}
+        Run #0: ActivityRecord{6f940b2 u0 com.example.demo1/com.example.plokmju.testmutilecompile.MainActivity, isShadow:false t16}
+
+    mResumedActivity: ActivityRecord{6f940b2 u0 com.example.demo1/com.example.plokmju.testmutilecompile.MainActivity, isShadow:false t16}
+
+  Stack #0:
+    Task id #1
+    * TaskRecord{54ea8e3 #1 A=com.android.launcher3, isShadow:false U=0 sz=1}
+      userId=0 effectiveUid=u0a9 mCallingUid=0 mCallingPackage=null
+      affinity=com.android.launcher3
+      intent={act=android.intent.action.MAIN cat=[android.intent.category.HOME] flg=0x10000000 cmp=com.android.launcher3/.Launcher}
+      realActivity=com.android.launcher3/.Launcher
+      autoRemoveRecents=false isPersistable=true numFullscreen=1 taskType=1 mTaskToReturnTo=0
+      rootWasReset=false mNeverRelinquishIdentity=true mReuseTask=false mLockTaskAuth=LOCK_TASK_AUTH_PINNABLE
+      Activities=[ActivityRecord{295d360 u0 com.android.launcher3/.Launcher, isShadow:false t1}]
+      askedCompatMode=false inRecents=true isAvailable=true
+      lastThumbnail=android.graphics.Bitmap@eddfef7 lastThumbnailFile=/data/system/recent_images/1_task_thumbnail.jpg
+      stackId=0
+      hasBeenVisible=true mResizeable=false firstActiveTime=1487598252807 lastActiveTime=1487598252807 (inactive for 21s)
+      needCheckAccess=false thumbnailState=TASK_THUMBNAIL_VIVID pendingCheckAccess=false
+      * Hist #0: ActivityRecord{295d360 u0 com.android.launcher3/.Launcher, isShadow:false t1}
+          packageName=com.android.launcher3 processName=com.android.launcher3
+          launchedFromUid=0 launchedFromPackage=null userId=0
+          app=ProcessRecord{8671382 1804:com.android.launcher3/u0a9, isShadow:false}
+          Intent { act=android.intent.action.MAIN cat=[android.intent.category.HOME] flg=0x10000000 cmp=com.android.launcher3/.Launcher }
+          reasonIntent={}
+          frontOfTask=true task=TaskRecord{54ea8e3 #1 A=com.android.launcher3, isShadow:false U=0 sz=1}
+          taskAffinity=com.android.launcher3
+          realActivity=com.android.launcher3/.Launcher
+          baseDir=/system/priv-app/Launcher3/Launcher3.apk
+          dataDir=/data/user/0/com.android.launcher3
+          appInfo.pkgName=com.android.launcher3
+          info.pkgName=com.android.launcher3
+          stateNotNeeded=true componentSpecified=false mActivityType=1
+          compat={420dpi} labelRes=0x7f0c0005 icon=0x7f030001 theme=0x7f0e000b
+          config={1.0 1.2 0 ?mcc?mnc zh_CN ldltr sw411dp w411dp h707dp 420dpi nrml long port finger -keyb/v/h -nav/h s.6}
+          stackConfigOverride={1.0 1.0 0 ?mcc?mnc ?locale ?layoutDir ?swdp ?wdp ?hdp ?density ?lsize ?long ?orien ?uimode ?night ?oled ?touch ?keyb/?/? ?nav/?}
+          taskDescription: iconFilename=null label="null" color=ffe6e6e6
+          launchFailed=false launchCount=0 lastLaunchTime=-7m11s297ms
+          haveState=true icicle=Bundle[mParcelledData.dataSize=10376]
+          state=STOPPED stopped=true delayedResume=false finishing=false
+          keysPaused=false inHistory=true visible=false sleeping=false idle=true
+          fullscreen=true noDisplay=false immersive=false launchMode=2
+          frozenBeforeDestroy=false forceNewConfig=false
+          mActivityType=HOME_ACTIVITY_TYPE
+          waitingVisible=false nowVisible=false lastVisibleTime=-25s496ms
+, isShadow:false
+
+    Running activities (most recent first):
+      TaskRecord{54ea8e3 #1 A=com.android.launcher3, isShadow:false U=0 sz=1}
+        Run #0: ActivityRecord{295d360 u0 com.android.launcher3/.Launcher, isShadow:false t1}
+
+    mLastPausedActivity: ActivityRecord{295d360 u0 com.android.launcher3/.Launcher, isShadow:false t1}
+
+  mFocusedActivity: ActivityRecord{6f940b2 u0 com.example.demo1/com.example.plokmju.testmutilecompile.MainActivity, isShadow:false t16}
+  mFocusedStack=ActivityStack{e983fcd stackId=13, 1 tasks} mLastFocusedStack=ActivityStack{e983fcd stackId=13, 1 tasks}
+  mSleepTimeout=false
+  mCurTaskId=16
+  mUserStackInFront={}
+  mActivityContainers={0=ActivtyContainer{0}A, 13=ActivtyContainer{13}A}
+  mLockTaskModeState=NONE mLockTaskPackages (userId:packages)=
+    0:[]
+ mLockTaskModeTasks[]
+

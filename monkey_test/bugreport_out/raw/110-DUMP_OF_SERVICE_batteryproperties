@@ -1,0 +1,4 @@
+ac: 0 usb: 1 wireless: 0
+status: 2 health: 2 present: 1
+level: 33 voltage: 3803 temp: 340
+current now: 120

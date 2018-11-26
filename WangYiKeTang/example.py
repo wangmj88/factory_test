@@ -39,7 +39,7 @@ class WebBStockQueryDevice(StockQueryDevice):
             print "Web B:Login ERROR... user:%s pwd:%s"%(usr,pwd)
             return False
     def queryPrice(self):
-        print "Web B Querying...code:%s "%self.stock_code
+        print ("Web B Querying...code:%s "%self.stock_code
         self.stock_price=30.00
     def showPrice(self):
         print "Web B Stock Price...code:%s price:%s"%(self.stock_code,self.stock_price)
@@ -117,9 +117,9 @@ class order():
         self.snack=orderBuilder.bSnack
         self.beverage=orderBuilder.bBeverage
     def show(self):
-        print "Burger:%s"%self.burger.getName()
-        print "Snack:%s"%self.snack.getName()
-        print "Beverage:%s"%self.beverage.getName()
+        print("Burger:%s"%self.burger.getName())
+        print("Snack:%s"%self.snack.getName())
+        print("Beverage:%s"%self.beverage.getName())
 
 class orderBuilder():
     bBurger=""

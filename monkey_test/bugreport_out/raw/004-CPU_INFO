@@ -1,0 +1,39 @@
+
+
+
+User 4%, System 38%, IOW 0%, IRQ 0%
+User 8 + Nice 0 + Sys 73 + Idle 107 + IOW 0 + IRQ 0 + SIRQ 0 = 188
+
+  PID   TID PR CPU% S     VSS     RSS PCY UID      Thread          Proc
+ 1590  1590  0  27% R      0K      0K  fg root     LC898122OFILMAF 
+ 7017  7017  1   8% R   7804K   1996K  fg shell    top             top
+  955   955  0   1% S      0K      0K  fg root     kworker/u17:3   
+  620   638  0   0% S  12248K    768K  fg shell    adbd            /sbin/adbd
+ 5593  5593  1   0% S      0K      0K  fg root     kworker/1:2     
+  924   934  0   0% S 2461592K 192248K  fg system   Binder_1        system_server
+  924  1035  0   0% S 2461592K 192248K  fg system   WifiStateMachin system_server
+  921   962  1   0% S  18032K   1008K  fg radio    gsm0710muxd     /system/bin/gsm0710muxd
+  195   195  0   0% S      0K      0K  fg root     kworker/0:1     
+ 1346  1962  0   0% S 1802084K 132040K  fg u0_a32   RenderThread    com.android.systemui
+ 4613  4613  0   0% S   7460K   1120K  fg shell    logcat          logcat
+  186   186  0   0% S      0K      0K  fg root     mtk charger_hv_ 
+ 3512  3512  0   0% S      0K      0K  fg root     kworker/u16:6   
+  297   297  0   0% S 153968K  14104K  fg system   surfaceflinger  /system/bin/surfaceflinger
+    3     3  0   0% S      0K      0K  fg root     ksoftirqd/0     
+  924  1022  0   0% S 2461592K 192248K  fg system   SensorService   system_server
+  924   941  0   0% S 2461592K 192248K  fg system   android.ui      system_server
+   19    19  3   0% R      0K      0K  fg root     migration/3     
+   20    20  3   0% R      0K      0K  fg root     ksoftirqd/3     
+   21    21  3   0% S      0K      0K  fg root     kworker/3:0     
+   22    22  3   0% S      0K      0K  fg root     kworker/3:0H    
+   23    23  4   0% R      0K      0K  fg root     migration/4     
+   24    24  4   0% R      0K      0K  fg root     ksoftirqd/4     
+   25    25  4   0% S      0K      0K  fg root     kworker/4:0     
+   26    26  4   0% S      0K      0K  fg root     kworker/4:0H    
+   27    27  5   0% R      0K      0K  fg root     migration/5     
+   28    28  5   0% R      0K      0K  fg root     ksoftirqd/5     
+   29    29  5   0% S      0K      0K  fg root     kworker/5:0     
+   30    30  5   0% S      0K      0K  fg root     kworker/5:0H    
+   31    31  6   0% R      0K      0K  fg root     migration/6     
+[top: 1.324s elapsed]
+

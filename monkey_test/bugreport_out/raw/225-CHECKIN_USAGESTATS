@@ -1,0 +1,585 @@
+user=0 
+  In-memory daily stats
+  timeRange="2017/2/20 08:00???21:44" 
+    packages
+      package=com.mediatek.gba totalTime="00:00" lastTime="1970/1/1 08:00" lastTimeSystem="2017/2/20 21:35" inactiveTime="05:38" 
+      package=com.mediatek.ims totalTime="00:00" lastTime="1970/1/1 08:00" lastTimeSystem="2017/2/20 21:35" inactiveTime="05:38" 
+      package=com.android.providers.telephony totalTime="00:00" lastTime="1970/1/1 08:00" lastTimeSystem="2017/2/20 21:35" inactiveTime="05:38" 
+      package=com.android.providers.media totalTime="00:00" lastTime="1970/1/1 08:00" lastTimeSystem="2017/2/20 21:36" inactiveTime="05:23" 
+      package=com.letv.android.wallpaperonline totalTime="00:00" lastTime="1970/1/1 08:00" lastTimeSystem="2017/2/20 21:35" inactiveTime="05:36" 
+      package=com.wandoujia.phoenix2.usbproxy totalTime="00:00" lastTime="2017/2/20 21:40" lastTimeSystem="2017/2/20 21:40" inactiveTime="04:06" 
+      package=com.android.providers.downloads totalTime="00:00" lastTime="1970/1/1 08:00" lastTimeSystem="2017/2/20 21:36" inactiveTime="05:23" 
+      package=com.wukongtv.wkhelper totalTime="29:33" lastTime="2017/2/20 18:54" lastTimeSystem="2017/2/20 18:54" inactiveTime="07:07" 
+      package=com.android.providers.applications totalTime="00:00" lastTime="1970/1/1 08:00" lastTimeSystem="2017/2/20 21:35" inactiveTime="05:23" 
+      package=com.mediatek.wfo.impl totalTime="00:00" lastTime="1970/1/1 08:00" lastTimeSystem="2017/2/20 21:35" inactiveTime="05:38" 
+      package=com.android.defcontainer totalTime="00:00" lastTime="1970/1/1 08:00" lastTimeSystem="2017/2/20 21:43" inactiveTime="01:19" 
+      package=com.letv.app.appstore totalTime="00:00" lastTime="2017/2/20 21:41" lastTimeSystem="2017/2/20 21:44" inactiveTime="00:48" 
+      package=com.letv.android.freeflow totalTime="00:00" lastTime="1970/1/1 08:00" lastTimeSystem="2017/2/20 21:35" inactiveTime="05:38" 
+      package=android totalTime="00:00" lastTime="2017/2/20 21:41" lastTimeSystem="2017/2/20 21:41" inactiveTime="03:46" 
+      package=com.android.mms totalTime="00:00" lastTime="1970/1/1 08:00" lastTimeSystem="2017/2/20 21:35" inactiveTime="05:38" 
+      package=com.android.launcher3 totalTime="04:23" lastTime="2017/2/20 21:44" lastTimeSystem="2017/2/20 21:44" inactiveTime="00:43" 
+      package=com.example.demo1 totalTime="01:41" lastTime="2017/2/20 21:44" lastTimeSystem="2017/2/20 21:44" inactiveTime="00:43" 
+      package=com.mediatek.voiceextension totalTime="00:00" lastTime="1970/1/1 08:00" lastTimeSystem="2017/2/20 21:35" inactiveTime="05:38" 
+      package=com.letv.walletbiz totalTime="00:00" lastTime="1970/1/1 08:00" lastTimeSystem="2017/2/20 21:43" inactiveTime="01:17" 
+      package=com.android.printspooler totalTime="00:00" lastTime="1970/1/1 08:00" lastTimeSystem="2017/2/20 21:44" inactiveTime="00:10" 
+      package=com.stv.android.videochat totalTime="00:00" lastTime="1970/1/1 08:00" lastTimeSystem="2017/2/20 21:35" inactiveTime="05:38" 
+      package=com.letv.gallery3d.syncservice totalTime="00:00" lastTime="1970/1/1 08:00" lastTimeSystem="2017/2/20 21:35" inactiveTime="05:38" 
+      package=com.mediatek.nlpservice totalTime="00:00" lastTime="1970/1/1 08:00" lastTimeSystem="2017/2/20 21:35" inactiveTime="05:38" 
+      package=com.android.keychain totalTime="00:00" lastTime="1970/1/1 08:00" lastTimeSystem="2017/2/20 21:35" inactiveTime="05:27" 
+      package=com.letv.domain totalTime="00:00" lastTime="1970/1/1 08:00" lastTimeSystem="2017/2/20 21:35" inactiveTime="05:38" 
+      package=com.wandoujia.phoenix2 totalTime="00:00" lastTime="1970/1/1 08:00" lastTimeSystem="2017/2/20 11:43" inactiveTime="5:30:16" 
+      package=com.letv.agnes totalTime="00:00" lastTime="1970/1/1 08:00" lastTimeSystem="2017/2/20 21:39" inactiveTime="05:19" 
+      package=com.letv.android.supermanager totalTime="00:00" lastTime="1970/1/1 08:00" lastTimeSystem="2017/2/20 21:35" inactiveTime="05:23" 
+      package=com.letv.android.powercontroller totalTime="00:00" lastTime="1970/1/1 08:00" lastTimeSystem="2017/2/20 21:35" inactiveTime="05:38" 
+      package=com.letv.leui.widget.leclipboardapp totalTime="00:00" lastTime="1970/1/1 08:00" lastTimeSystem="2017/2/20 21:35" inactiveTime="05:33" 
+      package=com.dolby totalTime="00:00" lastTime="1970/1/1 08:00" lastTimeSystem="2017/2/20 21:35" inactiveTime="05:38" 
+      package=com.android.settings totalTime="00:51" lastTime="2017/2/20 21:39" lastTimeSystem="2017/2/20 21:39" inactiveTime="04:56" 
+      package=com.letv.android.emojistore totalTime="00:00" lastTime="1970/1/1 08:00" lastTimeSystem="2017/2/20 21:35" inactiveTime="05:35" 
+      package=com.letv.android.cloudservice totalTime="00:00" lastTime="1970/1/1 08:00" lastTimeSystem="2017/2/20 21:39" inactiveTime="05:26" 
+      package=com.letv.android.privacydata totalTime="00:00" lastTime="1970/1/1 08:00" lastTimeSystem="2017/2/20 21:35" inactiveTime="05:38" 
+      package=com.dailyupfitness.up totalTime="5:25:30" lastTime="2017/2/20 21:10" lastTimeSystem="2017/2/20 21:10" inactiveTime="00:-2327" 
+      package=com.android.phone totalTime="00:00" lastTime="1970/1/1 08:00" lastTimeSystem="2017/2/20 21:35" inactiveTime="05:38" 
+      package=com.android.providers.userdictionary totalTime="00:00" lastTime="1970/1/1 08:00" lastTimeSystem="2017/2/20 21:35" inactiveTime="05:23" 
+      package=com.android.systemui totalTime="00:00" lastTime="1970/1/1 08:00" lastTimeSystem="2017/2/20 21:35" inactiveTime="05:38" 
+      package=com.android.exchange totalTime="00:00" lastTime="1970/1/1 08:00" lastTimeSystem="2017/2/20 21:35" inactiveTime="05:42" 
+      package=sina.mobile.tianqitongletv totalTime="00:00" lastTime="1970/1/1 08:00" lastTimeSystem="2017/2/20 21:35" inactiveTime="05:36" 
+      package=com.wukongtv.wkremote.client totalTime="56:15" lastTime="2017/2/20 18:55" lastTimeSystem="2017/2/20 18:55" inactiveTime="05:44" 
+      package=com.android.providers.contacts totalTime="00:00" lastTime="1970/1/1 08:00" lastTimeSystem="2017/2/20 21:35" inactiveTime="05:23" 
+    configurations
+      config=zh-rCN-ldltr-sw411dp-w411dp-h707dp-normal-long-notround-port-notnight-notoled-420dpi-notouch-keysexposed-nokeys-navhidden-nonav-v23 totalTime="00:00" lastTime="2017/2/20 21:35" count=1 
+      config=zh-rCN-ldltr-sw411dp-w731dp-h387dp-normal-long-notround-land-notnight-notoled-420dpi-finger-keysexposed-nokeys-navhidden-nonav-v23 totalTime="6:19:20" lastTime="2017/2/20 21:35" count=22 
+      config=zh-rCN-ldltr-sw411dp-w411dp-h707dp-normal-long-notround-port-420dpi-notouch-keysexposed-nokeys-navhidden-nonav-v23 totalTime="00:00" lastTime="2017/2/20 21:35" count=1 
+      config=zh-rCN-ldltr-sw411dp-w411dp-h731dp-normal-long-notround-port-420dpi-notouch-keysexposed-nokeys-navhidden-nonav-v23 totalTime="00:00" lastTime="2017/2/20 21:35" count=1 
+      config=zh-rCN-ldltr-sw411dp-w411dp-h707dp-normal-long-notround-port-notnight-notoled-420dpi-finger-keysexposed-nokeys-navhidden-nonav-v23 totalTime="4:01:51" lastTime="2017/2/20 21:35" count=22 
+      config=zh-rCN-ldltr-sw411dp-w411dp-h707dp-normal-long-notround-port-notnight-notoled-420dpi-finger-keysexposed-nokeys-navhidden-nonav-v23 totalTime="00:00" lastTime="2017/2/20 21:35" count=1 
+    events
+      time="2017/2/20 11:02" type=MOVE_TO_BACKGROUND package=com.wukongtv.wkremote.client class=com.wukongtv.wkremote.client.MainActivity2 
+      time="2017/2/20 11:02" type=MOVE_TO_FOREGROUND package=com.wukongtv.wkremote.client class=com.wukongtv.wkremote.client.personalcenter.PersonalCenterActivity 
+      time="2017/2/20 11:02" type=MOVE_TO_BACKGROUND package=com.wukongtv.wkremote.client class=com.wukongtv.wkremote.client.personalcenter.PersonalCenterActivity 
+      time="2017/2/20 11:02" type=MOVE_TO_FOREGROUND package=com.wukongtv.wkremote.client class=com.wukongtv.wkremote.client.SettingActivity 
+      time="2017/2/20 11:02" type=MOVE_TO_BACKGROUND package=com.wukongtv.wkremote.client class=com.wukongtv.wkremote.client.SettingActivity 
+      time="2017/2/20 11:02" type=MOVE_TO_FOREGROUND package=com.wukongtv.wkremote.client class=com.wukongtv.wkremote.client.AboutActivity 
+      time="2017/2/20 11:02" type=MOVE_TO_BACKGROUND package=com.wukongtv.wkremote.client class=com.wukongtv.wkremote.client.AboutActivity 
+      time="2017/2/20 11:02" type=MOVE_TO_FOREGROUND package=com.wukongtv.wkremote.client class=com.wukongtv.wkremote.client.debug.WKRemoteInfoPage 
+      time="2017/2/20 11:03" type=MOVE_TO_BACKGROUND package=com.wukongtv.wkremote.client class=com.wukongtv.wkremote.client.debug.WKRemoteInfoPage 
+      time="2017/2/20 11:03" type=MOVE_TO_FOREGROUND package=com.wukongtv.wkremote.client class=com.wukongtv.wkremote.client.AboutActivity 
+      time="2017/2/20 11:03" type=MOVE_TO_BACKGROUND package=com.wukongtv.wkremote.client class=com.wukongtv.wkremote.client.AboutActivity 
+      time="2017/2/20 11:03" type=MOVE_TO_FOREGROUND package=com.wukongtv.wkremote.client class=com.wukongtv.wkremote.client.debug.WKRemoteInfoPage 
+      time="2017/2/20 11:03" type=MOVE_TO_BACKGROUND package=com.wukongtv.wkremote.client class=com.wukongtv.wkremote.client.debug.WKRemoteInfoPage 
+      time="2017/2/20 11:03" type=MOVE_TO_FOREGROUND package=com.wukongtv.wkremote.client class=com.wukongtv.wkremote.client.AboutActivity 
+      time="2017/2/20 11:03" type=MOVE_TO_BACKGROUND package=com.wukongtv.wkremote.client class=com.wukongtv.wkremote.client.AboutActivity 
+      time="2017/2/20 11:03" type=MOVE_TO_FOREGROUND package=com.wukongtv.wkremote.client class=com.wukongtv.wkremote.client.debug.WKRemoteInfoPage 
+      time="2017/2/20 11:13" type=MOVE_TO_BACKGROUND package=com.wukongtv.wkremote.client class=com.wukongtv.wkremote.client.debug.WKRemoteInfoPage 
+      time="2017/2/20 11:13" type=CONFIGURATION_CHANGE package=android config=zh-rCN-ldltr-sw411dp-w731dp-h387dp-normal-long-notround-land-notnight-notoled-420dpi-finger-keysexposed-nokeys-navhidden-nonav-v23 
+      time="2017/2/20 11:13" type=MOVE_TO_FOREGROUND package=com.dailyupfitness.up class=com.dailyupfitness.up.page.my.PayPackageActivity 
+      time="2017/2/20 11:16" type=MOVE_TO_BACKGROUND package=com.dailyupfitness.up class=com.dailyupfitness.up.page.my.PayPackageActivity 
+      time="2017/2/20 11:16" type=MOVE_TO_FOREGROUND package=com.dailyupfitness.up class=com.dailyupfitness.up.page.my.PayModeSelectActivity 
+      time="2017/2/20 11:16" type=MOVE_TO_BACKGROUND package=com.dailyupfitness.up class=com.dailyupfitness.up.page.my.PayModeSelectActivity 
+      time="2017/2/20 11:16" type=MOVE_TO_FOREGROUND package=com.dailyupfitness.up class=com.dailyupfitness.up.page.my.RealPayActivity 
+      time="2017/2/20 11:16" type=MOVE_TO_BACKGROUND package=com.dailyupfitness.up class=com.dailyupfitness.up.page.my.RealPayActivity 
+      time="2017/2/20 11:16" type=MOVE_TO_FOREGROUND package=com.dailyupfitness.up class=com.dailyupfitness.up.page.my.PayModeSelectActivity 
+      time="2017/2/20 11:16" type=MOVE_TO_BACKGROUND package=com.dailyupfitness.up class=com.dailyupfitness.up.page.my.PayModeSelectActivity 
+      time="2017/2/20 11:16" type=MOVE_TO_FOREGROUND package=com.dailyupfitness.up class=com.dailyupfitness.up.page.my.RealPayActivity 
+      time="2017/2/20 11:16" type=MOVE_TO_BACKGROUND package=com.dailyupfitness.up class=com.dailyupfitness.up.page.my.RealPayActivity 
+      time="2017/2/20 11:16" type=MOVE_TO_FOREGROUND package=com.dailyupfitness.up class=com.dailyupfitness.up.page.my.PayModeSelectActivity 
+      time="2017/2/20 11:16" type=MOVE_TO_BACKGROUND package=com.dailyupfitness.up class=com.dailyupfitness.up.page.my.PayModeSelectActivity 
+      time="2017/2/20 11:16" type=MOVE_TO_FOREGROUND package=com.dailyupfitness.up class=com.dailyupfitness.up.page.my.PayPackageActivity 
+      time="2017/2/20 11:16" type=MOVE_TO_BACKGROUND package=com.dailyupfitness.up class=com.dailyupfitness.up.page.my.PayPackageActivity 
+      time="2017/2/20 11:16" type=MOVE_TO_FOREGROUND package=com.dailyupfitness.up class=com.dailyupfitness.up.page.my.PayModeSelectActivity 
+      time="2017/2/20 11:16" type=MOVE_TO_BACKGROUND package=com.dailyupfitness.up class=com.dailyupfitness.up.page.my.PayModeSelectActivity 
+      time="2017/2/20 11:16" type=MOVE_TO_FOREGROUND package=com.dailyupfitness.up class=com.dailyupfitness.up.page.my.PayPackageActivity 
+      time="2017/2/20 11:16" type=MOVE_TO_BACKGROUND package=com.dailyupfitness.up class=com.dailyupfitness.up.page.my.PayPackageActivity 
+      time="2017/2/20 11:16" type=CONFIGURATION_CHANGE package=android config=w411dp-h707dp-port-v23 
+      time="2017/2/20 11:16" type=MOVE_TO_FOREGROUND package=com.wukongtv.wkremote.client class=com.wukongtv.wkremote.client.debug.WKRemoteInfoPage 
+      time="2017/2/20 11:20" type=MOVE_TO_BACKGROUND package=com.wukongtv.wkremote.client class=com.wukongtv.wkremote.client.debug.WKRemoteInfoPage 
+      time="2017/2/20 11:20" type=MOVE_TO_FOREGROUND package=com.wandoujia.phoenix2.usbproxy class=com.wandoujia.phoenix2.ui.WelcomeActivity 
+      time="2017/2/20 11:20" type=MOVE_TO_BACKGROUND package=com.wandoujia.phoenix2.usbproxy class=com.wandoujia.phoenix2.ui.WelcomeActivity 
+      time="2017/2/20 11:20" type=MOVE_TO_FOREGROUND package=com.wukongtv.wkremote.client class=com.wukongtv.wkremote.client.debug.WKRemoteInfoPage 
+      time="2017/2/20 11:23" type=MOVE_TO_BACKGROUND package=com.wukongtv.wkremote.client class=com.wukongtv.wkremote.client.debug.WKRemoteInfoPage 
+      time="2017/2/20 11:23" type=CONFIGURATION_CHANGE package=android config=w731dp-h387dp-land-v23 
+      time="2017/2/20 11:23" type=MOVE_TO_FOREGROUND package=com.dailyupfitness.up class=com.dailyupfitness.up.page.my.PayPackageActivity 
+      time="2017/2/20 11:35" type=MOVE_TO_BACKGROUND package=com.dailyupfitness.up class=com.dailyupfitness.up.page.my.PayPackageActivity 
+      time="2017/2/20 11:35" type=CONFIGURATION_CHANGE package=android config=w411dp-h707dp-port-v23 
+      time="2017/2/20 11:35" type=MOVE_TO_FOREGROUND package=com.wukongtv.wkremote.client class=com.wukongtv.wkremote.client.debug.WKRemoteInfoPage 
+      time="2017/2/20 11:36" type=MOVE_TO_BACKGROUND package=com.wukongtv.wkremote.client class=com.wukongtv.wkremote.client.debug.WKRemoteInfoPage 
+      time="2017/2/20 11:36" type=CONFIGURATION_CHANGE package=android config=w731dp-h387dp-land-v23 
+      time="2017/2/20 11:36" type=MOVE_TO_FOREGROUND package=com.dailyupfitness.up class=com.dailyupfitness.up.page.my.WxLoginActivity 
+      time="2017/2/20 11:54" type=MOVE_TO_BACKGROUND package=com.dailyupfitness.up class=com.dailyupfitness.up.page.my.WxLoginActivity 
+      time="2017/2/20 11:54" type=CONFIGURATION_CHANGE package=android config=w411dp-h707dp-port-v23 
+      time="2017/2/20 11:54" type=MOVE_TO_FOREGROUND package=com.wukongtv.wkremote.client class=com.wukongtv.wkremote.client.debug.WKRemoteInfoPage 
+      time="2017/2/20 11:54" type=MOVE_TO_BACKGROUND package=com.wukongtv.wkremote.client class=com.wukongtv.wkremote.client.debug.WKRemoteInfoPage 
+      time="2017/2/20 11:54" type=CONFIGURATION_CHANGE package=android config=w731dp-h387dp-land-v23 
+      time="2017/2/20 11:54" type=MOVE_TO_FOREGROUND package=com.dailyupfitness.up class=com.dailyupfitness.up.page.my.WxLoginActivity 
+      time="2017/2/20 14:57" type=MOVE_TO_BACKGROUND package=com.dailyupfitness.up class=com.dailyupfitness.up.page.my.WxLoginActivity 
+      time="2017/2/20 14:57" type=CONFIGURATION_CHANGE package=android config=w411dp-h707dp-port-v23 
+      time="2017/2/20 14:57" type=MOVE_TO_FOREGROUND package=com.wukongtv.wkremote.client class=com.wukongtv.wkremote.client.debug.WKRemoteInfoPage 
+      time="2017/2/20 15:27" type=MOVE_TO_BACKGROUND package=com.wukongtv.wkremote.client class=com.wukongtv.wkremote.client.debug.WKRemoteInfoPage 
+      time="2017/2/20 17:14" type=MOVE_TO_FOREGROUND package=com.android.settings class=com.android.settings.UsbSettings 
+      time="2017/2/20 17:14" type=MOVE_TO_BACKGROUND package=com.android.settings class=com.android.settings.UsbSettings 
+      time="2017/2/20 17:14" type=MOVE_TO_FOREGROUND package=com.android.settings class=com.android.settings.UsbSettings 
+      time="2017/2/20 17:14" type=MOVE_TO_BACKGROUND package=com.android.settings class=com.android.settings.UsbSettings 
+      time="2017/2/20 17:14" type=MOVE_TO_FOREGROUND package=com.android.launcher3 class=com.android.launcher3.Launcher 
+      time="2017/2/20 17:14" type=MOVE_TO_BACKGROUND package=com.android.launcher3 class=com.android.launcher3.Launcher 
+      time="2017/2/20 17:14" type=CONFIGURATION_CHANGE package=android config=w731dp-h387dp-land-v23 
+      time="2017/2/20 17:14" type=MOVE_TO_FOREGROUND package=com.dailyupfitness.up class=com.dailyupfitness.up.page.my.WxLoginActivity 
+      time="2017/2/20 17:15" type=MOVE_TO_BACKGROUND package=com.dailyupfitness.up class=com.dailyupfitness.up.page.my.WxLoginActivity 
+      time="2017/2/20 17:15" type=CONFIGURATION_CHANGE package=android config=w411dp-h707dp-port-v23 
+      time="2017/2/20 17:15" type=MOVE_TO_FOREGROUND package=com.wandoujia.phoenix2.usbproxy class=com.wandoujia.phoenix2.ui.WelcomeActivity 
+      time="2017/2/20 17:15" type=MOVE_TO_BACKGROUND package=com.wandoujia.phoenix2.usbproxy class=com.wandoujia.phoenix2.ui.WelcomeActivity 
+      time="2017/2/20 17:15" type=CONFIGURATION_CHANGE package=android config=w731dp-h387dp-land-v23 
+      time="2017/2/20 17:15" type=MOVE_TO_FOREGROUND package=com.dailyupfitness.up class=com.dailyupfitness.up.page.my.WxLoginActivity 
+      time="2017/2/20 17:16" type=MOVE_TO_BACKGROUND package=com.dailyupfitness.up class=com.dailyupfitness.up.page.my.WxLoginActivity 
+      time="2017/2/20 17:16" type=CONFIGURATION_CHANGE package=android config=w411dp-h707dp-port-v23 
+      time="2017/2/20 17:16" type=MOVE_TO_FOREGROUND package=com.android.launcher3 class=com.android.launcher3.Launcher 
+      time="2017/2/20 17:16" type=MOVE_TO_BACKGROUND package=com.android.launcher3 class=com.android.launcher3.Launcher 
+      time="2017/2/20 17:16" type=CONFIGURATION_CHANGE package=android config=w731dp-h387dp-land-v23 
+      time="2017/2/20 17:16" type=MOVE_TO_FOREGROUND package=com.dailyupfitness.up class=com.dailyupfitness.up.page.my.SplashActivity 
+      time="2017/2/20 17:16" type=MOVE_TO_BACKGROUND package=com.dailyupfitness.up class=com.dailyupfitness.up.page.my.SplashActivity 
+      time="2017/2/20 17:16" type=MOVE_TO_FOREGROUND package=com.dailyupfitness.up class=com.dailyupfitness.up.page.my.SignUpActivity 
+      time="2017/2/20 17:17" type=MOVE_TO_BACKGROUND package=com.dailyupfitness.up class=com.dailyupfitness.up.page.my.SignUpActivity 
+      time="2017/2/20 17:17" type=MOVE_TO_FOREGROUND package=com.dailyupfitness.up class=com.dailyupfitness.up.page.my.SplashActivity 
+      time="2017/2/20 17:19" type=MOVE_TO_BACKGROUND package=com.dailyupfitness.up class=com.dailyupfitness.up.page.my.SplashActivity 
+      time="2017/2/20 17:19" type=MOVE_TO_FOREGROUND package=com.dailyupfitness.up class=com.dailyupfitness.up.page.my.SignUpActivity 
+      time="2017/2/20 17:19" type=MOVE_TO_BACKGROUND package=com.dailyupfitness.up class=com.dailyupfitness.up.page.my.SignUpActivity 
+      time="2017/2/20 17:19" type=MOVE_TO_FOREGROUND package=com.dailyupfitness.up class=com.dailyupfitness.up.page.my.LoginActivity 
+      time="2017/2/20 18:10" type=MOVE_TO_BACKGROUND package=com.dailyupfitness.up class=com.dailyupfitness.up.page.my.LoginActivity 
+      time="2017/2/20 18:10" type=CONFIGURATION_CHANGE package=android config=w411dp-h707dp-port-v23 
+      time="2017/2/20 18:10" type=MOVE_TO_FOREGROUND package=com.wandoujia.phoenix2.usbproxy class=com.wandoujia.phoenix2.ui.WelcomeActivity 
+      time="2017/2/20 18:10" type=MOVE_TO_BACKGROUND package=com.wandoujia.phoenix2.usbproxy class=com.wandoujia.phoenix2.ui.WelcomeActivity 
+      time="2017/2/20 18:10" type=CONFIGURATION_CHANGE package=android config=w731dp-h387dp-land-v23 
+      time="2017/2/20 18:10" type=MOVE_TO_FOREGROUND package=com.dailyupfitness.up class=com.dailyupfitness.up.page.my.LoginActivity 
+      time="2017/2/20 18:17" type=MOVE_TO_BACKGROUND package=com.dailyupfitness.up class=com.dailyupfitness.up.page.my.LoginActivity 
+      time="2017/2/20 18:17" type=CONFIGURATION_CHANGE package=android config=w411dp-h707dp-port-v23 
+      time="2017/2/20 18:17" type=MOVE_TO_FOREGROUND package=com.wukongtv.wkremote.client class=com.wukongtv.wkremote.client.widget.guidepage.SplashActivity 
+      time="2017/2/20 18:17" type=MOVE_TO_BACKGROUND package=com.wukongtv.wkremote.client class=com.wukongtv.wkremote.client.widget.guidepage.SplashActivity 
+      time="2017/2/20 18:17" type=MOVE_TO_FOREGROUND package=com.wukongtv.wkremote.client class=com.wukongtv.wkremote.client.MainActivity2 
+      time="2017/2/20 18:24" type=MOVE_TO_BACKGROUND package=com.wukongtv.wkremote.client class=com.wukongtv.wkremote.client.MainActivity2 
+      time="2017/2/20 18:24" type=CONFIGURATION_CHANGE package=android config=w731dp-h387dp-land-v23 
+      time="2017/2/20 18:24" type=MOVE_TO_FOREGROUND package=com.wukongtv.wkhelper class=com.wukongtv.wkhelper.MainActivity 
+      time="2017/2/20 18:54" type=MOVE_TO_BACKGROUND package=com.wukongtv.wkhelper class=com.wukongtv.wkhelper.MainActivity 
+      time="2017/2/20 18:54" type=CONFIGURATION_CHANGE package=android config=w411dp-h707dp-port-v23 
+      time="2017/2/20 18:54" type=MOVE_TO_FOREGROUND package=com.android.launcher3 class=com.android.launcher3.Launcher 
+      time="2017/2/20 18:54" type=MOVE_TO_BACKGROUND package=com.android.launcher3 class=com.android.launcher3.Launcher 
+      time="2017/2/20 18:54" type=CONFIGURATION_CHANGE package=android config=w731dp-h387dp-land-v23 
+      time="2017/2/20 18:54" type=MOVE_TO_FOREGROUND package=com.wukongtv.wkhelper class=com.wukongtv.wkhelper.MainActivity 
+      time="2017/2/20 18:54" type=MOVE_TO_BACKGROUND package=com.wukongtv.wkhelper class=com.wukongtv.wkhelper.MainActivity 
+      time="2017/2/20 18:54" type=CONFIGURATION_CHANGE package=android config=w411dp-h707dp-port-v23 
+      time="2017/2/20 18:54" type=MOVE_TO_FOREGROUND package=com.android.launcher3 class=com.android.launcher3.Launcher 
+      time="2017/2/20 18:54" type=MOVE_TO_BACKGROUND package=com.android.launcher3 class=com.android.launcher3.Launcher 
+      time="2017/2/20 18:54" type=MOVE_TO_FOREGROUND package=com.wukongtv.wkremote.client class=com.wukongtv.wkremote.client.MainActivity2 
+      time="2017/2/20 18:54" type=MOVE_TO_BACKGROUND package=com.wukongtv.wkremote.client class=com.wukongtv.wkremote.client.MainActivity2 
+      time="2017/2/20 18:54" type=MOVE_TO_FOREGROUND package=com.wukongtv.wkremote.client class=com.wukongtv.wkremote.client.pushscreen.PushScreenMainActivity 
+      time="2017/2/20 18:54" type=MOVE_TO_BACKGROUND package=com.wukongtv.wkremote.client class=com.wukongtv.wkremote.client.pushscreen.PushScreenMainActivity 
+      time="2017/2/20 18:54" type=MOVE_TO_FOREGROUND package=com.wukongtv.wkremote.client class=com.wukongtv.wkremote.client.pushscreen.PushImageFolderActivity 
+      time="2017/2/20 18:54" type=MOVE_TO_BACKGROUND package=com.wukongtv.wkremote.client class=com.wukongtv.wkremote.client.pushscreen.PushImageFolderActivity 
+      time="2017/2/20 18:54" type=MOVE_TO_FOREGROUND package=com.wukongtv.wkremote.client class=com.wukongtv.wkremote.client.pushscreen.PushScreenMainActivity 
+      time="2017/2/20 18:54" type=MOVE_TO_BACKGROUND package=com.wukongtv.wkremote.client class=com.wukongtv.wkremote.client.pushscreen.PushScreenMainActivity 
+      time="2017/2/20 18:54" type=MOVE_TO_FOREGROUND package=com.wukongtv.wkremote.client class=com.wukongtv.wkremote.client.pushscreen.FilePathActivity 
+      time="2017/2/20 18:54" type=MOVE_TO_BACKGROUND package=com.wukongtv.wkremote.client class=com.wukongtv.wkremote.client.pushscreen.FilePathActivity 
+      time="2017/2/20 18:54" type=MOVE_TO_FOREGROUND package=com.wukongtv.wkremote.client class=com.wukongtv.wkremote.client.Control.RemoteControlActivity 
+      time="2017/2/20 18:54" type=MOVE_TO_BACKGROUND package=com.wukongtv.wkremote.client class=com.wukongtv.wkremote.client.Control.RemoteControlActivity 
+      time="2017/2/20 18:54" type=MOVE_TO_FOREGROUND package=com.wukongtv.wkremote.client class=com.wukongtv.wkremote.client.device.DeviceFragmentActivity 
+      time="2017/2/20 18:54" type=MOVE_TO_BACKGROUND package=com.wukongtv.wkremote.client class=com.wukongtv.wkremote.client.device.DeviceFragmentActivity 
+      time="2017/2/20 18:54" type=MOVE_TO_FOREGROUND package=com.wukongtv.wkremote.client class=com.wukongtv.wkremote.client.Control.RemoteControlActivity 
+      time="2017/2/20 18:54" type=MOVE_TO_BACKGROUND package=com.wukongtv.wkremote.client class=com.wukongtv.wkremote.client.Control.RemoteControlActivity 
+      time="2017/2/20 18:54" type=MOVE_TO_FOREGROUND package=com.wukongtv.wkremote.client class=com.wukongtv.wkremote.client.pushscreen.FilePathActivity 
+      time="2017/2/20 18:55" type=MOVE_TO_BACKGROUND package=com.wukongtv.wkremote.client class=com.wukongtv.wkremote.client.pushscreen.FilePathActivity 
+      time="2017/2/20 18:55" type=MOVE_TO_FOREGROUND package=com.android.launcher3 class=com.android.launcher3.Launcher 
+      time="2017/2/20 18:55" type=MOVE_TO_BACKGROUND package=com.android.launcher3 class=com.android.launcher3.Launcher 
+      time="2017/2/20 20:22" type=MOVE_TO_FOREGROUND package=com.android.settings class=com.android.settings.UsbSettings 
+      time="2017/2/20 20:22" type=MOVE_TO_BACKGROUND package=com.android.settings class=com.android.settings.UsbSettings 
+      time="2017/2/20 20:22" type=MOVE_TO_FOREGROUND package=com.android.settings class=com.android.settings.UsbSettings 
+      time="2017/2/20 20:23" type=MOVE_TO_BACKGROUND package=com.android.settings class=com.android.settings.UsbSettings 
+      time="2017/2/20 20:23" type=CONFIGURATION_CHANGE package=android config=w731dp-h387dp-land-v23 
+      time="2017/2/20 20:23" type=MOVE_TO_FOREGROUND package=com.dailyupfitness.up class=com.dailyupfitness.up.page.my.SplashActivity 
+      time="2017/2/20 20:23" type=MOVE_TO_BACKGROUND package=com.dailyupfitness.up class=com.dailyupfitness.up.page.my.SplashActivity 
+      time="2017/2/20 20:23" type=CONFIGURATION_CHANGE package=android config=w411dp-h707dp-port-v23 
+      time="2017/2/20 20:23" type=MOVE_TO_FOREGROUND package=com.wandoujia.phoenix2.usbproxy class=com.wandoujia.phoenix2.ui.WelcomeActivity 
+      time="2017/2/20 20:23" type=MOVE_TO_BACKGROUND package=com.wandoujia.phoenix2.usbproxy class=com.wandoujia.phoenix2.ui.WelcomeActivity 
+      time="2017/2/20 20:23" type=CONFIGURATION_CHANGE package=android config=w731dp-h387dp-land-v23 
+      time="2017/2/20 20:23" type=MOVE_TO_FOREGROUND package=com.dailyupfitness.up class=com.dailyupfitness.up.page.my.SplashActivity 
+      time="2017/2/20 20:26" type=MOVE_TO_BACKGROUND package=com.dailyupfitness.up class=com.dailyupfitness.up.page.my.SplashActivity 
+      time="2017/2/20 20:26" type=MOVE_TO_FOREGROUND package=com.dailyupfitness.up class=com.dailyupfitness.up.page.my.SignUpActivity 
+      time="2017/2/20 20:26" type=MOVE_TO_BACKGROUND package=com.dailyupfitness.up class=com.dailyupfitness.up.page.my.SignUpActivity 
+      time="2017/2/20 20:26" type=MOVE_TO_FOREGROUND package=com.dailyupfitness.up class=com.dailyupfitness.up.page.my.SplashActivity 
+      time="2017/2/20 20:28" type=MOVE_TO_BACKGROUND package=com.dailyupfitness.up class=com.dailyupfitness.up.page.my.SplashActivity 
+      time="2017/2/20 20:28" type=CONFIGURATION_CHANGE package=android config=w411dp-h707dp-port-v23 
+      time="2017/2/20 20:28" type=MOVE_TO_FOREGROUND package=com.android.launcher3 class=com.android.launcher3.Launcher 
+      time="2017/2/20 20:28" type=MOVE_TO_BACKGROUND package=com.android.launcher3 class=com.android.launcher3.Launcher 
+      time="2017/2/20 20:28" type=CONFIGURATION_CHANGE package=android config=w731dp-h387dp-land-v23 
+      time="2017/2/20 20:28" type=MOVE_TO_FOREGROUND package=com.dailyupfitness.up class=com.dailyupfitness.up.page.my.SplashActivity 
+      time="2017/2/20 20:28" type=MOVE_TO_BACKGROUND package=com.dailyupfitness.up class=com.dailyupfitness.up.page.my.SplashActivity 
+      time="2017/2/20 20:28" type=CONFIGURATION_CHANGE package=android config=w411dp-h707dp-port-v23 
+      time="2017/2/20 20:28" type=MOVE_TO_FOREGROUND package=com.android.launcher3 class=com.android.launcher3.Launcher 
+      time="2017/2/20 20:29" type=MOVE_TO_BACKGROUND package=com.android.launcher3 class=com.android.launcher3.Launcher 
+      time="2017/2/20 20:29" type=CONFIGURATION_CHANGE package=android config=w731dp-h387dp-land-v23 
+      time="2017/2/20 20:29" type=MOVE_TO_FOREGROUND package=com.dailyupfitness.up class=com.dailyupfitness.up.page.my.SplashActivity 
+      time="2017/2/20 20:29" type=MOVE_TO_BACKGROUND package=com.dailyupfitness.up class=com.dailyupfitness.up.page.my.SplashActivity 
+      time="2017/2/20 20:29" type=MOVE_TO_FOREGROUND package=com.dailyupfitness.up class=com.dailyupfitness.up.page.my.WxLoginActivity 
+      time="2017/2/20 20:31" type=MOVE_TO_BACKGROUND package=com.dailyupfitness.up class=com.dailyupfitness.up.page.my.WxLoginActivity 
+      time="2017/2/20 20:31" type=CONFIGURATION_CHANGE package=android config=w411dp-h707dp-port-v23 
+      time="2017/2/20 20:31" type=MOVE_TO_FOREGROUND package=com.android.launcher3 class=com.android.launcher3.Launcher 
+      time="2017/2/20 20:31" type=MOVE_TO_BACKGROUND package=com.android.launcher3 class=com.android.launcher3.Launcher 
+      time="2017/2/20 20:31" type=CONFIGURATION_CHANGE package=android config=w731dp-h387dp-land-v23 
+      time="2017/2/20 20:31" type=MOVE_TO_FOREGROUND package=com.dailyupfitness.up class=com.dailyupfitness.up.page.my.SplashActivity 
+      time="2017/2/20 20:32" type=MOVE_TO_BACKGROUND package=com.dailyupfitness.up class=com.dailyupfitness.up.page.my.SplashActivity 
+      time="2017/2/20 20:32" type=MOVE_TO_FOREGROUND package=com.dailyupfitness.up class=com.dailyupfitness.up.page.my.WxLoginActivity 
+      time="2017/2/20 20:33" type=MOVE_TO_BACKGROUND package=com.dailyupfitness.up class=com.dailyupfitness.up.page.my.WxLoginActivity 
+      time="2017/2/20 20:33" type=CONFIGURATION_CHANGE package=android config=w411dp-h707dp-port-v23 
+      time="2017/2/20 20:33" type=MOVE_TO_FOREGROUND package=com.android.launcher3 class=com.android.launcher3.Launcher 
+      time="2017/2/20 20:33" type=MOVE_TO_BACKGROUND package=com.android.launcher3 class=com.android.launcher3.Launcher 
+      time="2017/2/20 20:33" type=CONFIGURATION_CHANGE package=android config=w731dp-h387dp-land-v23 
+      time="2017/2/20 20:33" type=MOVE_TO_FOREGROUND package=com.dailyupfitness.up class=com.dailyupfitness.up.page.my.SplashActivity 
+      time="2017/2/20 20:34" type=MOVE_TO_BACKGROUND package=com.dailyupfitness.up class=com.dailyupfitness.up.page.my.SplashActivity 
+      time="2017/2/20 20:34" type=MOVE_TO_FOREGROUND package=com.dailyupfitness.up class=com.dailyupfitness.up.page.my.WxLoginActivity 
+      time="2017/2/20 20:39" type=MOVE_TO_BACKGROUND package=com.dailyupfitness.up class=com.dailyupfitness.up.page.my.WxLoginActivity 
+      time="2017/2/20 20:39" type=CONFIGURATION_CHANGE package=android config=w411dp-h707dp-port-v23 
+      time="2017/2/20 20:39" type=MOVE_TO_FOREGROUND package=com.android.launcher3 class=com.android.launcher3.Launcher 
+      time="2017/2/20 20:39" type=MOVE_TO_BACKGROUND package=com.android.launcher3 class=com.android.launcher3.Launcher 
+      time="2017/2/20 20:39" type=CONFIGURATION_CHANGE package=android config=w731dp-h387dp-land-v23 
+      time="2017/2/20 20:39" type=MOVE_TO_FOREGROUND package=com.dailyupfitness.up class=com.dailyupfitness.up.page.my.SplashActivity 
+      time="2017/2/20 20:39" type=MOVE_TO_BACKGROUND package=com.dailyupfitness.up class=com.dailyupfitness.up.page.my.SplashActivity 
+      time="2017/2/20 20:39" type=MOVE_TO_FOREGROUND package=com.dailyupfitness.up class=com.dailyupfitness.up.page.my.WxLoginActivity 
+      time="2017/2/20 20:41" type=MOVE_TO_BACKGROUND package=com.dailyupfitness.up class=com.dailyupfitness.up.page.my.WxLoginActivity 
+      time="2017/2/20 20:41" type=CONFIGURATION_CHANGE package=android config=w411dp-h707dp-port-v23 
+      time="2017/2/20 20:41" type=MOVE_TO_FOREGROUND package=com.android.launcher3 class=com.android.launcher3.Launcher 
+      time="2017/2/20 20:41" type=MOVE_TO_BACKGROUND package=com.android.launcher3 class=com.android.launcher3.Launcher 
+      time="2017/2/20 20:41" type=CONFIGURATION_CHANGE package=android config=w731dp-h387dp-land-v23 
+      time="2017/2/20 20:41" type=MOVE_TO_FOREGROUND package=com.dailyupfitness.up class=com.dailyupfitness.up.page.my.SplashActivity 
+      time="2017/2/20 20:41" type=MOVE_TO_BACKGROUND package=com.dailyupfitness.up class=com.dailyupfitness.up.page.my.SplashActivity 
+      time="2017/2/20 20:41" type=MOVE_TO_FOREGROUND package=com.dailyupfitness.up class=com.dailyupfitness.up.page.my.WxLoginActivity 
+      time="2017/2/20 20:50" type=MOVE_TO_BACKGROUND package=com.dailyupfitness.up class=com.dailyupfitness.up.page.my.WxLoginActivity 
+      time="2017/2/20 20:50" type=CONFIGURATION_CHANGE package=android config=w411dp-h707dp-port-v23 
+      time="2017/2/20 20:50" type=MOVE_TO_FOREGROUND package=com.android.launcher3 class=com.android.launcher3.Launcher 
+      time="2017/2/20 20:50" type=MOVE_TO_BACKGROUND package=com.android.launcher3 class=com.android.launcher3.Launcher 
+      time="2017/2/20 20:50" type=CONFIGURATION_CHANGE package=android config=w731dp-h387dp-land-v23 
+      time="2017/2/20 20:50" type=MOVE_TO_FOREGROUND package=com.dailyupfitness.up class=com.dailyupfitness.up.page.my.SplashActivity 
+      time="2017/2/20 20:51" type=MOVE_TO_BACKGROUND package=com.dailyupfitness.up class=com.dailyupfitness.up.page.my.SplashActivity 
+      time="2017/2/20 20:51" type=MOVE_TO_FOREGROUND package=com.dailyupfitness.up class=com.dailyupfitness.up.page.my.WxLoginActivity 
+      time="2017/2/20 20:51" type=MOVE_TO_BACKGROUND package=com.dailyupfitness.up class=com.dailyupfitness.up.page.my.WxLoginActivity 
+      time="2017/2/20 20:51" type=MOVE_TO_FOREGROUND package=com.dailyupfitness.up class=com.dailyupfitness.up.page.my.SplashActivity 
+      time="2017/2/20 20:51" type=MOVE_TO_BACKGROUND package=com.dailyupfitness.up class=com.dailyupfitness.up.page.my.SplashActivity 
+      time="2017/2/20 20:51" type=MOVE_TO_FOREGROUND package=com.dailyupfitness.up class=com.dailyupfitness.up.page.main.MainActivity 
+      time="2017/2/20 20:51" type=MOVE_TO_BACKGROUND package=com.dailyupfitness.up class=com.dailyupfitness.up.page.main.MainActivity 
+      time="2017/2/20 20:51" type=MOVE_TO_FOREGROUND package=com.dailyupfitness.up class=com.dailyupfitness.up.page.my.MyActivity 
+      time="2017/2/20 20:51" type=MOVE_TO_BACKGROUND package=com.dailyupfitness.up class=com.dailyupfitness.up.page.my.MyActivity 
+      time="2017/2/20 20:51" type=MOVE_TO_FOREGROUND package=com.dailyupfitness.up class=com.dailyupfitness.up.page.my.SignUpActivity 
+      time="2017/2/20 20:51" type=MOVE_TO_BACKGROUND package=com.dailyupfitness.up class=com.dailyupfitness.up.page.my.SignUpActivity 
+      time="2017/2/20 20:51" type=MOVE_TO_FOREGROUND package=com.dailyupfitness.up class=com.dailyupfitness.up.page.my.MyActivity 
+      time="2017/2/20 20:51" type=MOVE_TO_BACKGROUND package=com.dailyupfitness.up class=com.dailyupfitness.up.page.my.MyActivity 
+      time="2017/2/20 20:51" type=CONFIGURATION_CHANGE package=android config=w411dp-h707dp-port-v23 
+      time="2017/2/20 20:51" type=MOVE_TO_FOREGROUND package=com.wandoujia.phoenix2.usbproxy class=com.wandoujia.phoenix2.ui.WelcomeActivity 
+      time="2017/2/20 20:51" type=MOVE_TO_BACKGROUND package=com.wandoujia.phoenix2.usbproxy class=com.wandoujia.phoenix2.ui.WelcomeActivity 
+      time="2017/2/20 20:51" type=CONFIGURATION_CHANGE package=android config=w731dp-h387dp-land-v23 
+      time="2017/2/20 20:51" type=MOVE_TO_FOREGROUND package=com.dailyupfitness.up class=com.dailyupfitness.up.page.my.MyActivity 
+      time="2017/2/20 20:53" type=MOVE_TO_BACKGROUND package=com.dailyupfitness.up class=com.dailyupfitness.up.page.my.MyActivity 
+      time="2017/2/20 20:53" type=CONFIGURATION_CHANGE package=android config=w411dp-h707dp-port-v23 
+      time="2017/2/20 20:53" type=MOVE_TO_FOREGROUND package=com.android.launcher3 class=com.android.launcher3.Launcher 
+      time="2017/2/20 20:53" type=MOVE_TO_BACKGROUND package=com.android.launcher3 class=com.android.launcher3.Launcher 
+      time="2017/2/20 20:53" type=CONFIGURATION_CHANGE package=android config=w731dp-h387dp-land-v23 
+      time="2017/2/20 20:53" type=MOVE_TO_FOREGROUND package=com.dailyupfitness.up class=com.dailyupfitness.up.page.my.PayPackageActivity 
+      time="2017/2/20 20:53" type=MOVE_TO_BACKGROUND package=com.dailyupfitness.up class=com.dailyupfitness.up.page.my.PayPackageActivity 
+      time="2017/2/20 20:53" type=MOVE_TO_FOREGROUND package=com.dailyupfitness.up class=com.dailyupfitness.up.page.my.PayModeSelectActivity 
+      time="2017/2/20 20:53" type=MOVE_TO_BACKGROUND package=com.dailyupfitness.up class=com.dailyupfitness.up.page.my.PayModeSelectActivity 
+      time="2017/2/20 20:53" type=MOVE_TO_FOREGROUND package=com.dailyupfitness.up class=com.dailyupfitness.up.page.my.RealPayActivity 
+      time="2017/2/20 20:53" type=MOVE_TO_BACKGROUND package=com.dailyupfitness.up class=com.dailyupfitness.up.page.my.RealPayActivity 
+      time="2017/2/20 20:53" type=MOVE_TO_FOREGROUND package=com.dailyupfitness.up class=com.dailyupfitness.up.page.my.PayModeSelectActivity 
+      time="2017/2/20 20:53" type=MOVE_TO_BACKGROUND package=com.dailyupfitness.up class=com.dailyupfitness.up.page.my.PayModeSelectActivity 
+      time="2017/2/20 20:53" type=MOVE_TO_FOREGROUND package=com.dailyupfitness.up class=com.dailyupfitness.up.page.my.RealPayActivity 
+      time="2017/2/20 20:55" type=MOVE_TO_BACKGROUND package=com.dailyupfitness.up class=com.dailyupfitness.up.page.my.RealPayActivity 
+      time="2017/2/20 20:55" type=CONFIGURATION_CHANGE package=android config=w411dp-h707dp-port-v23 
+      time="2017/2/20 20:55" type=MOVE_TO_FOREGROUND package=com.android.launcher3 class=com.android.launcher3.Launcher 
+      time="2017/2/20 20:55" type=MOVE_TO_BACKGROUND package=com.android.launcher3 class=com.android.launcher3.Launcher 
+      time="2017/2/20 20:55" type=CONFIGURATION_CHANGE package=android config=w731dp-h387dp-land-v23 
+      time="2017/2/20 20:55" type=MOVE_TO_FOREGROUND package=com.dailyupfitness.up class=com.dailyupfitness.up.page.my.PayPackageActivity 
+      time="2017/2/20 20:55" type=MOVE_TO_BACKGROUND package=com.dailyupfitness.up class=com.dailyupfitness.up.page.my.PayPackageActivity 
+      time="2017/2/20 20:55" type=MOVE_TO_FOREGROUND package=com.dailyupfitness.up class=com.dailyupfitness.up.page.my.PayModeSelectActivity 
+      time="2017/2/20 20:55" type=MOVE_TO_BACKGROUND package=com.dailyupfitness.up class=com.dailyupfitness.up.page.my.PayModeSelectActivity 
+      time="2017/2/20 20:55" type=MOVE_TO_FOREGROUND package=com.dailyupfitness.up class=com.dailyupfitness.up.page.my.RealPayActivity 
+      time="2017/2/20 20:55" type=MOVE_TO_BACKGROUND package=com.dailyupfitness.up class=com.dailyupfitness.up.page.my.RealPayActivity 
+      time="2017/2/20 20:55" type=MOVE_TO_FOREGROUND package=com.dailyupfitness.up class=com.dailyupfitness.up.page.my.PayModeSelectActivity 
+      time="2017/2/20 20:55" type=MOVE_TO_BACKGROUND package=com.dailyupfitness.up class=com.dailyupfitness.up.page.my.PayModeSelectActivity 
+      time="2017/2/20 20:55" type=MOVE_TO_FOREGROUND package=com.dailyupfitness.up class=com.dailyupfitness.up.page.my.RealPayActivity 
+      time="2017/2/20 21:06" type=MOVE_TO_BACKGROUND package=com.dailyupfitness.up class=com.dailyupfitness.up.page.my.RealPayActivity 
+      time="2017/2/20 21:06" type=MOVE_TO_FOREGROUND package=com.dailyupfitness.up class=com.dailyupfitness.up.page.my.PayModeSelectActivity 
+      time="2017/2/20 21:07" type=MOVE_TO_BACKGROUND package=com.dailyupfitness.up class=com.dailyupfitness.up.page.my.PayModeSelectActivity 
+      time="2017/2/20 21:07" type=MOVE_TO_FOREGROUND package=com.dailyupfitness.up class=com.dailyupfitness.up.page.my.PayPackageActivity 
+      time="2017/2/20 21:07" type=MOVE_TO_BACKGROUND package=com.dailyupfitness.up class=com.dailyupfitness.up.page.my.PayPackageActivity 
+      time="2017/2/20 21:07" type=MOVE_TO_FOREGROUND package=com.dailyupfitness.up class=com.dailyupfitness.up.page.my.PayModeSelectActivity 
+      time="2017/2/20 21:07" type=MOVE_TO_BACKGROUND package=com.dailyupfitness.up class=com.dailyupfitness.up.page.my.PayModeSelectActivity 
+      time="2017/2/20 21:07" type=MOVE_TO_FOREGROUND package=com.dailyupfitness.up class=com.dailyupfitness.up.page.my.RealPayActivity 
+      time="2017/2/20 21:35" type=CONFIGURATION_CHANGE package=android config=w411dp-h731dp-port-notouch-v23 
+      time="2017/2/20 21:35" type=CONFIGURATION_CHANGE package=android config=h707dp-v23 
+      time="2017/2/20 21:35" type=CONFIGURATION_CHANGE package=android config=notnight-notoled-v23 
+      time="2017/2/20 21:35" type=CONFIGURATION_CHANGE package=android config=finger-v23 
+      time="2017/2/20 21:35" type=CONFIGURATION_CHANGE package=android config=v23 
+      time="2017/2/20 21:35" type=MOVE_TO_FOREGROUND package=com.android.launcher3 class=com.android.launcher3.Launcher 
+      time="2017/2/20 21:35" type=MOVE_TO_BACKGROUND package=com.android.launcher3 class=com.android.launcher3.Launcher 
+      time="2017/2/20 21:39" type=MOVE_TO_FOREGROUND package=com.android.settings class=com.android.settings.UsbSettings 
+      time="2017/2/20 21:39" type=MOVE_TO_BACKGROUND package=com.android.settings class=com.android.settings.UsbSettings 
+      time="2017/2/20 21:39" type=MOVE_TO_FOREGROUND package=com.android.settings class=com.android.settings.UsbSettings 
+      time="2017/2/20 21:39" type=MOVE_TO_BACKGROUND package=com.android.settings class=com.android.settings.UsbSettings 
+      time="2017/2/20 21:39" type=MOVE_TO_FOREGROUND package=com.example.demo1 class=com.example.plokmju.testmutilecompile.MainActivity 
+      time="2017/2/20 21:40" type=MOVE_TO_BACKGROUND package=com.example.demo1 class=com.example.plokmju.testmutilecompile.MainActivity 
+      time="2017/2/20 21:40" type=MOVE_TO_FOREGROUND package=com.android.launcher3 class=com.android.launcher3.Launcher 
+      time="2017/2/20 21:40" type=MOVE_TO_BACKGROUND package=com.android.launcher3 class=com.android.launcher3.Launcher 
+      time="2017/2/20 21:40" type=MOVE_TO_FOREGROUND package=com.example.demo1 class=com.example.plokmju.testmutilecompile.MainActivity 
+      time="2017/2/20 21:40" type=MOVE_TO_BACKGROUND package=com.example.demo1 class=com.example.plokmju.testmutilecompile.MainActivity 
+      time="2017/2/20 21:40" type=MOVE_TO_FOREGROUND package=com.android.launcher3 class=com.android.launcher3.Launcher 
+      time="2017/2/20 21:40" type=MOVE_TO_BACKGROUND package=com.android.launcher3 class=com.android.launcher3.Launcher 
+      time="2017/2/20 21:40" type=MOVE_TO_FOREGROUND package=com.example.demo1 class=com.example.plokmju.testmutilecompile.MainActivity 
+      time="2017/2/20 21:40" type=MOVE_TO_BACKGROUND package=com.example.demo1 class=com.example.plokmju.testmutilecompile.MainActivity 
+      time="2017/2/20 21:40" type=MOVE_TO_FOREGROUND package=com.android.launcher3 class=com.android.launcher3.Launcher 
+      time="2017/2/20 21:40" type=MOVE_TO_BACKGROUND package=com.android.launcher3 class=com.android.launcher3.Launcher 
+      time="2017/2/20 21:40" type=MOVE_TO_FOREGROUND package=com.example.demo1 class=com.example.plokmju.testmutilecompile.MainActivity 
+      time="2017/2/20 21:40" type=MOVE_TO_BACKGROUND package=com.example.demo1 class=com.example.plokmju.testmutilecompile.MainActivity 
+      time="2017/2/20 21:40" type=MOVE_TO_FOREGROUND package=com.wandoujia.phoenix2.usbproxy class=com.wandoujia.phoenix2.ui.WelcomeActivity 
+      time="2017/2/20 21:40" type=MOVE_TO_BACKGROUND package=com.wandoujia.phoenix2.usbproxy class=com.wandoujia.phoenix2.ui.WelcomeActivity 
+      time="2017/2/20 21:40" type=MOVE_TO_FOREGROUND package=com.example.demo1 class=com.example.plokmju.testmutilecompile.MainActivity 
+      time="2017/2/20 21:40" type=MOVE_TO_BACKGROUND package=com.example.demo1 class=com.example.plokmju.testmutilecompile.MainActivity 
+      time="2017/2/20 21:40" type=MOVE_TO_FOREGROUND package=com.android.launcher3 class=com.android.launcher3.Launcher 
+      time="2017/2/20 21:40" type=MOVE_TO_BACKGROUND package=com.android.launcher3 class=com.android.launcher3.Launcher 
+      time="2017/2/20 21:40" type=MOVE_TO_FOREGROUND package=com.example.demo1 class=com.example.plokmju.testmutilecompile.MainActivity 
+      time="2017/2/20 21:41" type=MOVE_TO_BACKGROUND package=com.example.demo1 class=com.example.plokmju.testmutilecompile.MainActivity 
+      time="2017/2/20 21:41" type=MOVE_TO_FOREGROUND package=com.android.launcher3 class=com.android.launcher3.Launcher 
+      time="2017/2/20 21:41" type=MOVE_TO_BACKGROUND package=com.android.launcher3 class=com.android.launcher3.Launcher 
+      time="2017/2/20 21:41" type=MOVE_TO_FOREGROUND package=com.example.demo1 class=com.example.plokmju.testmutilecompile.MainActivity 
+      time="2017/2/20 21:41" type=USER_INTERACTION package=android 
+      time="2017/2/20 21:41" type=MOVE_TO_BACKGROUND package=com.example.demo1 class=com.example.plokmju.testmutilecompile.MainActivity 
+      time="2017/2/20 21:41" type=MOVE_TO_FOREGROUND package=com.android.launcher3 class=com.android.launcher3.Launcher 
+      time="2017/2/20 21:41" type=MOVE_TO_BACKGROUND package=com.android.launcher3 class=com.android.launcher3.Launcher 
+      time="2017/2/20 21:41" type=MOVE_TO_FOREGROUND package=com.example.demo1 class=com.example.plokmju.testmutilecompile.MainActivity 
+      time="2017/2/20 21:41" type=MOVE_TO_BACKGROUND package=com.example.demo1 class=com.example.plokmju.testmutilecompile.MainActivity 
+      time="2017/2/20 21:41" type=MOVE_TO_FOREGROUND package=com.android.launcher3 class=com.android.launcher3.Launcher 
+      time="2017/2/20 21:41" type=MOVE_TO_BACKGROUND package=com.android.launcher3 class=com.android.launcher3.Launcher 
+      time="2017/2/20 21:41" type=MOVE_TO_FOREGROUND package=com.example.demo1 class=com.example.plokmju.testmutilecompile.MainActivity 
+      time="2017/2/20 21:41" type=MOVE_TO_BACKGROUND package=com.example.demo1 class=com.example.plokmju.testmutilecompile.MainActivity 
+      time="2017/2/20 21:41" type=MOVE_TO_FOREGROUND package=com.android.launcher3 class=com.android.launcher3.Launcher 
+      time="2017/2/20 21:41" type=MOVE_TO_BACKGROUND package=com.android.launcher3 class=com.android.launcher3.Launcher 
+      time="2017/2/20 21:41" type=MOVE_TO_FOREGROUND package=com.example.demo1 class=com.example.plokmju.testmutilecompile.MainActivity 
+      time="2017/2/20 21:42" type=MOVE_TO_BACKGROUND package=com.example.demo1 class=com.example.plokmju.testmutilecompile.MainActivity 
+      time="2017/2/20 21:42" type=MOVE_TO_FOREGROUND package=com.android.launcher3 class=com.android.launcher3.Launcher 
+      time="2017/2/20 21:42" type=MOVE_TO_BACKGROUND package=com.android.launcher3 class=com.android.launcher3.Launcher 
+      time="2017/2/20 21:42" type=MOVE_TO_FOREGROUND package=com.example.demo1 class=com.example.plokmju.testmutilecompile.MainActivity 
+      time="2017/2/20 21:42" type=MOVE_TO_BACKGROUND package=com.example.demo1 class=com.example.plokmju.testmutilecompile.MainActivity 
+      time="2017/2/20 21:42" type=MOVE_TO_FOREGROUND package=com.android.launcher3 class=com.android.launcher3.Launcher 
+      time="2017/2/20 21:43" type=MOVE_TO_BACKGROUND package=com.android.launcher3 class=com.android.launcher3.Launcher 
+      time="2017/2/20 21:43" type=MOVE_TO_FOREGROUND package=com.example.demo1 class=com.example.plokmju.testmutilecompile.MainActivity 
+      time="2017/2/20 21:43" type=MOVE_TO_BACKGROUND package=com.example.demo1 class=com.example.plokmju.testmutilecompile.MainActivity 
+      time="2017/2/20 21:43" type=MOVE_TO_FOREGROUND package=com.android.launcher3 class=com.android.launcher3.Launcher 
+      time="2017/2/20 21:43" type=MOVE_TO_BACKGROUND package=com.android.launcher3 class=com.android.launcher3.Launcher 
+      time="2017/2/20 21:43" type=MOVE_TO_FOREGROUND package=com.example.demo1 class=com.example.plokmju.testmutilecompile.MainActivity 
+      time="2017/2/20 21:44" type=MOVE_TO_BACKGROUND package=com.example.demo1 class=com.example.plokmju.testmutilecompile.MainActivity 
+      time="2017/2/20 21:44" type=MOVE_TO_FOREGROUND package=com.android.launcher3 class=com.android.launcher3.Launcher 
+      time="2017/2/20 21:44" type=MOVE_TO_BACKGROUND package=com.android.launcher3 class=com.android.launcher3.Launcher 
+      time="2017/2/20 21:44" type=MOVE_TO_FOREGROUND package=com.example.demo1 class=com.example.plokmju.testmutilecompile.MainActivity 
+  In-memory weekly stats
+  timeRange="2017/2/16 08:00 ??? 2017/2/20 21:44" 
+    packages
+      package=com.mediatek.gba totalTime="00:00" lastTime="1970/1/1 08:00" lastTimeSystem="2017/2/20 21:35" inactiveTime="05:38" 
+      package=com.mediatek.ims totalTime="00:00" lastTime="1970/1/1 08:00" lastTimeSystem="2017/2/20 21:35" inactiveTime="05:38" 
+      package=com.android.providers.telephony totalTime="00:00" lastTime="1970/1/1 08:00" lastTimeSystem="2017/2/20 21:35" inactiveTime="05:38" 
+      package=com.android.providers.media totalTime="00:00" lastTime="1970/1/1 08:00" lastTimeSystem="2017/2/20 21:36" inactiveTime="05:23" 
+      package=com.letv.android.wallpaperonline totalTime="00:00" lastTime="1970/1/1 08:00" lastTimeSystem="2017/2/20 21:35" inactiveTime="05:36" 
+      package=com.wandoujia.phoenix2.usbproxy totalTime="00:00" lastTime="2017/2/20 21:40" lastTimeSystem="2017/2/20 21:40" inactiveTime="04:06" 
+      package=com.android.providers.downloads totalTime="00:00" lastTime="1970/1/1 08:00" lastTimeSystem="2017/2/20 21:36" inactiveTime="05:23" 
+      package=com.wukongtv.wkhelper totalTime="29:33" lastTime="2017/2/20 18:54" lastTimeSystem="2017/2/20 18:54" inactiveTime="07:07" 
+      package=com.android.providers.applications totalTime="00:00" lastTime="1970/1/1 08:00" lastTimeSystem="2017/2/20 21:35" inactiveTime="05:23" 
+      package=com.mediatek.wfo.impl totalTime="00:00" lastTime="1970/1/1 08:00" lastTimeSystem="2017/2/20 21:35" inactiveTime="05:38" 
+      package=com.android.defcontainer totalTime="00:00" lastTime="1970/1/1 08:00" lastTimeSystem="2017/2/20 21:43" inactiveTime="01:19" 
+      package=com.letv.app.appstore totalTime="00:00" lastTime="2017/2/20 21:41" lastTimeSystem="2017/2/20 21:44" inactiveTime="00:48" 
+      package=com.letv.android.freeflow totalTime="00:00" lastTime="1970/1/1 08:00" lastTimeSystem="2017/2/20 21:35" inactiveTime="05:38" 
+      package=android totalTime="00:00" lastTime="2017/2/20 21:41" lastTimeSystem="2017/2/20 21:41" inactiveTime="03:46" 
+      package=com.android.mms totalTime="00:00" lastTime="1970/1/1 08:00" lastTimeSystem="2017/2/20 21:35" inactiveTime="05:38" 
+      package=com.android.launcher3 totalTime="04:23" lastTime="2017/2/20 21:44" lastTimeSystem="2017/2/20 21:44" inactiveTime="00:43" 
+      package=com.example.demo1 totalTime="01:41" lastTime="2017/2/20 21:44" lastTimeSystem="2017/2/20 21:44" inactiveTime="00:43" 
+      package=com.mediatek.voiceextension totalTime="00:00" lastTime="1970/1/1 08:00" lastTimeSystem="2017/2/20 21:35" inactiveTime="05:38" 
+      package=com.letv.walletbiz totalTime="00:00" lastTime="1970/1/1 08:00" lastTimeSystem="2017/2/20 21:43" inactiveTime="01:17" 
+      package=com.android.printspooler totalTime="00:00" lastTime="1970/1/1 08:00" lastTimeSystem="2017/2/20 21:44" inactiveTime="00:10" 
+      package=com.stv.android.videochat totalTime="00:00" lastTime="1970/1/1 08:00" lastTimeSystem="2017/2/20 21:35" inactiveTime="05:38" 
+      package=com.letv.gallery3d.syncservice totalTime="00:00" lastTime="1970/1/1 08:00" lastTimeSystem="2017/2/20 21:35" inactiveTime="05:38" 
+      package=com.mediatek.nlpservice totalTime="00:00" lastTime="1970/1/1 08:00" lastTimeSystem="2017/2/20 21:35" inactiveTime="05:38" 
+      package=com.android.keychain totalTime="00:00" lastTime="1970/1/1 08:00" lastTimeSystem="2017/2/20 21:35" inactiveTime="05:27" 
+      package=com.letv.domain totalTime="00:00" lastTime="1970/1/1 08:00" lastTimeSystem="2017/2/20 21:35" inactiveTime="05:38" 
+      package=com.wandoujia.phoenix2 totalTime="00:00" lastTime="1970/1/1 08:00" lastTimeSystem="2017/2/20 11:43" inactiveTime="5:30:16" 
+      package=com.letv.agnes totalTime="00:00" lastTime="1970/1/1 08:00" lastTimeSystem="2017/2/20 21:39" inactiveTime="05:19" 
+      package=com.letv.android.supermanager totalTime="00:00" lastTime="1970/1/1 08:00" lastTimeSystem="2017/2/20 21:35" inactiveTime="05:23" 
+      package=com.letv.android.powercontroller totalTime="00:00" lastTime="1970/1/1 08:00" lastTimeSystem="2017/2/20 21:35" inactiveTime="05:38" 
+      package=com.letv.leui.widget.leclipboardapp totalTime="00:00" lastTime="1970/1/1 08:00" lastTimeSystem="2017/2/20 21:35" inactiveTime="05:33" 
+      package=com.dolby totalTime="00:00" lastTime="1970/1/1 08:00" lastTimeSystem="2017/2/20 21:35" inactiveTime="05:38" 
+      package=com.android.settings totalTime="00:51" lastTime="2017/2/20 21:39" lastTimeSystem="2017/2/20 21:39" inactiveTime="04:56" 
+      package=com.letv.android.emojistore totalTime="00:00" lastTime="1970/1/1 08:00" lastTimeSystem="2017/2/20 21:35" inactiveTime="05:35" 
+      package=com.letv.android.cloudservice totalTime="00:00" lastTime="1970/1/1 08:00" lastTimeSystem="2017/2/20 21:39" inactiveTime="05:26" 
+      package=com.letv.android.privacydata totalTime="00:00" lastTime="1970/1/1 08:00" lastTimeSystem="2017/2/20 21:35" inactiveTime="05:38" 
+      package=com.dailyupfitness.up totalTime="5:25:30" lastTime="2017/2/20 21:10" lastTimeSystem="2017/2/20 21:10" inactiveTime="00:-2327" 
+      package=com.android.phone totalTime="00:00" lastTime="1970/1/1 08:00" lastTimeSystem="2017/2/20 21:35" inactiveTime="05:38" 
+      package=com.android.providers.userdictionary totalTime="00:00" lastTime="1970/1/1 08:00" lastTimeSystem="2017/2/20 21:35" inactiveTime="05:23" 
+      package=com.android.systemui totalTime="00:00" lastTime="1970/1/1 08:00" lastTimeSystem="2017/2/20 21:35" inactiveTime="05:38" 
+      package=com.android.exchange totalTime="00:00" lastTime="1970/1/1 08:00" lastTimeSystem="2017/2/20 21:35" inactiveTime="05:42" 
+      package=sina.mobile.tianqitongletv totalTime="00:00" lastTime="1970/1/1 08:00" lastTimeSystem="2017/2/20 21:35" inactiveTime="05:36" 
+      package=com.wukongtv.wkremote.client totalTime="56:15" lastTime="2017/2/20 18:55" lastTimeSystem="2017/2/20 18:55" inactiveTime="05:44" 
+      package=com.android.providers.contacts totalTime="00:00" lastTime="1970/1/1 08:00" lastTimeSystem="2017/2/20 21:35" inactiveTime="05:23" 
+    configurations
+      config=zh-rCN-ldltr-sw411dp-w411dp-h707dp-normal-long-notround-port-notnight-notoled-420dpi-notouch-keysexposed-nokeys-navhidden-nonav-v23 totalTime="00:00" lastTime="2017/2/20 21:35" count=1 
+      config=zh-rCN-ldltr-sw411dp-w731dp-h387dp-normal-long-notround-land-notnight-notoled-420dpi-finger-keysexposed-nokeys-navhidden-nonav-v23 totalTime="6:19:20" lastTime="2017/2/20 21:35" count=22 
+      config=zh-rCN-ldltr-sw411dp-w411dp-h707dp-normal-long-notround-port-420dpi-notouch-keysexposed-nokeys-navhidden-nonav-v23 totalTime="00:00" lastTime="2017/2/20 21:35" count=1 
+      config=zh-rCN-ldltr-sw411dp-w411dp-h731dp-normal-long-notround-port-420dpi-notouch-keysexposed-nokeys-navhidden-nonav-v23 totalTime="00:00" lastTime="2017/2/20 21:35" count=1 
+      config=zh-rCN-ldltr-sw411dp-w411dp-h707dp-normal-long-notround-port-notnight-notoled-420dpi-finger-keysexposed-nokeys-navhidden-nonav-v23 totalTime="4:01:51" lastTime="2017/2/20 21:35" count=22 
+      config=zh-rCN-ldltr-sw411dp-w411dp-h707dp-normal-long-notround-port-notnight-notoled-420dpi-finger-keysexposed-nokeys-navhidden-nonav-v23 totalTime="00:00" lastTime="2017/2/20 21:35" count=1 
+    events
+  In-memory monthly stats
+  timeRange="2017/1/24 08:00 ??? 2017/2/20 21:44" 
+    packages
+      package=com.mediatek.gba totalTime="00:00" lastTime="1970/1/1 08:00" lastTimeSystem="2017/2/20 21:35" inactiveTime="05:38" 
+      package=com.mediatek.ims totalTime="00:00" lastTime="1970/1/1 08:00" lastTimeSystem="2017/2/20 21:35" inactiveTime="05:38" 
+      package=com.android.providers.telephony totalTime="00:00" lastTime="1970/1/1 08:00" lastTimeSystem="2017/2/20 21:35" inactiveTime="05:38" 
+      package=com.android.providers.media totalTime="00:00" lastTime="1970/1/1 08:00" lastTimeSystem="2017/2/20 21:36" inactiveTime="05:23" 
+      package=com.letv.android.wallpaperonline totalTime="00:00" lastTime="1970/1/1 08:00" lastTimeSystem="2017/2/20 21:35" inactiveTime="05:36" 
+      package=com.wandoujia.phoenix2.usbproxy totalTime="00:00" lastTime="2017/2/20 21:40" lastTimeSystem="2017/2/20 21:40" inactiveTime="04:06" 
+      package=com.android.providers.downloads totalTime="00:00" lastTime="1970/1/1 08:00" lastTimeSystem="2017/2/20 21:36" inactiveTime="05:23" 
+      package=com.wukongtv.wkhelper totalTime="29:33" lastTime="2017/2/20 18:54" lastTimeSystem="2017/2/20 18:54" inactiveTime="07:07" 
+      package=com.android.providers.applications totalTime="00:00" lastTime="1970/1/1 08:00" lastTimeSystem="2017/2/20 21:35" inactiveTime="05:23" 
+      package=com.mediatek.wfo.impl totalTime="00:00" lastTime="1970/1/1 08:00" lastTimeSystem="2017/2/20 21:35" inactiveTime="05:38" 
+      package=com.android.defcontainer totalTime="00:00" lastTime="1970/1/1 08:00" lastTimeSystem="2017/2/20 21:43" inactiveTime="01:19" 
+      package=com.letv.app.appstore totalTime="00:00" lastTime="2017/2/20 21:41" lastTimeSystem="2017/2/20 21:44" inactiveTime="00:48" 
+      package=com.letv.android.freeflow totalTime="00:00" lastTime="1970/1/1 08:00" lastTimeSystem="2017/2/20 21:35" inactiveTime="05:38" 
+      package=android totalTime="00:00" lastTime="2017/2/20 21:41" lastTimeSystem="2017/2/20 21:41" inactiveTime="03:46" 
+      package=com.android.mms totalTime="00:00" lastTime="1970/1/1 08:00" lastTimeSystem="2017/2/20 21:35" inactiveTime="05:38" 
+      package=com.android.launcher3 totalTime="04:23" lastTime="2017/2/20 21:44" lastTimeSystem="2017/2/20 21:44" inactiveTime="00:43" 
+      package=com.example.demo1 totalTime="01:41" lastTime="2017/2/20 21:44" lastTimeSystem="2017/2/20 21:44" inactiveTime="00:43" 
+      package=com.mediatek.voiceextension totalTime="00:00" lastTime="1970/1/1 08:00" lastTimeSystem="2017/2/20 21:35" inactiveTime="05:38" 
+      package=com.letv.walletbiz totalTime="00:00" lastTime="1970/1/1 08:00" lastTimeSystem="2017/2/20 21:43" inactiveTime="01:17" 
+      package=com.android.printspooler totalTime="00:00" lastTime="1970/1/1 08:00" lastTimeSystem="2017/2/20 21:44" inactiveTime="00:10" 
+      package=com.stv.android.videochat totalTime="00:00" lastTime="1970/1/1 08:00" lastTimeSystem="2017/2/20 21:35" inactiveTime="05:38" 
+      package=com.letv.gallery3d.syncservice totalTime="00:00" lastTime="1970/1/1 08:00" lastTimeSystem="2017/2/20 21:35" inactiveTime="05:38" 
+      package=com.mediatek.nlpservice totalTime="00:00" lastTime="1970/1/1 08:00" lastTimeSystem="2017/2/20 21:35" inactiveTime="05:38" 
+      package=com.android.keychain totalTime="00:00" lastTime="1970/1/1 08:00" lastTimeSystem="2017/2/20 21:35" inactiveTime="05:27" 
+      package=com.letv.domain totalTime="00:00" lastTime="1970/1/1 08:00" lastTimeSystem="2017/2/20 21:35" inactiveTime="05:38" 
+      package=com.wandoujia.phoenix2 totalTime="00:00" lastTime="1970/1/1 08:00" lastTimeSystem="2017/2/20 11:43" inactiveTime="5:30:16" 
+      package=com.letv.agnes totalTime="00:00" lastTime="1970/1/1 08:00" lastTimeSystem="2017/2/20 21:39" inactiveTime="05:19" 
+      package=com.letv.android.supermanager totalTime="00:00" lastTime="1970/1/1 08:00" lastTimeSystem="2017/2/20 21:35" inactiveTime="05:23" 
+      package=com.letv.android.powercontroller totalTime="00:00" lastTime="1970/1/1 08:00" lastTimeSystem="2017/2/20 21:35" inactiveTime="05:38" 
+      package=com.letv.leui.widget.leclipboardapp totalTime="00:00" lastTime="1970/1/1 08:00" lastTimeSystem="2017/2/20 21:35" inactiveTime="05:33" 
+      package=com.dolby totalTime="00:00" lastTime="1970/1/1 08:00" lastTimeSystem="2017/2/20 21:35" inactiveTime="05:38" 
+      package=com.android.settings totalTime="00:51" lastTime="2017/2/20 21:39" lastTimeSystem="2017/2/20 21:39" inactiveTime="04:56" 
+      package=com.letv.android.emojistore totalTime="00:00" lastTime="1970/1/1 08:00" lastTimeSystem="2017/2/20 21:35" inactiveTime="05:35" 
+      package=com.letv.android.cloudservice totalTime="00:00" lastTime="1970/1/1 08:00" lastTimeSystem="2017/2/20 21:39" inactiveTime="05:26" 
+      package=com.letv.android.privacydata totalTime="00:00" lastTime="1970/1/1 08:00" lastTimeSystem="2017/2/20 21:35" inactiveTime="05:38" 
+      package=com.dailyupfitness.up totalTime="5:25:30" lastTime="2017/2/20 21:10" lastTimeSystem="2017/2/20 21:10" inactiveTime="00:-2327" 
+      package=com.android.phone totalTime="00:00" lastTime="1970/1/1 08:00" lastTimeSystem="2017/2/20 21:35" inactiveTime="05:38" 
+      package=com.android.providers.userdictionary totalTime="00:00" lastTime="1970/1/1 08:00" lastTimeSystem="2017/2/20 21:35" inactiveTime="05:23" 
+      package=com.android.systemui totalTime="00:00" lastTime="1970/1/1 08:00" lastTimeSystem="2017/2/20 21:35" inactiveTime="05:38" 
+      package=com.android.exchange totalTime="00:00" lastTime="1970/1/1 08:00" lastTimeSystem="2017/2/20 21:35" inactiveTime="05:42" 
+      package=sina.mobile.tianqitongletv totalTime="00:00" lastTime="1970/1/1 08:00" lastTimeSystem="2017/2/20 21:35" inactiveTime="05:36" 
+      package=com.wukongtv.wkremote.client totalTime="56:15" lastTime="2017/2/20 18:55" lastTimeSystem="2017/2/20 18:55" inactiveTime="05:44" 
+      package=com.android.providers.contacts totalTime="00:00" lastTime="1970/1/1 08:00" lastTimeSystem="2017/2/20 21:35" inactiveTime="05:23" 
+    configurations
+      config=zh-rCN-ldltr-sw411dp-w411dp-h707dp-normal-long-notround-port-notnight-notoled-420dpi-notouch-keysexposed-nokeys-navhidden-nonav-v23 totalTime="00:00" lastTime="2017/2/20 21:35" count=1 
+      config=zh-rCN-ldltr-sw411dp-w731dp-h387dp-normal-long-notround-land-notnight-notoled-420dpi-finger-keysexposed-nokeys-navhidden-nonav-v23 totalTime="6:19:20" lastTime="2017/2/20 21:35" count=22 
+      config=zh-rCN-ldltr-sw411dp-w411dp-h707dp-normal-long-notround-port-420dpi-notouch-keysexposed-nokeys-navhidden-nonav-v23 totalTime="00:00" lastTime="2017/2/20 21:35" count=1 
+      config=zh-rCN-ldltr-sw411dp-w411dp-h731dp-normal-long-notround-port-420dpi-notouch-keysexposed-nokeys-navhidden-nonav-v23 totalTime="00:00" lastTime="2017/2/20 21:35" count=1 
+      config=zh-rCN-ldltr-sw411dp-w411dp-h707dp-normal-long-notround-port-notnight-notoled-420dpi-finger-keysexposed-nokeys-navhidden-nonav-v23 totalTime="4:01:51" lastTime="2017/2/20 21:35" count=22 
+      config=zh-rCN-ldltr-sw411dp-w411dp-h707dp-normal-long-notround-port-notnight-notoled-420dpi-finger-keysexposed-nokeys-navhidden-nonav-v23 totalTime="00:00" lastTime="2017/2/20 21:35" count=1 
+    events
+  In-memory yearly stats
+  timeRange="2017/1/27 19:57 ??? 2017/2/20 21:44" 
+    packages
+      package=com.pplive.androidxl totalTime="00:37" lastTime="2017/2/7 19:17" lastTimeSystem="2017/2/7 19:17" inactiveTime="139:42:30" 
+      package=com.mediatek.gba totalTime="00:00" lastTime="1972/2/8 19:57" lastTimeSystem="2017/2/20 21:35" inactiveTime="05:38" 
+      package=com.mediatek.ims totalTime="00:00" lastTime="1972/2/8 19:57" lastTimeSystem="2017/2/20 21:35" inactiveTime="05:38" 
+      package=com.letv.android.quicksearchbox totalTime="00:06" lastTime="2017/2/14 12:55" lastTimeSystem="2017/2/14 12:55" inactiveTime="62:00:24" 
+      package=com.android.providers.telephony totalTime="00:00" lastTime="1972/2/8 19:57" lastTimeSystem="2017/2/20 21:35" inactiveTime="05:38" 
+      package=com.android.providers.calendar totalTime="00:00" lastTime="1970/1/1 07:59" lastTimeSystem="2017/2/17 18:51" inactiveTime="8:26:29" 
+      package=com.android.providers.media totalTime="00:00" lastTime="1972/2/8 19:57" lastTimeSystem="2017/2/20 21:36" inactiveTime="05:23" 
+      package=com.letv.android.wallpaperonline totalTime="00:00" lastTime="1970/1/1 07:59" lastTimeSystem="2017/2/20 21:35" inactiveTime="05:36" 
+      package=com.android.externalstorage totalTime="00:00" lastTime="1970/1/1 07:59" lastTimeSystem="2017/2/17 11:30" inactiveTime="13:35:36" 
+      package=com.smzdm.client.android totalTime="50:20" lastTime="2017/2/17 22:16" lastTimeSystem="2017/2/17 22:16" inactiveTime="6:48:37" 
+      package=com.wandoujia.phoenix2.usbproxy totalTime="00:01" lastTime="2017/2/20 21:40" lastTimeSystem="2017/2/20 21:40" inactiveTime="04:06" 
+      package=com.android.providers.downloads totalTime="00:00" lastTime="1972/2/8 19:57" lastTimeSystem="2017/2/20 21:36" inactiveTime="05:23" 
+      package=com.wukongtv.wkhelper totalTime="25:32:27" lastTime="2017/2/20 18:54" lastTimeSystem="2017/2/20 18:54" inactiveTime="07:07" 
+      package=com.letv.bbs totalTime="00:00" lastTime="2017/2/17 15:01" lastTimeSystem="2017/2/17 15:01" inactiveTime="10:11:09" 
+      package=com.letv.letvshop totalTime="00:00" lastTime="2017/2/17 15:01" lastTimeSystem="2017/2/17 15:01" inactiveTime="10:11:09" 
+      package=com.android.browser totalTime="14:45" lastTime="2017/2/17 22:14" lastTimeSystem="2017/2/17 22:14" inactiveTime="6:50:27" 
+      package=com.android.providers.applications totalTime="00:00" lastTime="1972/2/8 19:57" lastTimeSystem="2017/2/20 21:35" inactiveTime="05:23" 
+      package=com.mediatek.wfo.impl totalTime="00:00" lastTime="1972/2/8 19:57" lastTimeSystem="2017/2/20 21:35" inactiveTime="05:38" 
+      package=com.baidu.input_letv totalTime="00:00" lastTime="2017/2/17 15:01" lastTimeSystem="2017/2/17 22:13" inactiveTime="6:50:55" 
+      package=com.android.defcontainer totalTime="00:00" lastTime="1972/2/8 19:57" lastTimeSystem="2017/2/20 21:43" inactiveTime="01:19" 
+      package=com.letv.app.appstore totalTime="00:00" lastTime="2017/2/20 21:41" lastTimeSystem="2017/2/20 21:44" inactiveTime="00:48" 
+      package=com.tencent.mm totalTime="1:49:29" lastTime="2017/2/17 22:50" lastTimeSystem="2017/2/17 22:50" inactiveTime="6:30:53" 
+      package=com.letv.android.freeflow totalTime="00:00" lastTime="1972/2/8 19:57" lastTimeSystem="2017/2/20 21:35" inactiveTime="05:38" 
+      package=com.android.certinstaller totalTime="165:51:57" lastTime="2017/2/17 23:08" lastTimeSystem="2017/2/17 23:08" inactiveTime="88:18:25" 
+      package=android totalTime="00:12" lastTime="2017/2/20 21:41" lastTimeSystem="2017/2/20 21:41" inactiveTime="03:46" 
+      package=com.android.mms totalTime="00:00" lastTime="2017/2/17 16:52" lastTimeSystem="2017/2/20 21:35" inactiveTime="05:38" 
+      package=com.android.stk totalTime="00:00" lastTime="1970/1/1 07:59" lastTimeSystem="2017/2/17 11:58" inactiveTime="13:07:59" 
+      package=com.android.launcher3 totalTime="19:08:30" lastTime="2017/2/20 21:44" lastTimeSystem="2017/2/20 21:44" inactiveTime="00:43" 
+      package=com.example.demo1 totalTime="01:53" lastTime="2017/2/20 21:44" lastTimeSystem="2017/2/20 21:44" inactiveTime="00:43" 
+      package=com.example.demo2 totalTime="00:11" lastTime="2017/2/13 21:35" lastTimeSystem="2017/2/13 21:35" inactiveTime="77:20:50" 
+      package=com.mediatek.voiceextension totalTime="00:00" lastTime="1972/2/8 19:57" lastTimeSystem="2017/2/20 21:35" inactiveTime="05:38" 
+      package=com.letv.android.client totalTime="00:00" lastTime="2017/2/17 15:01" lastTimeSystem="2017/2/17 15:01" inactiveTime="10:11:09" 
+      package=com.letv.android.setupwizard totalTime="02:26" lastTime="2017/2/7 12:02" lastTimeSystem="2017/2/7 12:02" inactiveTime="143:57:39" 
+      package=com.android.calendar totalTime="03:22" lastTime="2017/2/17 18:54" lastTimeSystem="2017/2/17 18:54" inactiveTime="8:23:37" 
+      package=com.letv.walletbiz totalTime="00:00" lastTime="2017/2/17 15:01" lastTimeSystem="2017/2/20 21:43" inactiveTime="01:17" 
+      package=com.android.providers.settings totalTime="00:00" lastTime="1970/1/1 07:59" lastTimeSystem="2017/2/17 11:30" inactiveTime="13:35:57" 
+      package=com.android.printspooler totalTime="00:00" lastTime="1972/2/8 19:57" lastTimeSystem="2017/2/20 21:44" inactiveTime="00:10" 
+      package=com.example.plokmju.testmutilecompile totalTime="17:45:56" lastTime="2017/2/13 21:25" lastTimeSystem="2017/2/13 21:25" inactiveTime="77:29:55" 
+      package=com.tencent.mtt totalTime="00:54" lastTime="2017/2/17 18:51" lastTimeSystem="2017/2/17 20:16" inactiveTime="7:50:31" 
+      package=com.stv.android.videochat totalTime="00:00" lastTime="1972/2/8 19:57" lastTimeSystem="2017/2/20 21:35" inactiveTime="05:38" 
+      package=com.letv.gallery3d.syncservice totalTime="00:00" lastTime="1972/2/8 19:57" lastTimeSystem="2017/2/20 21:35" inactiveTime="05:38" 
+      package=com.android.cellbroadcastreceiver totalTime="00:00" lastTime="1972/2/8 19:57" lastTimeSystem="2017/2/16 18:17" inactiveTime="30:48:41" 
+      package=com.mediatek.nlpservice totalTime="00:00" lastTime="1972/2/8 19:57" lastTimeSystem="2017/2/20 21:35" inactiveTime="05:38" 
+      package=com.ss.android.article.news totalTime="24:33" lastTime="2017/2/17 17:47" lastTimeSystem="2017/2/17 17:47" inactiveTime="8:55:20" 
+      package=com.android.server.telecom totalTime="00:00" lastTime="1970/1/1 07:59" lastTimeSystem="2017/2/17 11:30" inactiveTime="13:35:57" 
+      package=com.google.android.syncadapters.contacts totalTime="00:00" lastTime="1972/2/8 19:57" lastTimeSystem="2017/2/7 12:02" inactiveTime="143:57:39" 
+      package=com.android.keychain totalTime="00:00" lastTime="1972/2/8 19:57" lastTimeSystem="2017/2/20 21:35" inactiveTime="05:27" 
+      package=com.letv.domain totalTime="00:00" lastTime="1972/2/8 19:57" lastTimeSystem="2017/2/20 21:35" inactiveTime="05:38" 
+      package=com.google.android.gms totalTime="00:00" lastTime="1972/2/8 19:57" lastTimeSystem="2017/2/7 11:57" inactiveTime="143:57:39" 
+      package=com.google.android.gsf totalTime="00:00" lastTime="1972/2/8 19:57" lastTimeSystem="2017/2/7 12:02" inactiveTime="143:57:39" 
+      package=com.android.packageinstaller totalTime="8:46:30" lastTime="2017/2/17 16:52" lastTimeSystem="2017/2/17 16:52" inactiveTime="9:25:06" 
+      package=com.dsi.ant.server totalTime="00:00" lastTime="1970/1/1 07:59" lastTimeSystem="2017/2/17 11:30" inactiveTime="13:35:57" 
+      package=com.wandoujia.phoenix2 totalTime="03:33" lastTime="2017/2/17 13:15" lastTimeSystem="2017/2/20 11:43" inactiveTime="5:30:16" 
+      package=com.letv.agnes totalTime="00:00" lastTime="1972/2/8 19:57" lastTimeSystem="2017/2/20 21:39" inactiveTime="05:19" 
+      package=com.letv.android.supermanager totalTime="00:00" lastTime="1970/1/1 07:59" lastTimeSystem="2017/2/20 21:35" inactiveTime="05:23" 
+      package=com.letv.android.powercontroller totalTime="00:00" lastTime="1972/2/8 19:57" lastTimeSystem="2017/2/20 21:35" inactiveTime="05:38" 
+      package=com.letv.leui.widget.leclipboardapp totalTime="00:00" lastTime="1972/2/8 19:57" lastTimeSystem="2017/2/20 21:35" inactiveTime="05:33" 
+      package=com.dolby totalTime="00:00" lastTime="1972/2/8 19:57" lastTimeSystem="2017/2/20 21:35" inactiveTime="05:38" 
+      package=com.letv.android.filemanager totalTime="00:11" lastTime="2017/2/17 11:30" lastTimeSystem="2017/2/17 11:30" inactiveTime="13:35:30" 
+      package=com.letv.android.themestore totalTime="00:00" lastTime="2017/2/17 15:01" lastTimeSystem="2017/2/17 15:01" inactiveTime="10:11:09" 
+      package=com.android.settings totalTime="7:05:03" lastTime="2017/2/20 21:39" lastTimeSystem="2017/2/20 21:39" inactiveTime="04:56" 
+      package=com.letv.android.ecoProvider totalTime="00:00" lastTime="1970/1/1 07:59" lastTimeSystem="2017/2/17 18:51" inactiveTime="8:26:29" 
+      package=com.letv.android.emojistore totalTime="00:00" lastTime="1970/1/1 07:59" lastTimeSystem="2017/2/20 21:35" inactiveTime="05:35" 
+      package=com.letv.android.cloudservice totalTime="00:00" lastTime="1972/2/8 19:57" lastTimeSystem="2017/2/20 21:39" inactiveTime="05:26" 
+      package=com.letv.android.privacydata totalTime="00:00" lastTime="1972/2/8 19:57" lastTimeSystem="2017/2/20 21:35" inactiveTime="05:38" 
+      package=com.dailyupfitness.up totalTime="23:36:56" lastTime="2017/2/20 21:10" lastTimeSystem="2017/2/20 21:10" inactiveTime="00:-2327" 
+      package=com.android.phone totalTime="00:00" lastTime="1972/2/8 19:57" lastTimeSystem="2017/2/20 21:35" inactiveTime="05:38" 
+      package=com.android.providers.userdictionary totalTime="00:00" lastTime="1972/2/8 19:57" lastTimeSystem="2017/2/20 21:35" inactiveTime="05:23" 
+      package=com.android.systemui totalTime="12:08:03" lastTime="2017/2/17 22:14" lastTimeSystem="2017/2/20 21:35" inactiveTime="05:38" 
+      package=com.android.exchange totalTime="00:00" lastTime="1972/2/8 19:57" lastTimeSystem="2017/2/20 21:35" inactiveTime="05:42" 
+      package=sina.mobile.tianqitongletv totalTime="00:00" lastTime="1972/2/8 19:57" lastTimeSystem="2017/2/20 21:35" inactiveTime="05:36" 
+      package=com.wukongtv.wkremote.client totalTime="35:08:50" lastTime="2017/2/20 18:55" lastTimeSystem="2017/2/20 18:55" inactiveTime="05:44" 
+      package=com.android.bluetooth totalTime="00:00" lastTime="1972/2/8 19:57" lastTimeSystem="2017/2/7 11:57" inactiveTime="143:57:39" 
+      package=com.android.providers.contacts totalTime="00:00" lastTime="1972/2/8 19:57" lastTimeSystem="2017/2/20 21:35" inactiveTime="05:23" 
+      package=com.letv.android.phonecontrol totalTime="00:00" lastTime="1970/1/1 07:59" lastTimeSystem="2017/2/17 11:58" inactiveTime="13:07:59" 
+    configurations
+      config=zh-rCN-ldltr-sw411dp-w411dp-h707dp-normal-long-notround-port-notnight-notoled-420dpi-notouch-keysexposed-nokeys-navhidden-nonav-v23 totalTime="00:00" lastTime="2017/2/20 21:35" count=2 
+      config=zh-rCN-ldltr-sw411dp-w731dp-h387dp-normal-long-notround-land-notnight-notoled-420dpi-finger-keysexposed-nokeys-navhidden-nonav-v23 totalTime="6:19:20" lastTime="2017/2/20 21:35" count=22 
+      config=zh-rCN-ldltr-sw411dp-w411dp-h707dp-normal-long-notround-port-420dpi-notouch-keysexposed-nokeys-navhidden-nonav-v23 totalTime="00:00" lastTime="2017/2/20 21:35" count=2 
+      config=zh-rCN-ldltr-sw411dp-w411dp-h731dp-normal-long-notround-port-420dpi-notouch-keysexposed-nokeys-navhidden-nonav-v23 totalTime="00:00" lastTime="2017/2/20 21:35" count=2 
+      config=zh-rCN-ldltr-sw411dp-w411dp-h707dp-normal-long-notround-port-notnight-notoled-420dpi-finger-keysexposed-nokeys-navhidden-nonav-v23 totalTime="4:01:51" lastTime="2017/2/20 21:35" count=22 
+      config=zh-rCN-ldltr-sw411dp-w411dp-h707dp-normal-long-notround-port-notnight-notoled-420dpi-finger-keysexposed-nokeys-navhidden-nonav-v23 totalTime="00:00" lastTime="2017/2/20 21:35" count=1 
+    events
+  
+Screen On Timebase:517935921
+
+Settings:
+  mAppIdleDurationMillis=+12h0m0s0ms
+  mAppIdleWallclockThresholdMillis=+2d0h0m0s0ms
+  mCheckIdleIntervalMillis=+3h0m0s0ms
+  mAppIdleParoleIntervalMillis=+24h0m0s0ms
+  mAppIdleParoleDurationMillis=+10m0s0ms
+
+mAppIdleEnabled=false mAppIdleParoled=false mScreenOn=true
+mLastAppIdleParoledTime=0
+mScreenOnTime=+5d23h52m15s921ms
+mScreenOnSystemTimeSnapshot=+17217d13h39m32s608ms
+[dumpsys: 0.098s elapsed]
+

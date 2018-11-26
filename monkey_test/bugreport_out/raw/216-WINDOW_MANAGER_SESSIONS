@@ -1,0 +1,17 @@
+  Session Session{29e3ac1 924:1000}:
+    mNumWindow=2 mClientDead=false mSurfaceSession=android.view.SurfaceSession@b163575
+  Session Session{2ab341a 4836:u0a10024}:
+    mNumWindow=0 mClientDead=false mSurfaceSession=android.view.SurfaceSession@a3c990a
+  Session Session{3771191 1346:u0a10032}:
+    mNumWindow=3 mClientDead=false mSurfaceSession=android.view.SurfaceSession@a2a657b
+  Session Session{48ba08f 1699:u0a10111}:
+    mNumWindow=0 mClientDead=false mSurfaceSession=android.view.SurfaceSession@71adf98
+  Session Session{7e9104f 6946:u0a10145}:
+    mNumWindow=1 mClientDead=false mSurfaceSession=android.view.SurfaceSession@eea1cd6
+  Session Session{a3dd65b 4560:1000}:
+    mNumWindow=0 mClientDead=false mSurfaceSession=android.view.SurfaceSession@e21b3f1
+  Session Session{a6a6f47 1804:u0a10009}:
+    mNumWindow=1 mClientDead=false mSurfaceSession=android.view.SurfaceSession@6933bd6
+  Session Session{f8ccfaf 1544:u0a10032}:
+    mNumWindow=2 mClientDead=false mSurfaceSession=android.view.SurfaceSession@1aa5d44
+

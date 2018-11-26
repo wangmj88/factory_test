@@ -1,0 +1,49 @@
+System ready: true
+Restrict background: false
+Restrict power: false
+Device idle: false
+Network policies:
+Metered ifaces: {}
+Policy for UIDs:
+  UID=10008 policy=[REJECT_METERED_BACKGROUND]
+Power save whitelist (except idle) app ids:
+  UID=10006: true
+Status for known UIDs:
+  UID=1001 state=0 (fg) rules=UNKNOWN
+  UID=10002 state=16 (bg) rules=UNKNOWN
+  UID=10004 state=16 (bg) rules=UNKNOWN
+  UID=10006 state=10 (bg) rules=UNKNOWN
+  UID=10008 state=16 (bg) rules=[REJECT_METERED]
+  UID=10009 state=12 (bg) rules=UNKNOWN
+  UID=10010 state=0 (fg) rules=UNKNOWN
+  UID=10011 state=0 (fg) rules=UNKNOWN
+  UID=10012 state=10 (bg) rules=UNKNOWN
+  UID=10016 state=0 (fg) rules=UNKNOWN
+  UID=10018 state=0 (fg) rules=UNKNOWN
+  UID=10021 state=16 (bg) rules=UNKNOWN
+  UID=10024 state=16 (bg) rules=UNKNOWN
+  UID=10025 state=16 (bg) rules=UNKNOWN
+  UID=10032 state=0 (fg) rules=UNKNOWN
+  UID=10038 state=7 (bg) rules=UNKNOWN
+  UID=10043 state=16 (bg) rules=UNKNOWN
+  UID=10065 state=16 (bg) rules=UNKNOWN
+  UID=10068 state=16 (bg) rules=UNKNOWN
+  UID=10069 state=10 (bg) rules=UNKNOWN
+  UID=10071 state=0 (fg) rules=UNKNOWN
+  UID=10078 state=10 (bg) rules=UNKNOWN
+  UID=10081 state=10 (bg) rules=UNKNOWN
+  UID=10090 state=10 (bg) rules=UNKNOWN
+  UID=10092 state=7 (bg) rules=UNKNOWN
+  UID=10097 state=16 (bg) rules=UNKNOWN
+  UID=10098 state=16 (bg) rules=UNKNOWN
+  UID=10103 state=6 (bg) rules=UNKNOWN
+  UID=10106 state=16 (bg) rules=UNKNOWN
+  UID=10107 state=10 (bg) rules=UNKNOWN
+  UID=10108 state=10 (bg) rules=UNKNOWN
+  UID=10110 state=0 (fg) rules=UNKNOWN
+  UID=10111 state=0 (fg) rules=UNKNOWN
+  UID=10113 state=6 (bg) rules=UNKNOWN
+  UID=10116 state=16 (bg) rules=UNKNOWN
+  UID=10124 state=10 (bg) rules=UNKNOWN
+  UID=10145 state=2 (fg) rules=UNKNOWN
+  UID=10149 state=4 (bg) rules=UNKNOWN

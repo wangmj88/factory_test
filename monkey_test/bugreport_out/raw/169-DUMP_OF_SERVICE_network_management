@@ -1,0 +1,179 @@
+NetworkManagementService NativeDaemonConnector Log:
+02-20 21:35:06.242 - SND -> {13 network permission user set SYSTEM 10072 10028 10078 10016 10111 10058 1000 10077 10025 10086}
+02-20 21:35:06.260 - RCV <- {200 13 success}
+02-20 21:35:06.261 - RMV <- {200 13 success}
+02-20 21:35:06.261 - SND -> {14 network permission user set SYSTEM 10087 10047 10106 10017 10043 10009 10019 10031 10018 10116}
+02-20 21:35:06.279 - RCV <- {200 14 success}
+02-20 21:35:06.279 - RMV <- {200 14 success}
+02-20 21:35:06.280 - SND -> {15 network permission user set SYSTEM 10123 10101 10082 10044 10107 1002 10055 10050 10023 10097}
+02-20 21:35:06.293 - RCV <- {600 Iface linkstate wlan%d down}
+02-20 21:35:06.296 - SND -> {16 softap fwreload wlan0 STA}
+02-20 21:35:06.296 - RCV <- {600 Iface added wlan0}
+02-20 21:35:06.296 - RCV <- {600 Iface linkstate wlan0 down}
+02-20 21:35:06.301 - RCV <- {200 15 success}
+02-20 21:35:06.301 - RMV <- {200 15 success}
+02-20 21:35:06.301 - SND -> {17 network permission user set SYSTEM 10046 10064 10007 10030 10110 10039 10085 10102 10093 10021}
+02-20 21:35:06.302 - RCV <- {600 Iface added p2p0}
+02-20 21:35:06.305 - RCV <- {214 16 Ok}
+02-20 21:35:06.306 - RCV <- {600 Iface linkstate p2p0 down}
+02-20 21:35:06.306 - RMV <- {214 16 Ok}
+02-20 21:35:06.308 - SND -> {18 interface getcfg wlan0}
+02-20 21:35:06.323 - RCV <- {200 17 success}
+02-20 21:35:06.324 - RCV <- {213 18 84:73:03:0b:e5:f3 0.0.0.0 0 down broadcast multicast}
+02-20 21:35:06.324 - RMV <- {200 17 success}
+02-20 21:35:06.324 - RMV <- {213 18 84:73:03:0b:e5:f3 0.0.0.0 0 down broadcast multicast}
+02-20 21:35:06.324 - SND -> {19 network permission user set SYSTEM 10000 10006 10062 10033 10027 10001 10098 10095 10052 10067}
+02-20 21:35:06.325 - SND -> {20 interface setcfg wlan0 0.0.0.0 0 multicast broadcast down}
+02-20 21:35:06.344 - RCV <- {200 19 success}
+02-20 21:35:06.344 - RMV <- {200 19 success}
+02-20 21:35:06.345 - RCV <- {200 20 Interface configuration set}
+02-20 21:35:06.345 - SND -> {21 network permission user set SYSTEM 10066 10024 10054 10099 10045 10036 10020 10089 10104 10105}
+02-20 21:35:06.345 - RMV <- {200 20 Interface configuration set}
+02-20 21:35:06.345 - SND -> {22 interface clearaddrs wlan0}
+02-20 21:35:06.364 - RCV <- {200 21 success}
+02-20 21:35:06.364 - RCV <- {200 22 Interface IP addresses cleared}
+02-20 21:35:06.365 - RMV <- {200 22 Interface IP addresses cleared}
+02-20 21:35:06.365 - SND -> {23 interface ipv6privacyextensions wlan0 enable}
+02-20 21:35:06.365 - RMV <- {200 21 success}
+02-20 21:35:06.365 - SND -> {24 network permission user set SYSTEM 10091 10034 10029 10094 10074 10057 10005 10048 10071 1001}
+02-20 21:35:06.369 - RCV <- {200 23 IPv6 privacy extensions changed}
+02-20 21:35:06.369 - RMV <- {200 23 IPv6 privacy extensions changed}
+02-20 21:35:06.369 - SND -> {25 interface ipv6 wlan0 disable}
+02-20 21:35:06.386 - RCV <- {200 24 success}
+02-20 21:35:06.386 - RMV <- {200 24 success}
+02-20 21:35:06.386 - RCV <- {200 25 IPv6 state changed}
+02-20 21:35:06.386 - SND -> {26 network permission user set SYSTEM 10114 10070 10015 10113 10056 10084 10060 10032 10014 10035}
+02-20 21:35:06.386 - RMV <- {200 25 IPv6 state changed}
+02-20 21:35:06.405 - RCV <- {200 26 success}
+02-20 21:35:06.405 - RMV <- {200 26 success}
+02-20 21:35:06.405 - SND -> {27 network permission user set SYSTEM 10011 10083 10080 10061 10100 10075 10112 10042 10109 10041}
+02-20 21:35:06.424 - RCV <- {200 27 success}
+02-20 21:35:06.424 - RMV <- {200 27 success}
+02-20 21:35:06.424 - SND -> {28 network permission user set SYSTEM 2000 10038 10069 10092 10010 10065 10049 10012 10037 10051}
+02-20 21:35:06.443 - RCV <- {200 28 success}
+02-20 21:35:06.444 - RMV <- {200 28 success}
+02-20 21:35:06.444 - SND -> {29 network permission user set SYSTEM 10103 10122 10026}
+02-20 21:35:06.463 - RCV <- {200 29 success}
+02-20 21:35:06.463 - RMV <- {200 29 success}
+02-20 21:35:06.502 - RCV <- {600 Iface linkstate wlan0 down}
+02-20 21:35:06.929 - RCV <- {600 Iface linkstate p2p0 up}
+02-20 21:35:06.942 - RCV <- {616 Route updated fe80::/64 dev p2p0}
+02-20 21:35:06.942 - RCV <- {614 Address updated fe80::8473:3ff:fe0b:e5f3/64 p2p0 196 253 1}
+02-20 21:35:06.942 - RCV <- {600 Iface linkstate p2p0 up}
+02-20 21:35:06.942 - RCV <- {600 Iface linkstate p2p0 up}
+02-20 21:35:07.812 - SND -> {30 interface getcfg p2p0}
+02-20 21:35:07.812 - RCV <- {213 30 86:73:03:0b:e5:f3 0.0.0.0 0 up broadcast multicast}
+02-20 21:35:07.812 - RMV <- {213 30 86:73:03:0b:e5:f3 0.0.0.0 0 up broadcast multicast}
+02-20 21:35:07.813 - SND -> {31 interface setcfg p2p0 0.0.0.0 0 up multicast broadcast}
+02-20 21:35:07.814 - RCV <- {200 31 Interface configuration set}
+02-20 21:35:07.814 - RMV <- {200 31 Interface configuration set}
+02-20 21:35:07.814 - SND -> {32 interface ipv6 p2p0 disable}
+02-20 21:35:07.816 - RCV <- {200 32 IPv6 state changed}
+02-20 21:35:07.817 - RCV <- {616 Route removed fe80::/64 dev p2p0}
+02-20 21:35:07.817 - RMV <- {200 32 IPv6 state changed}
+02-20 21:35:07.820 - RCV <- {614 Address removed fe80::8473:3ff:fe0b:e5f3/64 p2p0 196 253 1}
+02-20 21:35:08.333 - SND -> {33 bandwidth setglobalalert 2097152}
+02-20 21:35:08.334 - RCV <- {200 33 Bandwidth command succeeeded}
+02-20 21:35:08.334 - RMV <- {200 33 Bandwidth command succeeeded}
+02-20 21:35:08.933 - RCV <- {600 Iface linkstate wlan0 down}
+02-20 21:35:08.934 - RCV <- {600 Iface linkstate wlan0 down}
+02-20 21:35:10.174 - RCV <- {600 Iface linkstate wlan0 down}
+02-20 21:35:10.174 - RCV <- {600 Iface linkstate wlan0 down}
+02-20 21:35:10.247 - SND -> {34 bandwidth setglobalalert 2097152}
+02-20 21:35:10.248 - RCV <- {200 34 Bandwidth command succeeeded}
+02-20 21:35:10.249 - RMV <- {200 34 Bandwidth command succeeeded}
+02-20 21:35:10.473 - SND -> {35 bandwidth setglobalalert 2097152}
+02-20 21:35:10.473 - RCV <- {200 35 Bandwidth command succeeeded}
+02-20 21:35:10.474 - RMV <- {200 35 Bandwidth command succeeeded}
+02-20 21:35:10.517 - RCV <- {600 Iface linkstate wlan0 down}
+02-20 21:35:10.532 - RCV <- {600 Iface linkstate wlan0 down}
+02-20 21:35:10.532 - RCV <- {600 Iface linkstate wlan0 up}
+02-20 21:35:10.532 - RCV <- {600 Iface linkstate wlan0 up}
+02-20 21:35:10.532 - RCV <- {600 Iface linkstate wlan0 up}
+02-20 21:35:10.533 - RCV <- {600 Iface linkstate wlan0 up}
+02-20 21:35:10.579 - RCV <- {600 Iface linkstate wlan0 up}
+02-20 21:35:10.635 - SND -> {36 interface ipv6 wlan0 enable}
+02-20 21:35:10.635 - RCV <- {200 36 IPv6 state changed}
+02-20 21:35:10.635 - RCV <- {616 Route updated fe80::/64 dev wlan0}
+02-20 21:35:10.635 - RMV <- {200 36 IPv6 state changed}
+02-20 21:35:10.636 - RCV <- {614 Address updated fe80::8673:3ff:fe0b:e5f3/64 wlan0 196 253 1}
+02-20 21:35:10.636 - SND -> {37 interface setcfg wlan0 0.0.0.0 0}
+02-20 21:35:10.637 - RCV <- {200 37 Interface configuration set}
+02-20 21:35:10.637 - RMV <- {200 37 Interface configuration set}
+02-20 21:35:11.641 - RCV <- {614 Address updated fe80::8673:3ff:fe0b:e5f3/64 wlan0 128 253 1}
+02-20 21:35:11.955 - SND -> {38 interface setcfg wlan0 192.168.1.46 24}
+02-20 21:35:11.956 - RCV <- {200 38 Interface configuration set}
+02-20 21:35:11.956 - RCV <- {614 Address updated 192.168.1.46/24 wlan0 128 0 1}
+02-20 21:35:11.956 - RMV <- {200 38 Interface configuration set}
+02-20 21:35:11.962 - SND -> {39 network create 1000}
+02-20 21:35:11.984 - RCV <- {200 39 success}
+02-20 21:35:11.984 - RMV <- {200 39 success}
+02-20 21:35:11.985 - SND -> {40 network interface add 1000 wlan0}
+02-20 21:35:12.019 - RCV <- {200 40 success}
+02-20 21:35:12.019 - RMV <- {200 40 success}
+02-20 21:35:12.020 - SND -> {41 network route add 1000 wlan0 fe80::/64}
+02-20 21:35:12.039 - RCV <- {200 41 success}
+02-20 21:35:12.039 - RMV <- {200 41 success}
+02-20 21:35:12.040 - SND -> {42 network route add 1000 wlan0 192.168.1.0/24}
+02-20 21:35:12.058 - RCV <- {200 42 success}
+02-20 21:35:12.058 - RMV <- {200 42 success}
+02-20 21:35:12.058 - SND -> {43 network route add 1000 wlan0 0.0.0.0/0 192.168.1.1}
+02-20 21:35:12.076 - RCV <- {200 43 success}
+02-20 21:35:12.077 - RMV <- {200 43 success}
+02-20 21:35:12.078 - SND -> {44 resolver setnetdns 1000  192.168.1.1 8.8.8.8}
+02-20 21:35:12.078 - RCV <- {200 44 Resolver command succeeded}
+02-20 21:35:12.078 - RMV <- {200 44 Resolver command succeeded}
+02-20 21:35:12.081 - SND -> {45 bandwidth gettetherstats}
+02-20 21:35:12.081 - RCV <- {200 45 Tethering stats list completed}
+02-20 21:35:12.081 - RMV <- {200 45 Tethering stats list completed}
+02-20 21:35:12.086 - SND -> {46 bandwidth gettetherstats}
+02-20 21:35:12.086 - RCV <- {200 46 Tethering stats list completed}
+02-20 21:35:12.086 - RMV <- {200 46 Tethering stats list completed}
+02-20 21:35:12.095 - SND -> {47 idletimer add wlan0 15 1}
+02-20 21:35:12.125 - RCV <- {200 47 Add success}
+02-20 21:35:12.125 - RMV <- {200 47 Add success}
+02-20 21:35:12.126 - SND -> {48 network default set 1000}
+02-20 21:35:12.144 - RCV <- {200 48 success}
+02-20 21:35:12.144 - RMV <- {200 48 success}
+02-20 21:35:12.162 - SND -> {49 bandwidth setglobalalert 2097152}
+02-20 21:35:12.162 - RCV <- {200 49 Bandwidth command succeeeded}
+02-20 21:35:12.163 - RMV <- {200 49 Bandwidth command succeeeded}
+02-20 21:35:12.656 - SND -> {50 bandwidth gettetherstats}
+02-20 21:35:12.656 - RCV <- {200 50 Tethering stats list completed}
+02-20 21:35:12.657 - RMV <- {200 50 Tethering stats list completed}
+02-20 21:35:12.659 - SND -> {51 bandwidth setglobalalert 2097152}
+02-20 21:35:12.660 - RCV <- {200 51 Bandwidth command succeeeded}
+02-20 21:35:12.660 - RMV <- {200 51 Bandwidth command succeeeded}
+02-20 21:35:20.661 - RCV <- {614 Address removed FE80::22/64 wlan0 01 01 -1}
+02-20 21:37:32.090 - RCV <- {613 IfaceClass idle 1 162774873538}
+02-20 21:37:42.992 - RCV <- {613 IfaceClass active 1 174686856923}
+02-20 21:38:18.072 - RCV <- {613 IfaceClass idle 1 189761418000}
+02-20 21:38:18.132 - RCV <- {613 IfaceClass active 1 209829469769}
+02-20 21:38:41.086 - RCV <- {613 IfaceClass idle 1 228655961076}
+02-20 21:38:41.142 - RCV <- {613 IfaceClass active 1 232839007923}
+02-20 21:39:32.115 - RCV <- {613 IfaceClass idle 1 247905142538}
+02-20 21:39:33.603 - RCV <- {613 IfaceClass active 1 285300433462}
+02-20 21:39:53.028 - SND -> {52 network permission user clear 10145}
+02-20 21:39:53.068 - RCV <- {200 52 success}
+02-20 21:39:53.069 - RMV <- {200 52 success}
+02-20 21:43:38.730 - SND -> {53 network permission user clear 10145}
+02-20 21:43:38.773 - RCV <- {200 53 success}
+02-20 21:43:38.773 - RMV <- {200 53 success}
+
+Pending requests:
+
+Bandwidth control enabled: true
+mMobileActivityFromRadio=false mLastPowerStateFromRadio=1
+mNetworkActive=true
+Active quota ifaces: {}
+Active alert ifaces: {}
+UID reject on quota ifaces: [10008]
+UID firewall rule: []
+UID firewall standby chain enabled: true
+UID firewall standby rule: []
+UID firewall dozable chain enabled: false
+UID firewall dozable rule: []
+Idle timers:
+  wlan0:
+    timeout=15 type=1 networkCount=1
+Firewall enabled: false

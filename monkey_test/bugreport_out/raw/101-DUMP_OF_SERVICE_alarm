@@ -1,0 +1,338 @@
+Unknown argument: -a; use -h for help
+Unknown argument: -a; use -h for help
+Current Alarm Manager state:
+  Settings:
+    min_futurity=+5s0ms
+    min_interval=+60s0ms
+    allow_while_idle_short_time=+5s0ms
+    allow_while_idle_long_time=+15m0s0ms
+    allow_while_idle_whitelist_duration=+10s0ms
+
+  HOLD_ALARM_CONSTANT_OPEN=true
+  nowRTC=1487598274110=2017-02-20 21:44:34 nowELAPSED=+9m45s808ms
+  mLastTimeChangeClockTime=1487597796277=2017-02-20 21:36:36
+  mLastTimeChangeRealtime=+1m47s974ms
+  Next non-wakeup alarm: +25s890ms = 2017-02-20 21:45:00
+  Next wakeup: +1m2s239ms = 2017-02-20 21:45:36
+  Num time change events: 1
+
+  Next alarm clock information: 
+
+  Pending alarm batches: 19
+Batch{d0fd5ef num=1 leuiTimeAlign=false start=611698 end=611698 flgs=0x1}:
+    ELAPSED #0: Alarm{8c718fc type 3 when 611698 android}
+      tag=*alarm*:android.intent.action.TIME_TICK
+      delay=0
+      type=3 whenElapsed=+25s890ms when=+25s890ms
+      window=0 repeatInterval=0 count=0 flags=0x1
+      operation=PendingIntent{19513a6: PendingIntentRecord{da21e7 android broadcastIntent key.isShadow:false}}
+Batch{67e2ae2 num=6 leuiTimeAlign=false start=648047 end=656943}:
+    RTC #5: Alarm{17b005a type 1 when 1487598300247 sina.mobile.tianqitongletv}
+      tag=*alarm*:sina.mobile.tianqitongletv.action.startservice.update_widget_clock
+      delay=0
+      type=1 whenElapsed=+26s136ms when=2017-02-20 21:45:00
+      window=-1ms repeatInterval=0 count=0 flags=0x0
+      operation=PendingIntent{85b6805: PendingIntentRecord{549288a sina.mobile.tianqitongletv startService key.isShadow:false}}
+    ELAPSED #4: Alarm{d589155 type 3 when 648047 android}
+      tag=*alarm*:android.content.jobscheduler.JOB_DELAY_EXPIRED
+      delay=0
+      type=3 whenElapsed=+1m2s239ms when=+1m2s239ms
+      window=-1ms repeatInterval=0 count=0 flags=0x0
+      operation=PendingIntent{6908038: PendingIntentRecord{5e7d811 android broadcastIntent key.isShadow:false}}
+    ELAPSED_WAKEUP #3: Alarm{fd49f02 type 2 when 644534 com.tencent.mm}
+      tag=*walarm*:ALARM_ACTION(4083)
+      delay=0
+      type=2 whenElapsed=+58s726ms when=+58s726ms
+      window=-1ms repeatInterval=0 count=0 flags=0x0
+      operation=PendingIntent{4d08be4: PendingIntentRecord{dc3384d com.tencent.mm broadcastIntent key.isShadow:false}}
+    ELAPSED_WAKEUP #2: Alarm{bda498f type 2 when 638903 com.tencent.mm}
+      tag=*walarm*:ALARM_ACTION(3788)
+      delay=0
+      type=2 whenElapsed=+53s95ms when=+53s95ms
+      window=-1ms repeatInterval=0 count=0 flags=0x0
+      operation=PendingIntent{15e2e69: PendingIntentRecord{573f0ee com.tencent.mm broadcastIntent key.isShadow:false}}
+    ELAPSED_WAKEUP #1: Alarm{7d6da74 type 2 when 622631 com.tencent.mm}
+      tag=*walarm*:ALARM_ACTION(1526)
+      delay=0
+      type=2 whenElapsed=+36s823ms when=+36s823ms
+      window=-1ms repeatInterval=0 count=0 flags=0x0
+      operation=PendingIntent{57e991f: PendingIntentRecord{688d46c com.tencent.mm broadcastIntent key.isShadow:false}}
+    ELAPSED_WAKEUP #0: Alarm{9ebf587 type 2 when 569901 com.stv.stvpush}
+      tag=*walarm*:com.stv.stvpush.ACTION_HEART_BEAT
+      delay=0
+      type=2 whenElapsed=-15s907ms when=-15s907ms
+      window=-1ms repeatInterval=0 count=0 flags=0x0
+      operation=PendingIntent{18171c6: PendingIntentRecord{5e42e75 com.stv.stvpush broadcastIntent key.isShadow:false}}
+Batch{1954e73 num=5 leuiTimeAlign=false start=693676 end=843886}:
+    RTC #4: Alarm{e8b5139 type 1 when 1487598347954 com.letv.app.appstore}
+      tag=*alarm*:com.letv.app.appstore.CHECK_UPDATE
+      delay=0
+      type=1 whenElapsed=+1m13s843ms when=2017-02-20 21:45:47
+      window=-1ms repeatInterval=300000 count=0 flags=0x0
+      operation=PendingIntent{66d5197: PendingIntentRecord{d31ef84 com.letv.app.appstore broadcastIntent key.isShadow:false}}
+    ELAPSED_WAKEUP #3: Alarm{edf58c7 type 2 when 693676 com.tencent.mm}
+      tag=*walarm*:ALARM_ACTION(4331)
+      delay=0
+      type=2 whenElapsed=+1m47s868ms when=+1m47s868ms
+      window=-1ms repeatInterval=0 count=0 flags=0x0
+      operation=PendingIntent{e23ace1: PendingIntentRecord{ae35a06 com.tencent.mm broadcastIntent key.isShadow:false}}
+    ELAPSED_WAKEUP #2: Alarm{94b1092 type 2 when 676867 com.tencent.mm}
+      tag=*walarm*:ALARM_ACTION(4331)
+      delay=0
+      type=2 whenElapsed=+1m31s59ms when=+1m31s59ms
+      window=-1ms repeatInterval=0 count=0 flags=0x0
+      operation=PendingIntent{30f9ef4: PendingIntentRecord{4cd361d com.tencent.mm broadcastIntent key.isShadow:false}}
+    ELAPSED #1: Alarm{df36f73 type 3 when 676768 com.tencent.mm}
+      tag=*alarm*:com.tencent.mm.TrafficStatsReceiver
+      delay=0
+      type=3 whenElapsed=+1m30s960ms when=+1m30s960ms
+      window=-1ms repeatInterval=300000 count=0 flags=0x0
+      operation=PendingIntent{9c6bf4d: PendingIntentRecord{a771a02 com.tencent.mm broadcastIntent key.isShadow:false}}
+    ELAPSED_WAKEUP #0: Alarm{7dde4dd type 2 when 676686 com.tencent.mm}
+      tag=*walarm*:ALARM_ACTION(4331)
+      delay=0
+      type=2 whenElapsed=+1m30s878ms when=+1m30s878ms
+      window=-1ms repeatInterval=0 count=0 flags=0x0
+      operation=PendingIntent{6b93987: PendingIntentRecord{1ced0b4 com.tencent.mm broadcastIntent key.isShadow:false}}
+Batch{a6ba130 num=2 leuiTimeAlign=false start=1097699 end=1097699}:
+    RTC_WAKEUP #1: Alarm{8da3faa type 0 when 1487598665316 com.tencent.mm}
+      tag=*walarm*:com.tencent.mm/.booter.MMReceivers$AlarmReceiver
+      delay=0
+      type=0 whenElapsed=+6m31s205ms when=2017-02-20 21:51:05
+      window=-1ms repeatInterval=900000 count=0 flags=0x0
+      operation=PendingIntent{7f7824c: PendingIntentRecord{ddd295 com.tencent.mm broadcastIntent key.isShadow:false}}
+    ELAPSED_WAKEUP #0: Alarm{7f00212 type 2 when 1097699 android}
+      tag=*walarm*:android.content.syncmanager.SYNC_ALARM
+      delay=0
+      type=2 whenElapsed=+8m31s891ms when=+8m31s891ms
+      window=0 repeatInterval=0 count=0 flags=0x0
+      operation=PendingIntent{a534eb0: PendingIntentRecord{3925129 android broadcastIntent key.isShadow:false}}
+Batch{61071a9 num=3 leuiTimeAlign=false start=1891350 end=2491350}:
+    ELAPSED #2: Alarm{a8cefe5 type 3 when 1891350 com.letv.android.powercontroller}
+      tag=*alarm*:com.letv.powercontroller.check_bg
+      delay=0
+      type=3 whenElapsed=+21m45s542ms when=+21m45s542ms
+      window=+10m0s0ms repeatInterval=0 count=0 flags=0x0
+      operation=PendingIntent{5e53b4f: PendingIntentRecord{8c682dc com.letv.android.powercontroller broadcastIntent key.isShadow:false}}
+    ELAPSED_WAKEUP #1: Alarm{9c17dd2 type 2 when 1824981 com.stv.stvpush}
+      tag=*walarm*:com.stv.stvpush.ACTION_CHECK_RUNNING
+      delay=0
+      type=2 whenElapsed=+20m39s173ms when=+20m39s173ms
+      window=-1ms repeatInterval=0 count=0 flags=0x0
+      operation=PendingIntent{c087a34: PendingIntentRecord{d10105d com.stv.stvpush broadcastIntent key.isShadow:false}}
+    ELAPSED #0: Alarm{cd95fa9 type 3 when 1817507 android}
+      tag=*alarm*:com.android.server.action.NETWORK_STATS_POLL
+      delay=0
+      type=3 whenElapsed=+20m31s699ms when=+20m31s699ms
+      window=-1ms repeatInterval=1800000 count=0 flags=0x0
+      operation=PendingIntent{3f72a5c: PendingIntentRecord{e4d4165 android broadcastIntent key.isShadow:false}}
+Batch{969692e num=1 leuiTimeAlign=false start=3625002 end=3625002}:
+    ELAPSED_WAKEUP #0: Alarm{781fccf type 2 when 3625002 com.letv.agnes}
+      tag=*walarm*:com.letv.agnes.heartbeat
+      delay=0
+      type=2 whenElapsed=+50m39s194ms when=+50m39s194ms
+      window=0 repeatInterval=0 count=0 flags=0x0
+      operation=PendingIntent{db9ee15: PendingIntentRecord{78cdbcc com.letv.agnes broadcastIntent key.isShadow:false}}
+Batch{958132e num=2 leuiTimeAlign=false start=5703576 end=6015902}:
+    RTC_WAKEUP #1: Alarm{d0c57e2 type 0 when 1487603391878 android}
+      tag=*walarm*:com.letv.android.action.REPORT_AGNES
+      delay=0
+      type=0 whenElapsed=+1h25m17s768ms when=2017-02-20 23:09:51
+      window=-1ms repeatInterval=86400000 count=0 flags=0x0
+      operation=PendingIntent{626a1c4: PendingIntentRecord{554c8ad android broadcastIntent key.isShadow:false}}
+    RTC_WAKEUP #0: Alarm{f17fefc type 0 when 1487601320390 android}
+      tag=*walarm*:com.android.fp.alarm.report
+      delay=0
+      type=0 whenElapsed=+50m46s280ms when=2017-02-20 22:35:20
+      window=-1ms repeatInterval=0 count=0 flags=0x0
+      operation=PendingIntent{bd47773: PendingIntentRecord{bce1630 android broadcastIntent key.isShadow:false}}
+Batch{3ec5ecf num=3 leuiTimeAlign=false start=8711698 end=9611439}:
+    RTC #2: Alarm{77f9ac3 type 1 when 1487606400000 com.android.launcher3}
+      tag=*alarm*:com.le.intent.ACTION_CALENDAR_CHANGED
+      delay=0
+      type=1 whenElapsed=+2h15m25s890ms when=2017-02-21 00:00:00
+      window=-1ms repeatInterval=0 count=0 flags=0x0
+      operation=PendingIntent{5cbb672: PendingIntentRecord{d93cd7a com.android.launcher3 broadcastIntent key.isShadow:false}}
+    RTC #1: Alarm{ab3477d type 1 when 1487606400000 com.android.systemui}
+      tag=*alarm*:com.letv.android.intent.ACTION_SET_ALARM
+      delay=0
+      type=1 whenElapsed=+2h15m25s890ms when=2017-02-21 00:00:00
+      window=-1ms repeatInterval=0 count=0 flags=0x0
+      operation=PendingIntent{b80f327: PendingIntentRecord{fd38869 com.android.systemui broadcastIntent key.isShadow:false}}
+    ELAPSED #0: Alarm{7520334 type 3 when 8711439 com.letv.android.powercontroller}
+      tag=*alarm*:com.letv.powercontroller.sleep
+      delay=0
+      type=3 whenElapsed=+2h15m25s631ms when=+2h15m25s631ms
+      window=+15m0s0ms repeatInterval=0 count=0 flags=0x0
+      operation=PendingIntent{157a607: PendingIntentRecord{6839446 com.letv.android.powercontroller broadcastIntent key.isShadow:false}}
+Batch{3a1a05c num=2 leuiTimeAlign=false start=14429966 end=25229966}:
+    RTC #1: Alarm{947d300 type 1 when 1487612118268 com.android.launcher3}
+      tag=*alarm*:com.letv.lejianplugin.action.CHECK_PLUGIN_UPGRADE
+      delay=0
+      type=1 whenElapsed=+3h50m44s158ms when=2017-02-21 01:35:18
+      window=-1ms repeatInterval=14400000 count=0 flags=0x0
+      operation=PendingIntent{ecb5246: PendingIntentRecord{7c78c07 com.android.launcher3 broadcastIntent key.isShadow:false}}
+    RTC_WAKEUP #0: Alarm{4e43727 type 0 when 1487609645479 com.letv.android.systemreport}
+      tag=*walarm*:letv.intent.action.DAILY_BATTERY_REPORT
+      delay=0
+      type=0 whenElapsed=+3h9m31s369ms when=2017-02-21 00:54:05
+      window=-1ms repeatInterval=86400000 count=0 flags=0x0
+      operation=PendingIntent{e320c41: PendingIntentRecord{65135e6 com.letv.android.systemreport startService key.isShadow:false}}
+Batch{479e65c num=1 leuiTimeAlign=false start=29818628 end=29818628}:
+    RTC #0: Alarm{33f4d65 type 1 when 1487627506930 android}
+      tag=*alarm*:com.android.server.action.UPDATE_TWILIGHT_STATE
+      delay=0
+      type=1 whenElapsed=+8h7m12s820ms when=2017-02-21 05:51:46
+      window=0 repeatInterval=0 count=0 flags=0x0
+      operation=PendingIntent{72799d4: PendingIntentRecord{e06a7a7 android broadcastIntent key.isShadow:false}}
+Batch{ca6ea3a num=1 leuiTimeAlign=false start=41111439 end=42011439}:
+    ELAPSED #0: Alarm{14b96eb type 3 when 41111439 com.letv.android.powercontroller}
+      tag=*alarm*:com.letv.powercontroller.check_end
+      delay=0
+      type=3 whenElapsed=+11h15m25s631ms when=+11h15m25s631ms
+      window=+15m0s0ms repeatInterval=0 count=0 flags=0x0
+      operation=PendingIntent{c8f0688: PendingIntentRecord{a4406a5 com.letv.android.powercontroller broadcastIntent key.isShadow:false}}
+Batch{dd57f65 num=2 leuiTimeAlign=false start=43223394 end=43223394}:
+    RTC #1: Alarm{316e701 type 1 when 1487640627099 com.letv.android.powercontroller}
+      tag=*alarm*:com.letv.android.supermanager.ACTION_RUBBISH_CLEAN_NOTIFY
+      delay=0
+      type=1 whenElapsed=+11h45m52s989ms when=2017-02-21 09:30:27
+      window=-1ms repeatInterval=86400000 count=0 flags=0x0
+      operation=PendingIntent{eb4c235: PendingIntentRecord{2106ca com.letv.android.powercontroller broadcastIntent key.isShadow:false}}
+    ELAPSED_WAKEUP #0: Alarm{9ed0c48 type 2 when 43223394 android}
+      tag=*walarm*:android.net.dhcp.DhcpClient.wlan0.RENEW
+      delay=0
+      type=2 whenElapsed=+11h50m37s586ms when=+11h50m37s586ms
+      window=0 repeatInterval=0 count=0 flags=0x0
+      operation=PendingIntent{f1c81a6: PendingIntentRecord{b07f7e7 android broadcastIntent key.isShadow:false}}
+Batch{dd6343a num=2 leuiTimeAlign=false start=43232448 end=75316415}:
+    ELAPSED_WAKEUP #1: Alarm{1d3c137 type 2 when 43232448 com.letv.bsp.crashhandler}
+      tag=*walarm*:letv.intent.action.crashhandler.ALARM_SUBMIT_BUG
+      delay=0
+      type=2 whenElapsed=+11h50m46s640ms when=+11h50m46s640ms
+      window=-1ms repeatInterval=43200000 count=0 flags=0x0
+      operation=PendingIntent{31d2950: PendingIntentRecord{9e12749 com.letv.bsp.crashhandler broadcastIntent key.isShadow:false}}
+    ELAPSED #0: Alarm{819a2e1 type 3 when 43232381 android}
+      tag=*alarm*:android.content.jobscheduler.JOB_DEADLINE_EXPIRED
+      delay=0
+      type=3 whenElapsed=+11h50m46s573ms when=+11h50m46s573ms
+      window=-1ms repeatInterval=0 count=0 flags=0x0
+      operation=PendingIntent{85edb02: PendingIntentRecord{caa0c13 android broadcastIntent key.isShadow:false}}
+Batch{b5c5ae1 num=1 leuiTimeAlign=false start=51911698 end=51911698 flgs=0x1}:
+    RTC #0: Alarm{5097006 type 1 when 1487649600000 android}
+      tag=*alarm*:android.intent.action.DATE_CHANGED
+      delay=0
+      type=1 whenElapsed=+14h15m25s890ms when=2017-02-21 12:00:00
+      window=0 repeatInterval=0 count=0 flags=0x1
+      operation=PendingIntent{2df0194: PendingIntentRecord{7e6f43d android broadcastIntent key.isShadow:false}}
+Batch{fcab6c7 num=1 leuiTimeAlign=false start=79375911 end=79375911}:
+    RTC_WAKEUP #0: Alarm{1eaa4f4 type 0 when 1487677064213 com.android.providers.calendar}
+      tag=*walarm*:com.android.providers.calendar.SCHEDULE_ALARM
+      delay=0
+      type=0 whenElapsed=+21h53m10s103ms when=2017-02-21 19:37:44
+      window=0 repeatInterval=0 count=0 flags=0x0
+      operation=PendingIntent{6fbd530: PendingIntentRecord{74e95a9 com.android.providers.calendar broadcastIntent key.isShadow:false}}
+Batch{7e2c41d num=1 leuiTimeAlign=false start=86507982 end=86507982}:
+    ELAPSED #0: Alarm{ebc8692 type 3 when 86507982 android}
+      tag=*alarm*:com.android.server.NetworkTimeUpdateService.action.POLL
+      delay=0
+      type=3 whenElapsed=+23h52m2s174ms when=+23h52m2s174ms
+      window=0 repeatInterval=0 count=0 flags=0x0
+      operation=PendingIntent{3078bfb: PendingIntentRecord{5ff4418 android broadcastIntent key.isShadow:false}}
+Batch{e31f863 num=1 leuiTimeAlign=false start=169526712 end=170426712}:
+    ELAPSED #0: Alarm{4871c60 type 3 when 169526712 com.letv.android.powercontroller}
+      tag=*alarm*:com.letv.powercontroller.pull
+      delay=0
+      type=3 whenElapsed=+1d22h55m40s904ms when=+1d22h55m40s904ms
+      window=+15m0s0ms repeatInterval=0 count=0 flags=0x0
+      operation=PendingIntent{f5a371a: PendingIntentRecord{e4f924b com.letv.android.powercontroller broadcastIntent key.isShadow:false}}
+Batch{a6c8519 num=1 leuiTimeAlign=false start=171019972 end=171019972}:
+    RTC_WAKEUP #0: Alarm{b1879de type 0 when 1487768708274 com.letv.android.ota}
+      tag=*walarm*:com.letv.android.ota.ACTION_CHECKNEW_WEEKLY
+      delay=0
+      type=0 whenElapsed=+1d23h20m34s164ms when=2017-02-22 21:05:08
+      window=0 repeatInterval=0 count=0 flags=0x0
+      operation=PendingIntent{fbb9c50: PendingIntentRecord{fc9c213 com.letv.android.ota startService key.isShadow:false}}
+Batch{e41b7bf num=1 leuiTimeAlign=false start=171292727 end=171292727}:
+    RTC_WAKEUP #0: Alarm{4b19e8c type 0 when 1487768981029 com.letv.bugpostbox}
+      tag=*walarm*:bugpost.check.weekly
+      delay=0
+      type=0 whenElapsed=+1d23h25m6s919ms when=2017-02-22 21:09:41
+      window=0 repeatInterval=0 count=0 flags=0x0
+      operation=PendingIntent{ab83e63: PendingIntentRecord{6016daf com.letv.bugpostbox startService key.isShadow:false}}
+
+  Past-due non-wakeup alarms: (none)
+    Number of delayed alarms: 0, total delay time: 0
+    Max delay time: 0, max non-interactive time: +4m9s740ms
+
+  Broadcast ref count: 0
+
+  mAllowWhileIdleMinTime=+5s0ms
+
+  Top Alarms:
+    +17s490ms running, 0 wakeups, 4 alarms: 1000:android
+      *alarm*:android.content.jobscheduler.JOB_DELAY_EXPIRED
+    +12s191ms running, 3 wakeups, 3 alarms: u0a1:com.android.providers.calendar
+      *walarm*:com.android.providers.calendar.intent.CalendarProvider2
+    +10s204ms running, 0 wakeups, 3 alarms: u0a149:com.tencent.mm
+      *alarm*:com.tencent.mm.TrafficStatsReceiver
+    +10s50ms running, 0 wakeups, 1 alarms: u0a9:com.android.launcher3
+      *alarm*:com.letv.lejianplugin.action.CHECK_PLUGIN_UPGRADE
+    +9s898ms running, 1 wakeups, 1 alarms: 1000:com.letv.bsp.crashhandler
+      *walarm*:letv.intent.action.crashhandler.ALARM_SUBMIT_BUG
+    +6s177ms running, 0 wakeups, 1 alarms: 1000:android
+      *alarm*:com.android.server.action.NETWORK_STATS_POLL
+    +1s549ms running, 0 wakeups, 9 alarms: 1000:android
+      *alarm*:android.intent.action.TIME_TICK
+    +154ms running, 2 wakeups, 2 alarms: u0a12:com.stv.stvpush
+      *walarm*:com.stv.stvpush.ACTION_HEART_BEAT
+    +117ms running, 0 wakeups, 8 alarms: u0a108:sina.mobile.tianqitongletv
+      *alarm*:sina.mobile.tianqitongletv.action.startservice.update_widget_clock
+    +89ms running, 4 wakeups, 4 alarms: u0a149:com.tencent.mm
+      *walarm*:ALARM_ACTION(4331)
+ 
+  Alarm Stats:
+  1000:android +25s276ms running, 1 wakeups:
+    +17s490ms 0 wakes 4 alarms, last -3m57s868ms:
+      *alarm*:android.content.jobscheduler.JOB_DELAY_EXPIRED
+    +6s177ms 0 wakes 1 alarms, last -9m27s886ms:
+      *alarm*:com.android.server.action.NETWORK_STATS_POLL
+    +1s549ms 0 wakes 9 alarms, last -34s110ms:
+      *alarm*:android.intent.action.TIME_TICK
+    +47ms 0 wakes 1 alarms, last -8m1s466ms:
+      *alarm*:com.android.server.NetworkTimeUpdateService.action.POLL
+    +13ms 1 wakes 1 alarms, last -4m26s307ms:
+      *walarm*:com.android.server.WifiManager.action.START_SCAN
+  1000:com.letv.bsp.crashhandler +9s898ms running, 1 wakeups:
+    +9s898ms 1 wakes 1 alarms, last -9m10s502ms:
+      *walarm*:letv.intent.action.crashhandler.ALARM_SUBMIT_BUG
+  u0a1:com.android.providers.calendar +12s191ms running, 3 wakeups:
+    +12s191ms 3 wakes 3 alarms, last -7m52s61ms:
+      *walarm*:com.android.providers.calendar.intent.CalendarProvider2
+  u0a9:com.android.launcher3 +10s50ms running, 0 wakeups:
+    +10s50ms 0 wakes 1 alarms, last -9m10s502ms:
+      *alarm*:com.letv.lejianplugin.action.CHECK_PLUGIN_UPGRADE
+  u0a12:com.stv.stvpush +154ms running, 2 wakeups:
+    +154ms 2 wakes 2 alarms, last -3m15s954ms:
+      *walarm*:com.stv.stvpush.ACTION_HEART_BEAT
+  u0a18:com.letv.android.powercontroller +38ms running, 0 wakeups:
+    +38ms 0 wakes 1 alarms, last -8m39s284ms:
+      *alarm*:com.letv.android.supermanager.ACTION_RUBBISH_CLEAN_NOTIFY
+  u0a78:com.letv.app.appstore +71ms running, 0 wakeups:
+    +71ms 0 wakes 2 alarms, last -3m34s111ms:
+      *alarm*:com.letv.app.appstore.CHECK_UPDATE
+  u0a108:sina.mobile.tianqitongletv +132ms running, 1 wakeups:
+    +117ms 0 wakes 8 alarms, last -33s865ms:
+      *alarm*:sina.mobile.tianqitongletv.action.startservice.update_widget_clock
+    +15ms 1 wakes 1 alarms, last -4m51s954ms:
+      *walarm*:sina.mobile.tianqitongletv.action.use_jieqi_notification
+  u0a149:com.tencent.mm +10s295ms running, 5 wakeups:
+    +10s204ms 0 wakes 3 alarms, last -3m28s873ms:
+      *alarm*:com.tencent.mm.TrafficStatsReceiver
+    +89ms 4 wakes 4 alarms, last -2m7s133ms:
+      *walarm*:ALARM_ACTION(4331)
+    +17ms 1 wakes 1 alarms, last -8m39s236ms:
+      *walarm*:ALARM_ACTION(3020)
+
+  Recent Hold alarm, enable: true
+  now hold alarm is empty...

@@ -1,0 +1,37 @@
+<html>
+<head>
+  <title>f00230.html</title>
+  <link rel="stylesheet" type="text/css" href="themes/blue/style.css"/>
+  <link rel="stylesheet" type="text/css" href="jquery.treeTable.css"/>
+  <link rel="stylesheet" type="text/css" href="jquery.ui.css"/>
+  <link rel="stylesheet" type="text/css" href="style.css"/>
+  <script type="text/javascript" src="jquery.js"></script>
+  <script type="text/javascript" src="jquery.cookie.js"></script>
+  <script type="text/javascript" src="jquery.hotkeys.js"></script>
+  <script type="text/javascript" src="jquery.jstree.js"></script>
+  <script type="text/javascript" src="jquery.tablesorter.js"></script>
+  <script type="text/javascript" src="jquery.tablednd.js"></script>
+  <script type="text/javascript" src="jquery.treeTable.js"></script>
+  <script type="text/javascript" src="jquery.flot.js"></script>
+  <script type="text/javascript" src="jquery.flot.navigate.js"></script>
+  <script type="text/javascript" src="jquery.flot.selection.js"></script>
+  <script type="text/javascript" src="jquery.ui.js"></script>
+  <script type="text/javascript" src="colResizable-1.3.source.js"></script>
+  <script type="text/javascript" src="/self$wsjs"></script>
+  <script type="text/javascript" src="main.js"></script>
+</head>
+<body>
+<a name="ch0"></a><div class="btn-pop-out"><a href="f00230.html#ch0" target="_blank"><img src="ic_pop_out.png"/></a></div><h1>systemlog_04769.html</h1>
+<div class="log-toolbar">RegExp:<input id="regexp"></input><button onClick="javascript:ltbProcessLines(function(l){l.hide();})">Hide</button><button onClick="javascript:ltbProcessLines(function(l){l.show();})">Show</button><button onClick="javascript:ltbProcessLines(function(l){l.addClass('log-mark');})">Mark</button><button onClick="javascript:ltbProcessLines(function(l){l.removeClass('log-mark');})">Unmark</button><button onClick="javascript:ltbToggleLineWrap()">Line wrap</button>Note: changes are not saved!</div><div class="log"><div class="log-line log-debug" id="l469435604205568">02-20 21:43:38.863  <a href="f00149.html#ch0">4769</a>  4769 D ActivityThread: BDC-Calling onReceive: intent=Intent { act=android.intent.action.PACKAGE_REMOVED dat=package:com.example.demo1 flg=0x4000010 mCallingUid=1000 cmp=com.android.keychain/.KeyChainBroadcastReceiver (has extras) }, receiver=com.android.keychain.KeyChainBroadcastReceiver@a0a8106</div>
+<div class="log-line log-warning" id="l469435604271104">02-20 21:43:38.864  <a href="f00149.html#ch0">4769</a>  4769 W ContextImpl: Calling a method in the system process without a qualified user: android.app.ContextImpl.startService:1226 android.content.ContextWrapper.startService:581 android.content.ContextWrapper.startService:581 com.android.keychain.KeyChainBroadcastReceiver.onReceive:12 android.app.ActivityThread.handleReceiver:2983 </div>
+<div class="log-line log-debug" id="l469435604336640">02-20 21:43:38.865  <a href="f00149.html#ch0">4769</a>  4769 D ActivityThread: BDC-RECEIVER handled : 0 / ReceiverData{intent=Intent { act=android.intent.action.PACKAGE_REMOVED dat=package:com.example.demo1 flg=0x4000010 mCallingUid=1000 cmp=com.android.keychain/.KeyChainService (has extras) } packageName=com.android.keychain resultCode=0 resultData=null resultExtras=null}</div>
+<div class="log-line log-debug" id="l469435604467712">02-20 21:43:38.867  <a href="f00149.html#ch0">4769</a>  4769 D ActivityThread: SVC-Creating service: CreateServiceData{token=android.os.BinderProxy@a6cf3c7 className=com.android.keychain.KeyChainService packageName=com.android.keychain intent=null}</div>
+<div class="log-line log-debug" id="l469435604598784">02-20 21:43:38.869  <a href="f00149.html#ch0">4769</a>  4769 D ActivityThread: SVC-CREATE_SERVICE handled : 0 / CreateServiceData{token=android.os.BinderProxy@a6cf3c7 className=com.android.keychain.KeyChainService packageName=com.android.keychain intent=null}</div>
+<div class="log-line log-debug" id="l469435604598785">02-20 21:43:38.869  <a href="f00149.html#ch0">4769</a>  4769 D ActivityThread: SVC-Calling onStartCommand: com.android.keychain.KeyChainService@5949df4, flags=0, startId=1</div>
+<div class="log-line log-debug" id="l469435604598786">02-20 21:43:38.869  <a href="f00149.html#ch0">4769</a>  4769 D ActivityThread: SVC-SERVICE_ARGS handled : 0 / ServiceArgsData{token=android.os.BinderProxy@a6cf3c7 startId=1 args=Intent { act=android.intent.action.PACKAGE_REMOVED dat=package:com.example.demo1 flg=0x4000010 mCallingUid=1000 cmp=com.android.keychain/.KeyChainService (has extras) }}</div>
+<div class="log-line log-debug" id="l469435606237184">02-20 21:43:38.894  <a href="f00149.html#ch0">4769</a>  4769 D ActivityThread: SVC-Destroying service: com.android.keychain.KeyChainService@5949df4</div>
+<div class="log-line log-debug" id="l469435606302721">02-20 21:43:38.895  <a href="f00149.html#ch0">4769</a>  4769 D ActivityThread: SVC-STOP_SERVICE handled : 0 / android.os.BinderProxy@a6cf3c7</div>
+<div class="log-line log-info" id="l469438926553089">02-20 21:44:29.558  <a href="f00149.html#ch0">4769</a>  4773 I art     : Thread[2,tid=4773,WaitingInMainSignalCatcherLoop,Thread*=0x7fac40f000,peer=0x32c070a0,&quot;Signal Catcher&quot;]: reacting to signal 3</div>
+<div class="log-line log-info" id="l469438929829888">02-20 21:44:29.608  <a href="f00149.html#ch0">4769</a>  4773 I art     : Wrote stack traces to '/data/anr/traces.txt'</div>
+</div></body>
+</html>

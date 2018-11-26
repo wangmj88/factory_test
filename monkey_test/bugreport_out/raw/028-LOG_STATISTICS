@@ -1,0 +1,146 @@
+size/num main               radio              events             system             crash              kernel
+Total    7942463/96870      1779479/23966      110270/1533        2760525/22240      962/24             0/0
+Now      246671/3375        244909/3246        110270/1533        238986/1700        962/24
+
+Chattiest UIDs in main log buffer:                              Size Pruned
+UID   PACKAGE                                                   BYTES LINES
+1000  system                                                   150602
+1001  radio                                                     33718
+10032 com.android.systemui                                      16153
+10145 com.example.demo1                                          9153
+0     root                                                       8689
+10009 com.android.launcher3                                      4672
+10103 com.letv.agnes                                             2819
+10018 com.letv.android.powercontroller                           1847
+10016 com.android.mms                                            1683
+10010 com.letv.domain                                            1682
+10011 com.letv.android.freeflow                                  1682
+10071 com.letv.android.privacydata                               1682
+10110 com.letv.gallery3d.syncservice                             1681
+10111 com.stv.android.videochat                                  1674
+1010  wifi                                                       1575
+
+
+Chattiest UIDs in radio log buffer:                             Size Pruned
+UID   PACKAGE                                                   BYTES LINES
+1001  radio                                                    127643
+1000  system                                                    90892
+0     root                                                      25928
+
+
+Chattiest UIDs in events log buffer:                             Size
+UID   PACKAGE                                                   BYTES
+1000  system                                                   103950
+10009 com.android.launcher3                                      1246
+0     root                                                       1099
+10145 com.example.demo1                                          1072
+
+
+Chattiest UIDs in system log buffer:                            Size Pruned
+UID   PACKAGE                                                   BYTES LINES
+1000  system                                                   179801
+0     root                                                      12680
+10145 com.example.demo1                                         10504
+10009 com.android.launcher3                                      6566
+10124 com.wandoujia.phoenix2.usbproxy                            5021
+10081 com.letv.android.usagestats                                3073
+10068 com.letv.android.filemanager                               2766
+10018 com.letv.android.powercontroller                           2461
+10002 com.android.providers.applications                         1921
+
+
+Chattiest UIDs in crash log buffer:                              Size
+UID   PACKAGE                                                   BYTES
+0     root                                                        962
+
+
+Chattiest PIDs:                                                 Size Pruned
+  PID/UID   COMMAND LINE                                        BYTES LINES
+  924/1000  system_server                                      440162
+ 1599/1001  com.android.phone                                   85175
+  970/1001  /system/bin/mtkrild                                 48839
+  327/1000  /system/bin/aal                                     38462
+  297/1000  /system/bin/surfaceflinger                          31169
+  921/0     /system/bin/gsm0710muxd                             27804
+  303/1001  /system/bin/mtkmal                                  21147
+ 1346/10032 com.android.systemui                                14525
+ 1804/10009 com.android.launcher3                               12484
+  308/0     /system/bin/netd                                    10518
+ 6946/10145 com.example.demo1                                    7070
+ 6868/10145 com.example.demo1                                    6228
+ 5307/10124 com.wandoujia.phoenix2.usbproxy                      5416
+
+
+Chattiest TIDs:                                                 Size Pruned
+  TID/UID   COMM                                                BYTES LINES
+ 1599/1001  com.android.phone                                   80396
+  563/1000  AALServiceMain                                      38182
+ 1763/1000  Binder_E                                            29341
+ 1656/1000  Binder_6                                            27113
+  940/1000  ActivityManager                                     26274
+  924/1000  main                                                26099
+ 1035/1000  WifiStateMachin                                     24342
+ 1694/1000  Binder_A                                            24025
+  946/1000  android.display                                     23663
+  941/1000  android.ui                                          22864
+  956/0     /system/bin/gsm0710muxd                             21458
+ 1627/1000  Binder_5                                            21042
+  935/1000  Binder_2                                            20470
+ 1309/1000  Binder_4                                            20107
+ 1743/1000  Binder_D                                            18006
+ 1728/1000  Binder_C                                            16899
+ 1722/1000  Binder_B                                            15506
+  934/1000  Binder_1                                            15441
+  996/1001  /system/bin/mtkrild                                 15378
+  297/1000  /system/bin/surfaceflinger                          15255
+  726/1001  /system/bin/mtkmal                                  14661
+  984/1001  /system/bin/mtkrild                                 13170
+ 1658/1000  Binder_7                                            13056
+ 1665/1000  Binder_8                                            12475
+  938/1000  Binder_3                                            10987
+ 1690/1000  Binder_9                                            10120
+ 1804/10009 com.android.launcher3                               10083
+ 1346/10032 com.android.systemui                                 9951
+ 1787/1000  Binder_10                                            9614
+  939/1000  android.bg                                           9223
+ 1778/1000  Binder_F                                             8964
+ 1026/1000  InputDispatcher                                      6862
+
+
+Chattiest events log buffer TAGs:                                Size
+    TAG/UID   TAGNAME                                           BYTES
+  30014/1000  am_proc_start                                     20376
+  30025/1000  am_broadcast_discard_app                          18187
+  30023/1000  am_kill                                            7700
+  30010/1000  am_proc_bound                                      7635
+   2751/1000  notification_cancel                                6369
+  30047/1000  am_pss                                             6187
+  30011/1000  am_proc_died                                       4933
+  30044/1000  am_home_stack_moved                                4492
+   2750/1000  notification_enqueue                               3365
+   1003       auditd                                             3099
+  60100/1000  sf_frame_dur                                       2761
+  30005/1000  am_create_activity                                 2295
+  30043/1000  am_focused_activity                                2283
+  30001/1000  am_finish_activity                                 1726
+  30022       am_on_resume_called                                1647
+  30009/1000  am_activity_launch_time                            1548
+  31002/1000  wm_task_moved                                      1540
+  30006/1000  am_restart_activity                                1453
+   2752/1000  notification_cancel_all                            1226
+  30013/1000  am_pause_activity                                  1074
+  27511/1000  notification_expansion                             1007
+  31003/1000  wm_task_removed                                     980
+  30007/1000  am_resume_activity                                  851
+  30021       am_on_paused_called                                 843
+   2741       force_gc                                            612
+   2767/1000  vibrator_source                                     515
+  27530/1000  notification_canceled                               505
+  31004/1000  wm_stack_created                                    448
+  27531/1000  notification_visibility                             416
+  51100/1000  netstats_mobile_sample                              372
+  51101/1000  netstats_wifi_sample                                372
+  30035/1000  am_schedule_service_restart                         310
+
+[logcat: 0.015s elapsed]
+

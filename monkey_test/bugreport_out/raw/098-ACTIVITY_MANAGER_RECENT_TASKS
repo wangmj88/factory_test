@@ -1,0 +1,41 @@
+  Recent tasks:
+  * Recent #0: TaskRecord{598faf6 #16 A=com.example.demo1, isShadow:false U=0 sz=1}
+    userId=0 effectiveUid=u0a145 mCallingUid=2000 mCallingPackage=null
+    affinity=com.example.demo1
+    intent={act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 mCallingUid=2000 cmp=com.example.demo1/com.example.plokmju.testmutilecompile.MainActivity}
+    realActivity=com.example.demo1/com.example.plokmju.testmutilecompile.MainActivity
+    autoRemoveRecents=false isPersistable=true numFullscreen=1 taskType=0 mTaskToReturnTo=1
+    rootWasReset=true mNeverRelinquishIdentity=true mReuseTask=false mLockTaskAuth=LOCK_TASK_AUTH_PINNABLE
+    Activities=[ActivityRecord{6f940b2 u0 com.example.demo1/com.example.plokmju.testmutilecompile.MainActivity, isShadow:false t16}]
+    askedCompatMode=false inRecents=true isAvailable=true
+    lastThumbnail=null lastThumbnailFile=/data/system/recent_images/16_task_thumbnail.jpg
+    stackId=13
+    hasBeenVisible=true mResizeable=false firstActiveTime=1487598252876 lastActiveTime=1487598252876 (inactive for 21s)
+    needCheckAccess=false thumbnailState=TASK_THUMBNAIL_INVALID pendingCheckAccess=false
+  * Recent #1: TaskRecord{54ea8e3 #1 A=com.android.launcher3, isShadow:false U=0 sz=1}
+    userId=0 effectiveUid=u0a9 mCallingUid=0 mCallingPackage=null
+    affinity=com.android.launcher3
+    intent={act=android.intent.action.MAIN cat=[android.intent.category.HOME] flg=0x10000000 cmp=com.android.launcher3/.Launcher}
+    realActivity=com.android.launcher3/.Launcher
+    autoRemoveRecents=false isPersistable=true numFullscreen=1 taskType=1 mTaskToReturnTo=0
+    rootWasReset=false mNeverRelinquishIdentity=true mReuseTask=false mLockTaskAuth=LOCK_TASK_AUTH_PINNABLE
+    Activities=[ActivityRecord{295d360 u0 com.android.launcher3/.Launcher, isShadow:false t1}]
+    askedCompatMode=false inRecents=true isAvailable=true
+    lastThumbnail=android.graphics.Bitmap@eddfef7 lastThumbnailFile=/data/system/recent_images/1_task_thumbnail.jpg
+    stackId=0
+    hasBeenVisible=true mResizeable=false firstActiveTime=1487598252807 lastActiveTime=1487598252807 (inactive for 21s)
+    needCheckAccess=false thumbnailState=TASK_THUMBNAIL_VIVID pendingCheckAccess=false
+  * Recent #2: TaskRecord{5b8f03f #2 A=com.android.settings, isShadow:false U=0 sz=0}
+    userId=0 effectiveUid=1000 mCallingUid=1000 mCallingPackage=android
+    affinity=com.android.settings
+    intent={act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x5c800000 mCallingUid=1000 cmp=com.android.settings/.Settings$DevelopmentSettingsActivity}
+    origActivity=com.android.settings/.UsbSettings
+    realActivity=com.android.settings/.Settings$DevelopmentSettingsActivity
+    autoRemoveRecents=false isPersistable=false numFullscreen=0 taskType=0 mTaskToReturnTo=1
+    rootWasReset=false mNeverRelinquishIdentity=true mReuseTask=false mLockTaskAuth=LOCK_TASK_AUTH_PINNABLE
+    Activities=[]
+    askedCompatMode=false inRecents=true isAvailable=true
+    lastThumbnail=android.graphics.Bitmap@8abad0c lastThumbnailFile=/data/system/recent_images/2_task_thumbnail.jpg
+    hasBeenVisible=true mResizeable=false firstActiveTime=1487597999390 lastActiveTime=1487597999390 (inactive for 274s)
+    needCheckAccess=false thumbnailState=TASK_THUMBNAIL_VIVID pendingCheckAccess=false
+

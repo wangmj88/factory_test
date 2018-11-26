@@ -1,0 +1,56 @@
+Started users: u0 
+Registered jobs:
+  528..:[ComponentInfo{com.letv.android.mobileactivation/com.letv.android.mobileactivation.job.FirstJobService},jId=10,u0,R=(01:01,none),N=1,C=false,I=false,F=0,P=false,ANI=true]
+  562..:[ComponentInfo{android/com.android.server.MountServiceIdler},jId=808,u0,R=(5:15:24,none),N=0,C=true,I=true,F=0,P=false,ANI=true]
+  122..:[ComponentInfo{com.android.deskclock/com.android.deskclock.alarms.staralarm.StarAwakeStatisticsService},jId=1,u0,R=(13:16:27,37:16:27),N=1,C=false,I=true,F=0,P=true,ANI=true]
+  129..:[ComponentInfo{com.letv.android.mobileactivation/com.letv.android.mobileactivation.job.SupportJobService},jId=99,u0,R=(01:01,none),N=1,C=false,I=false,F=0,P=false,ANI=true]
+  153..:[ComponentInfo{android/com.android.server.backup.KeyValueBackupJob},jId=20537,u0,R=(3:58:00,23:50:33),N=1,C=true,I=false,F=0,P=false,ANI=true]
+  185..:[ComponentInfo{android/com.android.server.pm.BackgroundDexOptService},jId=800,u0,R=(-09:30,none),N=0,C=true,I=true,F=0,P=false,ANI=true]
+  191..:[ComponentInfo{com.android.providers.downloads/com.android.providers.downloads.DownloadIdleService},jId=1,u0,R=(-09:30,13:16:27),N=0,C=true,I=true,F=0,P=true,ANI=true]
+  248..:[ComponentInfo{android/com.android.server.backup.FullBackupJob},jId=20536,u0,R=(none,none),N=2,C=true,I=true,F=0,P=false,ANI=true]
+  257..:[ComponentInfo{com.letv.domain/com.letv.domain.services.JobSchedulerService},jId=1,u0,R=(5:50:45,11:50:45),N=1,C=false,I=false,F=0,P=false,ANI=true]
+
+Conn.
+connected: true unmetered: true
+122..: C=true, UM=false
+153..: C=true, UM=false
+257..: C=true, UM=false
+528..: C=true, UM=false
+129..: C=true, UM=false
+248..: C=false, UM=true
+
+Alarms (586473)
+Next delay alarm in 61s
+Next deadline alarm in 42645s
+Tracking:
+257..: (21632381, 43232381)
+191..: (16281, 48373973)
+153..: (14867043, 86420057)
+122..: (48374186, 134774186)
+129..: (648050, N/A)
+528..: (648047, N/A)
+562..: (19511439, N/A)
+
+Idle: false
+5
+  562..
+  122..
+  185..
+  191..
+  248..
+
+Batt.
+Stable power: false
+56240144,185633994,191992857,153238414,248496822
+
+AppIdle
+Parole On: false
+android:idle=false, com.android.deskclock:idle=false, android:idle=false, com.android.providers.downloads:idle=false, android:idle=false, com.letv.domain:idle=false, com.letv.android.mobileactivation:idle=false, com.letv.android.mobileactivation:idle=false, android:idle=false, 
+
+Pending:
+
+Active jobs:
+
+mReadyToRock=true
+mDeviceIdleMode=false
+

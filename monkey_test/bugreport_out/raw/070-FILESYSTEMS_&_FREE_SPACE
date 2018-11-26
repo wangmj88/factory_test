@@ -1,0 +1,14 @@
+Filesystem               Size     Used     Free   Blksize
+/dev                     1.3G   104.0K     1.3G   4096
+/sys/fs/cgroup           1.3G    12.0K     1.3G   4096
+/mnt                     1.3G     0.0K     1.3G   4096
+/system                  2.4G     2.1G   288.2M   4096
+/data                   11.2G     6.0G     5.2G   4096
+/cache                 410.7M   412.0K   410.3M   4096
+/protect_f               5.8M    60.0K     5.8M   4096
+/protect_s               5.8M    56.0K     5.8M   4096
+/storage                 1.3G     0.0K     1.3G   4096
+/storage/emulated       11.2G     6.0G     5.2G   4096
+*** df: Exit code 1
+[df: 0.009s elapsed]
+

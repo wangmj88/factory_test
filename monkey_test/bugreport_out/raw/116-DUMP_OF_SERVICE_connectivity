@@ -1,0 +1,36 @@
+NetworkFactories for: WIFI_UT WIFI Telephony Ethernet Telephony
+
+Active default network: 1000
+
+Current Networks:
+  NetworkAgentInfo{ ni{[type: WIFI[], state: CONNECTED/CONNECTED, reason: (unspecified), extra: "wukong_office", roaming: false, failover: false, isAvailable: true]}  network{1000}  lp{{InterfaceName: wlan0 LinkAddresses: [fe80::8673:3ff:fe0b:e5f3/64,192.168.1.46/24,]  Routes: [fe80::/64 -> :: wlan0,192.168.1.0/24 -> 0.0.0.0 wlan0,0.0.0.0/0 -> 192.168.1.1 wlan0,] DnsAddresses: [192.168.1.1,] Domains: null MTU: 0 TcpBufferSizes: 524288,1048576,2097152,262144,524288,1048576 PcscfAddresses: [] }}  nc{[ Transports: WIFI Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED&NOT_VPN&VALIDATED LinkUpBandwidth>=1048576Kbps LinkDnBandwidth>=1048576Kbps SignalStrength: -53]}  Score{60}  everValidated{true}  lastValidated{true}  created{true} lingering{false} explicitlySelected{false} acceptUnvalidated{false} everCaptivePortalDetected{false} lastCaptivePortalDetected{false} }
+    Requests:
+      NetworkRequest [ id=1, legacyType=-1, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED&NOT_VPN] ]
+      NetworkRequest [ id=3, legacyType=-1, [] ]
+    Lingered:
+
+Network Requests:
+  Request from uid/pid:1000/924 for NetworkRequest [ id=1, legacyType=-1, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED&NOT_VPN] ]
+  Listen from uid/pid:10032/1346 for NetworkRequest [ id=3, legacyType=-1, [] ]
+  
+mLegacyTypeTracker:
+  Supported types: 0 1 2 3 4 5 7 10 11 12 14 15 17 34 35 36 37 38 40 41 49
+  Current state:
+    1 NetworkAgentInfo [WIFI () - 1000] CONNECTED/CONNECTED
+
+mNetTransitionWakeLock: currently not held, last requested never
+
+Tethering:
+  mUpstreamIfaceTypes: MOBILE WIFI MOBILE_HIPRI BLUETOOTH ETHERNET 49
+  Tether state:
+
+Packet keepalives:
+
+mValidationLogs (most recent first):
+1000
+  02-20 21:35:13.318 - Checking http://www.androidbak.net/generate_204 on "wukong_office", www.androidbak.net=103.7.4.114
+  02-20 21:35:15.041 - isCaptivePortal: ret=204 headers={null=[HTTP/1.1 204 No Content], Connection=[keep-alive], Date=[Mon, 20 Feb 2017 13:35:13 GMT], Server=[115], X-Android-Received-Millis=[1487597715040], X-Android-Response-Source=[NETWORK 204], X-Android-Selected-Protocol=[http/1.1], X-Android-Sent-Millis=[1487597713915]}
+
+mNetworkRequestInfoLogs (most recent first):
+  02-20 21:35:09.564 - REGISTER Listen from uid/pid:10032/1346 for NetworkRequest [ id=3, legacyType=-1, [] ]
+  02-20 21:35:04.411 - REGISTER Request from uid/pid:1000/924 for NetworkRequest [ id=1, legacyType=-1, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED&NOT_VPN] ]

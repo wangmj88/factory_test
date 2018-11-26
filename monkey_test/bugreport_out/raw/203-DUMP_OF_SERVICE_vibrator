@@ -1,0 +1,9 @@
+mVibratorSwitch = true
+mLowPowerMode = false
+Previous vibrations:
+  timeout: 0, startTime: 16499, pattern: [0, 1, 20, 21], repeat: -1, usageHint: 13, uid: 1000, opPkg: android
+  timeout: 150, startTime: 150045, pattern: null, repeat: 0, usageHint: 0, uid: 1000, opPkg: android
+  timeout: 0, startTime: 152159, pattern: [0, 10, 20, 30], repeat: -1, usageHint: 13, uid: 10032, opPkg: com.android.systemui
+  timeout: 0, startTime: 152248, pattern: [0, 10, 20, 30], repeat: -1, usageHint: 13, uid: 10032, opPkg: com.android.systemui
+  timeout: 0, startTime: 152284, pattern: [0, 10, 20, 30], repeat: -1, usageHint: 13, uid: 10032, opPkg: com.android.systemui
+  timeout: 0, startTime: 152486, pattern: [0, 10, 20, 30], repeat: -1, usageHint: 13, uid: 10032, opPkg: com.android.systemui

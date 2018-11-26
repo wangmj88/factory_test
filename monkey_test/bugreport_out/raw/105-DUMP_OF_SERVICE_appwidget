@@ -1,0 +1,39 @@
+Providers:
+  [0] provider ProviderId{user:0, app:10017, cmp:ComponentInfo{com.letv.android.note/com.letv.android.note.widget.NoteWidgetProvider}}
+    min=(28161x28161)   minResize=(28161x28161) updatePeriodMillis=0 resizeMode=03 autoAdvanceViewId=-1 initialLayout=#7f0400c6 initialKeyguardLayout=#0 zombie=false
+  [1] provider ProviderId{user:0, app:10043, cmp:ComponentInfo{com.android.calendar/com.android.calendar.widget.CalendarAppWidgetProvider}}
+    min=(75265x28161)   minResize=(75265x28161) updatePeriodMillis=0 resizeMode=23 autoAdvanceViewId=-1 initialLayout=#7f040038 initialKeyguardLayout=#0 zombie=false
+  [2] provider ProviderId{user:0, app:10046, cmp:ComponentInfo{com.android.deskclock/com.android.deskclock.provider.DigitalClockWidgetProvider}}
+    min=(75265x24577)   minResize=(75265x24577) updatePeriodMillis=0 resizeMode=01 autoAdvanceViewId=-1 initialLayout=#7f040108 initialKeyguardLayout=#0 zombie=false
+  [3] provider ProviderId{user:0, app:10046, cmp:ComponentInfo{com.android.deskclock/com.android.deskclock.provider.DigitalClockWidgetMiddleProvider}}
+    min=(75265x24577)   minResize=(75265x24577) updatePeriodMillis=0 resizeMode=01 autoAdvanceViewId=-1 initialLayout=#7f040109 initialKeyguardLayout=#0 zombie=false
+  [4] provider ProviderId{user:0, app:10046, cmp:ComponentInfo{com.android.deskclock/com.android.deskclock.provider.DigitalClockWidgetRightProvider}}
+    min=(75265x24577)   minResize=(75265x24577) updatePeriodMillis=0 resizeMode=01 autoAdvanceViewId=-1 initialLayout=#7f04010a initialKeyguardLayout=#0 zombie=false
+  [5] provider ProviderId{user:0, app:10046, cmp:ComponentInfo{com.android.deskclock/com.android.deskclock.provider.DigitalClockWidgetDoubleProvider}}
+    min=(75265x24577)   minResize=(75265x24577) updatePeriodMillis=0 resizeMode=01 autoAdvanceViewId=-1 initialLayout=#7f040107 initialKeyguardLayout=#0 zombie=false
+  [6] provider ProviderId{user:0, app:10058, cmp:ComponentInfo{com.letv.lesophoneclient/com.letv.lesophoneclient.provider.LesoSearchWidgetProvider}}
+    min=(75265x9217)   minResize=(75265x9217) updatePeriodMillis=3600000 resizeMode=01 autoAdvanceViewId=-1 initialLayout=#7f030095 initialKeyguardLayout=#0 zombie=false
+  [7] provider ProviderId{user:0, app:10090, cmp:ComponentInfo{com.android.music/com.android.music.widget.MediaAppWidgetProvider}}
+    min=(75265x46081)   minResize=(75265x46081) updatePeriodMillis=0 resizeMode=02 autoAdvanceViewId=-1 initialLayout=#7f03001a initialKeyguardLayout=#0 zombie=false
+  [8] provider ProviderId{user:0, app:10108, cmp:ComponentInfo{sina.mobile.tianqitongletv/sina.mobile.tianqitongletv.appwidget.WidgetProvider}}
+    min=(226048x112640)   minResize=(226048x112640) updatePeriodMillis=0 resizeMode=01 autoAdvanceViewId=-1 initialLayout=#7f040064 initialKeyguardLayout=#0 zombie=false
+  [9] provider ProviderId{user:0, app:10119, cmp:ComponentInfo{cn.wps.moffice_eng/cn.wps.widget.MofficeAppWidgetProvider_4x2}}
+    min=(76801x35841)   minResize=(76801x35841) updatePeriodMillis=0 resizeMode=01 autoAdvanceViewId=-1 initialLayout=#7f030427 initialKeyguardLayout=#0 zombie=false
+  [10] provider ProviderId{user:0, app:10129, cmp:ComponentInfo{com.tencent.mtt/com.tencent.mtt.widget.androidwidget.QBAppWidgetProviderA}}
+    min=(71681x16385)   minResize=(71681x16385) updatePeriodMillis=0 resizeMode=01 autoAdvanceViewId=-1 initialLayout=#7f030036 initialKeyguardLayout=#0 zombie=false
+  [11] provider ProviderId{user:0, app:10150, cmp:ComponentInfo{com.ss.android.article.news/com.ss.android.article.base.app.ArticleWidgetProvider}}
+    min=(75265x46081)   minResize=(75265x28161) updatePeriodMillis=0 resizeMode=31 autoAdvanceViewId=-1 initialLayout=#7f050052 initialKeyguardLayout=#0 zombie=false
+ 
+Widgets:
+  [0] id=2
+    host=HostId{user:0, app:10009, hostId:1024, pkg:com.android.launcher3}
+    provider=ProviderId{user:0, app:10046, cmp:ComponentInfo{com.android.deskclock/com.android.deskclock.provider.DigitalClockWidgetProvider}}
+    host.callbacks=com.android.internal.appwidget.IAppWidgetHost$Stub$Proxy@388dfb7
+    views=android.widget.RemoteViews@3fb3324
+ 
+Hosts:
+  [0] hostId=HostId{user:0, app:10009, hostId:1024, pkg:com.android.launcher3}
+    callbacks=com.android.internal.appwidget.IAppWidgetHost$Stub$Proxy@388dfb7
+    widgets.size=1 zombie=false
+ 
+Grants:

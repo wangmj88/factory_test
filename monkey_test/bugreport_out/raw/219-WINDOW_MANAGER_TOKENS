@@ -1,0 +1,44 @@
+  All tokens:
+  WindowToken{48c9e2d null}:
+    windows=[Window{f53bccd u0 Heads Up}, Window{8fe759 u0 StatusBar}, Window{52b8e82 u0 ControlCenter}, Window{70fd116 u0 AntiInadvertently}, Window{c45def2 u0 KeyguardScrim}]
+    windowType=-1 hidden=false hasVisible=true
+  WindowToken{bdf3f62 android.os.Binder@4c13a61}:
+    windows=[]
+    windowType=2011 hidden=false hasVisible=false
+  AppWindowToken{5a6b380 token=Token{582f803 ActivityRecord{6f940b2 u0 com.example.demo1/com.example.plokmju.testmutilecompile.MainActivity, isShadow:false t16}}}:
+    windows=[Window{d59b3ba u0 com.example.demo1/com.example.plokmju.testmutilecompile.MainActivity}]
+    windowType=2 hidden=false hasVisible=true
+    app=true voiceInteraction=false
+    allAppWindows=[Window{d59b3ba u0 com.example.demo1/com.example.plokmju.testmutilecompile.MainActivity}]
+    task={taskId=16 appTokens=[AppWindowToken{5a6b380 token=Token{582f803 ActivityRecord{6f940b2 u0 com.example.demo1/com.example.plokmju.testmutilecompile.MainActivity, isShadow:false t16}}}] mdr=false}
+     appFullscreen=true requestedOrientation=-1
+ layoutConfigChanges=false
+    hiddenRequested=false clientHidden=false willBeHidden=false reportedDrawn=true reportedVisible=true
+    numInterestingWindows=1 numDrawnWindows=1 inPendingTransaction=false allDrawn=true (animator=true)
+    startingData=null removed=false firstWindowDrawn=true mIsExiting=false
+  WindowToken{b2a08f3 android.os.Binder@3ea7557}:
+    windows=[Window{858c64a u0 com.android.systemui.ImageWallpaper}]
+    windowType=2013 hidden=true hasVisible=true
+  WindowToken{e9209b0 android.os.Binder@6598c7b}:
+    windows=[Window{821b9b2 u0 com.android.systemui.ImageWallpaper}]
+    windowType=2101 hidden=true hasVisible=true
+  AppWindowToken{73788de token=Token{c727019 ActivityRecord{295d360 u0 com.android.launcher3/.Launcher, isShadow:false t1}}}:
+    windows=[Window{3a7f912 u0 com.android.launcher3/com.android.launcher3.Launcher}]
+    windowType=2 hidden=true hasVisible=true
+    app=true voiceInteraction=false
+    allAppWindows=[Window{3a7f912 u0 com.android.launcher3/com.android.launcher3.Launcher}]
+    task={taskId=1 appTokens=[AppWindowToken{73788de token=Token{c727019 ActivityRecord{295d360 u0 com.android.launcher3/.Launcher, isShadow:false t1}}}] mdr=false}
+     appFullscreen=true requestedOrientation=1
+ layoutConfigChanges=true
+    hiddenRequested=true clientHidden=true willBeHidden=false reportedDrawn=false reportedVisible=false
+    numInterestingWindows=1 numDrawnWindows=1 inPendingTransaction=false allDrawn=true (animator=true)
+    startingData=null removed=false firstWindowDrawn=true mIsExiting=false
+
+  Wallpaper tokens:
+  Wallpaper #1 WindowToken{b2a08f3 android.os.Binder@3ea7557}:
+    windows=[Window{858c64a u0 com.android.systemui.ImageWallpaper}]
+    windowType=2013 hidden=true hasVisible=true
+  Wallpaper #0 WindowToken{e9209b0 android.os.Binder@6598c7b}:
+    windows=[Window{821b9b2 u0 com.android.systemui.ImageWallpaper}]
+    windowType=2101 hidden=true hasVisible=true
+

@@ -1,0 +1,665 @@
+Current AppOps Service state:
+  Op mode watchers:
+    Op COARSE_LOCATION:
+      #0: com.android.server.AppOpsService$Callback@a3759d5
+    Op SYSTEM_ALERT_WINDOW:
+      #0: com.android.server.AppOpsService$Callback@6ae55ea
+    Op PLAY_AUDIO:
+      #0: com.android.server.AppOpsService$Callback@36410db
+      #1: com.android.server.AppOpsService$Callback@3201778
+      #2: com.android.server.AppOpsService$Callback@aa0be51
+      #3: com.android.server.AppOpsService$Callback@413e6b6
+    Op TOAST_WINDOW:
+      #0: com.android.server.AppOpsService$Callback@6ae55ea
+  Package mode watchers:
+    Pkg com.android.systemui:
+      #0: com.android.server.AppOpsService$Callback@aa0be51
+  All mode watchers:
+    android.media.SoundPool$1@4702141 -> com.android.server.AppOpsService$Callback@36410db
+    android.app.AppOpsManager$1@79d6247 -> com.android.server.AppOpsService$Callback@a3759d5
+    android.app.AppOpsManager$1@939dbe1 -> com.android.server.AppOpsService$Callback@6ae55ea
+    android.os.BinderProxy@9f947ff -> com.android.server.AppOpsService$Callback@aa0be51
+    android.media.SoundPool$1@d367fe7 -> com.android.server.AppOpsService$Callback@3201778
+    android.media.SoundPool$1@e46bb80 -> com.android.server.AppOpsService$Callback@413e6b6
+  Clients:
+    android.os.BinderProxy@ec2caa6:
+      ClientState{mAppToken=android.os.BinderProxy@ec2caa6, pid=312}
+    android.os.Binder@feb2646:
+      ClientState{mAppToken=android.os.Binder@feb2646, local}
+
+  Uid 1000:
+    Package android:
+      VIBRATE: mode=0
+      SYSTEM_ALERT_WINDOW: mode=3
+      AUDIO_RING_VOLUME: mode=0; time=+20s991ms ago
+      WAKE_LOCK: mode=0
+      MONITOR_LOCATION: mode=0
+    Package com.mediatek.nlpservice:
+      MONITOR_LOCATION: mode=0
+    Package com.android.server.telecom:
+      READ_CALL_LOG: mode=0; time=+9m25s906ms ago
+    Package com.dolby:
+    Package com.android.settings:
+      VIBRATE: mode=0
+      TOAST_WINDOW: mode=0
+  Uid 1001:
+    Package com.mediatek.ims:
+      WAKE_LOCK: mode=0
+    Package com.android.phone:
+      READ_CONTACTS: mode=0; time=+9m25s798ms ago
+      READ_SMS: mode=0; time=+3m44s580ms ago
+      WRITE_SMS: mode=1; time=+9m14s574ms ago
+      WAKE_LOCK: mode=0
+      READ_MMS: mode=0; time=+3m44s580ms ago
+      WRITE_MMS: mode=0; time=+9m8s97ms ago
+  Uid 1002:
+    Package com.android.bluetooth:
+      WAKE_LOCK: mode=0
+  Uid 1013:
+    Package media:
+      CAMERA: mode=0
+      WAKE_LOCK: mode=0
+  Uid u0a1:
+    Package com.android.providers.calendar:
+      READ_CALENDAR: mode=0; time=+4m29s146ms ago
+      WRITE_CALENDAR: mode=0; time=+8m42s39ms ago
+      WAKE_LOCK: mode=0; time=+7m49s873ms ago; duration=+46ms
+      READ_EXTERNAL_STORAGE: mode=0; time=+9m0s350ms ago
+      WRITE_EXTERNAL_STORAGE: mode=0; time=+9m0s350ms ago
+      GET_ACCOUNTS: mode=0; time=+9m0s220ms ago
+      BOOT_COMPLETED: mode=1; time=+9m13s377ms ago
+  Uid u0a2:
+    Package com.android.contacts:
+      COARSE_LOCATION: mode=0; time=+9m20s699ms ago
+      READ_EXTERNAL_STORAGE: mode=0; time=+9m3s143ms ago
+      WRITE_EXTERNAL_STORAGE: mode=0; time=+9m3s143ms ago
+      GET_ACCOUNTS: mode=0; time=+4m40s856ms ago
+    Package com.android.providers.contacts:
+      READ_CONTACTS: mode=0; time=+4m40s14ms ago
+      WRITE_CONTACTS: mode=0; time=+9m17s952ms ago
+      READ_CALL_LOG: mode=0; time=+9m13s958ms ago
+      ADD_VOICEMAIL: mode=0; time=+4d9h20m5s652ms ago
+      READ_EXTERNAL_STORAGE: mode=0; time=+4m41s79ms ago
+      WRITE_EXTERNAL_STORAGE: mode=0; time=+4m41s79ms ago
+      GET_ACCOUNTS: mode=0; time=+4m40s373ms ago
+  Uid u0a4:
+    Package com.android.defcontainer:
+      READ_EXTERNAL_STORAGE: mode=0; time=+4m43s111ms ago
+      WRITE_EXTERNAL_STORAGE: mode=0; time=+4m43s111ms ago
+  Uid u0a5:
+    Package com.android.dialer:
+      READ_CALL_LOG: mode=0; time=+9m13s958ms ago
+      WRITE_SMS: mode=1; time=+9m14s56ms ago
+      READ_EXTERNAL_STORAGE: mode=0; time=+9m14s119ms ago
+      WRITE_EXTERNAL_STORAGE: mode=0; time=+9m14s119ms ago
+      BOOT_COMPLETED: mode=1; time=+9m14s229ms ago
+  Uid u0a6:
+    Package com.android.providers.media:
+      WRITE_SETTINGS: mode=3; time=+781d21h44m16s790ms ago
+      WAKE_LOCK: mode=0; time=+2h50m15s798ms ago; duration=+61ms
+      READ_EXTERNAL_STORAGE: mode=0; time=+4m58s972ms ago
+      WRITE_EXTERNAL_STORAGE: mode=0; time=+4m58s972ms ago
+      BOOT_COMPLETED: mode=1; time=+9m12s857ms ago
+    Package com.android.providers.downloads:
+      READ_EXTERNAL_STORAGE: mode=0; time=+3d1h28m23s565ms ago
+      WRITE_EXTERNAL_STORAGE: mode=0; time=+3d1h28m23s565ms ago
+      BOOT_COMPLETED: mode=1; time=+9m13s182ms ago
+  Uid u0a7:
+    Package com.android.externalstorage:
+      READ_EXTERNAL_STORAGE: mode=0; time=+9m28s696ms ago
+      WRITE_EXTERNAL_STORAGE: mode=0; time=+9m28s696ms ago
+  Uid u0a8:
+    Package com.google.android.gms:
+      COARSE_LOCATION: mode=0; time=+781d21h40m11s799ms ago
+      FINE_LOCATION: mode=0; time=+781d21h39m5s971ms ago
+      READ_CONTACTS: mode=0; time=+781d21h39m51s902ms ago
+      WIFI_SCAN: mode=0; time=+781d21h39m5s971ms ago
+      READ_SMS: mode=0; time=+781d21h44m21s792ms ago
+      OP_READ_PHONE_STATE: mode=0; time=+781d21h44m27s25ms ago
+      READ_EXTERNAL_STORAGE: mode=0; time=+7d11h6m59s20ms ago
+      WRITE_EXTERNAL_STORAGE: mode=0; time=+7d11h6m59s20ms ago
+      GET_ACCOUNTS: mode=0; time=+7d11h7m5s405ms ago
+      READ_MMS: mode=0; time=+781d21h44m21s780ms ago
+      BOOT_COMPLETED: mode=0; time=+781d21h44m19s310ms ago
+    Package com.google.android.gsf:
+      READ_EXTERNAL_STORAGE: mode=0; time=+13d9h40m59s592ms ago
+      WRITE_EXTERNAL_STORAGE: mode=0; time=+13d9h40m59s592ms ago
+      GET_ACCOUNTS: mode=0; time=+13d9h40m59s527ms ago
+      BOOT_COMPLETED: mode=0
+    Package com.google.android.gsf.login:
+      BOOT_COMPLETED: mode=0
+  Uid u0a9:
+    Package com.android.launcher3:
+      VIBRATE: mode=0; time=+7d0h18m23s116ms ago; duration=+48ms
+      TOAST_WINDOW: mode=0; time=+13d1h45m14s706ms ago; duration=+2s247ms
+      READ_EXTERNAL_STORAGE: mode=0; time=+9m0s208ms ago
+      WRITE_EXTERNAL_STORAGE: mode=0; time=+9m0s208ms ago
+      GET_ACCOUNTS: mode=0; time=+9m20s105ms ago
+      BOOT_COMPLETED: mode=1; time=+9m13s179ms ago
+  Uid u0a10:
+    Package com.letv.domain:
+      READ_EXTERNAL_STORAGE: mode=0; time=+9m27s150ms ago
+      WRITE_EXTERNAL_STORAGE: mode=0; time=+9m27s150ms ago
+      BOOT_COMPLETED: mode=1; time=+9m13s176ms ago
+  Uid u0a11:
+    Package com.letv.android.freeflow:
+      OP_READ_PHONE_STATE: mode=0; time=+9m22s886ms ago
+      READ_EXTERNAL_STORAGE: mode=0; time=+9m26s906ms ago
+      WRITE_EXTERNAL_STORAGE: mode=0; time=+9m26s906ms ago
+  Uid u0a12:
+    Package com.stv.stvpush:
+      WRITE_SMS: mode=1; time=+9m20s630ms ago
+      WAKE_LOCK: mode=0; time=+3m15s906ms ago; duration=+18ms
+      READ_EXTERNAL_STORAGE: mode=0; time=+9m20s599ms ago
+      WRITE_EXTERNAL_STORAGE: mode=0; time=+9m20s599ms ago
+      BOOT_COMPLETED: mode=1; time=+9m13s167ms ago
+  Uid u0a13:
+    Package com.android.cellbroadcastreceiver:
+      READ_EXTERNAL_STORAGE: mode=0; time=+9m18s851ms ago
+      WRITE_EXTERNAL_STORAGE: mode=0; time=+9m18s851ms ago
+  Uid u0a15:
+    Package com.letv.android.ecoProvider:
+      READ_EXTERNAL_STORAGE: mode=0; time=+9m17s865ms ago
+      WRITE_EXTERNAL_STORAGE: mode=0; time=+9m17s865ms ago
+  Uid u0a16:
+    Package com.android.mms:
+      READ_SMS: mode=0; time=+9m8s84ms ago
+      WRITE_SMS: mode=0; time=+9m14s574ms ago
+      SYSTEM_ALERT_WINDOW: mode=0
+      WAKE_LOCK: mode=0; time=+9m12s715ms ago; duration=+395ms
+      OP_READ_PHONE_STATE: mode=0; time=+9m12s421ms ago
+      READ_EXTERNAL_STORAGE: mode=0; time=+9m27s243ms ago
+      WRITE_EXTERNAL_STORAGE: mode=0; time=+9m27s243ms ago
+      SEND_MMS: mode=0; time=+9m14s920ms ago
+      READ_MMS: mode=0; time=+9m8s84ms ago
+      WRITE_MMS: mode=0; time=+9m8s97ms ago
+      BOOT_COMPLETED: mode=1; time=+9m13s114ms ago
+  Uid u0a17:
+    Package com.letv.android.note:
+      READ_EXTERNAL_STORAGE: mode=0; time=+7m57s516ms ago
+      WRITE_EXTERNAL_STORAGE: mode=0; time=+7m57s516ms ago
+      BOOT_COMPLETED: mode=1; time=+9m13s719ms ago
+  Uid u0a18:
+    Package com.letv.android.powercontroller:
+      COARSE_LOCATION: mode=0
+      FINE_LOCATION: mode=0; time=+3d3h0m53s809ms ago
+      WRITE_SETTINGS: mode=3; time=+6d0h5m52s182ms ago
+      WAKE_LOCK: mode=0; time=+9m14s197ms ago; duration=+4ms
+      MONITOR_LOCATION: mode=0; time=+8m14s59ms ago (running)
+      READ_EXTERNAL_STORAGE: mode=0; time=+1m58s774ms ago
+      WRITE_EXTERNAL_STORAGE: mode=0; time=+1m58s774ms ago
+      WIFI_CHANGE: mode=0; time=+5d12h44m29s274ms ago
+      BOOT_COMPLETED: mode=1; time=+9m14s541ms ago
+    Package com.letv.android.phonecontrol:
+      OP_READ_PHONE_STATE: mode=0; time=+9m13s17ms ago
+      GET_ACCOUNTS: mode=0; time=+9m13s35ms ago
+      BOOT_COMPLETED: mode=1; time=+9m13s108ms ago
+  Uid u0a21:
+    Package com.letv.android.supermanager:
+      READ_EXTERNAL_STORAGE: mode=0; time=+8m38s836ms ago
+      WRITE_EXTERNAL_STORAGE: mode=0; time=+8m38s836ms ago
+  Uid u0a22:
+    Package com.letv.android.usermanual:
+      READ_EXTERNAL_STORAGE: mode=0; time=+9m6s131ms ago
+      WRITE_EXTERNAL_STORAGE: mode=0; time=+9m6s131ms ago
+  Uid u0a23:
+    Package com.letv.android.client:
+      VIBRATE: mode=0; time=+1h49m18s392ms ago; duration=+379ms
+      POST_NOTIFICATION: mode=0; time=+1h49m18s780ms ago
+      CAMERA: mode=0
+      WAKE_LOCK: mode=0; time=+1h49m18s805ms ago; duration=+87ms
+      READ_EXTERNAL_STORAGE: mode=0; time=+9m5s671ms ago
+      WRITE_EXTERNAL_STORAGE: mode=0; time=+9m5s671ms ago
+      BOOT_COMPLETED: mode=1; rejectTime=+9m13s11ms ago
+  Uid u0a24:
+    Package com.letv.walletbiz:
+      VIBRATE: mode=0; time=+6d9h20m22s220ms ago; duration=+958ms
+      POST_NOTIFICATION: mode=0; time=+55s99ms ago
+      WAKE_LOCK: mode=0; time=+6d9h20m23s184ms ago; duration=+75ms
+      TOAST_WINDOW: mode=0; time=+52s541ms ago; duration=+2s550ms
+      READ_EXTERNAL_STORAGE: mode=0; time=+4m39s471ms ago
+      WRITE_EXTERNAL_STORAGE: mode=0; time=+4m39s471ms ago
+  Uid u0a25:
+    Package com.letv.android.wallpaperonline:
+      POST_NOTIFICATION: mode=0; time=+6d7h18m0s680ms ago
+      WAKE_LOCK: mode=0; time=+9h33m36s957ms ago; duration=+34ms
+      READ_EXTERNAL_STORAGE: mode=0; time=+9m23s152ms ago
+      WRITE_EXTERNAL_STORAGE: mode=0; time=+9m23s152ms ago
+      BOOT_COMPLETED: mode=1; time=+9m13s10ms ago
+  Uid u0a26:
+    Package com.android.managedprovisioning:
+      READ_EXTERNAL_STORAGE: mode=0; time=+9m12s981ms ago
+      WRITE_EXTERNAL_STORAGE: mode=0; time=+9m12s981ms ago
+      BOOT_COMPLETED: mode=1; time=+9m12s981ms ago
+  Uid u0a27:
+    Package com.android.onetimeinitializer:
+      READ_EXTERNAL_STORAGE: mode=0; time=+9m12s850ms ago
+      WRITE_EXTERNAL_STORAGE: mode=0; time=+9m12s850ms ago
+      BOOT_COMPLETED: mode=1; time=+9m12s851ms ago
+  Uid u0a28:
+    Package com.android.packageinstaller:
+      READ_EXTERNAL_STORAGE: mode=0; time=+13d6h34m52s846ms ago
+      WRITE_EXTERNAL_STORAGE: mode=0; time=+13d6h34m52s846ms ago
+  Uid u0a32:
+    Package com.android.systemui:
+      VIBRATE: mode=0; time=+4m57s367ms ago; duration=+69ms
+      POST_NOTIFICATION: mode=0; time=+8h14m59s373ms ago
+      SYSTEM_ALERT_WINDOW: mode=3; time=+9m25s739ms ago (running)
+      TAKE_AUDIO_FOCUS: mode=0; time=+1h49m18s685ms ago
+      WAKE_LOCK: mode=0; time=+9m23s253ms ago; duration=+805ms
+      TOAST_WINDOW: mode=0; time=+10d6h16m29s585ms ago; duration=+2s519ms
+      READ_EXTERNAL_STORAGE: mode=0; time=+9m27s583ms ago
+      WRITE_EXTERNAL_STORAGE: mode=0; time=+9m27s583ms ago
+      GET_ACCOUNTS: mode=0; time=+9m23s634ms ago
+      BOOT_COMPLETED: mode=1; time=+9m13s720ms ago
+  Uid u0a38:
+    Package com.baidu.input_letv:
+      COARSE_LOCATION: mode=0; time=+3h19m59s380ms ago
+      FINE_LOCATION: mode=0; time=+3d8h41m38s64ms ago
+      READ_CONTACTS: mode=0; time=+1h10m58s753ms ago
+      WRITE_CONTACTS: mode=0
+      WIFI_SCAN: mode=0; time=+3d8h41m38s64ms ago
+      POST_NOTIFICATION: mode=0; time=+3h19m58s466ms ago
+      WRITE_SMS: mode=1; rejectTime=+6h17m23s174ms ago
+      WRITE_SETTINGS: mode=3; rejectTime=+9m26s295ms ago
+      OP_READ_PHONE_STATE: mode=0; time=+6h17m23s173ms ago
+      READ_EXTERNAL_STORAGE: mode=0; time=+4m41s71ms ago
+      WRITE_EXTERNAL_STORAGE: mode=0; time=+4m41s71ms ago
+      BOOT_COMPLETED: mode=1; rejectTime=+9m12s405ms ago
+  Uid u0a41:
+    Package com.android.browser:
+      VIBRATE: mode=0; time=+3d11h4m40s122ms ago; duration=+371ms
+      POST_NOTIFICATION: mode=0; time=+3d11h4m40s500ms ago
+      SYSTEM_ALERT_WINDOW: mode=0
+      WAKE_LOCK: mode=0; time=+3d11h4m40s451ms ago; duration=+143ms
+      OP_READ_PHONE_STATE: mode=0; time=+2d23h30m27s976ms ago
+      READ_EXTERNAL_STORAGE: mode=0; time=+2d23h30m38s27ms ago
+      WRITE_EXTERNAL_STORAGE: mode=0; time=+2d23h30m38s27ms ago
+  Uid u0a43:
+    Package com.android.calendar:
+      VIBRATE: mode=0; time=+6d11h14m45s873ms ago; duration=+358ms
+      READ_CALENDAR: mode=0; time=+4m29s146ms ago
+      WRITE_CALENDAR: mode=0; time=+8m42s39ms ago
+      POST_NOTIFICATION: mode=0; time=+6d11h14m46s238ms ago
+      WAKE_LOCK: mode=0; time=+9m6s791ms ago; duration=+5s341ms
+      READ_EXTERNAL_STORAGE: mode=0; time=+4m29s386ms ago
+      WRITE_EXTERNAL_STORAGE: mode=0; time=+4m29s386ms ago
+      BOOT_COMPLETED: mode=1; time=+9m12s261ms ago
+  Uid u0a45:
+    Package com.android.certinstaller:
+      POST_NOTIFICATION: mode=0; time=+13d3h39m54s928ms ago
+      TOAST_WINDOW: mode=0; time=+13d3h39m50s880ms ago; duration=+4s37ms
+      READ_EXTERNAL_STORAGE: mode=0; time=+13d3h43m19s982ms ago
+      WRITE_EXTERNAL_STORAGE: mode=0; time=+13d3h43m19s982ms ago
+  Uid u0a46:
+    Package com.android.deskclock:
+      WAKE_LOCK: mode=0; time=+7m51s84ms ago; duration=+546ms
+      READ_EXTERNAL_STORAGE: mode=0; time=+7m50s909ms ago
+      WRITE_EXTERNAL_STORAGE: mode=0; time=+7m50s909ms ago
+      BOOT_COMPLETED: mode=1; time=+9m12s129ms ago
+  Uid u0a48:
+    Package com.android.documentsui:
+      READ_EXTERNAL_STORAGE: mode=0; time=+4d9h20m4s828ms ago
+      WRITE_EXTERNAL_STORAGE: mode=0; time=+4d9h20m4s828ms ago
+  Uid u0a49:
+    Package com.mediatek.providers.drm:
+      READ_EXTERNAL_STORAGE: mode=0; time=+7m51s2ms ago
+      WRITE_EXTERNAL_STORAGE: mode=0; time=+7m51s2ms ago
+  Uid u0a50:
+    Package com.android.email:
+      READ_EXTERNAL_STORAGE: mode=0; time=+9m2s83ms ago
+      WRITE_EXTERNAL_STORAGE: mode=0; time=+9m2s83ms ago
+      BOOT_COMPLETED: mode=1; time=+9m11s956ms ago
+  Uid u0a51:
+    Package com.android.exchange:
+      READ_CONTACTS: mode=0; time=+4m40s14ms ago
+      READ_EXTERNAL_STORAGE: mode=0; time=+9m2s280ms ago
+      WRITE_EXTERNAL_STORAGE: mode=0; time=+9m2s280ms ago
+      GET_ACCOUNTS: mode=0; time=+4m40s14ms ago
+  Uid u0a54:
+    Package com.google.android.syncadapters.contacts:
+      READ_CONTACTS: mode=0; time=+781d21h44m15s902ms ago
+      READ_EXTERNAL_STORAGE: mode=0; time=+781d21h44m5s740ms ago
+      WRITE_EXTERNAL_STORAGE: mode=0; time=+781d21h44m5s740ms ago
+      GET_ACCOUNTS: mode=0; time=+781d21h44m5s346ms ago
+      BOOT_COMPLETED: mode=0; time=+781d21h44m16s601ms ago
+  Uid u0a58:
+    Package com.letv.lesophoneclient:
+      CAMERA: mode=0
+  Uid u0a60:
+    Package com.letv.android.account:
+      READ_EXTERNAL_STORAGE: mode=0; time=+9m4s873ms ago
+      WRITE_EXTERNAL_STORAGE: mode=0; time=+9m4s873ms ago
+  Uid u0a62:
+    Package com.letv.android.accountinfo:
+      READ_EXTERNAL_STORAGE: mode=0; time=+9m11s408ms ago
+      WRITE_EXTERNAL_STORAGE: mode=0; time=+9m11s408ms ago
+      BOOT_COMPLETED: mode=1; time=+9m11s451ms ago
+  Uid u0a63:
+    Package com.letv.android.backup:
+      READ_EXTERNAL_STORAGE: mode=0; time=+9m11s152ms ago
+      WRITE_EXTERNAL_STORAGE: mode=0; time=+9m11s152ms ago
+      BOOT_COMPLETED: mode=1; time=+9m11s279ms ago
+    Package com.letv.android.cloudservice:
+      READ_EXTERNAL_STORAGE: mode=0; time=+9m4s835ms ago
+      WRITE_EXTERNAL_STORAGE: mode=0; time=+9m4s835ms ago
+      BOOT_COMPLETED: mode=1; time=+9m13s612ms ago
+  Uid u0a65:
+    Package com.letv.android.emojistore:
+      READ_EXTERNAL_STORAGE: mode=0; time=+4m28s180ms ago
+      WRITE_EXTERNAL_STORAGE: mode=0; time=+4m28s180ms ago
+  Uid u0a67:
+    Package com.letv.android.fannation:
+      READ_EXTERNAL_STORAGE: mode=0; time=+9m4s665ms ago
+      WRITE_EXTERNAL_STORAGE: mode=0; time=+9m4s665ms ago
+  Uid u0a68:
+    Package com.letv.android.filemanager:
+      READ_EXTERNAL_STORAGE: mode=0; time=+4m40s271ms ago
+      WRITE_EXTERNAL_STORAGE: mode=0; time=+4m40s271ms ago
+      BOOT_COMPLETED: mode=1; time=+9m11s54ms ago
+  Uid u0a69:
+    Package com.letv.android.ota:
+      READ_EXTERNAL_STORAGE: mode=0; time=+9m10s767ms ago
+      WRITE_EXTERNAL_STORAGE: mode=0; time=+9m10s767ms ago
+      BOOT_COMPLETED: mode=1; time=+9m10s978ms ago
+  Uid u0a70:
+    Package com.letv.android.personalized:
+      WAKE_LOCK: mode=0; time=+13d9h41m1s598ms ago; duration=+247ms
+      READ_EXTERNAL_STORAGE: mode=0; time=+9m10s794ms ago
+      WRITE_EXTERNAL_STORAGE: mode=0; time=+9m10s794ms ago
+      BOOT_COMPLETED: mode=1; time=+9m10s865ms ago
+  Uid u0a71:
+    Package com.letv.android.privacydata:
+      READ_EXTERNAL_STORAGE: mode=0; time=+9m27s91ms ago
+      WRITE_EXTERNAL_STORAGE: mode=0; time=+9m27s91ms ago
+      BOOT_COMPLETED: mode=1; time=+9m10s756ms ago
+  Uid u0a73:
+    Package com.letv.leui.sdk.data:
+      READ_EXTERNAL_STORAGE: mode=0; time=+9m4s203ms ago
+      WRITE_EXTERNAL_STORAGE: mode=0; time=+9m4s203ms ago
+  Uid u0a75:
+    Package com.letv.leui.schpwronoff:
+      READ_EXTERNAL_STORAGE: mode=0; time=+7m50s707ms ago
+      WRITE_EXTERNAL_STORAGE: mode=0; time=+7m50s707ms ago
+      BOOT_COMPLETED: mode=1; time=+9m10s676ms ago
+  Uid u0a76:
+    Package com.letv.android.setupwizard:
+      WRITE_SETTINGS: mode=3; time=+781d21h40m2s69ms ago
+      USE_FINGERPRINT: mode=0; time=+781d21h40m11s343ms ago
+      READ_EXTERNAL_STORAGE: mode=0; time=+781d21h40m2s29ms ago
+      WRITE_EXTERNAL_STORAGE: mode=0; time=+781d21h40m2s29ms ago
+      WIFI_CHANGE: mode=0; time=+781d21h40m20s198ms ago
+  Uid u0a77:
+    Package com.letv.letvshop:
+      POST_NOTIFICATION: mode=0; time=+10d11h41m45s85ms ago
+      WAKE_LOCK: mode=0; time=+10d11h41m45s77ms ago; duration=+30ms
+      READ_EXTERNAL_STORAGE: mode=0; time=+10d11h41m45s81ms ago
+      WRITE_EXTERNAL_STORAGE: mode=0; time=+10d11h41m45s81ms ago
+      BOOT_COMPLETED: mode=1; rejectTime=+9m10s624ms ago
+  Uid u0a78:
+    Package com.letv.app.appstore:
+      POST_NOTIFICATION: mode=0; time=+9m11s701ms ago
+      WRITE_SMS: mode=1; time=+9m23s948ms ago
+      WAKE_LOCK: mode=0; time=+6d10h19m39s900ms ago; duration=+47ms
+      READ_EXTERNAL_STORAGE: mode=0; time=+9m23s905ms ago
+      WRITE_EXTERNAL_STORAGE: mode=0; time=+9m23s905ms ago
+      BOOT_COMPLETED: mode=0; time=+9m10s620ms ago
+  Uid u0a80:
+    Package com.letv.android.themestore:
+      POST_NOTIFICATION: mode=0; time=+6d10h53m56s992ms ago
+      WRITE_SETTINGS: mode=3; time=+781d21h44m9s305ms ago
+      WAKE_LOCK: mode=0; time=+6d10h52m57s126ms ago; duration=+60s61ms
+      READ_EXTERNAL_STORAGE: mode=0; time=+9m3s895ms ago
+      WRITE_EXTERNAL_STORAGE: mode=0; time=+9m3s895ms ago
+  Uid u0a81:
+    Package com.letv.android.usagestats:
+      READ_EXTERNAL_STORAGE: mode=0; time=+4m59s78ms ago
+      WRITE_EXTERNAL_STORAGE: mode=0; time=+4m59s78ms ago
+      BOOT_COMPLETED: mode=1; time=+9m10s498ms ago
+  Uid u0a88:
+    Package com.mediatek.mtklogger:
+      POST_NOTIFICATION: mode=1
+      READ_EXTERNAL_STORAGE: mode=0; time=+9m28s783ms ago
+      WRITE_EXTERNAL_STORAGE: mode=0; time=+9m28s783ms ago
+      BOOT_COMPLETED: mode=1; time=+9m13s592ms ago
+  Uid u0a89:
+    Package com.mediatek.floatmenu:
+      READ_EXTERNAL_STORAGE: mode=0; time=+9m28s821ms ago
+      WRITE_EXTERNAL_STORAGE: mode=0; time=+9m28s821ms ago
+  Uid u0a90:
+    Package com.android.music:
+      READ_EXTERNAL_STORAGE: mode=0; time=+9m18s6ms ago
+      WRITE_EXTERNAL_STORAGE: mode=0; time=+9m18s6ms ago
+  Uid u0a92:
+    Package com.baidu.map.location:
+      COARSE_LOCATION: mode=0; time=+10h42m57s270ms ago
+      FINE_LOCATION: mode=0; time=+9m23s893ms ago
+      WIFI_SCAN: mode=0; time=+9m23s893ms ago
+      WRITE_SETTINGS: mode=3; time=+9m24s808ms ago
+      MONITOR_LOCATION: mode=0; time=+9m24s794ms ago (running)
+      OP_READ_PHONE_STATE: mode=0; time=+9m24s852ms ago
+      READ_EXTERNAL_STORAGE: mode=0; time=+9m24s791ms ago
+      WRITE_EXTERNAL_STORAGE: mode=0; time=+9m24s791ms ago
+  Uid u0a94:
+    Package com.mediatek.omacp:
+      WAKE_LOCK: mode=0; time=+9m10s193ms ago; duration=+16ms
+      READ_EXTERNAL_STORAGE: mode=0; time=+9m10s249ms ago
+      WRITE_EXTERNAL_STORAGE: mode=0; time=+9m10s249ms ago
+      BOOT_COMPLETED: mode=1; time=+9m10s250ms ago
+  Uid u0a97:
+    Package com.svox.pico:
+      READ_EXTERNAL_STORAGE: mode=0; time=+4m39s541ms ago
+      WRITE_EXTERNAL_STORAGE: mode=0; time=+4m39s541ms ago
+  Uid u0a98:
+    Package com.android.printspooler:
+      READ_EXTERNAL_STORAGE: mode=0; time=+1m55s1ms ago
+      WRITE_EXTERNAL_STORAGE: mode=0; time=+1m55s1ms ago
+  Uid u0a100:
+    Package com.sohu.inputmethod.sogou.leshi:
+      READ_EXTERNAL_STORAGE: mode=0; time=+781d21h40m22s283ms ago
+      WRITE_EXTERNAL_STORAGE: mode=0; time=+781d21h40m22s283ms ago
+  Uid u0a103:
+    Package com.letv.agnes:
+      WRITE_SMS: mode=1; time=+9m20s706ms ago
+      READ_EXTERNAL_STORAGE: mode=0; time=+9m20s610ms ago
+      WRITE_EXTERNAL_STORAGE: mode=0; time=+9m20s610ms ago
+      BOOT_COMPLETED: mode=1; time=+9m10s92ms ago
+  Uid u0a104:
+    Package com.lesports.glivesports:
+      READ_EXTERNAL_STORAGE: mode=0; time=+9m3s854ms ago
+      WRITE_EXTERNAL_STORAGE: mode=0; time=+9m3s854ms ago
+  Uid u0a105:
+    Package com.letv.games:
+      READ_EXTERNAL_STORAGE: mode=0; time=+9m3s586ms ago
+      WRITE_EXTERNAL_STORAGE: mode=0; time=+9m3s586ms ago
+      BOOT_COMPLETED: mode=1; rejectTime=+9m10s89ms ago
+  Uid u0a106:
+    Package com.letv.android.letvlive:
+      VIBRATE: mode=0; time=+10h29m37s59ms ago; duration=+354ms
+      POST_NOTIFICATION: mode=0; time=+10h29m37s419ms ago
+      WAKE_LOCK: mode=0; time=+10h29m37s511ms ago; duration=+309ms
+      READ_EXTERNAL_STORAGE: mode=0; time=+4m59s661ms ago
+      WRITE_EXTERNAL_STORAGE: mode=0; time=+4m59s661ms ago
+      BOOT_COMPLETED: mode=0; time=+9m9s889ms ago
+  Uid u0a107:
+    Package com.letv.android.quicksearchbox:
+      READ_CONTACTS: mode=0; time=+6d8h48m48s462ms ago
+      WRITE_SMS: mode=1; time=+4m39s937ms ago
+      OP_READ_PHONE_STATE: mode=0; time=+4m39s935ms ago
+      READ_EXTERNAL_STORAGE: mode=0; time=+4m38s831ms ago
+      WRITE_EXTERNAL_STORAGE: mode=0; time=+4m38s830ms ago
+      GET_ACCOUNTS: mode=0; time=+4m39s934ms ago
+  Uid u0a108:
+    Package sina.mobile.tianqitongletv:
+      READ_EXTERNAL_STORAGE: mode=0; time=+7m49s938ms ago
+      WRITE_EXTERNAL_STORAGE: mode=0; time=+7m49s938ms ago
+      BOOT_COMPLETED: mode=1; time=+9m9s768ms ago
+  Uid u0a110:
+    Package com.letv.gallery3d.syncservice:
+      READ_EXTERNAL_STORAGE: mode=0; time=+9m27s191ms ago
+      WRITE_EXTERNAL_STORAGE: mode=0; time=+9m27s191ms ago
+      BOOT_COMPLETED: mode=1; time=+9m9s481ms ago
+  Uid u0a111:
+    Package com.stv.android.videochat:
+      POST_NOTIFICATION: mode=0; time=+9m23s791ms ago
+      WRITE_SMS: mode=1; time=+9m23s831ms ago
+      TOAST_WINDOW: mode=0; time=+9m21s784ms ago; duration=+1s984ms
+      OP_READ_PHONE_STATE: mode=0; time=+9m23s829ms ago
+      READ_EXTERNAL_STORAGE: mode=0; time=+9m15s722ms ago
+      WRITE_EXTERNAL_STORAGE: mode=0; time=+9m15s722ms ago
+      GET_ACCOUNTS: mode=0; time=+9m23s829ms ago
+      BOOT_COMPLETED: mode=1; time=+9m9s398ms ago
+  Uid u0a112:
+    Package com.android.inputmethod.latin:
+      READ_CONTACTS: mode=0; time=+781d21h40m22s67ms ago
+      READ_EXTERNAL_STORAGE: mode=0; time=+9m9s394ms ago
+      WRITE_EXTERNAL_STORAGE: mode=0; time=+9m9s394ms ago
+      GET_ACCOUNTS: mode=0; time=+781d21h40m22s89ms ago
+      BOOT_COMPLETED: mode=1; time=+9m9s395ms ago
+  Uid u0a113:
+    Package com.letv.leui.widget.leclipboardapp:
+      READ_EXTERNAL_STORAGE: mode=0; time=+9m21s67ms ago
+      WRITE_EXTERNAL_STORAGE: mode=0; time=+9m21s67ms ago
+  Uid u0a114:
+    Package com.letv.android.bugreporter:
+      READ_EXTERNAL_STORAGE: mode=0; time=+9m3s305ms ago
+      WRITE_EXTERNAL_STORAGE: mode=0; time=+9m3s305ms ago
+      BOOT_COMPLETED: mode=1; time=+9m9s253ms ago
+  Uid u0a116:
+    Package com.letv.android.mobileactivation:
+      READ_EXTERNAL_STORAGE: mode=0; time=+3m57s867ms ago
+      WRITE_EXTERNAL_STORAGE: mode=0; time=+3m57s867ms ago
+      BOOT_COMPLETED: mode=1; time=+9m9s148ms ago
+  Uid u0a117:
+    Package com.baidu.BaiduMap:
+      COARSE_LOCATION: mode=0
+  Uid u0a118:
+    Package com.letv.bbs:
+      VIBRATE: mode=0; time=+3h32m12s354ms ago; duration=+355ms
+      POST_NOTIFICATION: mode=0; time=+3h32m12s714ms ago
+      WRITE_SMS: mode=1; rejectTime=+3h32m13s361ms ago
+      READ_EXTERNAL_STORAGE: mode=0; time=+3h32m12s756ms ago
+      WRITE_EXTERNAL_STORAGE: mode=0; time=+3h32m12s756ms ago
+  Uid u0a120:
+    Package com.sina.weibo:
+      CAMERA: mode=0
+      RECORD_AUDIO: mode=0
+  Uid u0a124:
+    Package com.wandoujia.phoenix2.usbproxy:
+      READ_CONTACTS: mode=0; time=+9h2m1s780ms ago
+      POST_NOTIFICATION: mode=0; time=+59m27s478ms ago
+      READ_SMS: mode=0; time=+3m44s580ms ago
+      OP_READ_PHONE_STATE: mode=0; time=+45m25s242ms ago
+      READ_EXTERNAL_STORAGE: mode=0; time=+3m44s614ms ago
+      WRITE_EXTERNAL_STORAGE: mode=0; time=+3m44s614ms ago
+      GET_ACCOUNTS: mode=0; time=+10h0m30s518ms ago
+      READ_MMS: mode=0; time=+3m44s580ms ago
+  Uid u0a125:
+    Package com.wandoujia.phoenix2:
+      COARSE_LOCATION: mode=0
+      FINE_LOCATION: mode=0; time=+10h0m35s855ms ago
+      POST_NOTIFICATION: mode=1; rejectTime=+10h0m25s304ms ago
+      WRITE_SETTINGS: mode=3; rejectTime=+10h0m35s554ms ago
+      OP_READ_PHONE_STATE: mode=0; time=+9h58m35s2ms ago
+      READ_EXTERNAL_STORAGE: mode=0; time=+10h0m22s525ms ago
+      WRITE_EXTERNAL_STORAGE: mode=0; time=+10h0m22s525ms ago
+      GET_ACCOUNTS: mode=0; time=+10h0m33s22ms ago
+      BOOT_COMPLETED: mode=1; rejectTime=+9m7s924ms ago
+  Uid u0a128:
+    Package com.wukongtv.wkremote.client:
+      VIBRATE: mode=0; time=+10h41m17s4ms ago; duration=+47ms
+      POST_NOTIFICATION: mode=0; time=+2h49m39s954ms ago
+      WRITE_SETTINGS: mode=3; rejectTime=+3h27m22s790ms ago
+      READ_CLIPBOARD: mode=0; time=+3d3h30m25s890ms ago
+      TOAST_WINDOW: mode=0; time=+2h49m37s393ms ago; duration=+2s545ms
+      OP_READ_PHONE_STATE: mode=0; time=+2h45m15s196ms ago
+      READ_EXTERNAL_STORAGE: mode=0; time=+2h50m14s412ms ago
+      WRITE_EXTERNAL_STORAGE: mode=0; time=+2h50m15s879ms ago
+  Uid u0a129:
+    Package com.tencent.mtt:
+      COARSE_LOCATION: mode=0; time=+2d23h10m53s426ms ago
+      FINE_LOCATION: mode=0; time=+2d23h10m38s553ms ago
+      WIFI_SCAN: mode=0; time=+2d23h10m38s553ms ago
+      POST_NOTIFICATION: mode=0; time=+2d23h11m10s33ms ago
+      WRITE_SETTINGS: mode=3; rejectTime=+13d3h39m54s336ms ago
+      READ_CLIPBOARD: mode=0; time=+3d0h29m19s52ms ago
+      TOAST_WINDOW: mode=0; time=+13d3h34m25s108ms ago; duration=+8s58ms
+      READ_EXTERNAL_STORAGE: mode=0; time=+3d0h24m33s800ms ago
+      WRITE_EXTERNAL_STORAGE: mode=0; time=+3d0h24m33s800ms ago
+      BOOT_COMPLETED: mode=1; rejectTime=+9m8s917ms ago
+  Uid u0a130:
+    Package com.pplive.androidxl:
+      OP_READ_PHONE_STATE: mode=0; time=+13d2h27m0s971ms ago
+      READ_EXTERNAL_STORAGE: mode=0; time=+13d2h28m4s423ms ago
+      WRITE_EXTERNAL_STORAGE: mode=0; time=+13d2h28m4s423ms ago
+  Uid u0a143:
+    Package com.example.demo2:
+      POST_NOTIFICATION: mode=0; time=+7d0h9m24s662ms ago
+      TOAST_WINDOW: mode=0; time=+7d0h9m22s81ms ago; duration=+2s567ms
+      READ_EXTERNAL_STORAGE: mode=0; time=+7d0h9m26s33ms ago
+      WRITE_EXTERNAL_STORAGE: mode=0; time=+7d0h9m26s33ms ago
+  Uid u0a145:
+    Package com.example.demo1:
+      POST_NOTIFICATION: mode=0; time=+7d0h9m20s274ms ago
+      TOAST_WINDOW: mode=0; time=+7d0h9m17s658ms ago; duration=+2s600ms
+      READ_EXTERNAL_STORAGE: mode=0; time=+21s274ms ago
+      WRITE_EXTERNAL_STORAGE: mode=0; time=+21s274ms ago
+  Uid u0a146:
+    Package com.wukongtv.wkhelper:
+      POST_NOTIFICATION: mode=0; time=+3h20m0s538ms ago
+      TOAST_WINDOW: mode=0; time=+4d10h10m58s138ms ago; duration=+4s26ms
+      OP_READ_PHONE_STATE: mode=0; time=+3h15m1s286ms ago
+      READ_EXTERNAL_STORAGE: mode=0; time=+3h20m1s153ms ago
+      WRITE_EXTERNAL_STORAGE: mode=0; time=+3h20m1s153ms ago
+      BOOT_COMPLETED: mode=1; rejectTime=+9m13s483ms ago
+  Uid u0a147:
+    Package com.dailyupfitness.up:
+      POST_NOTIFICATION: mode=0; time=+37m21s629ms ago
+      TOAST_WINDOW: mode=0; time=+37m19s62ms ago; duration=+2s561ms
+      READ_EXTERNAL_STORAGE: mode=0; time=+48m54s120ms ago
+      WRITE_EXTERNAL_STORAGE: mode=0; time=+48m54s120ms ago
+  Uid u0a148:
+    Package com.smzdm.client.android:
+      WRITE_SMS: mode=1; rejectTime=+3d1h30m57s303ms ago
+      WRITE_SETTINGS: mode=3; rejectTime=+3d1h30m52s262ms ago
+      READ_CLIPBOARD: mode=0; time=+2d23h28m27s261ms ago
+      WAKE_LOCK: mode=0; time=+2d23h51m15s155ms ago; duration=+1ms
+      TOAST_WINDOW: mode=0; time=+2d23h28m19s329ms ago; duration=+3s91ms
+      OP_READ_PHONE_STATE: mode=0; time=+2d23h28m22s210ms ago
+      READ_EXTERNAL_STORAGE: mode=0; time=+2d23h51m4s502ms ago
+      WRITE_EXTERNAL_STORAGE: mode=0; time=+2d23h51m4s502ms ago
+      BOOT_COMPLETED: mode=1; rejectTime=+9m7s923ms ago
+  Uid u0a149:
+    Package com.tencent.mm:
+      COARSE_LOCATION: mode=0; time=+2d22h53m35s988ms ago
+      FINE_LOCATION: mode=0; time=+2d22h53m36s17ms ago
+      GPS: mode=0; time=+3d3h41m55s862ms ago; duration=+1s0ms
+      VIBRATE: mode=0; time=+3d1h22m12s946ms ago; duration=+1s9ms
+      WIFI_SCAN: mode=0; time=+2d22h53m36s17ms ago
+      POST_NOTIFICATION: mode=0; time=+8m28s777ms ago
+      NEIGHBORING_CELLS: mode=0; time=+2d22h53m35s988ms ago
+      WRITE_SMS: mode=1; rejectTime=+10h42m44s642ms ago
+      WRITE_SETTINGS: mode=3; rejectTime=+3d7h33m18s264ms ago
+      CAMERA: mode=0
+      RECORD_AUDIO: mode=0
+      READ_CLIPBOARD: mode=0; time=+3d0h31m42s662ms ago
+      TAKE_AUDIO_FOCUS: mode=0; time=+3d1h27m47s246ms ago
+      AUDIO_MEDIA_VOLUME: mode=0; time=+3d1h27m55s620ms ago
+      WAKE_LOCK: mode=0; time=+8m22s463ms ago; duration=+206ms
+      MONITOR_LOCATION: mode=0; time=+3d3h41m56s278ms ago; duration=+584ms
+      MONITOR_HIGH_POWER_LOCATION: mode=0; time=+3d3h41m56s278ms ago; duration=+584ms
+      TOAST_WINDOW: mode=0; time=+2d23h10m21s992ms ago; duration=+7s556ms
+      OP_READ_PHONE_STATE: mode=0; time=+8m56s186ms ago
+      READ_EXTERNAL_STORAGE: mode=0; time=+8m29s146ms ago
+      WRITE_EXTERNAL_STORAGE: mode=0; time=+8m29s146ms ago
+      BOOT_COMPLETED: mode=0; time=+9m8s57ms ago
+  Uid u0a150:
+    Package com.ss.android.article.news:
+      POST_NOTIFICATION: mode=0; time=+3d4h7m57s435ms ago
+      WRITE_SMS: mode=1; rejectTime=+3d4h7m57s419ms ago
+      TAKE_AUDIO_FOCUS: mode=0; time=+3d8h25m9s175ms ago
+      TOAST_WINDOW: mode=0; time=+3d6h3m46s240ms ago; duration=+2s562ms
+      OP_READ_PHONE_STATE: mode=0; time=+3d4h7m57s414ms ago
+      READ_EXTERNAL_STORAGE: mode=0; time=+3d4h7m57s474ms ago
+      WRITE_EXTERNAL_STORAGE: mode=0; time=+3d4h7m57s474ms ago
+      BOOT_COMPLETED: mode=1; rejectTime=+9m7s922ms ago

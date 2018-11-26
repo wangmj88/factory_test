@@ -1,0 +1,143 @@
+<html>
+<head>
+  <title>f00326.html</title>
+  <link rel="stylesheet" type="text/css" href="themes/blue/style.css"/>
+  <link rel="stylesheet" type="text/css" href="jquery.treeTable.css"/>
+  <link rel="stylesheet" type="text/css" href="jquery.ui.css"/>
+  <link rel="stylesheet" type="text/css" href="style.css"/>
+  <script type="text/javascript" src="jquery.js"></script>
+  <script type="text/javascript" src="jquery.cookie.js"></script>
+  <script type="text/javascript" src="jquery.hotkeys.js"></script>
+  <script type="text/javascript" src="jquery.jstree.js"></script>
+  <script type="text/javascript" src="jquery.tablesorter.js"></script>
+  <script type="text/javascript" src="jquery.tablednd.js"></script>
+  <script type="text/javascript" src="jquery.treeTable.js"></script>
+  <script type="text/javascript" src="jquery.flot.js"></script>
+  <script type="text/javascript" src="jquery.flot.navigate.js"></script>
+  <script type="text/javascript" src="jquery.flot.selection.js"></script>
+  <script type="text/javascript" src="jquery.ui.js"></script>
+  <script type="text/javascript" src="colResizable-1.3.source.js"></script>
+  <script type="text/javascript" src="/self$wsjs"></script>
+  <script type="text/javascript" src="main.js"></script>
+</head>
+<body>
+<a name="ch0"></a><div class="btn-pop-out"><a href="f00326.html#ch0" target="_blank"><img src="ic_pop_out.png"/></a></div><h1>Battery level - interactive chart</h1>
+<h1>!!! UNDER CONSTRUCTION !!!</h1>
+<button id="zoomOutBtn">Zoom out</button>
+<div id="chart" style="width: 800px; height: 400px;"></div>
+<div id="chart3" style="width: 800px; height: 25px;"></div>
+<script type="text/javascript">
+$(function(){
+function fixSize(plot,canvas,expW) {
+  canvas.width(canvas.width() + expW - plot.width());
+  plot.resize();
+  plot.setupGrid();
+  plot.draw();
+}
+function onZoomSelection(event, ranges) {
+  plot = $.plot(chart, data,
+                $.extend(true, {}, options, {
+                    xaxis: { min: ranges.xaxis.from, max: ranges.xaxis.to }
+                 }));
+  plot3 = $.plot(chart3, data3,
+                $.extend(true, {}, options3, {
+                    xaxis: { min: ranges.xaxis.from, max: ranges.xaxis.to }
+                 }));
+}
+function onZoomOut(e) {
+  e.preventDefault();
+  plot = $.plot(chart, data, options);
+  plot3 = $.plot(chart3, data3, options3);
+}
+$("#zoomOutBtn").click(onZoomOut);
+var data = [
+  {
+  label: "Battery level (%)",
+  yaxis: 1,
+  data: [
+
+    [7162505284,33], [7162619073,32], [7162774218,33]]
+  },
+  {
+  label: "Battery voltage (mV)",
+  yaxis: 2,
+  data: [
+
+    [7162505284,3732], [7162619073,3726], [7162774218,3727]]
+  },
+  {
+  label: "Battery temperature (C*10)",
+  yaxis: 3,
+  data: [
+
+    [7162505284,390], [7162619073,380], [7162774218,380]]
+  },
+];
+var chart = $("#chart");
+var options = {
+  selection: { mode: 'x' },
+  legend: { position: 'nw', margin: [ -200, 0 ], }, 
+  yaxes: [
+  {
+    labelWidth: 200,
+  },
+  {
+    position: 'right',
+  },
+  {
+    position: 'right',
+  },
+  ],
+  xaxis: {
+    mode: "time",
+    min: 7162490610,
+    max: 7163054593,
+  },
+  grid: {
+    hoverable: true,
+    clickable: true,
+  }
+};
+chart.bind("plotselected", onZoomSelection);
+chart.bind("plothover", function(event,pos,item) { flotHover(plot,event,pos,item); });
+var plot = $.plot(chart, data, options);
+fixSize(plot, chart, 800);
+var data3 = [
+  {
+  label: "screen",
+  lines: { show: true, fill: true },
+  data: [
+]
+  },
+];
+var chart3 = $("#chart3");
+var options3 = {
+  selection: { mode: 'x' },
+  legend: { position: 'nw', margin: [ -200, 0 ], }, 
+  yaxis: {
+    labelWidth: 200,
+    ticks: [ ],
+  },
+  xaxis: {
+    show: false,
+    min: 7162490610,
+    max: 7163054593,
+  },
+  grid: {
+    markings: [
+      { xaxis: { from: 7162509528, to: 7162509528}, color: "#80ff80"}, 
+      { xaxis: { from: 7162509528, to: 7162523175}, color: "#ffff80"}, 
+      { xaxis: { from: 7162523175, to: 7162772154}, color: "#80ff80"}, 
+      { xaxis: { from: 7162772154, to: 7162776895}, color: "#ffff80"}, 
+      { xaxis: { from: 7162776895, to: 7162776895}, color: "#ff8080"}, 
+      { xaxis: { from: 7162776895, to: 7163054593}, color: "#ff8080"}, 
+    ],
+  }
+};
+chart3.bind("plotselected", onZoomSelection);
+var plot3 = $.plot(chart3, data3, options3);
+fixSize(plot3, chart3, 800);
+});
+</script>
+</body>
+</html>

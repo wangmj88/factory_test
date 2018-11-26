@@ -1,0 +1,17 @@
+    DisplayContentsAnimator #0:
+      Window #0: WindowStateAnimator{94c4bbd com.android.systemui.ImageWallpaper}
+      Window #1: WindowStateAnimator{5be05b2 com.android.systemui.ImageWallpaper}
+      Window #2: WindowStateAnimator{150d903 com.android.launcher3/com.android.launcher3.Launcher}
+      Window #3: WindowStateAnimator{1f378f1 com.example.demo1/com.example.plokmju.testmutilecompile.MainActivity}
+      Window #4: WindowStateAnimator{cdd8080 KeyguardScrim}
+      Window #5: WindowStateAnimator{a76e6b9 StatusBar}
+      Window #6: WindowStateAnimator{b02cafe ControlCenter}
+      Window #7: WindowStateAnimator{87e025f Heads Up}
+      Window #8: WindowStateAnimator{6da24ac AntiInadvertently}
+      no ScreenRotationAnimation 
+
+
+    mAnimTransactionSequence=1000 mForceHiding=KEYGUARD_NOT_SHOWN
+    mCurrentTime=429475 (32478 ms ago)
+    mBulkUpdateParams=0x8 ORIENTATION_CHANGE_COMPLETE
+
